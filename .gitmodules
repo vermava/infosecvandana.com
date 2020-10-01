@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = ssh://github.com/vermava/infosecvandana.com.git
+	branch = gh-pages
