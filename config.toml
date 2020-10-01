@@ -1,0 +1,102 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Vandana Verma"
+
+theme = "personal-web"
+copyright="© Vandana Verma"
+
+[params.intro]
+  main = "Vandana Verma"
+  sub = "Security Leader"
+
+[params.main]
+  latestPublishHeader = "My Project"
+
+[params]
+  breadcrumb = false
+  accentColor = "#FD3519"
+  mainSections = ['post'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "404 not found"
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = '/images/background_blue.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/vandana_headshot.jpeg" # - default "/images/edna-west.jpg"
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  github = "https://github.com/vermava"
+  twitter = "https://twitter.com/infosecvandana"
+  linkedin = "https://www.linkedin.com/in/vandana-verma"
+  youtube = "https://www.youtube.com/channel/UCyr-gas4Un-3YBEDIUQtNjg"
+
+[params.contact]
+  email = ""
+  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "talks"
+  name = "Conference Talks"
+  title = "Blog section"
+  url = "/talks/"
+  weight = -100
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Post"
+  title = "Blog section"
+  url = "/post/"
+  weight = -90
+
+[[menu.main]]
+  identifier = "trainings"
+  name = "Trainings"
+  title = "Trainings section"
+  url = "/trainings/"
+  weight = -80
+
+[[menu.main]]
+  identifier = "mentions"
+  name = "Mentions"
+  title = "mention section"
+  url = "/mentions/"
+  weight = -70
+
+[[menu.main]]
+  identifier = "paneldiscussion"
+  name = "Panel Discussion"
+  title = "Panel Discussion"
+  url = "/paneldiscussion/"
+  weight = -60
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+
