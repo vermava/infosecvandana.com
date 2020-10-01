@@ -2,6 +2,7 @@
 title: "Running an AppSec Program with Open Source (OWASP) Projects"
 date: 2020-08-14
 draft: false
+Video: https://www.youtube.com/embed/cD3-1rb_HNM
 ---
 
 We are all heading towards modernisation of applications. However, we still see the vulnerabilities like SQL Injection, Sensitive data exposure, and security misconfiguration etc. When the loopholes  in applications (such as legacy, desktop, web, mobile, micro services) are exploited, it can give malicious actors access to the organisation's data. 
@@ -14,8 +15,8 @@ OWASP has many projects which can be tied seamlessly into the application develo
 
 Here is the AppSec Framework which I have created and which might help you in setting up the program or picking up the open source tools.
 
-![runningappsecprogram](/images/appsecprogram.jpeg)
-
 I have given the talk at Defcon - AppSec Village. Here is the video of the talk covering the AppSec Framework
+
+![runningappsecprogram](/images/appsecprogram.jpeg)
 
 The slides associated with the video are here.

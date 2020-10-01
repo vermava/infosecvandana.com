@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://infosecvandana.com/"
 languageCode = "en-us"
 title = "Vandana Verma"
 
@@ -88,15 +88,3 @@ copyright="© Vandana Verma"
   changefreq = "monthly"
   filename = "sitemap.xml"
   priority = 0.5
-
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = true
-    respectDoNotTrack = true
-    useSessionStorage = false
-  [privacy.twitter]
-    disable = false
-    enableDNT = true
-    simple = false
-
