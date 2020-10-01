@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mentions on Vandana Verma</title>
-    <link>http://example.org/mentions/</link>
+    <link>http://infosecvandana.com/mentions/</link>
     <description>Recent content in Mentions on Vandana Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Fri, 25 Sep 2020 18:25:16 +0530</lastBuildDate><atom:link href="http://example.org/mentions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2020 18:25:16 +0530</lastBuildDate><atom:link href="http://infosecvandana.com/mentions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TimesofIndia</title>
-      <link>http://example.org/mentions/timesofindia/</link>
+      <link>http://infosecvandana.com/mentions/timesofindia/</link>
       <pubDate>Fri, 25 Sep 2020 18:25:16 +0530</pubDate>
       
-      <guid>http://example.org/mentions/timesofindia/</guid>
+      <guid>http://infosecvandana.com/mentions/timesofindia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PortSwigger</title>
-      <link>http://example.org/mentions/portswigger/</link>
+      <link>http://infosecvandana.com/mentions/portswigger/</link>
       <pubDate>Fri, 25 Sep 2020 18:23:04 +0530</pubDate>
       
-      <guid>http://example.org/mentions/portswigger/</guid>
+      <guid>http://infosecvandana.com/mentions/portswigger/</guid>
       <description></description>
     </item>
     

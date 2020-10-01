@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BLOG POSTS on Vandana Verma</title>
-    <link>http://example.org/post/</link>
+    <link>http://infosecvandana.com/post/</link>
     <description>Recent content in BLOG POSTS on Vandana Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://infosecvandana.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Running an AppSec Program with Open Source (OWASP) Projects</title>
-      <link>http://example.org/post/runningappsecprogram/</link>
+      <link>http://infosecvandana.com/post/runningappsecprogram/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/runningappsecprogram/</guid>
+      <guid>http://infosecvandana.com/post/runningappsecprogram/</guid>
       <description>We are all heading towards modernisation of applications. However, we still see the vulnerabilities like SQL Injection, Sensitive data exposure, and security misconfiguration etc. When the loopholes in applications (such as legacy, desktop, web, mobile, micro services) are exploited, it can give malicious actors access to the organisation&amp;rsquo;s data.
 This is a fact that Breaches will happen and security flaws will exist, however what we can do is minimise the chances.</description>
     </item>
     
     <item>
       <title>Zero Trust:Trust no one, Verify everyone</title>
-      <link>http://example.org/post/zerotrust/</link>
+      <link>http://infosecvandana.com/post/zerotrust/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/zerotrust/</guid>
+      <guid>http://infosecvandana.com/post/zerotrust/</guid>
       <description>Cloud Migration is the next big thing. Everyone wants to be in the cloud, but what about security and compliance standards? How do organizations manage both safety and security in the “Cloud Era”? Cloud deployments render the concept that everyone inside of a corporate network should be trusted null and void. Essentially, when it comes to the cloud, everyone is a tenant on a big server farm full of tenants. Thus, the only way forward is the Zero-Trust Model.</description>
     </item>
     
     <item>
       <title>Security Approaches Post Lockdown</title>
-      <link>http://example.org/post/securityapproachespostlockdown/</link>
+      <link>http://infosecvandana.com/post/securityapproachespostlockdown/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/securityapproachespostlockdown/</guid>
+      <guid>http://infosecvandana.com/post/securityapproachespostlockdown/</guid>
       <description>It will not be easy to go out even when the lockdown period is over. The way this pandemic is evolving, will take us far away from what we consider normal, and that is for a while. In such a scenario, how shall we be resuming the day to day operations post lockdown? The role of the security team is now more important than ever because of the pandemic and remote work models, the perimeter of the organization has been modified drastically.</description>
     </item>
     
     <item>
       <title>Un-desireable. Un-imaginable. Un-thinkable. We still have the capacity to out beat the threats to your privacy.</title>
-      <link>http://example.org/post/threatstoprivacy/</link>
+      <link>http://infosecvandana.com/post/threatstoprivacy/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/threatstoprivacy/</guid>
+      <guid>http://infosecvandana.com/post/threatstoprivacy/</guid>
       <description>The time is challenging. No one ever believed that a pandemic would leave us stranded. We will be home for such a long time even though some of us always wanted to work from home but never this way. Most of the organisations are trying to keep the spirits of the employees high and making sure they are safe from the critical situation outside. For many companies especially start ups who didn&amp;rsquo;t have the infrastructure and facilities for the employees and were surviving just on the need base.</description>
     </item>
     
     <item>
       <title>My Manifestation of InfoSec Speaking</title>
-      <link>http://example.org/post/manifestationofinfosecspeaking/</link>
+      <link>http://infosecvandana.com/post/manifestationofinfosecspeaking/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/manifestationofinfosecspeaking/</guid>
+      <guid>http://infosecvandana.com/post/manifestationofinfosecspeaking/</guid>
       <description>Speaking at any Conference is a savoir faire itself. Most often I am asked when and how to start the Infosec speaking journey. My answer to them is fundamental: there is no juncture pre-defined for it. There is no age or qualification criteria to speak at any conference.
 I started my journey by speaking at the local meets. Local meets gave me the platform to share my knowledge with a wider audience.</description>
     </item>
