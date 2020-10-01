@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trainings on Vandana Verma</title>
-    <link>http://infosecvandana.com/trainings/</link>
+    <link>https://infosecvandana.com/trainings/</link>
     <description>Recent content in Trainings on Vandana Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://infosecvandana.com/trainings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/trainings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OWASP Seasides 2020</title>
-      <link>http://infosecvandana.com/trainings/owaspseasides/</link>
+      <link>https://infosecvandana.com/trainings/owaspseasides/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/trainings/owaspseasides/</guid>
+      <guid>https://infosecvandana.com/trainings/owaspseasides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AppSec California 2020</title>
-      <link>http://infosecvandana.com/trainings/appsec_cali/</link>
+      <link>https://infosecvandana.com/trainings/appsec_cali/</link>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/trainings/appsec_cali/</guid>
+      <guid>https://infosecvandana.com/trainings/appsec_cali/</guid>
       <description>Reference Link: Appsec Cali</description>
     </item>
     

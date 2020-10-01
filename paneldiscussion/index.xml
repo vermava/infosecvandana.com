@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Panel Discussions on Vandana Verma</title>
-    <link>http://infosecvandana.com/paneldiscussion/</link>
+    <link>https://infosecvandana.com/paneldiscussion/</link>
     <description>Recent content in Panel Discussions on Vandana Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Thu, 01 Oct 2020 02:40:50 +0530</lastBuildDate><atom:link href="http://infosecvandana.com/paneldiscussion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Oct 2020 02:40:50 +0530</lastBuildDate><atom:link href="https://infosecvandana.com/paneldiscussion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Appseccali</title>
-      <link>http://infosecvandana.com/paneldiscussion/appseccali/</link>
+      <link>https://infosecvandana.com/paneldiscussion/appseccali/</link>
       <pubDate>Thu, 01 Oct 2020 02:40:50 +0530</pubDate>
       
-      <guid>http://infosecvandana.com/paneldiscussion/appseccali/</guid>
+      <guid>https://infosecvandana.com/paneldiscussion/appseccali/</guid>
       <description></description>
     </item>
     

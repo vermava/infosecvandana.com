@@ -2,146 +2,146 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vandana Verma</title>
-    <link>http://infosecvandana.com/</link>
+    <link>https://infosecvandana.com/</link>
     <description>Recent content on Vandana Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Thu, 01 Oct 2020 02:40:50 +0530</lastBuildDate><atom:link href="http://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Oct 2020 02:40:50 +0530</lastBuildDate><atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Appseccali</title>
-      <link>http://infosecvandana.com/paneldiscussion/appseccali/</link>
+      <link>https://infosecvandana.com/paneldiscussion/appseccali/</link>
       <pubDate>Thu, 01 Oct 2020 02:40:50 +0530</pubDate>
       
-      <guid>http://infosecvandana.com/paneldiscussion/appseccali/</guid>
+      <guid>https://infosecvandana.com/paneldiscussion/appseccali/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TimesofIndia</title>
-      <link>http://infosecvandana.com/mentions/timesofindia/</link>
+      <link>https://infosecvandana.com/mentions/timesofindia/</link>
       <pubDate>Fri, 25 Sep 2020 18:25:16 +0530</pubDate>
       
-      <guid>http://infosecvandana.com/mentions/timesofindia/</guid>
+      <guid>https://infosecvandana.com/mentions/timesofindia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PortSwigger</title>
-      <link>http://infosecvandana.com/mentions/portswigger/</link>
+      <link>https://infosecvandana.com/mentions/portswigger/</link>
       <pubDate>Fri, 25 Sep 2020 18:23:04 +0530</pubDate>
       
-      <guid>http://infosecvandana.com/mentions/portswigger/</guid>
+      <guid>https://infosecvandana.com/mentions/portswigger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Running an AppSec Program with Open Source (OWASP) Projects</title>
-      <link>http://infosecvandana.com/post/runningappsecprogram/</link>
+      <link>https://infosecvandana.com/post/runningappsecprogram/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/post/runningappsecprogram/</guid>
+      <guid>https://infosecvandana.com/post/runningappsecprogram/</guid>
       <description>We are all heading towards modernisation of applications. However, we still see the vulnerabilities like SQL Injection, Sensitive data exposure, and security misconfiguration etc. When the loopholes in applications (such as legacy, desktop, web, mobile, micro services) are exploited, it can give malicious actors access to the organisation&amp;rsquo;s data.
 This is a fact that Breaches will happen and security flaws will exist, however what we can do is minimise the chances.</description>
     </item>
     
     <item>
       <title>Black Hat USA 2020</title>
-      <link>http://infosecvandana.com/talks/blackhatusa2020/</link>
+      <link>https://infosecvandana.com/talks/blackhatusa2020/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/talks/blackhatusa2020/</guid>
+      <guid>https://infosecvandana.com/talks/blackhatusa2020/</guid>
       <description>Reference Link: Black Hat USA</description>
     </item>
     
     <item>
       <title>CII Karnataka Cybersecurity Digital Conference 2020</title>
-      <link>http://infosecvandana.com/talks/ciikarnataka/</link>
+      <link>https://infosecvandana.com/talks/ciikarnataka/</link>
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/talks/ciikarnataka/</guid>
+      <guid>https://infosecvandana.com/talks/ciikarnataka/</guid>
       <description>Panel discussion on Ethics and Privacy</description>
     </item>
     
     <item>
       <title>Zero Trust:Trust no one, Verify everyone</title>
-      <link>http://infosecvandana.com/post/zerotrust/</link>
+      <link>https://infosecvandana.com/post/zerotrust/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/post/zerotrust/</guid>
+      <guid>https://infosecvandana.com/post/zerotrust/</guid>
       <description>Cloud Migration is the next big thing. Everyone wants to be in the cloud, but what about security and compliance standards? How do organizations manage both safety and security in the “Cloud Era”? Cloud deployments render the concept that everyone inside of a corporate network should be trusted null and void. Essentially, when it comes to the cloud, everyone is a tenant on a big server farm full of tenants. Thus, the only way forward is the Zero-Trust Model.</description>
     </item>
     
     <item>
       <title>CyberDay4Girls 2020</title>
-      <link>http://infosecvandana.com/talks/cyberday_canada/</link>
+      <link>https://infosecvandana.com/talks/cyberday_canada/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/talks/cyberday_canada/</guid>
+      <guid>https://infosecvandana.com/talks/cyberday_canada/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security Approaches Post Lockdown</title>
-      <link>http://infosecvandana.com/post/securityapproachespostlockdown/</link>
+      <link>https://infosecvandana.com/post/securityapproachespostlockdown/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/post/securityapproachespostlockdown/</guid>
+      <guid>https://infosecvandana.com/post/securityapproachespostlockdown/</guid>
       <description>It will not be easy to go out even when the lockdown period is over. The way this pandemic is evolving, will take us far away from what we consider normal, and that is for a while. In such a scenario, how shall we be resuming the day to day operations post lockdown? The role of the security team is now more important than ever because of the pandemic and remote work models, the perimeter of the organization has been modified drastically.</description>
     </item>
     
     <item>
       <title>Un-desireable. Un-imaginable. Un-thinkable. We still have the capacity to out beat the threats to your privacy.</title>
-      <link>http://infosecvandana.com/post/threatstoprivacy/</link>
+      <link>https://infosecvandana.com/post/threatstoprivacy/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/post/threatstoprivacy/</guid>
+      <guid>https://infosecvandana.com/post/threatstoprivacy/</guid>
       <description>The time is challenging. No one ever believed that a pandemic would leave us stranded. We will be home for such a long time even though some of us always wanted to work from home but never this way. Most of the organisations are trying to keep the spirits of the employees high and making sure they are safe from the critical situation outside. For many companies especially start ups who didn&amp;rsquo;t have the infrastructure and facilities for the employees and were surviving just on the need base.</description>
     </item>
     
     <item>
       <title>Sarcon 2020</title>
-      <link>http://infosecvandana.com/talks/sarcon2020/</link>
+      <link>https://infosecvandana.com/talks/sarcon2020/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/talks/sarcon2020/</guid>
+      <guid>https://infosecvandana.com/talks/sarcon2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Manifestation of InfoSec Speaking</title>
-      <link>http://infosecvandana.com/post/manifestationofinfosecspeaking/</link>
+      <link>https://infosecvandana.com/post/manifestationofinfosecspeaking/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/post/manifestationofinfosecspeaking/</guid>
+      <guid>https://infosecvandana.com/post/manifestationofinfosecspeaking/</guid>
       <description>Speaking at any Conference is a savoir faire itself. Most often I am asked when and how to start the Infosec speaking journey. My answer to them is fundamental: there is no juncture pre-defined for it. There is no age or qualification criteria to speak at any conference.
 I started my journey by speaking at the local meets. Local meets gave me the platform to share my knowledge with a wider audience.</description>
     </item>
     
     <item>
       <title>OWASP Seasides 2020</title>
-      <link>http://infosecvandana.com/trainings/owaspseasides/</link>
+      <link>https://infosecvandana.com/trainings/owaspseasides/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/trainings/owaspseasides/</guid>
+      <guid>https://infosecvandana.com/trainings/owaspseasides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AppSec California 2020</title>
-      <link>http://infosecvandana.com/trainings/appsec_cali/</link>
+      <link>https://infosecvandana.com/trainings/appsec_cali/</link>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/trainings/appsec_cali/</guid>
+      <guid>https://infosecvandana.com/trainings/appsec_cali/</guid>
       <description>Reference Link: Appsec Cali</description>
     </item>
     
     <item>
       <title>SACON 2020</title>
-      <link>http://infosecvandana.com/talks/sacon2020/</link>
+      <link>https://infosecvandana.com/talks/sacon2020/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://infosecvandana.com/talks/sacon2020/</guid>
+      <guid>https://infosecvandana.com/talks/sacon2020/</guid>
       <description></description>
     </item>
     
