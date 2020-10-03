@@ -38,6 +38,20 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/awards/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/awards/cybersecawards/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/mentions/judgejury/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -201,12 +215,6 @@
   <url>
     <loc>https://infosecvandana.com/mentions/hackinterview/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/awards/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
