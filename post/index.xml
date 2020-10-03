@@ -9,6 +9,16 @@
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>My Exhilarating InfoSec Journey</title>
+      <link>https://infosecvandana.com/post/my-exhilarting/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/post/my-exhilarting/</guid>
+      <description>Being an information security evangelist, I have been preaching and practicing security for more than a decade. Security is my bread and butter and I love it! I started with consulting roles, where I would use my skills to suggest solutions and improvements. Later, I transitioned to internal security teams which gave me a clear and concise perspective on how organizations manage security risk.
+In my opinion, the Information Security Expert can be anyone who has a curiosity towards aspects of technology.</description>
+    </item>
+    
+    <item>
       <title>Running an AppSec Program with Open Source (OWASP) Projects</title>
       <link>https://infosecvandana.com/post/runningappsecprogram/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>

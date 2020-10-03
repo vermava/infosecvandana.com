@@ -18,21 +18,23 @@
     </item>
     
     <item>
-      <title>TimesofIndia</title>
-      <link>https://infosecvandana.com/mentions/timesofindia/</link>
-      <pubDate>Fri, 25 Sep 2020 18:25:16 +0530</pubDate>
+      <title>Cybersecurity Magazine</title>
+      <link>https://infosecvandana.com/mentions/cybersecuritymagazine/</link>
+      <pubDate>Fri, 25 Sep 2020 18:23:04 +0530</pubDate>
       
-      <guid>https://infosecvandana.com/mentions/timesofindia/</guid>
-      <description></description>
+      <guid>https://infosecvandana.com/mentions/cybersecuritymagazine/</guid>
+      <description>Interview with Cybersecurity Magazine
+Reference https://cybersecurity-magazine.com/interview-with-vandana-verma-from-infosec-girls/</description>
     </item>
     
     <item>
-      <title>PortSwigger</title>
-      <link>https://infosecvandana.com/mentions/portswigger/</link>
-      <pubDate>Fri, 25 Sep 2020 18:23:04 +0530</pubDate>
+      <title>My Exhilarating InfoSec Journey</title>
+      <link>https://infosecvandana.com/post/my-exhilarting/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://infosecvandana.com/mentions/portswigger/</guid>
-      <description></description>
+      <guid>https://infosecvandana.com/post/my-exhilarting/</guid>
+      <description>Being an information security evangelist, I have been preaching and practicing security for more than a decade. Security is my bread and butter and I love it! I started with consulting roles, where I would use my skills to suggest solutions and improvements. Later, I transitioned to internal security teams which gave me a clear and concise perspective on how organizations manage security risk.
+In my opinion, the Information Security Expert can be anyone who has a curiosity towards aspects of technology.</description>
     </item>
     
     <item>
@@ -52,6 +54,17 @@ This is a fact that Breaches will happen and security flaws will exist, however 
       
       <guid>https://infosecvandana.com/talks/blackhatusa2020/</guid>
       <description>Reference Link: Black Hat USA</description>
+    </item>
+    
+    <item>
+      <title>PortSwigger</title>
+      <link>https://infosecvandana.com/mentions/portswigger/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/mentions/portswigger/</guid>
+      <description>Interview on improving diversity and helping to grow the Indian security community
+Reference
+https://portswigger.net/daily-swig/infosec-pro-vandana-verma-on-improving-diversity-and-helping-to-grow-the-indian-security-community</description>
     </item>
     
     <item>
@@ -79,6 +92,16 @@ This is a fact that Breaches will happen and security flaws will exist, however 
       
       <guid>https://infosecvandana.com/talks/cyberday_canada/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>TimesofIndia</title>
+      <link>https://infosecvandana.com/mentions/timesofindia/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/mentions/timesofindia/</guid>
+      <description>Reference
+https://timesofindia.indiatimes.com/city/bengaluru/bug-report-the-female-hackers-keeping-your-work-from-home-systems-safe/articleshow/75968618.cms</description>
     </item>
     
     <item>

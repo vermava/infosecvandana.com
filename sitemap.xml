@@ -24,21 +24,14 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/mentions/cybersecuritymagazine/</loc>
+    <lastmod>2020-09-25T18:23:04+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/mentions/</loc>
-    <lastmod>2020-09-25T18:25:16+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/mentions/timesofindia/</loc>
-    <lastmod>2020-09-25T18:25:16+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/mentions/portswigger/</loc>
     <lastmod>2020-09-25T18:23:04+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -46,6 +39,13 @@
   
   <url>
     <loc>https://infosecvandana.com/post/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/post/my-exhilarting/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -73,6 +73,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/mentions/portswigger/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/talks/ciikarnataka/</loc>
     <lastmod>2020-06-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -89,6 +96,13 @@
   <url>
     <loc>https://infosecvandana.com/talks/cyberday_canada/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/mentions/timesofindia/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

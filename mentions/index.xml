@@ -7,23 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Fri, 25 Sep 2020 18:25:16 +0530</lastBuildDate><atom:link href="https://infosecvandana.com/mentions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2020 18:23:04 +0530</lastBuildDate><atom:link href="https://infosecvandana.com/mentions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TimesofIndia</title>
-      <link>https://infosecvandana.com/mentions/timesofindia/</link>
-      <pubDate>Fri, 25 Sep 2020 18:25:16 +0530</pubDate>
+      <title>Cybersecurity Magazine</title>
+      <link>https://infosecvandana.com/mentions/cybersecuritymagazine/</link>
+      <pubDate>Fri, 25 Sep 2020 18:23:04 +0530</pubDate>
       
-      <guid>https://infosecvandana.com/mentions/timesofindia/</guid>
-      <description></description>
+      <guid>https://infosecvandana.com/mentions/cybersecuritymagazine/</guid>
+      <description>Interview with Cybersecurity Magazine
+Reference https://cybersecurity-magazine.com/interview-with-vandana-verma-from-infosec-girls/</description>
     </item>
     
     <item>
       <title>PortSwigger</title>
       <link>https://infosecvandana.com/mentions/portswigger/</link>
-      <pubDate>Fri, 25 Sep 2020 18:23:04 +0530</pubDate>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/mentions/portswigger/</guid>
-      <description></description>
+      <description>Interview on improving diversity and helping to grow the Indian security community
+Reference
+https://portswigger.net/daily-swig/infosec-pro-vandana-verma-on-improving-diversity-and-helping-to-grow-the-indian-security-community</description>
+    </item>
+    
+    <item>
+      <title>TimesofIndia</title>
+      <link>https://infosecvandana.com/mentions/timesofindia/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/mentions/timesofindia/</guid>
+      <description>Reference
+https://timesofindia.indiatimes.com/city/bengaluru/bug-report-the-female-hackers-keeping-your-work-from-home-systems-safe/articleshow/75968618.cms</description>
     </item>
     
   </channel>
