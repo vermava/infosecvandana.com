@@ -66,13 +66,6 @@
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/awards/womancyberjutsu/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://infosecvandana.com/mentions/judgejury/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -229,6 +222,13 @@
   <url>
     <loc>https://infosecvandana.com/mentions/itsp/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/awards/womancyberjutsu/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
