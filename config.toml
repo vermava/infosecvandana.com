@@ -78,11 +78,18 @@ copyright="© Vandana Verma"
   weight = -70
 
 [[menu.main]]
+  identifier = "awards"
+  name = "awards"
+  title = "awards"
+  url = "/awards/"
+  weight = -60
+
+[[menu.main]]
   identifier = "paneldiscussion"
   name = "Panel Discussion"
   title = "Panel Discussion"
   url = "/paneldiscussion/"
-  weight = -60
+  weight = -50
 
 [sitemap]
   changefreq = "monthly"
