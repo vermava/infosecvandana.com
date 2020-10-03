@@ -136,6 +136,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/mentions/cisomag/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/trainings/owaspseasides/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
