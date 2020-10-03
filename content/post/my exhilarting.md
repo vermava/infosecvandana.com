@@ -1,6 +1,6 @@
 ---
 title: "My Exhilarating InfoSec Journey"
-date: 2020-08-14
+date: 2020-03-10
 draft: false
 ---
 
@@ -12,6 +12,7 @@ I have donned multiple hats in security, application, audit, threat intel and no
 
 Apart from working at IBM, I lend support to pro-bono organisations and work with multiple open-source security communities like OWASP (Open Web Application Security Project), InfoSec Girls, WoSec, to name a few. I have been leading the efforts for diversity for a while now. It gives me immense satisfaction to see these budding women grow their careers in the security space and have skilled hundreds of security professionals like me. Closer to home at IBM, I am part of Global Women in Security and Excellence committee.
 
+![stem4girls](/images/stem4girls.jpeg)
 
 #IBMSTEM4GIRLS - Teaching Python and Scratch
 
@@ -20,11 +21,13 @@ Security's greatest feature is its community. People are so collaborative and su
 
 And the best part of my job? No day is ever the same. Each day, there is something new to learn. We have to keep up with technologies and understand new attacks and prepare defences for those attacks. Practical exposure to how organizations deal with information security challenges helped me the most in the domain. I foresee a bright future ahead for everyone in this field. There's no better time for women to join us in the security field!
 
-Trained over 200 girls at St. Theresa's College, KeralaNo alt text provided for this image
 
 
+![st.theresa college](/images/st.theresa.png)
 Trained over 200 girls at St. Theresa's College, Kerala
 
+
+![seaside](/images/seaside.jpeg)
 
 Provided training to over 170 students at OWASP Seasides, Goa
 
