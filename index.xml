@@ -84,6 +84,26 @@ This is a fact that Breaches will happen and security flaws will exist, however 
     </item>
     
     <item>
+      <title>Defcon - AppSec Village 2020</title>
+      <link>https://infosecvandana.com/talks/appsecvillage_2020/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/appsecvillage_2020/</guid>
+      <description>Title: Running an appsec program with open source projects
+We are all heading towards the modernization of applications. However, we still see the companies being impacted with the most common website vulnerabilities like SQL Injection, Sensitive data exposure, security misconfiguration, etc. OWASP has many projects which can be tied seamlessly into the application development pipeline structure. However, firstly we don’t know if the projects exist, second, if we know about the projects, we do not know the exact working of the projects.</description>
+    </item>
+    
+    <item>
+      <title>Defcon - Red Team Village 2020</title>
+      <link>https://infosecvandana.com/talks/redteamvillage_2020/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/redteamvillage_2020/</guid>
+      <description>Title: Zero Trust - A Vision for Securing Cloud and Redefining Security
+Reference:- https://redteamvillage.io/day0.html</description>
+    </item>
+    
+    <item>
       <title>Black Hat USA 2020</title>
       <link>https://infosecvandana.com/talks/blackhatusa2020/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
@@ -266,6 +286,16 @@ https://www.itspmagazine.com/itsp-chronicles/an-infosec-life-a-conversation-with
       <description>Cyber Security Woman Supporter of the Year Award 2019 - Woman CyberJutsu, 2019 in &amp;ldquo;Secure Coder&amp;rdquo; Category
 Reference
 https://womenscyberjutsu.org/page/AWARDWinners</description>
+    </item>
+    
+    <item>
+      <title>Defcon - AppSec Village 2019</title>
+      <link>https://infosecvandana.com/talks/appsecvillage_2019/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/appsecvillage_2019/</guid>
+      <description>Title: Shifting the DevSecOps Culture, Taking away the sugar piece and giving the pile to ants
+We have been talking about the technical angle of DevSecOps. How do I go about building the DevSecOps culture in the organisation? So far Generally corporates are trying to have all three Plays and teams Dev, Sec and Ops team together. However, the Ideal DevSecOps idea is each individual should know what is happening in the whole process.</description>
     </item>
     
     <item>

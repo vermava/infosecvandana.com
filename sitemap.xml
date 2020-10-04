@@ -87,14 +87,28 @@
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/talks/blackhatusa2020/</loc>
-    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+    <loc>https://infosecvandana.com/talks/</loc>
+    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/talks/</loc>
+    <loc>https://infosecvandana.com/talks/appsecvillage_2020/</loc>
+    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/talks/redteamvillage_2020/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/talks/blackhatusa2020/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -229,6 +243,13 @@
   <url>
     <loc>https://infosecvandana.com/rewards/womancyberjutsu/</loc>
     <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/talks/appsecvillage_2019/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
