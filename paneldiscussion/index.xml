@@ -7,14 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Thu, 01 Oct 2020 02:40:50 +0530</lastBuildDate><atom:link href="https://infosecvandana.com/paneldiscussion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/paneldiscussion/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Appseccali</title>
+      <title>Appsec California 2020</title>
       <link>https://infosecvandana.com/paneldiscussion/appseccali/</link>
-      <pubDate>Thu, 01 Oct 2020 02:40:50 +0530</pubDate>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/paneldiscussion/appseccali/</guid>
-      <description></description>
+      <description>Diversity Panel at AppSec California (https://appseccalifornia2020.sched.com/event/XLtw/diversity-by-design-securing-the-cyber-workforce-development-lifecycle)
+Panel discussion on the importance of diversity and inclusion in information security, as well as shared experiences and best practices around building diversity and inclusion into the constantly evolving cybersecurity ecosystem.
+Topics covered will include the following:
+  Professional learning (from both the educator and learning perspectives)
+  The importance of diversity on an AppSec team or organization
+  How executives and managers can best incorporate diversity and initiatives within their organization</description>
     </item>
     
   </channel>
