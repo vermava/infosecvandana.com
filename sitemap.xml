@@ -164,6 +164,20 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/paneldiscussion/how-to-start-a-career-in-appsec/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/paneldiscussion/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/post/manifestationofinfosecspeaking/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -214,13 +228,6 @@
   
   <url>
     <loc>https://infosecvandana.com/paneldiscussion/appseccali/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/paneldiscussion/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
