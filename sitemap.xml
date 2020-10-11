@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://infosecvandana.com/post/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/post/owstg/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/mentions/cybersecuritymagazine/</loc>
     <lastmod>2020-09-25T18:23:04+05:30</lastmod>
     <changefreq>monthly</changefreq>
@@ -11,13 +32,6 @@
   
   <url>
     <loc>https://infosecvandana.com/mentions/</loc>
-    <lastmod>2020-09-25T18:23:04+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/</loc>
     <lastmod>2020-09-25T18:23:04+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -54,13 +68,6 @@
   <url>
     <loc>https://infosecvandana.com/mentions/judgejury/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/post/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

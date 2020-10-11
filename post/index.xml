@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
+      <link>https://infosecvandana.com/post/owstg/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/post/owstg/</guid>
+      <description>OWASP has so many amazing and great projects which can help organisations, developers, security testers and many more groups. However, working with OWASP projects very closely in the past few years, I have realised people do not know about a lot of projects or even have no clue if they exist.
+So, here I am writing the part series on OWASP Projects with a video describing about the project. This is the first blog as part of the OWASP Project Series talking about OWASP Web Security Testing Guide (OWSTG).</description>
+    </item>
+    
     <item>
       <title>Running an AppSec Program with Open Source (OWASP) Projects</title>
       <link>https://infosecvandana.com/post/runningappsecprogram/</link>
