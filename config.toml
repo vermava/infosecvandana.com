@@ -78,10 +78,10 @@ copyright="© Vandana Verma"
   weight = -70
 
 [[menu.main]]
-  identifier = "awards"
-  name = "awards"
-  title = "awards"
-  url = "/awards/"
+  identifier = "Rewards & Recognition"
+  name = "Rewards & Recognition"
+  title = "Rewards & Recognition"
+  url = "/rewards/"
   weight = -60
 
 [[menu.main]]
@@ -95,3 +95,8 @@ copyright="© Vandana Verma"
   changefreq = "monthly"
   filename = "sitemap.xml"
   priority = 0.5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
