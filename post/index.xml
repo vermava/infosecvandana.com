@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Integration Reciepe : IBM IGI with IBM Security Verify </title>
+      <link>https://infosecvandana.com/post/recipeigiverify/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/post/recipeigiverify/</guid>
+      <description>Recently I have been experimenting with various IBM product integrations and I posted a reciepe in IBM Community portal for integration of IBM IGI with IBM Security Verify.
+This recipe talks about the ideal set of steps that someone has to take to connect the two applications.
+Here is a direct link to the article.
+Recipe for IBM Security Verify Governance (IGI) and IBM Security Verify for Workforce IAM Integration</description>
+    </item>
+    
     <item>
       <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
       <link>https://infosecvandana.com/post/owstg/</link>

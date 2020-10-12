@@ -4,20 +4,27 @@
   
   <url>
     <loc>https://infosecvandana.com/post/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/owstg/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <loc>https://infosecvandana.com/post/recipeigiverify/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://infosecvandana.com/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/post/owstg/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
