@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP Spotlight - Project 2 - OWASP Dependency Check</title>
+      <link>https://infosecvandana.com/post/dependencycheck/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/post/dependencycheck/</guid>
+      <description>OWASP has so many amazing and great projects which can help organisations, developers, security testers and many more groups. However, working with OWASP projects very closely in the past few years, I have realised people do not know about a lot of projects or even have no clue if they exist.
+So, here I am writing the part series on OWASP Projects with a video describing about the project. This is the second blog as part of the OWASP Spotlight Series talking about OWASP Dependency Check.</description>
+    </item>
+    
     <item>
       <title>Integration Reciepe : IBM IGI with IBM Security Verify </title>
       <link>https://infosecvandana.com/post/recipe_igiverify/</link>
