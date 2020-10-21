@@ -2,7 +2,6 @@
 title: "OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide"
 date: 2020-10-10
 draft: false
-featureimage: /images/owstg.png
 ---
 
 OWASP has so many amazing and great projects which can help organisations, developers, security testers and many more groups. However, working with OWASP projects very closely in the past few years, I have realised people do not know about a lot of projects or even have no clue if they exist.
