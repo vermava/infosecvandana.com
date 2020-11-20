@@ -82,6 +82,13 @@ copyright="© Vandana Verma"
   name = "Rewards & Recognition"
   title = "Rewards & Recognition"
   url = "/rewards/"
+  weight = -40
+
+[[menu.main]]
+  identifier = "Webinars&podcasts"
+  name = "Webinars&podcasts"
+  title = "Webinars & Podcasts"
+  url = "/Webinars/"
   weight = -60
 
 [[menu.main]]
