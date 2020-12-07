@@ -9,6 +9,16 @@
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OWASP Spotlight - Project 6 -  PyTM </title>
+      <link>https://infosecvandana.com/post/spotlight6/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/post/spotlight6/</guid>
+      <description>We are back again with another oversaw spotlight series project, and this time we have a very interesting project, which is around Threat Modeling.
+Fixing the bugs later in the stage can cost huge money. Now, when we all started talking about DevOps or DevSecOps, So it&amp;rsquo;s imperative that we bring in the Threat Model in #cloud, which is automated which have which have less of work for us, especially for testers for developers for anyone, Who is a part of the application development lifecycle and even for architects.</description>
+    </item>
+    
+    <item>
       <title>OWASP Spotlight - Project 7 -  Security Knowledge Framework </title>
       <link>https://infosecvandana.com/post/spotlight7/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
@@ -106,15 +116,6 @@ I started my journey by speaking at the local meets. Local meets gave me the pla
       <guid>https://infosecvandana.com/post/my-exhilarting/</guid>
       <description>Being an information security evangelist, I have been preaching and practicing security for more than a decade. Security is my bread and butter and I love it! I started with consulting roles, where I would use my skills to suggest solutions and improvements. Later, I transitioned to internal security teams which gave me a clear and concise perspective on how organizations manage security risk.
 In my opinion, the Information Security Expert can be anyone who has a curiosity towards aspects of technology.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://infosecvandana.com/post/spotlight6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/post/spotlight6/</guid>
-      <description></description>
     </item>
     
   </channel>

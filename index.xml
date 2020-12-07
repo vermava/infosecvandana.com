@@ -9,6 +9,16 @@
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OWASP Spotlight - Project 6 -  PyTM </title>
+      <link>https://infosecvandana.com/post/spotlight6/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/post/spotlight6/</guid>
+      <description>We are back again with another oversaw spotlight series project, and this time we have a very interesting project, which is around Threat Modeling.
+Fixing the bugs later in the stage can cost huge money. Now, when we all started talking about DevOps or DevSecOps, So it&amp;rsquo;s imperative that we bring in the Threat Model in #cloud, which is automated which have which have less of work for us, especially for testers for developers for anyone, Who is a part of the application development lifecycle and even for architects.</description>
+    </item>
+    
+    <item>
       <title>OWASP Spotlight - Project 7 -  Security Knowledge Framework </title>
       <link>https://infosecvandana.com/post/spotlight7/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
@@ -384,15 +394,6 @@ We have been talking about the technical angle of DevSecOps. How do I go about b
       <description>HackInterview with Vandana — document your learning in the form of blogs
 Reference
 https://medium.com/bugbountywriteup/hackinterview-with-vandana-document-your-learning-in-the-form-of-blogs-3b265ec03be1</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://infosecvandana.com/post/spotlight6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/post/spotlight6/</guid>
-      <description></description>
     </item>
     
   </channel>
