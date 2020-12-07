@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP Security Knowledge Framework </title>
+      <link>https://infosecvandana.com/post/spotlight7/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/post/spotlight7/</guid>
+      <description>Hi Everyone.
+We are back again with another spotlight series project and today we have OWASP Security Knowledge Framework (SKF) with us. I feel that this is one project, which is so much relevant and this is required in any organization for training the developers, security researchers, for getting the requirements and whatnot.
+The security framework wants to help developers &amp;amp; empower them, to be able to give them the right awareness and knowledge to build secure applications by design.</description>
+    </item>
+    
     <item>
       <title>Times Techies Webinars</title>
       <link>https://infosecvandana.com/webinars/timestechies/</link>
