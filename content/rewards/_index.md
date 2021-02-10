@@ -1,4 +1,4 @@
 ---
-title: Rewards & Recognition
-description: 'Rewards & Recognition'
+title: Awards
+description: 'Awards'
 ---

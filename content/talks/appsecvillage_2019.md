@@ -1,5 +1,5 @@
 ---
-title: "Defcon - AppSec Village 2019"
+title: "Shifting the DevSecOps Culture, Taking away the sugar piece and giving the pile to ants : Defcon - AppSec Village 2019"
 date: 2019-08-11
 draft: false
 ---
