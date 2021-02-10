@@ -2,7 +2,6 @@
 title: "OWASP Spotlight - Project 2 - OWASP Dependency Check"
 date: 2020-10-21
 draft: false
-featureimage: /images/dependencycheck.png
 ---
 
 OWASP has so many amazing and great projects which can help organisations, developers, security testers and many more groups. However, working with OWASP projects very closely in the past few years, I have realised people do not know about a lot of projects or even have no clue if they exist.
