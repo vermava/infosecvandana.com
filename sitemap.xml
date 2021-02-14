@@ -24,6 +24,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/paneldiscussion/techjs_summit/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/awards/appsecinfluencer/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -145,6 +152,13 @@
   <url>
     <loc>https://infosecvandana.com/mentions/judgejury/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/paneldiscussion/malaysian_panel/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
