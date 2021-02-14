@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://infosecvandana.com/awards/appsecinfluencer/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/awards/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/post/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -11,13 +32,6 @@
   
   <url>
     <loc>https://infosecvandana.com/post/spotlight7/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -47,13 +61,6 @@
   <url>
     <loc>https://infosecvandana.com/post/spotlight5/</loc>
     <lastmod>2020-11-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/awards/</loc>
-    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
