@@ -1,7 +1,7 @@
 ---
 title: "Finalists for women of influence, 2020 - EWF "
 date: 2020-09-10
-draft: false
+draft: true
 ---
 
 The Executive Women's Forum Finalists for the Women of Influence Awards
