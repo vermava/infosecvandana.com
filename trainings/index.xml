@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/trainings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/trainings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global AppSec 2020 </title>
+      <link>https://infosecvandana.com/trainings/globalappsecsf/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/trainings/globalappsecsf/</guid>
+      <description>This Training is intended for students/professionals interested in making a career in the Information Security domain. This training involves real world scenarios that every Security Professional must be well versed with. It involves decompiling, real-time analyzing and testing of the applications from security standpoint.
+Reference https://events.bizzabo.com/OWASPGlobalAppSec/agenda/session/325430</description>
+    </item>
+    
     <item>
       <title>OWASP Seasides 2020</title>
       <link>https://infosecvandana.com/trainings/owaspseasides/</link>
