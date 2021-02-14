@@ -5,4 +5,3 @@ draft: false
 ---
 
 ![OWASP Seasides](/images/owaspseasides.jpg)
-
