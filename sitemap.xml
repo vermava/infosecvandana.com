@@ -52,6 +52,20 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/awards/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/awards/scmedia/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/post/dependencycheck/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -82,13 +96,6 @@
   <url>
     <loc>https://infosecvandana.com/mentions/</loc>
     <lastmod>2020-09-25T18:23:04+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/awards/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
