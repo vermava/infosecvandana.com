@@ -3,6 +3,7 @@
 title: "Panel on Application Security Testing"
 date: 2021-01-28
 draft: false
+featureimage: /images/techjssummit_1.png
 ---
 
 Panel discussion - Application Security Testing
@@ -33,6 +34,6 @@ Vandana Verma Sehgal
 
 * How this can be achieved moving forward in an agile / DevOps world
 
-![Tech JS Summit 1](/images/techjssummit_1)
+![Tech JS Summit 1](/images/techjssummit_1.png)
 
-![Tech JS Summit 1](/images/techjssummit_2)
+![Tech JS Summit 2](/images/techjssummit_2.jpeg)

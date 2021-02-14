@@ -2,7 +2,6 @@
 title: "National Cybersecurity Strategy - Indo-Pacific Series - Episode 2"
 date: 2020-08-25
 draft: false
-Video: https://www.youtube.com/embed/gtYP5P6Rx9w
 ---
  
 Indo-Pacific Series - reviewing the Australian Cyber Security Strategy and making Women in Security announcements
