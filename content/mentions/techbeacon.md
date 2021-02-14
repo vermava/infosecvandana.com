@@ -2,6 +2,7 @@
 title: "INSPIRE 20 Leadership Podcast"
 date: 2021-01-25
 draft: false
+featureimage: images/techbeacon.png
 ---
 
 INSPIRE 20 Podcast: Vandana Verma Sehgal, Infosec Girls
