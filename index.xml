@@ -509,6 +509,17 @@ We have been talking about the technical angle of DevSecOps. How do I go about b
     </item>
     
     <item>
+      <title>Global AppSec Tel Aviv 2019 </title>
+      <link>https://infosecvandana.com/trainings/globalappsectelaviv/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/trainings/globalappsectelaviv/</guid>
+      <description>Workshop details :
+This was a 1-day training course. The Application Security Training is intended for students/professionals interested in making a career in the Information Security domain. This training involved real-world scenarios that every Security Professional must be well versed with. It involved decompiling, real-time analyzing and testing of the applications from a security standpoint.
+The training covered understanding the internals of web and mobile applications, Real-time testing of web applications and android applications and a strategic approach to analyze applications for OWASP Top 10 vulnerabilities (Web) security issues such as Injections, Cross-Site Scripting (XSS), CSRF Attacks, Insecure API’s, Insecure logging, Insecure communication, Insufficient cryptography, Insecure authentication and Poor code quality and many more.</description>
+    </item>
+    
+    <item>
       <title>HackInterview with Vandana</title>
       <link>https://infosecvandana.com/mentions/hackinterview/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
