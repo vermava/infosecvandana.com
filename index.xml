@@ -425,6 +425,15 @@ Reference https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in
     </item>
     
     <item>
+      <title>OWASP Seasides 2019</title>
+      <link>https://infosecvandana.com/trainings/owaspseasides2019/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/trainings/owaspseasides2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>OWASP Seasides 2020</title>
       <link>https://infosecvandana.com/trainings/owaspseasides/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
@@ -506,6 +515,16 @@ We have been talking about the technical angle of DevSecOps. How do I go about b
       <description>HackInterview with Vandana — document your learning in the form of blogs
 Reference
 https://medium.com/bugbountywriteup/hackinterview-with-vandana-document-your-learning-in-the-form-of-blogs-3b265ec03be1</description>
+    </item>
+    
+    <item>
+      <title>AppSec California 2019</title>
+      <link>https://infosecvandana.com/trainings/appsec_cali2019/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/trainings/appsec_cali2019/</guid>
+      <description>Web Application Penetration Testing: An Introductory Workshop For Developers and Security Professionals At All Levels
+In this completely hands-on workshop, you will get to understand the techniques and methodologies that could be applied when performing a web application penetration testing. Throughout this workshop, you will use the Burp Suite tool, which is a conglomerate of distinct tools with powerful features. Apart from gaining familiarity with the tools and the techniques involved in application security testing, you will also get an opportunity to understand some of the common vulnerabilities from the OWASP Top 10 list.</description>
     </item>
     
     <item>

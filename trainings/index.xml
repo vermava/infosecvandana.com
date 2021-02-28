@@ -19,6 +19,15 @@ Reference https://events.bizzabo.com/OWASPGlobalAppSec/agenda/session/325430</de
     </item>
     
     <item>
+      <title>OWASP Seasides 2019</title>
+      <link>https://infosecvandana.com/trainings/owaspseasides2019/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/trainings/owaspseasides2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>OWASP Seasides 2020</title>
       <link>https://infosecvandana.com/trainings/owaspseasides/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
@@ -34,6 +43,16 @@ Reference https://events.bizzabo.com/OWASPGlobalAppSec/agenda/session/325430</de
       
       <guid>https://infosecvandana.com/trainings/appsec_cali/</guid>
       <description>Reference Link: Appsec Cali</description>
+    </item>
+    
+    <item>
+      <title>AppSec California 2019</title>
+      <link>https://infosecvandana.com/trainings/appsec_cali2019/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/trainings/appsec_cali2019/</guid>
+      <description>Web Application Penetration Testing: An Introductory Workshop For Developers and Security Professionals At All Levels
+In this completely hands-on workshop, you will get to understand the techniques and methodologies that could be applied when performing a web application penetration testing. Throughout this workshop, you will use the Burp Suite tool, which is a conglomerate of distinct tools with powerful features. Apart from gaining familiarity with the tools and the techniques involved in application security testing, you will also get an opportunity to understand some of the common vulnerabilities from the OWASP Top 10 list.</description>
     </item>
     
     <item>
