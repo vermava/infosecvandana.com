@@ -98,6 +98,13 @@ copyright="© Vandana Verma"
   url = "/paneldiscussion/"
   weight = -50
 
+[[menu.main]]
+  identifier = "advisoryboard"
+  name = "Advisory Board"
+  title = "Advisory Board"
+  url = "/advisoryboard/"
+  weight = -40
+
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
