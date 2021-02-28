@@ -177,7 +177,8 @@ So, here I am writing the part series on OWASP Projects with a video describing 
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/trainings/globalappsecsf/</guid>
-      <description>This Training is intended for students/professionals interested in making a career in the Information Security domain. This training involves real world scenarios that every Security Professional must be well versed with. It involves decompiling, real-time analyzing and testing of the applications from security standpoint.
+      <description>About the Training
+This Training is intended for students/professionals interested in making a career in the Information Security domain. This training involves real world scenarios that every Security Professional must be well versed with. It involves decompiling, real-time analyzing and testing of the applications from security standpoint.
 Reference https://events.bizzabo.com/OWASPGlobalAppSec/agenda/session/325430</description>
     </item>
     
@@ -476,6 +477,16 @@ Topics covered will include the following:
       
       <guid>https://infosecvandana.com/talks/sacon2020/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop on Web Application Security at c0c0n 2019 </title>
+      <link>https://infosecvandana.com/trainings/cocon2019/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/trainings/cocon2019/</guid>
+      <description>On 26th September, 2019 infosecgirls organised a one day cyber security conference in collaboration with c0c0n12 hosted by Kerala Police and ISRA on 26th September. The conference was taken place at St. Teresa’s College with 200 Registered participants. The purpose of the conference was to create awareness about cyber security issues in young women population.
+Welcome note was given by Ms. Dhanya , HOD IT, St.theresas College which was followed by Presidential Address by Sr.</description>
     </item>
     
     <item>
