@@ -2,6 +2,7 @@
 title: "AppSec California 2020"
 date: 2020-01-23
 draft: false
+featureimage: /images/appseccali2020.JPG
 ---
 
 

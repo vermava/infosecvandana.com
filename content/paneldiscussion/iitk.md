@@ -2,6 +2,7 @@
 title: "Discussion on Cyberthreats and Darkweb scare"
 date: 2021-01-16
 draft: false
+featureimage: /images/iitk_1.jpeg
 ---
 
 Alumni Association of IIT Kanpur Delhi Chapter cordially invites you all to benefit from the Webinar on Cyberthreats and Darkweb scare while working from home on Saturday 16th Jan 2021 from 5.30 PM to 6.30 PM.
