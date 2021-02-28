@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security Testing Workshop 2021 for CSQA</title>
+      <link>https://infosecvandana.com/trainings/securitytestingqa/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/trainings/securitytestingqa/</guid>
+      <description>About the Workshop
+Showcasing Security Testing essentials, OWASP Project, different tools and approaches for Security Testing.
+Attendees will learn:
+ What is Application security Testing and its importance OWASP Security Testing Projects, tools and approaches How to start with Security Testing  Reference Link: https://www.townscript.com/e/csqa-security-test-workshop
+Video</description>
+    </item>
+    
     <item>
       <title>Global Roundtable hosted by the ISRM Women in Security Sisterhood group.</title>
       <link>https://infosecvandana.com/paneldiscussion/isrm/</link>
