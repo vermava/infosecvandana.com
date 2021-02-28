@@ -508,5 +508,16 @@ Reference
 https://medium.com/bugbountywriteup/hackinterview-with-vandana-document-your-learning-in-the-form-of-blogs-3b265ec03be1</description>
     </item>
     
+    <item>
+      <title>Nullcon 2018</title>
+      <link>https://infosecvandana.com/trainings/nullcon/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/trainings/nullcon/</guid>
+      <description>This Training is intended for Women Infosec professionals interested in making a career in the Information Security domain. This training involves real world scenarios that every Security Professional must be well versed with. It involves decompiling, real-time analyzing and testing of the applications from security standpoint.
+Workshop by OWASP (Limited Seats).
+Reference https://nullcon.net/website/goa-2018/schedule.php#conferenceDay1</description>
+    </item>
+    
   </channel>
 </rss>
