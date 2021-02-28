@@ -425,21 +425,12 @@ Reference https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in
     </item>
     
     <item>
-      <title>OWASP Seasides 2019</title>
-      <link>https://infosecvandana.com/trainings/owaspseasides2019/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/trainings/owaspseasides2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>OWASP Seasides 2020</title>
       <link>https://infosecvandana.com/trainings/owaspseasides/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/trainings/owaspseasides/</guid>
-      <description></description>
+      <description>Reference Link: https://2019.owaspseasides.com/events/penetration-testing-workshop</description>
     </item>
     
     <item>
@@ -515,6 +506,16 @@ We have been talking about the technical angle of DevSecOps. How do I go about b
       <description>HackInterview with Vandana — document your learning in the form of blogs
 Reference
 https://medium.com/bugbountywriteup/hackinterview-with-vandana-document-your-learning-in-the-form-of-blogs-3b265ec03be1</description>
+    </item>
+    
+    <item>
+      <title>OWASP Seasides 2019</title>
+      <link>https://infosecvandana.com/trainings/owaspseasides2019/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/trainings/owaspseasides2019/</guid>
+      <description>About the Training
+In this completely hands-on workshop, you would get to understand the techniques and methodologies that could be applied when performing a web application penetration testing. Throughout this workshop, you would be using Burp Suite tool + OWASP ZAP, which is a conglomerate of distinct tools with powerful features. Apart from gaining familiarity with the tools and the techniques involved in application security testing, you would also get an opportunity to understand some of the common vulnerabilities from the OWASP Top 10 – 2017 list.</description>
     </item>
     
     <item>
