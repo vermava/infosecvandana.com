@@ -94,21 +94,21 @@
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/</loc>
+    <loc>https://infosecvandana.com/posts/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/spotlight7/</loc>
+    <loc>https://infosecvandana.com/posts/spotlight7/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/spotlight6/</loc>
+    <loc>https://infosecvandana.com/posts/spotlight6/</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -136,7 +136,7 @@
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/spotlight5/</loc>
+    <loc>https://infosecvandana.com/posts/spotlight5/</loc>
     <lastmod>2020-11-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -157,7 +157,7 @@
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/dependencycheck/</loc>
+    <loc>https://infosecvandana.com/posts/dependencycheck/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -171,14 +171,14 @@
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/recipe_igiverify/</loc>
+    <loc>https://infosecvandana.com/posts/recipe_igiverify/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/owstg/</loc>
+    <loc>https://infosecvandana.com/posts/owstg/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -220,7 +220,7 @@
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/runningappsecprogram/</loc>
+    <loc>https://infosecvandana.com/posts/runningappsecprogram/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -269,7 +269,7 @@
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/zerotrust/</loc>
+    <loc>https://infosecvandana.com/posts/zerotrust/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -290,14 +290,14 @@
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/securityapproachespostlockdown/</loc>
+    <loc>https://infosecvandana.com/posts/securityapproachespostlockdown/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/threatstoprivacy/</loc>
+    <loc>https://infosecvandana.com/posts/threatstoprivacy/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -325,14 +325,14 @@
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/manifestationofinfosecspeaking/</loc>
+    <loc>https://infosecvandana.com/posts/manifestationofinfosecspeaking/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/post/my-exhilarting/</loc>
+    <loc>https://infosecvandana.com/posts/my-exhilarting/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -465,6 +465,12 @@
   
   <url>
     <loc>https://infosecvandana.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/podcast/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
