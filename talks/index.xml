@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grace Hopper Celebration 2021 - India</title>
+      <link>https://infosecvandana.com/talks/ghci2021/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/ghci2021/</guid>
+      <description>Fri Feb 26, 11:00 AM - 11:45 AM GMT +5.5 (45 Min)
+[Track : Security &amp;amp; Privacy]
+Title : Redefining Trust in Security
+If you ask a security expert on “how to protect their network” they would mostly say “firewalls&#39;&#39;. It may not be enough for today’s environment. The landscape has significantly changed due to the perimeters having disappeared; people can login remotely, cloud has stepped in; everyone is a tenant on a shared server, digital transformation.</description>
+    </item>
+    
     <item>
       <title>Black Hat Asia 2020</title>
       <link>https://infosecvandana.com/talks/blackhatasia/</link>
