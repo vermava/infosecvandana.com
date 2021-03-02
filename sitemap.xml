@@ -59,6 +59,20 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/advisoryboard/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/advisoryboard/siberx/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/paneldiscussion/isrm/</loc>
     <lastmod>2021-02-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -474,12 +488,6 @@
   <url>
     <loc>https://infosecvandana.com/trainings/nullcon/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/advisoryboard/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -6,6 +6,17 @@
     <description>Recent content in Advisory Board on Vandana Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Vandana Verma</copyright><atom:link href="https://infosecvandana.com/advisoryboard/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Vandana Verma</copyright>
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/advisoryboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond Borders Advisory Board Member - SiberX</title>
+      <link>https://infosecvandana.com/advisoryboard/siberx/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/advisoryboard/siberx/</guid>
+      <description>Reference link:
+https://www.siberx.org/event/women-in-cybersecurity-beyond-borders/</description>
+    </item>
+    
   </channel>
 </rss>
