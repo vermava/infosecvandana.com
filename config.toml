@@ -71,10 +71,10 @@ copyright="© Vandana Verma"
   weight = -80
 
 [[menu.main]]
-  identifier = "mentions"
-  name = "Mentions"
-  title = "mention section"
-  url = "/mentions/"
+  identifier = "featured"
+  name = "Featured"
+  title = "featured section"
+  url = "/featured/"
   weight = -70
 
 [[menu.main]]
