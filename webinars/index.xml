@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Webinars &amp; Podcasts on Vandana Verma</title>
+    <title>Webinars on Vandana Verma</title>
     <link>https://infosecvandana.com/webinars/</link>
-    <description>Recent content in Webinars &amp; Podcasts on Vandana Verma</description>
+    <description>Recent content in Webinars on Vandana Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
@@ -17,6 +17,15 @@
       <description>Session on Embedding AI/ML with Cyber Security with Sabudh Foundation for BML Munjal University (BMU), Haryana
 Vandana speaks on 20th February at 11a.m. on &amp;ldquo;Embedding AI/ML with Cyber Security&amp;rdquo;. To attend, register at:
  </description>
+    </item>
+    
+    <item>
+      <title>Student Session: Social Media safety</title>
+      <link>https://infosecvandana.com/webinars/ignite/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/webinars/ignite/</guid>
+      <description>This International Day of Women and Girls in Science. I got an opportunity to train over 200 college girls around Social Media safety along with the IGNITE Worldwide.</description>
     </item>
     
     <item>
