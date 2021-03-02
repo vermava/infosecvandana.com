@@ -1,0 +1,28 @@
+{{ partial "header" .}}
+
+  <h1 id="title"> {{ .Title }}</h1>
+  {{ .Content }}
+
+  <div class="post-list">
+    {{ range .Pages.ByPublishDate.Reverse }}
+   
+    <div class="post-container" style="width: 350px;height: 280px; float: left; padding: 8px; margin: 10px;">
+      <center>
+      {{ if .Params.featureimage }}
+      <img src="{{ .Params.featureimage }}" style="max-width: 250px;max-height: 250px;"> </img>  
+      {{ end }}
+      <h4 style="margin: 0px">
+          <a href="{{.Permalink}}">{{ .Title }}</a>
+        </h4>
+      </center>  
+      </div>
+    {{ end }}
+  </div>
+
+  <div style="Clear: both;">
+
+&nbsp;
+
+  </div>
+
+{{ partial "footer" .}}

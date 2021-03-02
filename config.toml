@@ -58,7 +58,7 @@ copyright="© Vandana Verma"
 
 [[menu.main]]
   identifier = "blog"
-  name = "Post"
+  name = "Posts"
   title = "Blog section"
   url = "/post/"
   weight = -90
@@ -85,9 +85,9 @@ copyright="© Vandana Verma"
   weight = -40
 
 [[menu.main]]
-  identifier = "Webinars&podcasts"
-  name = "Webinars&podcasts"
-  title = "Webinars & Podcasts"
+  identifier = "Webinars"
+  name = "Webinars"
+  title = "Webinars"
   url = "/Webinars/"
   weight = -60
 
@@ -104,6 +104,13 @@ copyright="© Vandana Verma"
   title = "Advisory Board"
   url = "/advisoryboard/"
   weight = -40
+
+[[menu.main]]
+  identifier = "Podcasts"
+  name = "Podcasts"
+  title = "Podcasts"
+  url = "/Podcasts/"
+  weight = -50
 
 [sitemap]
   changefreq = "monthly"
