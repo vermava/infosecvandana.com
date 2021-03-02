@@ -1,5 +1,5 @@
 ---
-title: "SHe CISO IWD 2020 Webinar with Vandana Verma"
+title: "Zero trust , why and why not? - SHe CISO IWD 2020 Webinar with Vandana Verma"
 date: 2020-03-23
 draft: false
 featureimage: /images/sheciso.jpg

@@ -2,7 +2,7 @@
 title: "AppSec California 2019"
 date: 2019-01-22
 draft: false
-featureimage: /images/appseccali2019.jpeg
+featureimage: /images/appseccali2019_1.jpeg
 ---
 **Web Application Penetration Testing: An Introductory Workshop For Developers and Security Professionals At All Levels**
 
