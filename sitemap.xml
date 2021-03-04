@@ -73,6 +73,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/advisoryboard/eccouncil/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/paneldiscussion/isrm/</loc>
     <lastmod>2021-02-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
