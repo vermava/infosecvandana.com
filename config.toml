@@ -85,10 +85,10 @@ copyright="© Vandana Verma"
   weight = -40
 
 [[menu.main]]
-  identifier = "Webinars"
+  identifier = "webinars"
   name = "Webinars"
-  title = "Webinars"
-  url = "/Webinars/"
+  title = "webinars"
+  url = "/webinars/"
   weight = -60
 
 [[menu.main]]

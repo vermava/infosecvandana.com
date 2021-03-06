@@ -2,7 +2,7 @@
 title: "Student Session: Cyber Ethics and Privacy"
 date: 2021-01-16
 draft: false
-featureimage: /images/dpsbangalore_2.jpeg)
+featureimage: /images/dpsbangalore_2.jpeg
 ---
 
 

@@ -2,7 +2,7 @@
 title: "DevSecOps for RazorPay"
 date: 2020-11-18
 draft: false
-featureimage: /images/timestechies.jpeg
+featureimage: /images/razorpay.jpeg
 ---
 
 Webinar: Cybersecurity Trends & Women in Ethical Hacking | #TimesTechiesWebinars

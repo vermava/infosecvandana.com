@@ -1,9 +1,11 @@
 ---
-title: "Student Session: Bridge the gap between AI/ML and Cyber Security."
+title: "Bridge the gap between AI/ML and Cyber Security"
 date: 2021-02-20
 draft: false
-featureimage: /images/timestechies.jpeg
+featureimage: /images/sabudh.jpeg
+video: https://www.youtube.com/embed/ySYjnc_DfHE
 ---
+Student Session: Bridge the gap between AI/ML and Cyber Security
 
 Session on Embedding AI/ML with Cyber Security with Sabudh Foundation for BML Munjal University (BMU), Haryana
 

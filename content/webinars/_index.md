@@ -1,5 +1,5 @@
 ---
 title: 'Webinars'
-description: 'Webinars'
+description: 'webinars'
 ---
 

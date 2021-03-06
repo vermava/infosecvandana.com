@@ -6,13 +6,20 @@
   <div class="post-list">
     {{ range .Pages.ByPublishDate.Reverse }}
    
-    <div class="post-container">
-        <h4>
-          <a href="{{.Permalink}}">{{ .Title }}</a>
+    <div class="post-container" style="width: 700px;height: 300px; padding: 10px; margin: 10px;">
+      <a href="{{.Permalink}}">
+       <center>
+        {{ if .Params.video }}
+        <iframe width="450" height="250" src="{{ .Params.video }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {{ else if .Params.featureimage }}
+        <img src="{{ .Params.featureimage }}" style="max-width: 350px;max-height: 250px;"> </img>
+        {{ else }}
+        {{ end }}
+        <h4 style="margin: 0px">
+          {{ .Title }}
         </h4>
-        {{ if .Params.featureimage }}
-<img src="{{ .Params.featureimage }}" style="max-width: 250px;max-height: 250px;"> </img>
-{{ end }}
+      </center>
+      </a>  
       </div>
     {{ end }}
   </div>
