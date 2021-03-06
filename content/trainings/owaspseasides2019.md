@@ -2,7 +2,7 @@
 title: "OWASP Seasides 2019"
 date: 2019-02-27
 draft: false
-featureimage: /images/seaside2019.jpeg
+featureimage: /images/seaside2019_1.jpeg
 ---
 
 **About the Training**
@@ -14,3 +14,5 @@ In this completely hands-on workshop, you would get to understand the techniques
 **Reference Link**: https://2019.owaspseasides.com/events/penetration-testing-workshop
 
 ![OWASP Seasides](/images/seaside2019.jpeg)
+
+

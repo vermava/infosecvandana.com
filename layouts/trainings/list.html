@@ -8,12 +8,14 @@
    
     <div class="post-container" style="width: 350px;height: 280px; float: left; padding: 8px; margin: 10px;">
       <center>
+        <a href="{{.Permalink}}">
       {{ if .Params.featureimage }}
       <img src="{{ .Params.featureimage }}" style="max-width: 250px;max-height: 250px;"> </img>  
       {{ end }}
       <h4 style="margin: 0px">
-          <a href="{{.Permalink}}">{{ .Title }}</a>
+          {{ .Title }}
         </h4>
+      </a>
       </center>  
       </div>
     {{ end }}
