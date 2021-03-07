@@ -2,6 +2,7 @@
 title: "OWASP Spotlight - Project 7 -  Security Knowledge Framework "
 date: 2020-12-06
 draft: false
+video: https://www.youtube.com/embed/TFX_ZBy6lNY
 ---
 
 Hi Everyone. 

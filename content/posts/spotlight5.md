@@ -2,6 +2,7 @@
 title: "OWASP Spotlight - Project 5 -  SecurityRAT"
 date: 2020-11-14
 draft: false
+video: https://www.youtube.com/embed/HiaHXtzJ3DE
 ---
 
 Gathering the requirements and tracking them is always a challenge in the application development. The biggest concern area is if the security requirement changes then to track them.

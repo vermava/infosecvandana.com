@@ -7,13 +7,12 @@
     {{ range .Pages.ByPublishDate.Reverse }}
    
     <div class="post-container">
-      {{ if .Params.featureimage }}
-      <img src="{{ .Params.featureimage }}" style="max-width: 250px;max-height: 250px;"> </img>
-      {{ end }}
         <h4>
           <a href="{{.Permalink}}">{{ .Title }}</a>
         </h4>
-       
+        {{ if .Params.featureimage }}
+<img src="{{ .Params.featureimage }}" style="max-width: 250px;max-height: 250px;"> </img>
+{{ end }}
       </div>
     {{ end }}
   </div>

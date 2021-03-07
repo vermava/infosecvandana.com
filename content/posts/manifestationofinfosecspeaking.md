@@ -2,6 +2,7 @@
 title: "My Manifestation of InfoSec Speaking"
 date: 2020-03-17
 draft: false
+featureimage: /images/manifestationofspeaking.png
 ---
 
 

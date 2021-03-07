@@ -2,6 +2,7 @@
 title: "Security Approaches Post Lockdown"
 date: 2020-05-14
 draft: false
+featureimage: /images/lockdown.jpeg
 ---
 
 It will not be easy to go out even when the lockdown period is over. The way this pandemic is evolving, will take us far away from what we consider normal, and that is for a while. In such a scenario, how shall we be resuming the day to day operations post lockdown? The role of the security team is now more important than ever because of the pandemic and remote work models, the perimeter of the organization has been modified drastically. Cyber attacks are on the rise, the need to manage many more devices, applications, etc. InfoSec is more important than ever. Most of the companies were able to pull off the remote working with all the struggle with technologies involved. In such a case what a CISO can do by keeping in mind how strategically breaking down the whole organisation infrastructure to cater to remote working conditions, categorizing and prioritizing things. Also looking at where the attacks could come from (having a clear threat model) and measure everything

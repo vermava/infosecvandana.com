@@ -3,6 +3,7 @@ title: "Times Techies Webinars"
 date: 2020-11-18
 draft: false
 featureimage: /images/timestechies.jpg
+video: https://www.youtube.com/embed/BgRmWXiHTrk
 ---
 
 Webinar: Cybersecurity Trends & Women in Ethical Hacking | #TimesTechiesWebinars

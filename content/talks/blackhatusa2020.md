@@ -2,6 +2,7 @@
 title: "Black Hat USA 2020"
 date: 2020-08-06
 draft: false
+video: https://www.youtube.com/embed/YlDZOFH6lCs
 ---
 
 ![blackhat2020](/images/blackhat.png)
@@ -13,7 +14,7 @@ draft: false
 
 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YlDZOFH6lCs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

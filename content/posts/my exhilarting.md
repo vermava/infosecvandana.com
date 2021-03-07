@@ -2,6 +2,7 @@
 title: "My Exhilarating InfoSec Journey"
 date: 2020-03-10
 draft: false
+featureimage: /images/stem4girls.jpeg
 ---
 
 Being an information security evangelist, I have been preaching and practicing security for more than a decade. Security is my bread and butter and I love it! I started with consulting roles, where I would use my skills to suggest solutions and improvements. Later, I transitioned to internal security teams which gave me a clear and concise perspective on how organizations manage security risk.

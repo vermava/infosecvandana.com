@@ -2,6 +2,7 @@
 title: "Un-desireable. Un-imaginable. Un-thinkable. We still have the capacity to out beat the threats to your privacy."
 date: 2020-05-01
 draft: false
+featureimage: /images/undesirable.png
 ---
 
 The time is challenging. No one ever believed that a pandemic would leave us stranded. We will be home for such a long time even though some of us always wanted to work from home but never this way. Most of the organisations are trying to keep the spirits of the employees high and making sure they are safe from the critical situation outside. For many companies especially start ups who didn't have the infrastructure and facilities for the employees and were surviving just on the need base. 

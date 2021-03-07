@@ -2,6 +2,7 @@
 title: "Integration Reciepe : IBM IGI with IBM Security Verify "
 date: 2020-10-11
 draft: false
+featureimage: /images/Architectureigiverify.png
 ---
 
 
