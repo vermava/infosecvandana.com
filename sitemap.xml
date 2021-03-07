@@ -283,6 +283,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/paneldiscussion/emergingtipsforwomen/</loc>
+    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/featured/judgejury/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -635,6 +642,13 @@
   <url>
     <loc>https://infosecvandana.com/webinars/owaspottawa/</loc>
     <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/webinars/shesecures/</loc>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
