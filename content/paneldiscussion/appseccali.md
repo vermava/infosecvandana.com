@@ -1,11 +1,15 @@
 ---
-title: "Appsec California 2020"
+title: "Appsec California 2020: Diversity by Design"
 date: 2020-01-23
 draft: false
+video: https://www.youtube.com/embed/hnBcGZCYvm0
 ---
 
 
-Diversity Panel at AppSec California (https://appseccalifornia2020.sched.com/event/XLtw/diversity-by-design-securing-the-cyber-workforce-development-lifecycle)
+**Diversity by Design: Securing the Cyber Workforce Development Lifecycle - Panel**
+
+
+(https://appseccalifornia2020.sched.com/event/XLtw/diversity-by-design-securing-the-cyber-workforce-development-lifecycle)
 
 Panel discussion on the importance of diversity and inclusion in information security, as well as shared experiences and best practices around building diversity and inclusion into the constantly evolving cybersecurity ecosystem.
 
@@ -32,3 +36,5 @@ The selected panelists will include representation from all four groups, referen
 
 
 ![AppSec Cali](/images/appseccali_panel.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hnBcGZCYvm0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
