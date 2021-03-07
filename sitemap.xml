@@ -150,6 +150,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/webinars/owaspny/</loc>
+    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/posts/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -201,6 +208,13 @@
   <url>
     <loc>https://infosecvandana.com/awards/scmedia/</loc>
     <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/talks/rootcon/</loc>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -311,6 +325,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/webinars/nulldoha/</loc>
+    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/featured/portswigger/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -327,6 +348,20 @@
   <url>
     <loc>https://infosecvandana.com/posts/zerotrust/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/talks/opensummit/</loc>
+    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/talks/womentechnet/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -355,6 +390,13 @@
   <url>
     <loc>https://infosecvandana.com/posts/threatstoprivacy/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/webinars/owaspsufflock/</loc>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -451,6 +493,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/talks/appsecdc/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/trainings/appsecdc/</loc>
     <lastmod>2019-09-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -479,8 +528,22 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/talks/devseccon/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/trainings/globalappsectelaviv/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/featured/bugbountyworld/</loc>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -509,6 +572,13 @@
   <url>
     <loc>https://infosecvandana.com/trainings/appsecusa/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/webinars/owaspottawa/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

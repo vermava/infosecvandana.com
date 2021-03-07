@@ -32,6 +32,16 @@ Checkout the conversation: https://bit.ly/2N4V1jV</description>
     </item>
     
     <item>
+      <title>ROOTCON: Zero Trust in the era of cloud</title>
+      <link>https://infosecvandana.com/talks/rootcon/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/rootcon/</guid>
+      <description>Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun
+ </description>
+    </item>
+    
+    <item>
       <title>Black Hat Asia 2020</title>
       <link>https://infosecvandana.com/talks/blackhatasia/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
@@ -66,7 +76,8 @@ Reference:- https://redteamvillage.io/day0.html</description>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/talks/blackhatusa2020/</guid>
-      <description>Reference Link: Black Hat USA</description>
+      <description>Reference Link: Black Hat USA
+ </description>
     </item>
     
     <item>
@@ -76,6 +87,27 @@ Reference:- https://redteamvillage.io/day0.html</description>
       
       <guid>https://infosecvandana.com/talks/ciikarnataka/</guid>
       <description>Panel discussion on Ethics and Privacy</description>
+    </item>
+    
+    <item>
+      <title>Open Security Summit</title>
+      <link>https://infosecvandana.com/talks/opensummit/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/opensummit/</guid>
+      <description>Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun
+ </description>
+    </item>
+    
+    <item>
+      <title> Women Tech Network Global Conference: Implementing Zero Trust in an organisation to be uncertainty Ready </title>
+      <link>https://infosecvandana.com/talks/womentechnet/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/womentechnet/</guid>
+      <description>Session: Implementing Zero Trust in an organisation to be uncertainty Ready
+The Current unprecedented situation has changed the IT World forever, no matter what the outcome is, the conceptual changes in the working styles of people are here to stay. The world will never get back to the plane jane everything works only on this building for most of the work environment.
+Currently most of the firms have scrambled to enable the workforce to work from home with a certain level of security.</description>
     </item>
     
     <item>
@@ -106,6 +138,15 @@ Reference:- https://redteamvillage.io/day0.html</description>
     </item>
     
     <item>
+      <title>Keynote: Diversity And Inclusion - Not Just A Gender Gap - Vandana Verma </title>
+      <link>https://infosecvandana.com/talks/appsecdc/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/appsecdc/</guid>
+      <description>There has been a lot of conversations around diversity and inclusion in the recent past. This is a step in a positive direction. The benefits of diversity in cybersecurity are clear. As an industry, we can do better, we need to do better. We need not only to keep the conversation going but to really place some action behind it. While homogenous teams feel easier to operate in, it can lead to stagnation, or specialisations in some aspects at the expense of others.</description>
+    </item>
+    
+    <item>
       <title>Shifting the DevSecOps Culture, Taking away the sugar piece and giving the pile to ants : Defcon - AppSec Village 2019</title>
       <link>https://infosecvandana.com/talks/appsecvillage_2019/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
@@ -113,6 +154,16 @@ Reference:- https://redteamvillage.io/day0.html</description>
       <guid>https://infosecvandana.com/talks/appsecvillage_2019/</guid>
       <description>Title: Shifting the DevSecOps Culture, Taking away the sugar piece and giving the pile to ants
 We have been talking about the technical angle of DevSecOps. How do I go about building the DevSecOps culture in the organisation? So far Generally corporates are trying to have all three Plays and teams Dev, Sec and Ops team together. However, the Ideal DevSecOps idea is each individual should know what is happening in the whole process.</description>
+    </item>
+    
+    <item>
+      <title>DevSecCon: Cloud Security and the Myths Around it</title>
+      <link>https://infosecvandana.com/talks/devseccon/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/devseccon/</guid>
+      <description>The talk would be around the general myths we have on Cloud Security and Cloud Computing. Also, we will map the myths with different roles and discuss how to resolve that.
+ </description>
     </item>
     
   </channel>

@@ -161,6 +161,15 @@ Moderated By
     </item>
     
     <item>
+      <title>Building an AppSec Program with Open Source</title>
+      <link>https://infosecvandana.com/webinars/owaspny/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/webinars/owaspny/</guid>
+      <description>Building an AppSec Program with Open Source</description>
+    </item>
+    
+    <item>
       <title>OWASP Spotlight - Project 7 -  Security Knowledge Framework </title>
       <link>https://infosecvandana.com/posts/spotlight7/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
@@ -241,6 +250,16 @@ Official Website CRS - https://securityrat.</description>
 ![SC media](/images/SC media.png)
 Reference
 https://www.scmagazine.com/women-in-it-security/women-advocates/vandana-verma-broadening-the-diversity-aperture/</description>
+    </item>
+    
+    <item>
+      <title>ROOTCON: Zero Trust in the era of cloud</title>
+      <link>https://infosecvandana.com/talks/rootcon/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/rootcon/</guid>
+      <description>Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun
+ </description>
     </item>
     
     <item>
@@ -384,7 +403,8 @@ Reference:- https://redteamvillage.io/day0.html</description>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/talks/blackhatusa2020/</guid>
-      <description>Reference Link: Black Hat USA</description>
+      <description>Reference Link: Black Hat USA
+ </description>
     </item>
     
     <item>
@@ -405,6 +425,15 @@ https://www.darkreading.com/theedge/developing-community-for-woman-infosec-pros-
       
       <guid>https://infosecvandana.com/webinars/hackkp/</guid>
       <description>&amp;ldquo;Hac&amp;rsquo;KP Webinar Series_ How to run an Appsec program with open source tools (OWASP)</description>
+    </item>
+    
+    <item>
+      <title>Applying OWASP Web Security Testing Guide</title>
+      <link>https://infosecvandana.com/webinars/nulldoha/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/webinars/nulldoha/</guid>
+      <description> </description>
     </item>
     
     <item>
@@ -434,6 +463,27 @@ https://portswigger.net/daily-swig/infosec-pro-vandana-verma-on-improving-divers
       
       <guid>https://infosecvandana.com/posts/zerotrust/</guid>
       <description>Cloud Migration is the next big thing. Everyone wants to be in the cloud, but what about security and compliance standards? How do organizations manage both safety and security in the “Cloud Era”? Cloud deployments render the concept that everyone inside of a corporate network should be trusted null and void. Essentially, when it comes to the cloud, everyone is a tenant on a big server farm full of tenants. Thus, the only way forward is the Zero-Trust Model.</description>
+    </item>
+    
+    <item>
+      <title>Open Security Summit</title>
+      <link>https://infosecvandana.com/talks/opensummit/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/opensummit/</guid>
+      <description>Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun
+ </description>
+    </item>
+    
+    <item>
+      <title> Women Tech Network Global Conference: Implementing Zero Trust in an organisation to be uncertainty Ready </title>
+      <link>https://infosecvandana.com/talks/womentechnet/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/womentechnet/</guid>
+      <description>Session: Implementing Zero Trust in an organisation to be uncertainty Ready
+The Current unprecedented situation has changed the IT World forever, no matter what the outcome is, the conceptual changes in the working styles of people are here to stay. The world will never get back to the plane jane everything works only on this building for most of the work environment.
+Currently most of the firms have scrambled to enable the workforce to work from home with a certain level of security.</description>
     </item>
     
     <item>
@@ -472,6 +522,15 @@ https://timesofindia.indiatimes.com/city/bengaluru/bug-report-the-female-hackers
       
       <guid>https://infosecvandana.com/posts/threatstoprivacy/</guid>
       <description>The time is challenging. No one ever believed that a pandemic would leave us stranded. We will be home for such a long time even though some of us always wanted to work from home but never this way. Most of the organisations are trying to keep the spirits of the employees high and making sure they are safe from the critical situation outside. For many companies especially start ups who didn&amp;rsquo;t have the infrastructure and facilities for the employees and were surviving just on the need base.</description>
+    </item>
+    
+    <item>
+      <title>OWASP Suffolk: Living In A World of Zero Trust</title>
+      <link>https://infosecvandana.com/webinars/owaspsufflock/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/webinars/owaspsufflock/</guid>
+      <description>Title: Living In A World of Zero Trust</description>
     </item>
     
     <item>
@@ -609,6 +668,15 @@ Welcome note was given by Ms. Dhanya , HOD IT, St.theresas College which was fol
     </item>
     
     <item>
+      <title>Keynote: Diversity And Inclusion - Not Just A Gender Gap - Vandana Verma </title>
+      <link>https://infosecvandana.com/talks/appsecdc/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/appsecdc/</guid>
+      <description>There has been a lot of conversations around diversity and inclusion in the recent past. This is a step in a positive direction. The benefits of diversity in cybersecurity are clear. As an industry, we can do better, we need to do better. We need not only to keep the conversation going but to really place some action behind it. While homogenous teams feel easier to operate in, it can lead to stagnation, or specialisations in some aspects at the expense of others.</description>
+    </item>
+    
+    <item>
       <title>Global AppSec DC 2019 </title>
       <link>https://infosecvandana.com/trainings/appsecdc/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
@@ -652,6 +720,16 @@ We have been talking about the technical angle of DevSecOps. How do I go about b
     </item>
     
     <item>
+      <title>DevSecCon: Cloud Security and the Myths Around it</title>
+      <link>https://infosecvandana.com/talks/devseccon/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/devseccon/</guid>
+      <description>The talk would be around the general myths we have on Cloud Security and Cloud Computing. Also, we will map the myths with different roles and discuss how to resolve that.
+ </description>
+    </item>
+    
+    <item>
       <title>Global AppSec Tel Aviv 2019 </title>
       <link>https://infosecvandana.com/trainings/globalappsectelaviv/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -660,6 +738,15 @@ We have been talking about the technical angle of DevSecOps. How do I go about b
       <description>Workshop details :
 This was a 1-day training course. The Application Security Training is intended for students/professionals interested in making a career in the Information Security domain. This training involved real-world scenarios that every Security Professional must be well versed with. It involved decompiling, real-time analyzing and testing of the applications from a security standpoint.
 The training covered understanding the internals of web and mobile applications, Real-time testing of web applications and android applications and a strategic approach to analyze applications for OWASP Top 10 vulnerabilities (Web) security issues such as Injections, Cross-Site Scripting (XSS), CSRF Attacks, Insecure API’s, Insecure logging, Insecure communication, Insufficient cryptography, Insecure authentication and Poor code quality and many more.</description>
+    </item>
+    
+    <item>
+      <title>Bug Bounty World Interviews Vandana Verma</title>
+      <link>https://infosecvandana.com/featured/bugbountyworld/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/featured/bugbountyworld/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -702,6 +789,15 @@ In this completely hands-on workshop, you will get to understand the techniques 
       <description>Why a free workshop? The OWASP volunteer community and our Women in AppSec Committee (WIA) Committee commit to training the leaders behind securing the World Wide Web… That’s YOU! Your learning path starts (or continues) here. We’re excited to form mentorships at this year’s AppSec USA conference.
 Breakdown of Topics:
 *Interactive one day workshop on how to test applications for security issues. Participants of this course will learn how to do the following:</description>
+    </item>
+    
+    <item>
+      <title>OWASP Dependency Check</title>
+      <link>https://infosecvandana.com/webinars/owaspottawa/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/webinars/owaspottawa/</guid>
+      <description>Introduction to the Project.To understand what is. Dependency Checker by Supported Languages/tech. Relation to OWASP top 10. Reviewing How it works. Vulnerability Data Source and Evidence based identification, issues and Remediation. How to use Dependency Check Components of Dependency Check. Use Cases of Dependency Check. Enterprise Deployments. How to read the reports.</description>
     </item>
     
     <item>
