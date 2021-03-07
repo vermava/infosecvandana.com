@@ -263,6 +263,15 @@ https://www.scmagazine.com/women-in-it-security/women-advocates/vandana-verma-br
     </item>
     
     <item>
+      <title>Application Security: Past, Present, and Future</title>
+      <link>https://infosecvandana.com/webinars/cybersentinelupes/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/webinars/cybersentinelupes/</guid>
+      <description>“Cybersecurity is much more than an IT topic.”</description>
+    </item>
+    
+    <item>
       <title>OWASP Spotlight - Project 2 - OWASP Dependency Check</title>
       <link>https://infosecvandana.com/posts/dependencycheck/</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
@@ -378,6 +387,15 @@ This is a fact that Breaches will happen and security flaws will exist, however 
     </item>
     
     <item>
+      <title>How to be an InfoSec Speaker - Vandana Verma</title>
+      <link>https://infosecvandana.com/podcasts/howtobeinfosecspeaker/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/podcasts/howtobeinfosecspeaker/</guid>
+      <description>There are still lots of misconceptions and myths about Cloud Security. In this episode , Vandana Verma Global Board of Directors at OWASP and InfosecGirls shares her thoughts on cloud security. Discover some myth-busting truths about security and the cloud and how to avoid some common perceptions around cloud security. Listen up!</description>
+    </item>
+    
+    <item>
       <title>Defcon - AppSec Village 2020</title>
       <link>https://infosecvandana.com/talks/appsecvillage_2020/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
@@ -388,7 +406,7 @@ We are all heading towards the modernization of applications. However, we still 
     </item>
     
     <item>
-      <title>Defcon - Red Team Village 2020</title>
+      <title>Defcon - Red Team Village 2020: Zero Trust</title>
       <link>https://infosecvandana.com/talks/redteamvillage_2020/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
@@ -736,6 +754,16 @@ https://womenscyberjutsu.org/page/AWARDWinners</description>
       <guid>https://infosecvandana.com/talks/appsecvillage_2019/</guid>
       <description>Title: Shifting the DevSecOps Culture, Taking away the sugar piece and giving the pile to ants
 We have been talking about the technical angle of DevSecOps. How do I go about building the DevSecOps culture in the organisation? So far Generally corporates are trying to have all three Plays and teams Dev, Sec and Ops team together. However, the Ideal DevSecOps idea is each individual should know what is happening in the whole process.</description>
+    </item>
+    
+    <item>
+      <title>DevOps and the DevSecOps Survey</title>
+      <link>https://infosecvandana.com/webinars/devopssurvey/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/webinars/devopssurvey/</guid>
+      <description>In this week&amp;rsquo;s DevOps Defined, we talk to Vandana Verma of OWASP Bangalore about a DevSecOps survey she and her team created and why you should take it ASAP to ensure you have a safe secure DevOps environment.
+ </description>
     </item>
     
     <item>
