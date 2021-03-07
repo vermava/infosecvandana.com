@@ -6,6 +6,17 @@
     <description>Recent content in Podcast on Vandana Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Vandana Verma</copyright><atom:link href="https://infosecvandana.com/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Vandana Verma</copyright>
+    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Security Myths with Vandana Verma</title>
+      <link>https://infosecvandana.com/podcasts/cloudsecuritymyths/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/podcasts/cloudsecuritymyths/</guid>
+      <description>There are still lots of misconceptions and myths about Cloud Security. In this episode , Vandana Verma Global Board of Directors at OWASP and InfosecGirls shares her thoughts on cloud security. Discover some myth-busting truths about security and the cloud and how to avoid some common perceptions around cloud security. Listen up!
+ </description>
+    </item>
+    
   </channel>
 </rss>
