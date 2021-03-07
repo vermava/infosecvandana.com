@@ -31,6 +31,20 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/featured/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/featured/cisomag_2021/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/talks/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -117,13 +131,6 @@
   <url>
     <loc>https://infosecvandana.com/paneldiscussion/techjs_summit/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/featured/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
