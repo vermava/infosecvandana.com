@@ -2,6 +2,7 @@
 title: "How to start a Career in AppSec"
 date: 2020-04-18
 draft: false
+featureimage: /images/careerinappsec.jpeg
 ---
 
 **Moderator** - Niloufer Tamboly, 
