@@ -157,7 +157,7 @@
   </url>
   
   <url>
-    <loc>https://infosecvandana.com/paneldiscussion/iitk/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/iitk_alumani/</loc>
     <lastmod>2021-01-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -353,6 +353,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/webinars/iam_commercebytes/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/webinars/stemforgirls/</loc>
     <lastmod>2020-09-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -362,6 +369,13 @@
   <url>
     <loc>https://infosecvandana.com/awards/cybersecawards/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/paneldiscussion/csauk/</loc>
+    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -474,6 +488,13 @@
   <url>
     <loc>https://infosecvandana.com/featured/portswigger/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/paneldiscussion/iitk/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
