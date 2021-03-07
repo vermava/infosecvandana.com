@@ -206,6 +206,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/featured/timesofindia_techies/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/posts/spotlight6/</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -229,6 +236,13 @@
   <url>
     <loc>https://infosecvandana.com/posts/spotlight5/</loc>
     <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/featured/ibm/</loc>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
