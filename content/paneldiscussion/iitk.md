@@ -1,27 +1,26 @@
 ---
-title: "Discussion on Cyberthreats and Darkweb scare"
-date: 2021-01-16
+title: "Zero Trust - A vision for Securing Cloud Delivered Business"
+date: 2020-07-13
 draft: false
-featureimage: /images/iitk_1.jpeg
+featureimage: /images/iitk.jpeg
 ---
 
-Alumni Association of IIT Kanpur Delhi Chapter cordially invites you all to benefit from the Webinar on Cyberthreats and Darkweb scare while working from home on Saturday 16th Jan 2021 from 5.30 PM to 6.30 PM.
+The #Covid19 pandemic has seen a sudden spur in #Cyber Crimes. With the new world order of WFH and remote working has created new exposures of potential #Cyber-attacks.
+
+The panel will discuss how enterprises can use cloud with zero-trust models to achieve utmost security and safeguard their assets, how zero-trust architecture works with mobile apps in cloud environment.
+
+Must attend webinar for #technology enthusiasts, #entrepreneurs, IT professionals, programmers & students (planning to build their career in IT). In today’s world the #Cyber Security of Systems assumes unprecedented importance. Join and learn what has changed.
 
 Moderated By
 
-* Mr. Sameer Nigam ( CEO Stratbeans/ IIT Kanpur 96 /IIM A 06)
-
-* Ms Sneha Rahar ( Manager, American Express/ IIT Kanpur 2016)
+* Vinayak Godse
 
 Panelists:
 
-* Prof Sandeep Shukla IIT Kanpur
+* Ashish Adhvaryu 
 
-* Ms Vandana Verma Sehgal IBM
+* Sandeep Shukla
 
-* Dr Sriram Birudavolu, CEO - Cyber Security CoE, Data Security Council Of India (DSCI)
+* Vandana Verma Sehgal
 
-
-![IITK](/images/iitk_1.jpeg)
-
-![IITK](/images/iitk_2.jpeg)
+![IITK](/images/iitk.jpeg)
