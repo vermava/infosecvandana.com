@@ -2,7 +2,7 @@
 title: "IAM in eCommerce - Deal or No Deal"
 date: 2020-09-24
 draft: false
-featureimage: /images/haciam_commercebytes.jpeg
+featureimage: /images/iam_commercebytes.jpeg
 video: 
 ---
 

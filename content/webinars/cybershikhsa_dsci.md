@@ -1,6 +1,6 @@
 ---
 title: "Vuneraility Assessment for Enterprises"
-date: 2021-03-07
+date: 2020-06-07
 draft: false
 featureimage: /images/cybershikhsa.jpeg
 ---
