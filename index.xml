@@ -341,13 +341,25 @@ Globally recognized by developers as the first step towards more secure coding. 
     </item>
     
     <item>
-      <title>OWASP Spotlight - Project 9 - Software Assurance Maturity Model (SAMM) </title>
+      <title>OWASP Spotlight - Project 9 - Software Assurance Maturity Model (SAMM)</title>
       <link>https://infosecvandana.com/owaspspotlightseries/spotlight9/</link>
       <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight9/</guid>
       <description>About the Project:- The Software Assurance Maturity Model (SAMM) is an open framework to help organizations formulate and implement a strategy for software security that is tailored to the specific risks facing the organization. SAMM helps you:
  Evaluate an organization’s existing software security practices Build a balanced software security assurance program in well-defined iterations Demonstrate concrete improvements to a security assurance program Define and measure security-related activities throughout an organization  References:-</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 8 - Proactive Controls</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight8/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight8/</guid>
+      <description>About the Project:-
+The OWASP Top Ten Proactive Controls describes the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
+OWASP Proactive Controls - https://owasp.org/www-project-proactive-controls/
+Contributing to Proactive Controls - https://github.com/OWASP/www-project-proactive-controls/</description>
     </item>
     
     <item>
@@ -500,6 +512,28 @@ Official Website CRS - https://securityrat.</description>
     </item>
     
     <item>
+      <title>OWASP Spotlight - Project 4 - Cheat Sheet Series</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight4/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight4/</guid>
+      <description>About the Project:-
+The OWASP Cheat Sheet Series was created to provide a set of simple good practice guides for application developers and defenders to follow. Rather than focused on detailed best practices that are impractical for many developers and applications, they are intended to provide good practices that the majority of developers will actually be able to implement.
+References:-
+OWASP Cheat Sheet Series - https://owasp.org/www-project-cheat-sheets/
+More Details - https://cheatsheetseries.owasp.org/</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 3 - Core Rule Set (CRS)</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight3/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight3/</guid>
+      <description>About the Project:- The OWASP ModSecurity Core Rule Set (CRS) is a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls. The CRS aims to protect web applications from a wide range of attacks, including the OWASP Top Ten, with a minimum of false alerts. The CRS provides protection against many common attack categories, including SQL Injection, Cross Site Scripting, Local File Inclusion, etc.</description>
+    </item>
+    
+    <item>
       <title>Inspiring Leaders at IBM India</title>
       <link>https://infosecvandana.com/featured/ibm/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
@@ -550,7 +584,7 @@ https://www.scmagazine.com/women-in-it-security/women-advocates/vandana-verma-br
     </item>
     
     <item>
-      <title>OWASP Spotlight - Project 2 - OWASP Dependency Check</title>
+      <title>OWASP Spotlight - Project 2 - Dependency Check</title>
       <link>https://infosecvandana.com/owaspspotlightseries/spotlight2/</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
       
@@ -600,33 +634,6 @@ Recipe for IBM Security Verify Governance (IGI) and IBM Security Verify for Work
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight1/</guid>
       <description>OWASP has so many amazing and great projects which can help organisations, developers, security testers and many more groups. However, working with OWASP projects very closely in the past few years, I have realised people do not know about a lot of projects or even have no clue if they exist.
 So, here I am writing the part series on OWASP Projects with a video describing about the project. This is the first blog as part of the OWASP Project Series talking about OWASP Web Security Testing Guide (OWSTG).</description>
-    </item>
-    
-    <item>
-      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
-      <link>https://infosecvandana.com/owaspspotlightseries/spotlight3/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
-      <link>https://infosecvandana.com/owaspspotlightseries/spotlight4/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
-      <link>https://infosecvandana.com/owaspspotlightseries/spotlight8/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight8/</guid>
-      <description></description>
     </item>
     
     <item>

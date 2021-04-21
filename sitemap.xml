@@ -297,6 +297,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight8/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/paneldiscussion/owasptestingtools/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -395,6 +402,20 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight4/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight3/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/featured/ibm/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -459,27 +480,6 @@
   
   <url>
     <loc>https://infosecvandana.com/owaspspotlightseries/spotlight1/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight3/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight4/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight8/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
