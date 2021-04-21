@@ -19,6 +19,17 @@ Bio: Bryson is the Founder of SCYTHE, a start-up building a next generation atta
     </item>
     
     <item>
+      <title>OWASP Spotlight - Project 15 - Dependency Track</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight15/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight15/</guid>
+      <description>About the Project:- Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. Dependency-Track takes a unique and highly beneficial approach by leveraging the capabilities of Software Bill of Materials (SBOM). This approach provides capabilities that traditional Software Composition Analysis (SCA) solutions cannot achieve.
+Some of the ways you can help are as follows:
+ Try it out Have your development team try it out Submit feedback via Github issues Submit pull requests  References:-</description>
+    </item>
+    
+    <item>
       <title>Episode 2: A day in the life of an Entrepreneur - Shira Shamban</title>
       <link>https://infosecvandana.com/leaderspeak/shira/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
@@ -26,6 +37,17 @@ Bio: Bryson is the Founder of SCYTHE, a start-up building a next generation atta
       <guid>https://infosecvandana.com/leaderspeak/shira/</guid>
       <description>Shira Shamban https://twitter.com/ShambanIT​ https://www.linkedin.com/in/shira-sha...​
 Bio: Shira Shamban is a security researcher and technical expert with a focus on cloud security. Currently, she is the co-founder and CEO of Solvo. Shira started her professional career in #cybersecurity​ as a military officer in the elite intelligence unit 8200 of the Israel Defense Force. During her 13-year service in the unit, Shira acquired hands-on experience in cybersecurity and intelligence operations while earning an engineering degree from Tel-Aviv University.</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 14 - Secure Coding Dojo</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight14/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight14/</guid>
+      <description>About the Project:- The Secure Coding Dojo is a training platform which can be customized to integrate with custom vulnerable websites and other CTF challenges.
+Getting Involved Involvement in the development and promotion of Secure Coding Dojo is actively encouraged! You do not have to be a security expert or a programmer to contribute. Some of the ways you can help are as follows:
+ Try it out Have your development team try it out Submit feedback via Github issues Submit pull requests  References:- OWASP Secure Coding Dojo Main Project Page: https://owasp.</description>
     </item>
     
     <item>
@@ -288,6 +310,17 @@ By Dinis Cruz, Sam Stepanyan, Grant Ongers and Vandana Verma
     
     <item>
       <title>OWASP Spotlight - Project 7 -  Security Knowledge Framework </title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight7/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight7/</guid>
+      <description>Hi Everyone.
+We are back again with another spotlight series project and today we have OWASP Security Knowledge Framework (SKF) with us. I feel that this is one project, which is so much relevant and this is required in any organization for training the developers, security researchers, for getting the requirements and whatnot.
+The security framework wants to help developers &amp;amp; empower them, to be able to give them the right awareness and knowledge to build secure applications by design.</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 7 -  Security Knowledge Framework </title>
       <link>https://infosecvandana.com/posts/spotlight7/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       
@@ -315,6 +348,16 @@ Reference:- https://www.devsecopsdays.com/2020-devsecops-days-london</descriptio
       <guid>https://infosecvandana.com/featured/timesofindia_techies/</guid>
       <description>Times webinar on cybersecurity and women hackers
 Reference</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 6 -  PyTM </title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight6/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight6/</guid>
+      <description>We are back again with another oversaw spotlight series project, and this time we have a very interesting project, which is around Threat Modeling.
+Fixing the bugs later in the stage can cost huge money. Now, when we all started talking about DevOps or DevSecOps, So it&amp;rsquo;s imperative that we bring in the Threat Model in #cloud, which is automated which have which have less of work for us, especially for testers for developers for anyone, Who is a part of the application development lifecycle and even for architects.</description>
     </item>
     
     <item>
@@ -375,6 +418,19 @@ The session features:
 Vandana Verma, Security Solutions Architect - IBM ISL
 Amrin Maria Khan Adawadkar, Security - Identity and Access Management at IBM India
 Ashwini Varadkar, Sr.</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 5 -  SecurityRAT</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight5/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight5/</guid>
+      <description>Gathering the requirements and tracking them is always a challenge in the application development. The biggest concern area is if the security requirement changes then to track them.
+The next project as part of OWASP Spotlight series helps in gathering the requirements and cherry on top of cake in automating them. SecurityRAT simplifies the security requirement management during development using automation approaches.
+About the Project:-
+OWASP SecurityRAT - https://owasp.org/www-project-securityrat/
+Official Website CRS - https://securityrat.</description>
     </item>
     
     <item>
@@ -442,6 +498,16 @@ https://www.scmagazine.com/women-in-it-security/women-advocates/vandana-verma-br
     
     <item>
       <title>OWASP Spotlight - Project 2 - OWASP Dependency Check</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight2/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight2/</guid>
+      <description>OWASP has so many amazing and great projects which can help organisations, developers, security testers and many more groups. However, working with OWASP projects very closely in the past few years, I have realised people do not know about a lot of projects or even have no clue if they exist.
+So, here I am writing the part series on OWASP Projects with a video describing about the project. This is the second blog as part of the OWASP Spotlight Series talking about OWASP Dependency Check.</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 2 - OWASP Dependency Check</title>
       <link>https://infosecvandana.com/posts/dependencycheck/</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
       
@@ -471,6 +537,88 @@ Reference https://events.bizzabo.com/OWASPGlobalAppSec/agenda/session/325430</de
 This recipe talks about the ideal set of steps that someone has to take to connect the two applications.
 Here is a direct link to the article.
 Recipe for IBM Security Verify Governance (IGI) and IBM Security Verify for Workforce IAM Integration</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight1/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight1/</guid>
+      <description>OWASP has so many amazing and great projects which can help organisations, developers, security testers and many more groups. However, working with OWASP projects very closely in the past few years, I have realised people do not know about a lot of projects or even have no clue if they exist.
+So, here I am writing the part series on OWASP Projects with a video describing about the project. This is the first blog as part of the OWASP Project Series talking about OWASP Web Security Testing Guide (OWSTG).</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight10/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight11/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight12/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight13/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight3/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight4/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight8/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight9/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight9/</guid>
+      <description></description>
     </item>
     
     <item>

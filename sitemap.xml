@@ -24,8 +24,29 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/</loc>
+    <lastmod>2021-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight15/</loc>
+    <lastmod>2021-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/leaderspeak/shira/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight14/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -255,6 +276,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight7/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/posts/spotlight7/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -271,6 +299,13 @@
   <url>
     <loc>https://infosecvandana.com/featured/timesofindia_techies/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight6/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -306,6 +341,13 @@
   <url>
     <loc>https://infosecvandana.com/webinars/timestechies/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight5/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -353,6 +395,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight2/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/posts/dependencycheck/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -369,6 +418,69 @@
   <url>
     <loc>https://infosecvandana.com/posts/recipe_igiverify/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight1/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight10/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight11/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight12/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight13/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight3/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight4/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight8/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight9/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
