@@ -119,6 +119,15 @@ copyright="© Vandana Verma"
   url = "/leaderspeak/"
   weight = -30
 
+  [[menu.main]]
+  identifier = "owaspspotlightseries"
+  name = "OWASP Projects Spotlight Series"
+  title = "OWASP Projects Spotlight Series"
+  url = "/owaspspotlightseries/"
+  weight = -30
+
+  
+
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
