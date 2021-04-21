@@ -112,6 +112,13 @@ copyright="© Vandana Verma"
   url = "/Podcasts/"
   weight = -50
 
+  [[menu.main]]
+  identifier = "leaderspeak"
+  name = "Leader Speak"
+  title = "Leader Speak"
+  url = "/leaderspeak/"
+  weight = -30
+
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
