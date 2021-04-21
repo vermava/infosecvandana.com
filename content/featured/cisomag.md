@@ -10,10 +10,6 @@ To gain an insight into the lack of women representation, CISO MAG gauged a few 
 
 ![cisomag](/images/cisomag.jpg)
 
-![cisomag](/images/cisomag_1.jpg)
-
-![cisomag](/images/cisomag_2.jpg)
-
 
 **Reference**
 https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in-cybersecurity/3/
