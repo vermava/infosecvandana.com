@@ -109,10 +109,10 @@ It such a heartwarming experience to see the College Management going extra mile
     
     <item>
       <title>Keynote: Careers in AppSec: Lead with Grit</title>
-      <link>https://infosecvandana.com/webinars/careerinappsec_mit/</link>
+      <link>https://infosecvandana.com/talks/careerinappsec_mit/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://infosecvandana.com/webinars/careerinappsec_mit/</guid>
+      <guid>https://infosecvandana.com/talks/careerinappsec_mit/</guid>
       <description>Closing the Skill Gap With More Women in Cybersecurity
 To gain an insight into the lack of women representation, CISO MAG gauged a few women security influencers to understand the cause of this alarming trend. This article is part of a series of interviews from women cybersecurity experts who shed light representation of women in cybersecurity.
 Reference https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in-cybersecurity/3/</description>
@@ -385,17 +385,6 @@ The security framework wants to help developers &amp;amp; empower them, to be ab
     </item>
     
     <item>
-      <title>OWASP Spotlight - Project 7 -  Security Knowledge Framework </title>
-      <link>https://infosecvandana.com/posts/spotlight7/</link>
-      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/posts/spotlight7/</guid>
-      <description>Hi Everyone.
-We are back again with another spotlight series project and today we have OWASP Security Knowledge Framework (SKF) with us. I feel that this is one project, which is so much relevant and this is required in any organization for training the developers, security researchers, for getting the requirements and whatnot.
-The security framework wants to help developers &amp;amp; empower them, to be able to give them the right awareness and knowledge to build secure applications by design.</description>
-    </item>
-    
-    <item>
       <title>Keynote: DevSecOps Days London</title>
       <link>https://infosecvandana.com/talks/devopsdays_london/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
@@ -421,16 +410,6 @@ Reference</description>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight6/</guid>
-      <description>We are back again with another oversaw spotlight series project, and this time we have a very interesting project, which is around Threat Modeling.
-Fixing the bugs later in the stage can cost huge money. Now, when we all started talking about DevOps or DevSecOps, So it&amp;rsquo;s imperative that we bring in the Threat Model in #cloud, which is automated which have which have less of work for us, especially for testers for developers for anyone, Who is a part of the application development lifecycle and even for architects.</description>
-    </item>
-    
-    <item>
-      <title>OWASP Spotlight - Project 6 -  PyTM </title>
-      <link>https://infosecvandana.com/posts/spotlight6/</link>
-      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/posts/spotlight6/</guid>
       <description>We are back again with another oversaw spotlight series project, and this time we have a very interesting project, which is around Threat Modeling.
 Fixing the bugs later in the stage can cost huge money. Now, when we all started talking about DevOps or DevSecOps, So it&amp;rsquo;s imperative that we bring in the Threat Model in #cloud, which is automated which have which have less of work for us, especially for testers for developers for anyone, Who is a part of the application development lifecycle and even for architects.</description>
     </item>
@@ -491,19 +470,6 @@ Ashwini Varadkar, Sr.</description>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight5/</guid>
-      <description>Gathering the requirements and tracking them is always a challenge in the application development. The biggest concern area is if the security requirement changes then to track them.
-The next project as part of OWASP Spotlight series helps in gathering the requirements and cherry on top of cake in automating them. SecurityRAT simplifies the security requirement management during development using automation approaches.
-About the Project:-
-OWASP SecurityRAT - https://owasp.org/www-project-securityrat/
-Official Website CRS - https://securityrat.</description>
-    </item>
-    
-    <item>
-      <title>OWASP Spotlight - Project 5 -  SecurityRAT</title>
-      <link>https://infosecvandana.com/posts/spotlight5/</link>
-      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/posts/spotlight5/</guid>
       <description>Gathering the requirements and tracking them is always a challenge in the application development. The biggest concern area is if the security requirement changes then to track them.
 The next project as part of OWASP Spotlight series helps in gathering the requirements and cherry on top of cake in automating them. SecurityRAT simplifies the security requirement management during development using automation approaches.
 About the Project:-
@@ -594,16 +560,6 @@ So, here I am writing the part series on OWASP Projects with a video describing 
     </item>
     
     <item>
-      <title>OWASP Spotlight - Project 2 - OWASP Dependency Check</title>
-      <link>https://infosecvandana.com/posts/dependencycheck/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/posts/dependencycheck/</guid>
-      <description>OWASP has so many amazing and great projects which can help organisations, developers, security testers and many more groups. However, working with OWASP projects very closely in the past few years, I have realised people do not know about a lot of projects or even have no clue if they exist.
-So, here I am writing the part series on OWASP Projects with a video describing about the project. This is the second blog as part of the OWASP Spotlight Series talking about OWASP Dependency Check.</description>
-    </item>
-    
-    <item>
       <title>Global AppSec 2020 </title>
       <link>https://infosecvandana.com/trainings/globalappsecsf/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
@@ -632,16 +588,6 @@ Recipe for IBM Security Verify Governance (IGI) and IBM Security Verify for Work
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight1/</guid>
-      <description>OWASP has so many amazing and great projects which can help organisations, developers, security testers and many more groups. However, working with OWASP projects very closely in the past few years, I have realised people do not know about a lot of projects or even have no clue if they exist.
-So, here I am writing the part series on OWASP Projects with a video describing about the project. This is the first blog as part of the OWASP Project Series talking about OWASP Web Security Testing Guide (OWSTG).</description>
-    </item>
-    
-    <item>
-      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
-      <link>https://infosecvandana.com/posts/owstg/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/posts/owstg/</guid>
       <description>OWASP has so many amazing and great projects which can help organisations, developers, security testers and many more groups. However, working with OWASP projects very closely in the past few years, I have realised people do not know about a lot of projects or even have no clue if they exist.
 So, here I am writing the part series on OWASP Projects with a video describing about the project. This is the first blog as part of the OWASP Project Series talking about OWASP Web Security Testing Guide (OWSTG).</description>
     </item>
