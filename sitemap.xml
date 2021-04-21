@@ -696,6 +696,13 @@
   </url>
   
   <url>
+    <loc>https://infosecvandana.com/advisoryboard/owasp/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/awards/influentialspeaker/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
