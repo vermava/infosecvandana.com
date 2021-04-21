@@ -1,5 +1,5 @@
 ---
-title: "Episode 1: A day in the life of an Entrepreneur - Shivangi Nadkarni | Creators for Change"
+title: "Episode 1: A day in the life of an Entrepreneur - Shivangi Nadkarni"
 date: 2021-04-07
 draft: false
 video: https://www.youtube.com/embed/KzJ0i3A_XY0

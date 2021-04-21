@@ -1,5 +1,5 @@
 ---
-title: "Episode 2: A day in the life of an Entrepreneur - Shira Shamban | Creators for Change"
+title: "Episode 2: A day in the life of an Entrepreneur - Shira Shamban"
 date: 2021-04-15
 draft: false
 video: https://www.youtube.com/embed/mtu_uR473og
