@@ -313,6 +313,16 @@ Join the Workshops on Spice of Data Analytics in Cyber Security by Vandana Verma
     </item>
     
     <item>
+      <title>OWASP Spotlight - Project 10 - Top10</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight10/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight10/</guid>
+      <description>The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
+Globally recognized by developers as the first step towards more secure coding. Companies should adopt this document and start the process of ensuring that their web applications minimize these risks. Using the OWASP Top 10 is perhaps the most effective first step towards changing the software development culture within your organization into one that produces more secure code.</description>
+    </item>
+    
+    <item>
       <title>AppSec Influencer of 2020 Award</title>
       <link>https://infosecvandana.com/awards/appsecinfluencer/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -328,6 +338,16 @@ Join the Workshops on Spice of Data Analytics in Cyber Security by Vandana Verma
       
       <guid>https://infosecvandana.com/webinars/owaspny/</guid>
       <description>Building an AppSec Program with Open Source</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 9 - Software Assurance Maturity Model (SAMM) </title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight9/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight9/</guid>
+      <description>About the Project:- The Software Assurance Maturity Model (SAMM) is an open framework to help organizations formulate and implement a strategy for software security that is tailored to the specific risks facing the organization. SAMM helps you:
+ Evaluate an organization’s existing software security practices Build a balanced software security assurance program in well-defined iterations Demonstrate concrete improvements to a security assurance program Define and measure security-related activities throughout an organization  References:-</description>
     </item>
     
     <item>
@@ -584,15 +604,6 @@ So, here I am writing the part series on OWASP Projects with a video describing 
     
     <item>
       <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
-      <link>https://infosecvandana.com/owaspspotlightseries/spotlight10/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
       <link>https://infosecvandana.com/owaspspotlightseries/spotlight3/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
@@ -615,15 +626,6 @@ So, here I am writing the part series on OWASP Projects with a video describing 
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
-      <link>https://infosecvandana.com/owaspspotlightseries/spotlight9/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight9/</guid>
       <description></description>
     </item>
     
