@@ -1,18 +1,17 @@
 ---
-title: "Episode 1: A day in the life of an Entrepreneur - Shivangi Nadkarni"
+title: "Episode 1 - Shivangi Nadkarni"
+subtitle: A day in the life of an Entrepreneur 
 date: 2021-04-07
 draft: false
 video: https://www.youtube.com/embed/KzJ0i3A_XY0
 ---
 
-Shira Shamban
-https://twitter.com/ShambanIT​
-https://www.linkedin.com/in/shira-sha...​
 
-Bio:
 Shivani Nadkarni (Co-founder & CEO - Arrka)
+
 https://twitter.com/shivanginadkarn​
-https://www.linkedin.com/in/shivangin...​
+
+
 
 Bio:
 Shivangi has over 24 years of experience in the domains of Information Security & Risk Management, E-Commerce & Networking across multiple geographies. She has earlier worked with organizations like Wipro & Sify handling a variety of roles and heading different Lines of Business. She was instrumental in setting up the first licensed Certifying Authority in India – in association with VeriSign. She has authored the Privacy Book of Knowledge (PBoK) for DSCI for their DCPP certification program. Shivangi is a regular speaker, writer and faculty at various forums and programs. Shivangi holds a Bachelor’s degree in Electrical & Electronics Engineering from BITS, Pilani and Master’s degree in Management from the Indian Institute of Management, Calcutta. She is also a CISA, CIPT and DCPP.
