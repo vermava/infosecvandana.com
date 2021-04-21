@@ -1,5 +1,5 @@
 ---
-title: "OWASP Spotlight - Project 2 - OWASP Dependency Check"
+title: "OWASP Spotlight - Project 2 - Dependency Check"
 date: 2020-10-21
 draft: false
 video: https://www.youtube.com/embed/YAXf3TaAYeA

@@ -1,5 +1,5 @@
 ---
-title: "OWASP Spotlight - Project 9 - Software Assurance Maturity Model (SAMM) "
+title: "OWASP Spotlight - Project 9 - Software Assurance Maturity Model (SAMM)"
 date: 2020-12-26
 draft: false
 video: https://www.youtube.com/embed/N0zcZnkH5Wg
