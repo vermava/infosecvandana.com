@@ -62,7 +62,7 @@ Bio: Shivangi has over 24 years of experience in the domains of Information Secu
     </item>
     
     <item>
-      <title>OWASP Spotlight - Project 13 - Mobile Security Testing GuideMSTG</title>
+      <title>OWASP Spotlight - Project 13 - Mobile Security Testing Guide</title>
       <link>https://infosecvandana.com/owaspspotlightseries/spotlight13/</link>
       <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
       
@@ -127,6 +127,16 @@ Reference https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in
       <description>Celebrating Women in Cyber Security
 To gain an insight into the lack of women representation, CISO MAG gauged a few women security influencers to understand the cause of this alarming trend. This article is part of a series of interviews from women cybersecurity experts who shed light representation of women in cybersecurity.
 Reference https://cisomag.eccouncil.org/wp-content/uploads/2021/03/CISO-MAG_Mar_2021_Preview.pdf</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 12 - Zed Attack Proxy (ZAP)</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight12/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight12/</guid>
+      <description>About the Project:- The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by a dedicated international team of volunteers. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. It&amp;rsquo;s also a great tool for experienced pen-testers to use for manual security testing.
+References:- OWASP Zed Attack Proxy (ZAP) - https://owasp.</description>
     </item>
     
     <item>
@@ -281,6 +291,15 @@ Moderated By
       
       <guid>https://infosecvandana.com/webinars/dpsbangalore/</guid>
       <description>I got an opportunity to speak to DPS Bangalore East students on #cyberethics #privacy and #hackingstrategies as part of 1M1B (1 Million for 1 Billion) initiative.</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 11 - Nettacker</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight11/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight11/</guid>
+      <description>This project is an automated penetration testing tool, but it can be used for all sorts of interesting things because it is modular and basically it&amp;rsquo;s written in Python, and it allows you to do three different things. So it allows us to Perform scans Of the network. Originally it was created as an IoT scanner to scan IoT devices. So you can scan the network, it can discover your service your hosts, it can scan for open ports and it doesn&amp;rsquo;t really quickly.</description>
     </item>
     
     <item>
@@ -569,24 +588,6 @@ So, here I am writing the part series on OWASP Projects with a video describing 
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
-      <link>https://infosecvandana.com/owaspspotlightseries/spotlight11/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight11/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OWASP Spotlight - Project 1 - OWASP Web Security Testing Guide</title>
-      <link>https://infosecvandana.com/owaspspotlightseries/spotlight12/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight12/</guid>
       <description></description>
     </item>
     
