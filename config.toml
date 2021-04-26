@@ -31,7 +31,7 @@ copyright="© Vandana Verma"
 [params.sidebar]
   backgroundImage = '/images/background_blue.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/vandana_headshot.jpeg" # - default "/images/edna-west.jpg"
+  #logo = "/images/vandana_headshot.jpeg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""

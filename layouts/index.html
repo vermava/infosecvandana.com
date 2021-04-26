@@ -1,6 +1,15 @@
 {{ partial "header" .}}
+<style>
+    .headshot{
+        width: auto !important;
+    }
+</style>
+<center>
+<img src="/images/newheadshot.jpg" alt="Girl in a jacket" class="headshot">
+
 
 <h1>{{ .Title | markdownify }}</h1>
+</center>
 {{ .Content }}
 
 {{ partial "footer" .}}
