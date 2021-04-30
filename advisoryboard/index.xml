@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/advisoryboard/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/advisoryboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vice-Chairperson - OWASP Global Board of Directors</title>
+      <link>https://infosecvandana.com/advisoryboard/owasp/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/advisoryboard/owasp/</guid>
+      <description>Reference link:
+https://owasp.org/corporate/</description>
+    </item>
+    
     <item>
       <title>Beyond Borders Advisory Board Member - SiberX</title>
       <link>https://infosecvandana.com/advisoryboard/siberx/</link>
@@ -26,16 +36,6 @@ https://www.siberx.org/event/women-in-cybersecurity-beyond-borders/</description
       <guid>https://infosecvandana.com/advisoryboard/eccouncil/</guid>
       <description>Reference link:
 https://www.eccouncil.org/cnd-advisory-board/</description>
-    </item>
-    
-    <item>
-      <title>Vice-Chairperson - OWASP Global Board of Directors</title>
-      <link>https://infosecvandana.com/advisoryboard/owasp/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/advisoryboard/owasp/</guid>
-      <description>Reference link:
-https://owasp.org/corporate/</description>
     </item>
     
   </channel>
