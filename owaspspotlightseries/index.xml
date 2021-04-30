@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/owaspspotlightseries/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/owaspspotlightseries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP Spotlight - Project 16 - Cornucopia</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight16/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight16/</guid>
+      <description>OWASP Spotlight - Project 16 - Cornucopia
+About the Project:- OWASP Foundation Cornucopia is a mechanism in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It is language, platform and technology agnostic. The idea behind Cornucopia is to help development teams, especially those using Agile methodologies, to identify application security requirements and develop security-based user stories.
+Getting Involved Involvement in the development is actively encouraged!</description>
+    </item>
+    
     <item>
       <title>OWASP Spotlight - Project 15 - Dependency Track</title>
       <link>https://infosecvandana.com/owaspspotlightseries/spotlight15/</link>
