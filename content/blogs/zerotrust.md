@@ -2,7 +2,7 @@
 title: "Zero Trust:Trust no one, Verify everyone"
 date: 2020-06-15
 draft: false
-featureimage: /images/zerotrustarticle.jpeg
+featureimage: /images/relentless.jpeg
 ---
 
 Cloud Migration is the next big thing. Everyone wants to be in the cloud, but what about security and compliance standards? How do organizations manage both safety and security in the “Cloud Era”? Cloud deployments render the concept that everyone inside of a corporate network should be trusted null and void. Essentially, when it comes to the cloud, everyone is a tenant on a big server farm full of tenants. Thus, the only way forward is the Zero-Trust Model. 

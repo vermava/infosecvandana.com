@@ -2,7 +2,7 @@
 title: "Celebrate ‘You’ - Be relentless, fearless, voice out!"
 date: 2021-03-04
 draft: false
-featureimage: /images/stem4girls.jpeg
+featureimage: /images/relentless.jpeg
 ---
 
 Let’s start with a beautiful quote by Ruth Bader Ginsburg -“Women will have achieved true equality when men share with them the responsibility of bringing up the next generation”. 2020 has taught that a family can have 2 heroes in the same home and share responsibilities while meting differences. Supporting and uplifting each other, leads to co-growth which can be a strong influence personally and the backbone for a positive career path. 
