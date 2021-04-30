@@ -58,9 +58,9 @@ copyright="© Vandana Verma"
 
 [[menu.main]]
   identifier = "blog"
-  name = "Posts"
+  name = "Blogs"
   title = "Blog section"
-  url = "/posts/"
+  url = "/blogs/"
   weight = -90
 
 [[menu.main]]
