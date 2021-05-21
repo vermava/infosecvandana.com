@@ -7,7 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/webinars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/webinars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AISA Webinar: Shifting left in application security </title>
+      <link>https://infosecvandana.com/webinars/aisa2021/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/webinars/aisa2021/</guid>
+      <description>It was a pleasure to be part of the ONLINE PANEL: &amp;lsquo;Shifting Left in Application Security&amp;rsquo; at Australian Information Security Association (AISA) this morning with the wonderful co- panelists
+◼ Teuta H Hyseni
+◼ Nancy Gariché
+◼ Vandana Verma Sehgal (myself)
+Incredible discussion around DevSecOps-oriented application security programme, cloud-first strategy, Zero Trust and DevSecOps for legacy applications.
+Date: Wednesday 19 May 2021
+Time Zones:
+11:30am - 12:30pm AEST (Brisbane, Canberra, Melbourne, Sydney &amp;amp; Hobart) 11:00am - 12:00pm ACST (Adelaide) 9:30am - 10:30am AWST (Perth)</description>
+    </item>
+    
     <item>
       <title>Keynote speaker for Cyber Security Warriors Club Opening</title>
       <link>https://infosecvandana.com/webinars/vitbhopal/</link>
