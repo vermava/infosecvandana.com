@@ -14,11 +14,11 @@ Moderator: Vandana Verma Sehgal
 
 Panelists:
 
-Satyavathi DIVADRI
+* Satyavathi DIVADRI
 
-Dr. Eiji SASAHARA 
+* Dr. Eiji SASAHARA 
 
-Dr. Hing-Yan LEE
+* Dr. Hing-Yan LEE
 
 Reference:-
 https://www.brighttalk.com/webcast/10415/434323
