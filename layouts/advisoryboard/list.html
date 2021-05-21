@@ -6,11 +6,11 @@
   <div class="post-list">
     {{ range .Pages.ByPublishDate.Reverse }}
    
-    <div class="post-container" style="height: 200px;  padding: 8px; margin: 10px;">
+    <div class="post-container" style="height: 180px;  padding: 8px; margin: 10px;">
    
         <a href="{{.Permalink}}">
       {{ if .Params.featureimage }}
-      <img src="{{ .Params.featureimage }}" style="max-width: 250px;max-height: 250px;"> </img>  
+      <img src="{{ .Params.featureimage }}" style="max-width: 250px;max-height: 250px;margin: 0px;box-shadow: 4px 4px #e0e0e0;border-radius: 4px;"> </img>  
       {{ end }}
       <h4   style="margin: 0px">
           {{ .Title }}
