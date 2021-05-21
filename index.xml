@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RSA Conference 2021</title>
+      <link>https://infosecvandana.com/talks/rsa2021/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/talks/rsa2021/</guid>
+      <description>My First RSA Conference this year and I got the opportunity to be part of the conf in many ways. Lot of learning, takeaways, meeting virtually with amazing people.
+ ITSPmagazine Podcast Interview at Media section with the very amazing Keren Elazari : https://lnkd.in/gUtxphQ   Lightening talk for WeAreHackerz at RSA on “Careers in #AppSec: Lead with Grit”  BIRDS OF A FEATHER at Career Path (Technical Track) - Incredible discussion around Open source Software Security in the enterprise environments.</description>
+    </item>
+    
     <item>
       <title>Episode 4 - Takaharu Ogasa</title>
       <link>https://infosecvandana.com/leaderspeak/takaharu/</link>
@@ -601,16 +611,6 @@ https://www.scmagazine.com/women-in-it-security/women-advocates/vandana-verma-br
       <guid>https://infosecvandana.com/talks/rootcon/</guid>
       <description>Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun
  </description>
-    </item>
-    
-    <item>
-      <title>ROOTCON: Zero Trust in the era of cloud</title>
-      <link>https://infosecvandana.com/talks/rsa2021/</link>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://infosecvandana.com/talks/rsa2021/</guid>
-      <description>My First RSA Conference this year and I got the opportunity to be part of the conf in many ways. Lot of learning, takeaways, meeting virtually with amazing people.
- ITSPmagazine Podcast Interview at Media section with the very amazing Keren Elazari : https://lnkd.in/gUtxphQ   Lightening talk for WeAreHackerz at RSA on “Careers in #AppSec: Lead with Grit”  BIRDS OF A FEATHER at Career Path (Technical Track) - Incredible discussion around Open source Software Security in the enterprise environments.</description>
     </item>
     
     <item>

@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://infosecvandana.com/talks/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/talks/rsa2021/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://infosecvandana.com/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://infosecvandana.com/leaderspeak/</loc>
     <lastmod>2021-04-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -11,13 +32,6 @@
   
   <url>
     <loc>https://infosecvandana.com/leaderspeak/takaharu/</loc>
-    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/</loc>
     <lastmod>2021-04-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -117,13 +131,6 @@
   <url>
     <loc>https://infosecvandana.com/awards/top100indian/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/talks/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -459,13 +466,6 @@
   
   <url>
     <loc>https://infosecvandana.com/talks/rootcon/</loc>
-    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://infosecvandana.com/talks/rsa2021/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
