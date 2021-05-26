@@ -13,7 +13,8 @@ The steppingstone in the digital world is built around Consumer identity and acc
 
 As per Gartner” 
 
-Zero_Trust_for_the_Cloud_Root.png
+![ciam](/images/AWS_GCP.png)
+
 The consumer and Organisation trust is built over time and a successive process.  It is journey not a destination which can be achieved and forgotten. It has to be sustained. There are multiple phases which are part of this journey.
 
 
