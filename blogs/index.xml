@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consumer identities in Modern Digital World (CIAM)</title>
+      <link>https://infosecvandana.com/blogs/ciam/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/blogs/ciam/</guid>
+      <description>Digitization is the way to go However, while the consumers are increasing, we still follow the primitive approach and have always been taking too much information from the users like Email Address, Username, Address, Password and much more during the first interaction itself.
+At the same time, security is becoming equally big concern for the organizations and users. Usability is severely impacted with applying the highest level of security on every user interaction which results in a poor user experience.</description>
+    </item>
+    
     <item>
       <title>Celebrate ‘You’ - Be relentless, fearless, voice out!</title>
       <link>https://infosecvandana.com/blogs/relentlessyou/</link>
