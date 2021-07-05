@@ -10,6 +10,8 @@ Cyber Security Woman Supporter of the Year Award 2019 - Woman CyberJutsu, 2019 i
 
 ![cyberjutsu_winner.JPG](/images/cyberjutsu.jpg)
 
+![cyberjutsu_winner.JPG](/images/cyberjutsu.png) 
+
 **Reference**
 
 https://womenscyberjutsu.org/page/AWARDWinners
