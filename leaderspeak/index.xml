@@ -7,11 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/leaderspeak/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/leaderspeak/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Episode 7 - Dhillon Kannabhiran</title>
+      <title>Episode 9 - Aaron Rinehart</title>
+      <link>https://infosecvandana.com/leaderspeak/aaronrinehart/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/leaderspeak/aaronrinehart/</guid>
+      <description>Aaron Rinehart
+https://twitter.com/aaronrinehart
+https://www.linkedin.com/in/aaronsrinehart/
+Bio:-
+Aaron has been expanding the possibilities of Chaos Engineering in its application to other safety- critical portions of the IT domain notably cybersecurity. He began pioneering the application of Security in Chaos Engineering during his tenure as the Chief Security Architect at the largest private healthcare company in the world, UnitedHealth Group (UHG). While at UHG Aaron released ChaoSlingr, one of the first open source software releases focused on using Chaos Engineering in cybersecurity to build more resilient systems.</description>
+    </item>
+    
+    <item>
+      <title>Episode 8 - Amar Singh</title>
+      <link>https://infosecvandana.com/leaderspeak/amarsingh/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/leaderspeak/amarsingh/</guid>
+      <description>Amar Singh
+https://www.linkedin.com/in/chiefinfosec/
+Bio:-
+Amar Singh is a CEO, CISO, Cyber Crisis &amp;amp; Incident Response Practitioner, Speaker &amp;amp; Co-Founder Cyber Management Alliance.
+Amar is an industry acknowledged expert and public speaker and is regularly invited to speak and share his insights by some of the largest and most respected organisations in the world including The BBC, The Economist’s Intelligence Unit, The Financial Times, SC Magazine, InfoSec Magazine, Computer Weekly, The Register and the Al-Jazeera English Channel.</description>
+    </item>
+    
+    <item>
+      <title>Episode 8 - Dhillon Kannabhiran</title>
       <link>https://infosecvandana.com/leaderspeak/dhillon/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/leaderspeak/dhillon/</guid>
       <description>Dhillon Kannabhiran
