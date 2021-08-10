@@ -7,7 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP Spotlight - Project 19 - OWASP Application Security Verification standard (ASVS)</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight19/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight19/</guid>
+      <description>OWASP Spotlight - Project 19 - OWASP Application Security Verification standard (ASVS)
+About the Project:-
+The OWASP Application Security Verification Standard (ASVS) Project provides a basis for testing web application technical security controls and also provides developers with a list of requirements for secure development.
+The primary aim of the OWASP Application Security Verification Standard (ASVS) Project is to normalize the range in the coverage and level of rigor available in the market when it comes to performing Web application security verification using a commercially-workable open standard.</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 18 - OWASP DSOMM</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight18/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight18/</guid>
+      <description>OWASP Spotlight - Project 18 - OWASP DSOMM
+About the Project:-
+The DevSecOps Maturity Model, shows security measures which are applied when using DevOps strategies and how these can be prioritized. With the help of DevOps strategies security can also be enhanced. For example, each component such as application libraries and operating system libraries in docker images can be tested for known vulnerabilities. Attackers are intelligent and creative, equipped with new technologies and purpose.</description>
+    </item>
+    
+    <item>
+      <title>OWASP Spotlight - Project 17 - Education and Training Committee</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight17/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight17/</guid>
+      <description>OWASP Spotlight - Project 17 - Education and Training Committee
+About the Committee
+To provide a support mechanism for OWASP education activities to foster collaborations and supporting relationships with the Application Security, Developer and Training communities both academic and industry based.
+Helps to advise the Foundation &amp;amp; Board of an educational strategy for OWASP. We should be leading the world in the sector.
+About Education and Training Committee Information
+Website : https://owasp.</description>
+    </item>
+    
     <item>
       <title>AISA Webinar: Shifting left in application security </title>
       <link>https://infosecvandana.com/webinars/aisa2021/</link>
@@ -1544,6 +1581,15 @@ Priya Murthi, Project Manager, Shell
 Minatee Mishra, Lead Engineer, Philips
 Nidhi Agarwal, Lead Technical Architect, Target
 Venue: Target Corporation India, Manyata Tech Park, Bangalore.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight20/</guid>
+      <description></description>
     </item>
     
   </channel>
