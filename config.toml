@@ -112,20 +112,26 @@ copyright="© Vandana Verma"
   url = "/Podcasts/"
   weight = -50
 
-  [[menu.main]]
+[[menu.main]]
   identifier = "leaderspeak"
-  name = "Leader Speak"
-  title = "Leader Speak"
+  name = "A Day in the life of an Entrepreneur"
+  title = "Leader Speak - A Day in the life of an Entrepreneur"
   url = "/leaderspeak/"
   weight = -30
 
-  [[menu.main]]
+[[menu.main]]
+  identifier = "ciso"
+  name = "A Day in the life of a CISO"
+  title = "Leader Speak - A Day in the life of a CISO"
+  url = "/ciso/"
+  weight = -20
+
+[[menu.main]]
   identifier = "owaspspotlightseries"
   name = "OWASP Projects Spotlight Series"
   title = "OWASP Projects Spotlight Series"
   url = "/owaspspotlightseries/"
-  weight = -30
-
+  weight = -20
   
 
 [sitemap]

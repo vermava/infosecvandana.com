@@ -16,8 +16,6 @@ Helps to advise the Foundation & Board of an educational strategy for OWASP. We 
 
 About Education and Training Committee Information
 
-Website : https://owasp.org/www-project-devsecops-maturity-model/
-
 Email: education-and-training-committee@owasp.org
 
 Twitter @OwaspEducation

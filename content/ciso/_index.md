@@ -1,6 +1,6 @@
 ---
 title: A day in the life of a CISO
-description: 'Leader Speak'
+description: 'Leader Speak - A Day in the life of a CISO'
 ---
 
 Every Leader has a journey. With the leaderspeak, I am trying to get to know their journy, what are the hurdles they have faced and how does their day looks like being a CISO. The things we can learn from them.

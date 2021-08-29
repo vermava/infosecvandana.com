@@ -1,0 +1,29 @@
+{{ partial "header" .}}
+
+<h1>{{ .Title }}</h1>
+
+<h3>{{ .Params.subtitle }}</h3>
+
+{{ if .Params.slideshare }}
+<iframe src="{{ .Params.slideshare }}" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+{{ end }}
+
+{{ if .Params.video }}
+<iframe width="560" height="315" src="{{ .Params.video }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ end }}
+
+{{ if .Params.video2 }}
+<iframe width="560" height="315" src="{{ .Params.video2 }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ end }}
+
+{{ if .Params.linkedin }}
+{{ end }}
+
+<br>
+
+<br>
+{{ .Content }}
+
+
+
+{{ partial "footer" .}}
