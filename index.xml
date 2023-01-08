@@ -109,9 +109,9 @@ https://twitter.com/pawandesai
 Bio:-
 Co-founder &amp;amp; CEO - MitKat Advisory Services, Cyber Security, IVLP fellow, Submariner, Advisor AllMiles, Visiting faculty at NMIMS MitKat Risk Intelligence and Monitoring Engine, Certified Corporate Director
 Learning for Mentees:
-  Do what you love
-  Mediocrity will kill the culture, Don&amp;rsquo;t accept Mediocrity, Work with people who want to work for a cause
-  Your work doesn&amp;rsquo;t define you. To be known for is who and what you are.</description>
+Do what you love
+Mediocrity will kill the culture, Don&amp;rsquo;t accept Mediocrity, Work with people who want to work for a cause
+Your work doesn&amp;rsquo;t define you. To be known for is who and what you are.</description>
     </item>
     
     <item>
@@ -253,7 +253,7 @@ Time Zones:
       
       <guid>https://infosecvandana.com/talks/rsa2021/</guid>
       <description>My First RSA Conference this year and I got the opportunity to be part of the conf in many ways. Lot of learning, takeaways, meeting virtually with amazing people.
- ITSPmagazine Podcast Interview at Media section with the very amazing Keren Elazari   Lightening talk for WeAreHackerz at RSA on “Careers in #AppSec: Lead with Grit”  BIRDS OF A FEATHER at Career Path (Technical Track) - Incredible discussion around Open source Software Security in the enterprise environments.</description>
+ITSPmagazine Podcast Interview at Media section with the very amazing Keren Elazari Lightening talk for WeAreHackerz at RSA on “Careers in #AppSec: Lead with Grit” BIRDS OF A FEATHER at Career Path (Technical Track) - Incredible discussion around Open source Software Security in the enterprise environments.</description>
     </item>
     
     <item>
@@ -338,11 +338,11 @@ Bryson is the Founder of SCYTHE, a start-up building a next generation attack em
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight15/</guid>
       <description>About the Project:- Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. Dependency-Track takes a unique and highly beneficial approach by leveraging the capabilities of Software Bill of Materials (SBOM). This approach provides capabilities that traditional Software Composition Analysis (SCA) solutions cannot achieve.
 Some of the ways you can help are as follows:
- Try it out Have your development team try it out Submit feedback via Github issues Submit pull requests  References:-</description>
+Try it out Have your development team try it out Submit feedback via Github issues Submit pull requests References:-</description>
     </item>
     
     <item>
-      <title>Vice-Chairperson - OWASP Global Board of Directors</title>
+      <title>Chairperson - OWASP Global Board of Directors</title>
       <link>https://infosecvandana.com/advisoryboard/owasp/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
       
@@ -381,7 +381,7 @@ Shira Shamban is a security researcher and technical expert with a focus on clou
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight14/</guid>
       <description>About the Project:- The Secure Coding Dojo is a training platform which can be customized to integrate with custom vulnerable websites and other CTF challenges.
 Getting Involved Involvement in the development and promotion of Secure Coding Dojo is actively encouraged! You do not have to be a security expert or a programmer to contribute. Some of the ways you can help are as follows:
- Try it out Have your development team try it out Submit feedback via Github issues Submit pull requests  References:- OWASP Secure Coding Dojo Main Project Page: https://owasp.</description>
+Try it out Have your development team try it out Submit feedback via Github issues Submit pull requests References:- OWASP Secure Coding Dojo Main Project Page: https://owasp.</description>
     </item>
     
     <item>
@@ -491,7 +491,7 @@ References:- OWASP Zed Attack Proxy (ZAP) - https://owasp.</description>
       <description>Fri Feb 26, 11:00 AM - 11:45 AM GMT +5.5 (45 Min)
 [Track : Security &amp;amp; Privacy]
 Title : Redefining Trust in Security
-If you ask a security expert on “how to protect their network” they would mostly say “firewalls&#39;&#39;. It may not be enough for today’s environment. The landscape has significantly changed due to the perimeters having disappeared; people can login remotely, cloud has stepped in; everyone is a tenant on a shared server, digital transformation.</description>
+If you ask a security expert on “how to protect their network” they would mostly say “firewalls&amp;rsquo;&amp;rsquo;. It may not be enough for today’s environment. The landscape has significantly changed due to the perimeters having disappeared; people can login remotely, cloud has stepped in; everyone is a tenant on a shared server, digital transformation.</description>
     </item>
     
     <item>
@@ -513,8 +513,7 @@ Checkout the conversation: https://bit.ly/2N4V1jV</description>
       <guid>https://infosecvandana.com/webinars/sabudh/</guid>
       <description>Student Session: Bridge the gap between AI/ML and Cyber Security
 Session on Embedding AI/ML with Cyber Security with Sabudh Foundation for BML Munjal University (BMU), Haryana
-Vandana speaks on 20th February at 11a.m. on &amp;ldquo;Embedding AI/ML with Cyber Security&amp;rdquo;. To attend, register at:
- </description>
+Vandana speaks on 20th February at 11a.m. on &amp;ldquo;Embedding AI/ML with Cyber Security&amp;rdquo;. To attend, register at:</description>
     </item>
     
     <item>
@@ -526,7 +525,7 @@ Vandana speaks on 20th February at 11a.m. on &amp;ldquo;Embedding AI/ML with Cyb
       <description>About the Workshop
 Showcasing Security Testing essentials, OWASP Project, different tools and approaches for Security Testing.
 Attendees will learn:
- What is Application security Testing and its importance OWASP Security Testing Projects, tools and approaches How to start with Security Testing  Reference Link: https://www.townscript.com/e/csqa-security-test-workshop
+What is Application security Testing and its importance OWASP Security Testing Projects, tools and approaches How to start with Security Testing Reference Link: https://www.townscript.com/e/csqa-security-test-workshop
 Video</description>
     </item>
     
@@ -591,13 +590,13 @@ Dr. Amelia Estwick, Director, National Cybersecurity Institute, spent over 20 ye
       <description>Panel discussion - Application Security Testing
 Schedule: Jan 28, 19:30-20:10 CET
 Invited panelists:
-  Scott Gerlach (CSO &amp;amp; Co-Founder @ StackHawk)
-  Sam Stepanyan (OWASP London Chapter Leader &amp;amp; Independent Application Security Consultant)
-  Liran Tal (Developer Advocate @ Snyk &amp;amp; Node.js Foundation Security Working Group)
-  Bar Hofesh (Co-Founder, CTO &amp;amp; Security Researcher @ NeuraLegion)
-  Moderator:
+Scott Gerlach (CSO &amp;amp; Co-Founder @ StackHawk)
+Sam Stepanyan (OWASP London Chapter Leader &amp;amp; Independent Application Security Consultant)
+Liran Tal (Developer Advocate @ Snyk &amp;amp; Node.js Foundation Security Working Group)
+Bar Hofesh (Co-Founder, CTO &amp;amp; Security Researcher @ NeuraLegion)
+Moderator:
 Vandana Verma Sehgal
-  The focus of the panel discussion we planned to have but are open to discuss your ideas as well (if you join us):</description>
+The focus of the panel discussion we planned to have but are open to discuss your ideas as well (if you join us):</description>
     </item>
     
     <item>
@@ -630,10 +629,11 @@ https://soundcloud.com/user-699370465/inspire-20-vandana-verma-infosec-girls</de
       <guid>https://infosecvandana.com/paneldiscussion/iitk_alumani/</guid>
       <description>Alumni Association of IIT Kanpur Delhi Chapter cordially invites you all to benefit from the Webinar on Cyberthreats and Darkweb scare while working from home on Saturday 16th Jan 2021 from 5.30 PM to 6.30 PM.
 Moderated By
-  Mr. Sameer Nigam ( CEO Stratbeans/ IIT Kanpur 96 /IIM A 06)
-  Ms Sneha Rahar ( Manager, American Express/ IIT Kanpur 2016)
-  Panelists:
-  Prof Sandeep Shukla IIT Kanpur</description>
+Mr. Sameer Nigam ( CEO Stratbeans/ IIT Kanpur 96 /IIM A 06)
+Ms Sneha Rahar ( Manager, American Express/ IIT Kanpur 2016)
+Panelists:
+Prof Sandeep Shukla IIT Kanpur
+Ms Vandana Verma Sehgal IBM</description>
     </item>
     
     <item>
@@ -709,7 +709,7 @@ Globally recognized by developers as the first step towards more secure coding. 
       
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight9/</guid>
       <description>About the Project:- The Software Assurance Maturity Model (SAMM) is an open framework to help organizations formulate and implement a strategy for software security that is tailored to the specific risks facing the organization. SAMM helps you:
- Evaluate an organization’s existing software security practices Build a balanced software security assurance program in well-defined iterations Demonstrate concrete improvements to a security assurance program Define and measure security-related activities throughout an organization  References:-</description>
+Evaluate an organization’s existing software security practices Build a balanced software security assurance program in well-defined iterations Demonstrate concrete improvements to a security assurance program Define and measure security-related activities throughout an organization References:-</description>
     </item>
     
     <item>
@@ -731,8 +731,7 @@ Contributing to Proactive Controls - https://github.com/OWASP/www-project-proact
       
       <guid>https://infosecvandana.com/paneldiscussion/owasptestingtools/</guid>
       <description>How Owasp can help Security Teams - Guides and Testing Tools - 8th December 2020
-By Dinis Cruz, Sam Stepanyan, Grant Ongers and Vandana Verma
- </description>
+By Dinis Cruz, Sam Stepanyan, Grant Ongers and Vandana Verma</description>
     </item>
     
     <item>
@@ -908,8 +907,7 @@ https://www.scmagazine.com/women-in-it-security/women-advocates/vandana-verma-br
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/talks/rootcon/</guid>
-      <description>Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun
- </description>
+      <description>Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun</description>
     </item>
     
     <item>
@@ -1040,9 +1038,8 @@ Panelists</description>
       <guid>https://infosecvandana.com/paneldiscussion/emergingtipsforwomen/</guid>
       <description>Moderator - Dr. Chandra Vadhana R, Founder &amp;amp; Director Prayaana Labs
 Panelists
-  Sanjay Kumar IPS, DIG Range Trivandrum
-  Vandana Verma, OWASP Global Board of Directors
-  </description>
+Sanjay Kumar IPS, DIG Range Trivandrum
+Vandana Verma, OWASP Global Board of Directors</description>
     </item>
     
     <item>
@@ -1069,13 +1066,12 @@ The jury comprised of
       <description>Indo-Pacific Series - reviewing the Australian Cyber Security Strategy and making Women in Security announcements
 Moderator - Chris Cubbage
 Panelists
-  Ron Gauci GAICD
-  Sean Duca
-  Ian Yip,
-  Dr Carrine Teoh Chooi Shi
-  Vandana Verma and
-  Raman Sopory
-  </description>
+Ron Gauci GAICD
+Sean Duca
+Ian Yip,
+Dr Carrine Teoh Chooi Shi
+Vandana Verma and
+Raman Sopory</description>
     </item>
     
     <item>
@@ -1132,8 +1128,7 @@ Reference:- https://redteamvillage.io/day0.html</description>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/talks/blackhatusa2020/</guid>
-      <description>Reference Link: Black Hat USA
- </description>
+      <description>Reference Link: Black Hat USA</description>
     </item>
     
     <item>
@@ -1221,8 +1216,7 @@ Must attend webinar for #technology enthusiasts, #entrepreneurs, IT professional
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/podcasts/cloudsecuritymyths/</guid>
-      <description>There are still lots of misconceptions and myths about Cloud Security. In this episode , Vandana Verma Global Board of Directors at OWASP and InfosecGirls shares her thoughts on cloud security. Discover some myth-busting truths about security and the cloud and how to avoid some common perceptions around cloud security. Listen up!
- </description>
+      <description>There are still lots of misconceptions and myths about Cloud Security. In this episode , Vandana Verma Global Board of Directors at OWASP and InfosecGirls shares her thoughts on cloud security. Discover some myth-busting truths about security and the cloud and how to avoid some common perceptions around cloud security. Listen up!</description>
     </item>
     
     <item>
@@ -1249,8 +1243,7 @@ Must attend webinar for #technology enthusiasts, #entrepreneurs, IT professional
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/talks/opensummit/</guid>
-      <description>Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun
- </description>
+      <description>Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun</description>
     </item>
     
     <item>
@@ -1260,7 +1253,7 @@ Must attend webinar for #technology enthusiasts, #entrepreneurs, IT professional
       
       <guid>https://infosecvandana.com/talks/womentech/</guid>
       <description>&amp;ldquo;Implementing Zero Trust in an organisation to be uncertainty Ready&amp;rdquo;
- Reference:-
+Reference:-
 https://www.womentech.net/en-in/speaker/Vandana/Verma</description>
     </item>
     
@@ -1350,10 +1343,9 @@ https://timesofindia.indiatimes.com/city/bengaluru/bug-report-the-female-hackers
       <guid>https://infosecvandana.com/paneldiscussion/how-to-start-a-career-in-appsec/</guid>
       <description>Moderator - Niloufer Tamboly,
 Panelists
-  Mohan Yelnadu
-  Katy Anton
-  Vandana Verma
-   </description>
+Mohan Yelnadu
+Katy Anton
+Vandana Verma</description>
     </item>
     
     <item>
@@ -1375,10 +1367,10 @@ Zero trust , why and why not?</description>
       <description>Fast, Accurate, Agile Security Testing
 Moderator: Eitan Worcel
 Panelists:
-  Vandana Verma Sehgal
-  Dragan Pleskonjic
-  Laura Guazzelli
-  Reference:-
+Vandana Verma Sehgal
+Dragan Pleskonjic
+Laura Guazzelli
+Reference:-
 https://www.brighttalk.com/webinar/fast-accurate-agile-security-testing%e2%80%8b-with-appscan-v10/</description>
     </item>
     
@@ -1460,8 +1452,9 @@ Reference https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in
 (https://appseccalifornia2020.sched.com/event/XLtw/diversity-by-design-securing-the-cyber-workforce-development-lifecycle)
 Panel discussion on the importance of diversity and inclusion in information security, as well as shared experiences and best practices around building diversity and inclusion into the constantly evolving cybersecurity ecosystem.
 Topics covered will include the following:
-  Professional learning (from both the educator and learning perspectives)
-  The importance of diversity on an AppSec team or organization</description>
+Professional learning (from both the educator and learning perspectives)
+The importance of diversity on an AppSec team or organization
+How executives and managers can best incorporate diversity and initiatives within their organization</description>
     </item>
     
     <item>
@@ -1588,8 +1581,7 @@ We have been talking about the technical angle of DevSecOps. How do I go about b
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/webinars/devopssurvey/</guid>
-      <description>In this week&amp;rsquo;s DevOps Defined, we talk to Vandana Verma of OWASP Bangalore about a DevSecOps survey she and her team created and why you should take it ASAP to ensure you have a safe secure DevOps environment.
- </description>
+      <description>In this week&amp;rsquo;s DevOps Defined, we talk to Vandana Verma of OWASP Bangalore about a DevSecOps survey she and her team created and why you should take it ASAP to ensure you have a safe secure DevOps environment.</description>
     </item>
     
     <item>
@@ -1598,8 +1590,7 @@ We have been talking about the technical angle of DevSecOps. How do I go about b
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://infosecvandana.com/talks/devseccon/</guid>
-      <description>The talk would be around the general myths we have on Cloud Security and Cloud Computing. Also, we will map the myths with different roles and discuss how to resolve that.
- </description>
+      <description>The talk would be around the general myths we have on Cloud Security and Cloud Computing. Also, we will map the myths with different roles and discuss how to resolve that.</description>
     </item>
     
     <item>
@@ -1623,7 +1614,7 @@ The training covered understanding the internals of web and mobile applications,
 OWASP Kids village is an Open space exclusively for Kids where there is so much playing around and exploring the insights of Digital World.
 Reference: http://is-ra.org/c0c0n/2017/kids_village
 Highlights
- OWASP Dissector  Dissector is an event where the kids will be given a platform to knowthe gadgets in a more technical way. They will be assigned a mentor who will completely open up the deviceand make them familiar with thecomponents and their every aspect.</description>
+OWASP Dissector Dissector is an event where the kids will be given a platform to knowthe gadgets in a more technical way. They will be assigned a mentor who will completely open up the deviceand make them familiar with thecomponents and their every aspect.</description>
     </item>
     
     <item>
