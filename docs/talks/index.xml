@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference Talks on Vandana Verma</title>
+    <link>https://infosecvandana.com/talks/</link>
+    <description>Recent content in Conference Talks on Vandana Verma</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Vandana Verma</copyright>
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://infosecvandana.com/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RSA Conference 2021</title>
+      <link>https://infosecvandana.com/talks/rsa2021/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/rsa2021/</guid>
+      <description>&lt;p&gt;My First RSA Conference this year and I got the opportunity to be part of the conf in many ways. Lot of learning, takeaways, meeting virtually with amazing people.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ITSPmagazine Podcast Interview at Media section with the very amazing Keren Elazari&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ppd7xBlcMsU&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Lightening talk for WeAreHackerz at RSA on “Careers in #AppSec: Lead with Grit”&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/RSAC_wehackerz.png&#34; alt=&#34;RSA&#34;&gt;&lt;/p&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;BIRDS OF A FEATHER at Career Path (Technical Track) - Incredible discussion around Open source Software Security in the enterprise environments. - &lt;a href=&#34;https://www.rsaconference.com/usa/agenda/session/lets-talk-open-source-application-security&#34;&gt;https://www.rsaconference.com/usa/agenda/session/lets-talk-open-source-application-security&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/rsa_bof.png&#34; alt=&#34;RSA&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keynote: Careers in AppSec: Lead with Grit</title>
+      <link>https://infosecvandana.com/talks/careerinappsec_mit/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/careerinappsec_mit/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Closing the Skill Gap With More Women in Cybersecurity&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;To gain an insight into the lack of women representation, CISO MAG gauged a few women security influencers to understand the cause of this alarming trend. This article is part of a series of interviews from women cybersecurity experts who shed light representation of women in cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cisomag.jpg&#34; alt=&#34;cisomag&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;a href=&#34;https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in-cybersecurity/3/&#34;&gt;https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in-cybersecurity/3/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Grace Hopper Celebration 2021 - India</title>
+      <link>https://infosecvandana.com/talks/ghci2021/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/ghci2021/</guid>
+      <description>&lt;p&gt;Fri Feb 26, 11:00 AM - 11:45 AM GMT +5.5   (45 Min)&lt;/p&gt;&#xA;&lt;p&gt;[Track : Security &amp;amp; Privacy]&lt;/p&gt;&#xA;&lt;p&gt;Title : Redefining Trust in Security&lt;/p&gt;&#xA;&lt;p&gt;If you ask a security expert on “how to protect their network” they would mostly say “firewalls&amp;rsquo;&amp;rsquo;. It may not be enough for today’s environment. The landscape has significantly changed due to the perimeters having disappeared; people can login remotely, cloud has stepped in; everyone is a tenant on a shared server, digital transformation. The mantra of “Trust but verify” is shifted to “Never Trust, always verify”. We firmly believe that the best way to secure your organization is by using context-driven security programs i.e. “Zero Trust”. We will talk about how organizations can adapt to “Zero Trust” with few scenarios on implementation of adaptive controls using existing technologies (Identity &amp;amp; Access Management (IAM), segmentation, analytics, encryption) and governance processes. This paper will be useful for people who want to transform security, who want to think about ubiquitous security and who want to predict ahead than react later.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keynote: Digital Week: Effective AppSec Program w/ Open Source (OWASP) Projects</title>
+      <link>https://infosecvandana.com/talks/digitalweek/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/digitalweek/</guid>
+      <description>&lt;p&gt;Joined Digital Week: Southeast Asia as a &lt;strong&gt;#keynotespeaker&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Four-day virtual conference from 23-26 February is a chance for all of us in the Cloud, Datacenter, and Cybersecurity industries to discuss innovations and developments across the ASEAN region.&lt;/p&gt;&#xA;&lt;p&gt;Checkout the conversation: &lt;a href=&#34;https://bit.ly/2N4V1jV&#34;&gt;https://bit.ly/2N4V1jV&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/digitalweek.jpeg&#34; alt=&#34;digitalweek&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Society for Data Science: Spice of Data Analytics in Cyber Security</title>
+      <link>https://infosecvandana.com/talks/icdmai2021/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/icdmai2021/</guid>
+      <description>&lt;p&gt;The Society for Data Science team is back with an exciting set of Workshops and Tutorials as a part of ICDMAI 2021 to happen on 15th January 2021.&lt;/p&gt;&#xA;&lt;p&gt;Join the Workshops on Spice of Data Analytics in Cyber Security by Vandana Verma Sehgal on 15th January 2021.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/societyfordatascience.jpeg&#34; alt=&#34;datascience&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keynote: DevSecOps Days London</title>
+      <link>https://infosecvandana.com/talks/devopsdays_london/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/devopsdays_london/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Title: Running a devsecops pipeline with open source projects&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Reference:- &lt;a href=&#34;https://www.devsecopsdays.com/2020-devsecops-days-london&#34;&gt;https://www.devsecopsdays.com/2020-devsecops-days-london&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/hhQvPAzN-Y8&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>ROOTCON: Zero Trust in the era of cloud</title>
+      <link>https://infosecvandana.com/talks/rootcon/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/rootcon/</guid>
+      <description>&lt;p&gt;Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/-cb_1WpkFcQ&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Black Hat Asia 2020</title>
+      <link>https://infosecvandana.com/talks/blackhatasia/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/blackhatasia/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/blackhatasia2020.png&#34; alt=&#34;blackhat2020&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference Link&lt;/strong&gt;: &lt;a href=&#34;https://www.blackhat.com/asia-20/briefings/schedule/index.html#making-an-impact-from-india-to-the-rest-of-the-world-by-building-and-nurturing-women-infosec-community-18483&#34;&gt;Black Hat Asia&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Defcon - AppSec Village 2020</title>
+      <link>https://infosecvandana.com/talks/appsecvillage_2020/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/appsecvillage_2020/</guid>
+      <description>&lt;p&gt;Title: Running an appsec program with open source projects&lt;/p&gt;&#xA;&lt;p&gt;We are all heading towards the modernization of applications. However, we still see the companies being impacted with the most common website vulnerabilities like SQL Injection, Sensitive data exposure, security misconfiguration, etc.&#xA;OWASP has many projects which can be tied seamlessly into the application development pipeline structure. However, firstly we don’t know if the projects exist, second, if we know about the projects, we do not know the exact working of the projects. In the talk, I will be talking about how to run an AppSec program with open source projects (OWASP Projects)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Defcon - Red Team Village 2020: Zero Trust</title>
+      <link>https://infosecvandana.com/talks/redteamvillage_2020/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/redteamvillage_2020/</guid>
+      <description>&lt;p&gt;Title: Zero Trust - A Vision for Securing Cloud and Redefining Security&lt;/p&gt;&#xA;&lt;p&gt;Reference:- &lt;a href=&#34;https://redteamvillage.io/day0.html&#34;&gt;https://redteamvillage.io/day0.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/redteamvillage_2020.png&#34; alt=&#34;Red Team Village&#34;&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/6P0-Mp6XMpE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Black Hat USA 2020</title>
+      <link>https://infosecvandana.com/talks/blackhatusa2020/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/blackhatusa2020/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/blackhat.png&#34; alt=&#34;blackhat2020&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/blackhat_2.jpeg&#34; alt=&#34;blackhat2020&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference Link&lt;/strong&gt;: &lt;a href=&#34;https://www.blackhat.com/us-20/briefings/schedule/index.html#making-an-impact-from-india-to-the-rest-of-the-world-by-building-and-nurturing-women-infosec-community-19663&#34;&gt;Black Hat USA&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/YlDZOFH6lCs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>CII Karnataka Cybersecurity Digital Conference 2020</title>
+      <link>https://infosecvandana.com/talks/ciikarnataka/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/ciikarnataka/</guid>
+      <description>&lt;p&gt;Panel discussion on Ethics and Privacy&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/ciikarnataka.png&#34; alt=&#34;ciikarnataka&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Security Summit</title>
+      <link>https://infosecvandana.com/talks/opensummit/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/opensummit/</guid>
+      <description>&lt;p&gt;Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7zs4wezbt8o&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Implementing Zero Trust in an organisation to be uncertainty Ready</title>
+      <link>https://infosecvandana.com/talks/womentech/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/womentech/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;Implementing Zero Trust in an organisation to be uncertainty Ready&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/WTGC.png&#34; alt=&#34;WIT&#34;&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/p_n3QCDqIsY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;Reference:-&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.womentech.net/en-in/speaker/Vandana/Verma&#34;&gt;https://www.womentech.net/en-in/speaker/Vandana/Verma&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> Women Tech Network Global Conference: Implementing Zero Trust in an organisation to be uncertainty Ready </title>
+      <link>https://infosecvandana.com/talks/womentechnet/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/womentechnet/</guid>
+      <description>&lt;p&gt;Session: Implementing Zero Trust in an organisation to be uncertainty Ready&lt;/p&gt;&#xA;&lt;p&gt;The Current unprecedented situation has changed the IT World forever, no matter what the outcome is, the conceptual changes in the working styles of people are here to stay. The world will never get back to the plane jane everything works only on this building for most of the work environment.&lt;/p&gt;&#xA;&lt;p&gt;Currently most of the firms have scrambled to enable the workforce to work from home with a certain level of security. This is a band aid fix at best in current time, However the concept of zero trust has been present for ages and is the right kind of solution we need for such situations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CyberDay4Girls 2020</title>
+      <link>https://infosecvandana.com/talks/cyberday_canada/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/cyberday_canada/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cyberday.png&#34; alt=&#34;cyberday&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sarcon 2020</title>
+      <link>https://infosecvandana.com/talks/sarcon2020/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/sarcon2020/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/sarcon.jpeg&#34; alt=&#34;Sacon&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SACON 2020</title>
+      <link>https://infosecvandana.com/talks/sacon2020/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/sacon2020/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/sacon.png&#34; alt=&#34;Sacon&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keynote: Diversity And Inclusion - Not Just A Gender Gap - Vandana Verma</title>
+      <link>https://infosecvandana.com/talks/addo/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/addo/</guid>
+      <description>&lt;p&gt;There has been a lot of conversations around diversity and inclusion in the recent past.  This is a step in a positive direction. The benefits of diversity in cybersecurity are clear. As an industry, we can do better, we need to do better. We need not only to keep the conversation going but to really place some action behind it. While homogenous teams feel easier to operate in, it can lead to stagnation, or specialisations in some aspects at the expense of others.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keynote: Diversity And Inclusion - Not Just A Gender Gap - Vandana Verma </title>
+      <link>https://infosecvandana.com/talks/appsecdc/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/appsecdc/</guid>
+      <description>&lt;p&gt;There has been a lot of conversations around diversity and inclusion in the recent past.  This is a step in a positive direction. The benefits of diversity in cybersecurity are clear. As an industry, we can do better, we need to do better. We need not only to keep the conversation going but to really place some action behind it. While homogenous teams feel easier to operate in, it can lead to stagnation, or specialisations in some aspects at the expense of others.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shifting the DevSecOps Culture, Taking away the sugar piece and giving the pile to ants : Defcon - AppSec Village 2019</title>
+      <link>https://infosecvandana.com/talks/appsecvillage_2019/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/appsecvillage_2019/</guid>
+      <description>&lt;p&gt;Title: Shifting the DevSecOps Culture, Taking away the sugar piece and giving the pile to ants&lt;/p&gt;&#xA;&lt;p&gt;We have been talking about the technical angle of DevSecOps. How do I go about building the DevSecOps culture in the organisation? So far Generally corporates are trying to have all three Plays and teams Dev, Sec and Ops team together. However, the Ideal DevSecOps idea is each individual should know what is happening in the whole process. If person or team has issues/concern, then anyone can stand-up and take the DevSecOps further. Instead of giving the sugar cube to the individuals give them the who Pile of sugar to the Ants (aka teams), incase something fails the other teams can balance the situation or stand up for each other.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevSecCon: Cloud Security and the Myths Around it</title>
+      <link>https://infosecvandana.com/talks/devseccon/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/devseccon/</guid>
+      <description>&lt;p&gt;The talk would be around the general myths we have on Cloud Security and Cloud Computing. Also, we will map the myths with different roles and discuss how to resolve that.&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/FHKG3b07PtA&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>OWASP AppSec Europe 2018</title>
+      <link>https://infosecvandana.com/talks/appseceurope2018/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/appseceurope2018/</guid>
+      <description>&lt;p&gt;Thursday, July 5 • 12:30pm - 1:30pm&lt;/p&gt;&#xA;&lt;p&gt;OWASPWIA (Women In AppSec) hosted a talk and luncheon for all the Ladies&lt;/p&gt;&#xA;&lt;p&gt;Venue:&lt;/p&gt;&#xA;&lt;p&gt;Byron- 4th Floor QEII Centre Broad Sanctuary, Westminster, London. SW1P 3EE&lt;/p&gt;&#xA;&lt;p&gt;Reference:- &lt;a href=&#34;https://2018.appsec.eu/about/women-in-appsec&#34;&gt;https://2018.appsec.eu/about/women-in-appsec&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

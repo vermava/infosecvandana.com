@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advisory Board on Vandana Verma</title>
+    <link>https://infosecvandana.com/advisoryboard/</link>
+    <description>Recent content in Advisory Board on Vandana Verma</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Vandana Verma</copyright>
+    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://infosecvandana.com/advisoryboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chairperson - OWASP Global Board of Directors</title>
+      <link>https://infosecvandana.com/advisoryboard/owasp/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/advisoryboard/owasp/</guid>
+      <description>&lt;p&gt;Reference link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://owasp.org/corporate/&#34;&gt;https://owasp.org/corporate/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Black Hat Asia Review Board</title>
+      <link>https://infosecvandana.com/advisoryboard/blackhat/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/advisoryboard/blackhat/</guid>
+      <description>&lt;p&gt;Reference link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.blackhat.com/asia-21/review-board.html#Vandana-Verma&#34;&gt;https://www.blackhat.com/asia-21/review-board.html#Vandana-Verma&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond Borders Advisory Board Member - SiberX</title>
+      <link>https://infosecvandana.com/advisoryboard/siberx/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/advisoryboard/siberx/</guid>
+      <description>&lt;p&gt;Reference link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.siberx.org/event/women-in-cybersecurity-beyond-borders/&#34;&gt;https://www.siberx.org/event/women-in-cybersecurity-beyond-borders/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>EC-Council Advisory Board for CND</title>
+      <link>https://infosecvandana.com/advisoryboard/eccouncil/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/advisoryboard/eccouncil/</guid>
+      <description>&lt;p&gt;Reference link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.eccouncil.org/cnd-advisory-board/&#34;&gt;https://www.eccouncil.org/cnd-advisory-board/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

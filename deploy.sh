@@ -10,10 +10,10 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-cd public
+# cd public
 
 # Add changes to git.
-git add .
+git add -A
 
 # Commit changes.
 msg="rebuilding site $(date)"
@@ -26,7 +26,7 @@ git commit -m "$msg"
 git push
 
 # update links
-cd ..
-git add public
-git commit -m "updating public reference"
-git push
+#cd ..
+#git add public
+#git commit -m "updating public reference"
+#git push

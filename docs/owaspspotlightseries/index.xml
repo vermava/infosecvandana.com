@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OWASP Projects Spotlight Series on Vandana Verma</title>
+    <link>https://infosecvandana.com/owaspspotlightseries/</link>
+    <description>Recent content in OWASP Projects Spotlight Series on Vandana Verma</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Vandana Verma</copyright>
+    <lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://infosecvandana.com/owaspspotlightseries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP Spotlight - Project 19 - OWASP Application Security Verification standard (ASVS)</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight19/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight19/</guid>
+      <description>&lt;p&gt;OWASP Spotlight - Project 19 - OWASP Application Security Verification standard (ASVS)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;About the Project:-&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The OWASP Application Security Verification Standard (ASVS) Project provides a basis for testing web application technical security controls and also provides developers with a list of requirements for secure development.&lt;/p&gt;&#xA;&lt;p&gt;The primary aim of the OWASP Application Security Verification Standard (ASVS) Project is to normalize the range in the coverage and level of rigor available in the market when it comes to performing Web application security verification using a commercially-workable open standard.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 18 - OWASP DSOMM</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight18/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight18/</guid>
+      <description>&lt;p&gt;OWASP Spotlight - Project 18 - OWASP DSOMM&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;About the Project:-&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The DevSecOps Maturity Model, shows security measures which are applied when using DevOps strategies and how these can be prioritized. With the help of DevOps strategies security can also be enhanced. For example, each component such as application libraries and operating system libraries in docker images can be tested for known vulnerabilities. Attackers are intelligent and creative, equipped with new technologies and purpose. Under the guidance of the forward-looking DevSecOps Maturity Model, appropriate principles and measures are at hand implemented which counteract the attacks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 17 - Education and Training Committee</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight17/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight17/</guid>
+      <description>&lt;p&gt;OWASP Spotlight - Project 17 - Education and Training Committee&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;About the Committee&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;To provide a support mechanism for OWASP education activities to foster collaborations and supporting relationships with the Application Security, Developer and Training communities both academic and industry based.&lt;/p&gt;&#xA;&lt;p&gt;Helps to advise the Foundation &amp;amp; Board of an educational strategy for OWASP. We should be leading the world in the sector.&lt;/p&gt;&#xA;&lt;p&gt;About Education and Training Committee Information&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:education-and-training-committee@owasp.org&#34;&gt;education-and-training-committee@owasp.org&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 16 - Cornucopia</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight16/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight16/</guid>
+      <description>&lt;p&gt;OWASP Spotlight - Project 16 - Cornucopia&lt;/p&gt;&#xA;&lt;p&gt;About the Project:-&#xA;OWASP Foundation Cornucopia is a mechanism in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It is language, platform and technology agnostic.&#xA;The idea behind Cornucopia is to help development teams, especially those using Agile methodologies, to identify application security requirements and develop security-based user stories.&lt;/p&gt;&#xA;&lt;p&gt;Getting Involved&#xA;Involvement in the development is actively encouraged! You do not have to be a security expert or a programmer to contribute.&#xA;Some of the ways you can help are as follows:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 15 - Dependency Track</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight15/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight15/</guid>
+      <description>&lt;p&gt;About the Project:-&#xA;Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. Dependency-Track takes a unique and highly beneficial approach by leveraging the capabilities of Software Bill of Materials (SBOM). This approach provides capabilities that traditional Software Composition Analysis (SCA) solutions cannot achieve.&lt;/p&gt;&#xA;&lt;p&gt;Some of the ways you can help are as follows:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Try it out&lt;/li&gt;&#xA;&lt;li&gt;Have your development team try it out&lt;/li&gt;&#xA;&lt;li&gt;Submit feedback via Github issues&lt;/li&gt;&#xA;&lt;li&gt;Submit pull requests&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;References:-&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 14 - Secure Coding Dojo</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight14/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight14/</guid>
+      <description>&lt;p&gt;About the Project:-&#xA;The Secure Coding Dojo is a training platform which can be customized to integrate with custom vulnerable websites and other CTF challenges.&lt;/p&gt;&#xA;&lt;p&gt;Getting Involved&#xA;Involvement in the development and promotion of Secure Coding Dojo is actively encouraged! You do not have to be a security expert or a programmer to contribute.&#xA;Some of the ways you can help are as follows:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Try it out&lt;/li&gt;&#xA;&lt;li&gt;Have your development team try it out&lt;/li&gt;&#xA;&lt;li&gt;Submit feedback via Github issues&lt;/li&gt;&#xA;&lt;li&gt;Submit pull requests&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;References:-&#xA;OWASP Secure Coding Dojo Main Project Page: &lt;a href=&#34;https://owasp.org/www-project-secure-coding-dojo/&#34;&gt;https://owasp.org/www-project-secure-coding-dojo/&lt;/a&gt;&#xA;Secure Coding Dojo Github : &lt;a href=&#34;https://github.com/owasp/SecureCodingDojo&#34;&gt;https://github.com/owasp/SecureCodingDojo&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 13 - Mobile Security Testing Guide</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight13/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight13/</guid>
+      <description>&lt;p&gt;About the Project:-&lt;/p&gt;&#xA;&lt;p&gt;The MSTG is a comprehensive manual for mobile app security testing and reverse engineering for iOS and Android mobile security testers with the following content:&#xA;*Mobile platform internals&lt;/p&gt;&#xA;&lt;p&gt;*Security testing in the mobile app development lifecycle&#xA;*Basic static and dynamic security testing&#xA;*Mobile app #reverseengineering​ and tampering&#xA;#Assessing​ software protections&lt;/p&gt;&#xA;&lt;p&gt;Detailed test cases that map to the requirements in the MASVS.&lt;/p&gt;&#xA;&lt;p&gt;References:-&lt;/p&gt;&#xA;&lt;p&gt;OWASP Mobile Security Testing Guide Main Project Page: &lt;a href=&#34;https://owasp.org/www-project-mobile-security-testing-guide/&#34;&gt;https://owasp.org/www-project-mobile-security-testing-guide/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 12 - Zed Attack Proxy (ZAP)</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight12/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight12/</guid>
+      <description>&lt;p&gt;About the Project:-&#xA;The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by a dedicated international team of volunteers. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. It&amp;rsquo;s also a great tool for experienced pen-testers to use for manual security testing.&lt;/p&gt;&#xA;&lt;p&gt;References:-&#xA;OWASP Zed Attack Proxy (ZAP) - &lt;a href=&#34;https://owasp.org/www-project-zap/&#34;&gt;https://owasp.org/www-project-zap/&lt;/a&gt;​&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 11 - Nettacker</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight11/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight11/</guid>
+      <description>&lt;p&gt;This project is an automated penetration testing tool, but it can be used for all sorts of interesting things because it is modular and basically it&amp;rsquo;s written in Python, and it allows you to do three different things. So it allows us to Perform scans Of the network. Originally it was created as an IoT scanner to scan IoT devices. So you can scan the network, it can discover your service your hosts, it can scan for open ports and it doesn&amp;rsquo;t really quickly. And it&amp;rsquo;s written in Python. So&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 10 - Top10</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight10/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight10/</guid>
+      <description>&lt;p&gt;The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.&lt;/p&gt;&#xA;&lt;p&gt;Globally recognized by developers as the first step towards more secure coding. Companies should adopt this document and start the process of ensuring that their web applications minimize these risks. Using the OWASP Top 10 is perhaps the most effective first step towards changing the software development culture within your organization into one that produces more secure code.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 9 - Software Assurance Maturity Model (SAMM)</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight9/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight9/</guid>
+      <description>&lt;p&gt;About the Project:-&#xA;The Software Assurance Maturity Model (SAMM) is an open framework to help organizations formulate and implement a strategy for software security that is tailored to the specific risks facing the organization. SAMM helps you:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Evaluate an organization’s existing software security practices&lt;/li&gt;&#xA;&lt;li&gt;Build a balanced software security assurance program in well-defined iterations&lt;/li&gt;&#xA;&lt;li&gt;Demonstrate concrete improvements to a security assurance program&lt;/li&gt;&#xA;&lt;li&gt;Define and measure security-related activities throughout an organization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;References:-&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 8 - Proactive Controls</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight8/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight8/</guid>
+      <description>&lt;p&gt;About the Project:-&lt;/p&gt;&#xA;&lt;p&gt;The OWASP Top Ten Proactive Controls describes the most important control and control categories that every architect and developer should absolutely, 100% include in every project.&lt;/p&gt;&#xA;&lt;p&gt;OWASP Proactive Controls - &lt;a href=&#34;https://owasp.org/www-project-proactive-controls/&#34;&gt;https://owasp.org/www-project-proactive-controls/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Contributing to Proactive Controls - &lt;a href=&#34;https://github.com/OWASP/www-project-proactive-controls/&#34;&gt;https://github.com/OWASP/www-project-proactive-controls/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 7 -  Security Knowledge Framework </title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight7/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight7/</guid>
+      <description>&lt;p&gt;Hi Everyone.&lt;/p&gt;&#xA;&lt;p&gt;We are back again with another spotlight series project and today we have OWASP Security Knowledge Framework (SKF) with us. I feel that this is one project, which is so much relevant and this is required in any organization for training the developers, security researchers, for getting the requirements and whatnot.&lt;/p&gt;&#xA;&lt;p&gt;The security framework wants to help developers &amp;amp; empower them, to be able to give them the right awareness and knowledge to build secure applications by design. For the API, the front end of SPF, everything is ready and be able to also deploy in Kubernetes platforms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 6 -  PyTM </title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight6/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight6/</guid>
+      <description>&lt;p&gt;We are back again with another oversaw spotlight series project, and this time we have a very interesting project, which is around Threat Modeling.&lt;/p&gt;&#xA;&lt;p&gt;Fixing the bugs later in the stage can cost huge money. Now, when we all started talking about DevOps or DevSecOps, So it&amp;rsquo;s imperative that we bring in the Threat Model in  #cloud, which is automated which have which have less of work for us, especially for testers for developers for anyone, Who is a part of the application development lifecycle and even for architects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 5 -  SecurityRAT</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight5/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight5/</guid>
+      <description>&lt;p&gt;Gathering the requirements and tracking them is always a challenge in the application development. The biggest concern area is if the security requirement changes then to track them.&lt;/p&gt;&#xA;&lt;p&gt;The next project as part of OWASP Spotlight series helps in gathering the requirements and cherry on top of cake in automating them. SecurityRAT simplifies the security requirement management during development using automation approaches.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;About the Project:-&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;OWASP SecurityRAT - &lt;a href=&#34;https://owasp.org/www-project-securityrat/&#34;&gt;https://owasp.org/www-project-securityrat/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Official Website  CRS - &lt;a href=&#34;https://securityrat.github.io/&#34;&gt;https://securityrat.github.io/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 4 - Cheat Sheet Series</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight4/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight4/</guid>
+      <description>&lt;p&gt;About the Project:-&lt;/p&gt;&#xA;&lt;p&gt;The OWASP Cheat Sheet Series was created to provide a set of simple good practice guides for application developers and defenders to follow. Rather than focused on detailed best practices that are impractical for many developers and applications, they are intended to provide good practices that the majority of developers will actually be able to implement.&lt;/p&gt;&#xA;&lt;p&gt;References:-&lt;/p&gt;&#xA;&lt;p&gt;OWASP Cheat Sheet Series  - &lt;a href=&#34;https://owasp.org/www-project-cheat-sheets/&#34;&gt;https://owasp.org/www-project-cheat-sheets/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;More Details - &lt;a href=&#34;https://cheatsheetseries.owasp.org/&#34;&gt;https://cheatsheetseries.owasp.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Help the Project - &lt;a href=&#34;https://github.com/OWASP/CheatSheetSeries&#34;&gt;https://github.com/OWASP/CheatSheetSeries&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 3 - Core Rule Set (CRS)</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight3/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight3/</guid>
+      <description>&lt;p&gt;About the Project:-&#xA;The OWASP ModSecurity Core Rule Set (CRS) is a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls. The CRS aims to protect web applications from a wide range of attacks, including the OWASP Top Ten, with a minimum of false alerts. The CRS provides protection against many common attack categories, including SQL Injection, Cross Site Scripting, Local File Inclusion, etc.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 2 - Dependency Check</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight2/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight2/</guid>
+      <description>&lt;p&gt;OWASP has so many amazing and great projects which can help organisations, developers, security testers and many more groups. However, working with OWASP projects very closely in the past few years, I have realised people do not know about a lot of projects or even have no clue if they exist.&lt;/p&gt;&#xA;&lt;p&gt;So, here I am writing the part series on OWASP Projects with a video describing about the project. This is the second blog as part of the OWASP Spotlight Series talking about OWASP Dependency Check.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 1 - Web Security Testing Guide</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight1/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight1/</guid>
+      <description>&lt;p&gt;OWASP has so many amazing and great projects which can help organisations, developers, security testers and many more groups. However, working with OWASP projects very closely in the past few years, I have realised people do not know about a lot of projects or even have no clue if they exist.&lt;/p&gt;&#xA;&lt;p&gt;So, here I am writing the part series on OWASP Projects with a video describing about the project. This is the first blog as part of the OWASP Project Series talking about OWASP Web Security Testing Guide (OWSTG).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight20/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
