@@ -2,6 +2,8 @@ baseURL = "https://infosecvandana.com/"
 languageCode = "en-us"
 title = "Vandana Verma"
 
+publishDir = docs
+
 theme = "personal-web"
 copyright="© Vandana Verma"
 
