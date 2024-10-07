@@ -1,5 +1,5 @@
 ---
-title: "Defending the unknown using AI and cybersecurity"
+title: "Defending the unknown using AI and cybersecurity - 2024"
 date: 2024-10-06
 draft: false
 ---
