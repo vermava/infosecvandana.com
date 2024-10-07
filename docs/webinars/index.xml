@@ -17,6 +17,13 @@
       <description>&lt;p&gt;The Magic of Application Security Posture Management and its Future Frontier&#xA;Aug. 6, 2024 | 02:00 PM ET | 11:00 AM PT&lt;/p&gt;&#xA;&lt;p&gt;In this captivating discussion, we will embark on a journey into the enchanted realm of ASPM (Application Security Posture Management), discovering its remarkable abilities to fortify our application defenses amidst the ever-shifting digital security landscape. Through proactive risk mitigation, real-time vulnerability management, and the foresight of predictive analytics, ASPM casts a powerful shield around our applications, safeguarding them from the nefarious intentions of cyber adversaries. As we peer into the crystal ball of tomorrow, we envision ASPM soaring to new heights, weaving spells of automation, artificial intelligence, and blockchain into its arsenal, transcending traditional boundaries to protect our digital realm with even greater efficacy. Join us as we unravel the wonders of ASPM and the limitless potential it holds in shaping the future of cybersecurity.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Cutting AppSec to the Core: What You Need to Know</title>
+      <link>https://infosecvandana.com/webinars/ismg2021/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/ismg2021/</guid>
+      <description>&lt;p&gt;According to a recent report, 69% of CISOs say the volume of alerts make it difficult to prioritize vulnerabilities. That’s one of the reasons why picking open-source packages to use in your application is a strenuous process. Package ecosystems such as NPM have over a million packages in them, and when you are dealing with numbers that high, there is bound to be a lack of maintenance or other issues that will cause holes in your security.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AISA Webinar: Shifting left in application security </title>
       <link>https://infosecvandana.com/webinars/aisa2021/</link>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
