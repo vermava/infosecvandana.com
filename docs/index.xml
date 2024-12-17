@@ -24,6 +24,13 @@
       <description>&lt;p&gt;The Magic of Application Security Posture Management and its Future Frontier&#xA;Aug. 6, 2024 | 02:00 PM ET | 11:00 AM PT&lt;/p&gt;&#xA;&lt;p&gt;In this captivating discussion, we will embark on a journey into the enchanted realm of ASPM (Application Security Posture Management), discovering its remarkable abilities to fortify our application defenses amidst the ever-shifting digital security landscape. Through proactive risk mitigation, real-time vulnerability management, and the foresight of predictive analytics, ASPM casts a powerful shield around our applications, safeguarding them from the nefarious intentions of cyber adversaries. As we peer into the crystal ball of tomorrow, we envision ASPM soaring to new heights, weaving spells of automation, artificial intelligence, and blockchain into its arsenal, transcending traditional boundaries to protect our digital realm with even greater efficacy. Join us as we unravel the wonders of ASPM and the limitless potential it holds in shaping the future of cybersecurity.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Trust the Process: Optimizing Open Source Security with OWASP Frameworks</title>
+      <link>https://infosecvandana.com/talks/bhmea2023_1/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/bhmea2023_1/</guid>
+      <description>&lt;p&gt;Title: Trust the Process: Optimizing Open Source Security with OWASP Frameworks&lt;/p&gt;&#xA;&lt;p&gt;Security has become an integral component, with DevSecOps emerging as a revolutionary approach to integrating security at every development lifecycle phase. This presentation delves deep into the different facets of DevSecOps, illustrating how the OWASP tools bolster each step, ensuring that software is functional and secure by design. Aimed at cybersecurity enthusiasts and professionals, this talk aims to bridge the gap between development and security, underscoring the myriad ways in which OWASP tools can be wielded to fortify applications against the ever-evolving cyber threats&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Episode 74: How Curiosity Empowered OWASP Global Chair Vandana Verma </title>
       <link>https://infosecvandana.com/podcasts/humansofinfosec/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
