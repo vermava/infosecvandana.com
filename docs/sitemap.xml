@@ -27,6 +27,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/talks/bhmea2023_2/</loc>
+    <lastmod>2023-11-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/paneldiscussion/</loc>
     <lastmod>2023-11-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -903,10 +908,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://infosecvandana.com/owaspspotlightseries/spotlight20/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/talks/bhmea2023_2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

@@ -17,6 +17,13 @@
       <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;Atomic Talk Title: Defending the unknown using AI and cybersecurity&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;New and unknown threats emerge daily, making traditional cybersecurity methods insufficient. Artificial Intelligence (AI) is transforming how we defend against these unknown threats by enabling predictive analysis, real-time monitoring, and automated responses.&lt;/p&gt;&#xA;&lt;p&gt;AI can detect patterns, anomalies, and suspicious behaviors that humans may overlook, helping to safeguard systems before attacks occur. By combining AI with human expertise, organizations can create a more robust defense strategy, allowing them to identify and neutralize threats faster and more efficiently. This synergy between AI and cybersecurity is essential for staying ahead in the fight against evolving digital dangers.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>From Vulnerability to Viability: Tackling Supply Chain Challenges Head-On</title>
+      <link>https://infosecvandana.com/talks/bhmea2023_2/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/bhmea2023_2/</guid>
+      <description>&lt;p&gt;Title: From Vulnerability to Viability: Tackling Supply Chain Challenges Head-On&lt;/p&gt;&#xA;&lt;p&gt;From Vulnerability to Viability: Tackling Supply Chain Challenges Head-On&amp;quot; dives deep into the pivotal realm of supply chain management, distinguishing between the often conflated concepts of supply chain security and vulnerability. While both elements are crucial to a successful supply chain strategy, they offer different lenses to view potential disruptions and risks. This paper underscores the unique challenges organizations grapple with to ensure robust supply chain security. By offering a comprehensive understanding of the vulnerabilities inherent in global supply chains and presenting strategic measures to address them, this research equips businesses with the tools and insights needed to transition from a state of vulnerability to assured viability.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Trust the Process: Optimizing Open Source Security with OWASP Frameworks</title>
       <link>https://infosecvandana.com/talks/bhmea2023_1/</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
@@ -183,13 +190,6 @@
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/appseceurope2018/</guid>
       <description>&lt;p&gt;Thursday, July 5 • 12:30pm - 1:30pm&lt;/p&gt;&#xA;&lt;p&gt;OWASPWIA (Women In AppSec) hosted a talk and luncheon for all the Ladies&lt;/p&gt;&#xA;&lt;p&gt;Venue:&lt;/p&gt;&#xA;&lt;p&gt;Byron- 4th Floor QEII Centre Broad Sanctuary, Westminster, London. SW1P 3EE&lt;/p&gt;&#xA;&lt;p&gt;Reference:- &lt;a href=&#34;https://2018.appsec.eu/about/women-in-appsec&#34;&gt;https://2018.appsec.eu/about/women-in-appsec&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://infosecvandana.com/talks/bhmea2023_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/talks/bhmea2023_2/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
