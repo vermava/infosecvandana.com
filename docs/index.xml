@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blackhat - AI: Now Smarter Than Hackers, But Still Confused by Cats</title>
+      <link>https://infosecvandana.com/webinars/blackhat2024/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/blackhat2024/</guid>
+      <description>&lt;p&gt;AI: Now Smarter Than Hackers, But Still Confused by Cats&lt;/p&gt;&#xA;&lt;p&gt;Thursday, December 5, 2024 | 2:00 - 3:00 PM EST&lt;/p&gt;&#xA;&lt;p&gt;Imagine a world where AI is sharper than even the most skilled hackers, catching malicious intent in milliseconds and thwarting cyber threats with the precision of a laser. Yet, somehow, these digital masterminds are still baffled by a well-timed cat meme or a furry friend caught in an image classification glitch. In this talk, we’ll take a lighthearted journey through the highs and lows of securing AI, exploring the surprising vulnerabilities that lurk in even the most advanced systems.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Defending the unknown using AI and cybersecurity - 2024</title>
       <link>https://infosecvandana.com/talks/testflix2024/</link>
