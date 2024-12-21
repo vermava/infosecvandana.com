@@ -17,7 +17,7 @@
       <description>&lt;p&gt;AI: Now Smarter Than Hackers, But Still Confused by Cats&lt;/p&gt;&#xA;&lt;p&gt;Thursday, December 5, 2024 | 2:00 - 3:00 PM EST&lt;/p&gt;&#xA;&lt;p&gt;Imagine a world where AI is sharper than even the most skilled hackers, catching malicious intent in milliseconds and thwarting cyber threats with the precision of a laser. Yet, somehow, these digital masterminds are still baffled by a well-timed cat meme or a furry friend caught in an image classification glitch. In this talk, we’ll take a lighthearted journey through the highs and lows of securing AI, exploring the surprising vulnerabilities that lurk in even the most advanced systems.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Defending the unknown using AI and cybersecurity - 2024</title>
+      <title>Testflix - Defending the unknown using AI and cybersecurity - 2024</title>
       <link>https://infosecvandana.com/talks/testflix2024/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/testflix2024/</guid>
@@ -57,6 +57,13 @@
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/podcasts/humansofinfosec/</guid>
       <description>&lt;p&gt;Link -&amp;gt; &lt;a href=&#34;https://resource.cobalt.io/humans-of-infosec/episode-74-how-curiosity-empowered-owasp-global-chair-vandana-verma&#34;&gt;https://resource.cobalt.io/humans-of-infosec/episode-74-how-curiosity-empowered-owasp-global-chair-vandana-verma&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/humans-of-infosec/episode-74-how-curiosity-empowered-owasp-global-chair-vandana-verma?utm_source=clipboard&amp;amp;utm_campaign=wtshare&amp;amp;utm_medium=widget&amp;amp;utm_content=https%253A%252F%252Fsoundcloud.com%252Fhumans-of-infosec%252Fepisode-74-how-curiosity-empowered-owasp-global-chair-vandana-verma&#34;&gt;https://soundcloud.com/humans-of-infosec/episode-74-how-curiosity-empowered-owasp-global-chair-vandana-verma?utm_source=clipboard&amp;amp;utm_campaign=wtshare&amp;amp;utm_medium=widget&amp;amp;utm_content=https%253A%252F%252Fsoundcloud.com%252Fhumans-of-infosec%252Fepisode-74-how-curiosity-empowered-owasp-global-chair-vandana-verma&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Defcon - AppSec Village 2023</title>
+      <link>https://infosecvandana.com/talks/appsecvillage_2023/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/appsecvillage_2023/</guid>
+      <description>&lt;p&gt;Title: Appsec on a Limited Budget- DEF CON 31- AppSec Village&lt;/p&gt;&#xA;&lt;p&gt;We are all heading towards the modernization of applications. However, we still see the companies being impacted with the most common website vulnerabilities like SQL Injection, Sensitive data exposure, security misconfiguration, etc.&#xA;OWASP has many projects which can be tied seamlessly into the application development pipeline structure. However, firstly we don’t know if the projects exist, second, if we know about the projects, we do not know the exact working of the projects. In the talk, I will be talking about how to run an AppSec program with open source projects (OWASP Projects)&lt;/p&gt;</description>
     </item>
     <item>
       <title>SERIES 2 - Episode 05 - Sumit Siddharth</title>
@@ -521,7 +528,7 @@
       <description>&lt;p&gt;Hi Everyone.&lt;/p&gt;&#xA;&lt;p&gt;We are back again with another spotlight series project and today we have OWASP Security Knowledge Framework (SKF) with us. I feel that this is one project, which is so much relevant and this is required in any organization for training the developers, security researchers, for getting the requirements and whatnot.&lt;/p&gt;&#xA;&lt;p&gt;The security framework wants to help developers &amp;amp; empower them, to be able to give them the right awareness and knowledge to build secure applications by design. For the API, the front end of SPF, everything is ready and be able to also deploy in Kubernetes platforms.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Keynote: DevSecOps Days London</title>
+      <title>Keynote: DevSecOps Days London - 2020</title>
       <link>https://infosecvandana.com/talks/devopsdays_london/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/devopsdays_london/</guid>
@@ -619,7 +626,7 @@
       <description>&lt;p&gt;SC Media, Women in IT Security Advocates Award&lt;/p&gt;&#xA;&lt;p&gt;![SC media](/images/SC media.png)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.scmagazine.com/women-in-it-security/women-advocates/vandana-verma-broadening-the-diversity-aperture/&#34;&gt;https://www.scmagazine.com/women-in-it-security/women-advocates/vandana-verma-broadening-the-diversity-aperture/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>ROOTCON: Zero Trust in the era of cloud</title>
+      <title>ROOTCON: Zero Trust in the era of cloud - 2020</title>
       <link>https://infosecvandana.com/talks/rootcon/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/rootcon/</guid>

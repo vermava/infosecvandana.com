@@ -10,7 +10,7 @@
     <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Defending the unknown using AI and cybersecurity - 2024</title>
+      <title>Testflix - Defending the unknown using AI and cybersecurity - 2024</title>
       <link>https://infosecvandana.com/talks/testflix2024/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/testflix2024/</guid>
@@ -29,6 +29,13 @@
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/bhmea2023_1/</guid>
       <description>&lt;p&gt;Title: Trust the Process: Optimizing Open Source Security with OWASP Frameworks&lt;/p&gt;&#xA;&lt;p&gt;Security has become an integral component, with DevSecOps emerging as a revolutionary approach to integrating security at every development lifecycle phase. This presentation delves deep into the different facets of DevSecOps, illustrating how the OWASP tools bolster each step, ensuring that software is functional and secure by design. Aimed at cybersecurity enthusiasts and professionals, this talk aims to bridge the gap between development and security, underscoring the myriad ways in which OWASP tools can be wielded to fortify applications against the ever-evolving cyber threats&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Defcon - AppSec Village 2023</title>
+      <link>https://infosecvandana.com/talks/appsecvillage_2023/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/appsecvillage_2023/</guid>
+      <description>&lt;p&gt;Title: Appsec on a Limited Budget- DEF CON 31- AppSec Village&lt;/p&gt;&#xA;&lt;p&gt;We are all heading towards the modernization of applications. However, we still see the companies being impacted with the most common website vulnerabilities like SQL Injection, Sensitive data exposure, security misconfiguration, etc.&#xA;OWASP has many projects which can be tied seamlessly into the application development pipeline structure. However, firstly we don’t know if the projects exist, second, if we know about the projects, we do not know the exact working of the projects. In the talk, I will be talking about how to run an AppSec program with open source projects (OWASP Projects)&lt;/p&gt;</description>
     </item>
     <item>
       <title>RSA Conference 2021</title>
@@ -66,14 +73,14 @@
       <description>&lt;p&gt;The Society for Data Science team is back with an exciting set of Workshops and Tutorials as a part of ICDMAI 2021 to happen on 15th January 2021.&lt;/p&gt;&#xA;&lt;p&gt;Join the Workshops on Spice of Data Analytics in Cyber Security by Vandana Verma Sehgal on 15th January 2021.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/societyfordatascience.jpeg&#34; alt=&#34;datascience&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Keynote: DevSecOps Days London</title>
+      <title>Keynote: DevSecOps Days London - 2020</title>
       <link>https://infosecvandana.com/talks/devopsdays_london/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/devopsdays_london/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Title: Running a devsecops pipeline with open source projects&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Reference:- &lt;a href=&#34;https://www.devsecopsdays.com/2020-devsecops-days-london&#34;&gt;https://www.devsecopsdays.com/2020-devsecops-days-london&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/hhQvPAzN-Y8&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
-      <title>ROOTCON: Zero Trust in the era of cloud</title>
+      <title>ROOTCON: Zero Trust in the era of cloud - 2020</title>
       <link>https://infosecvandana.com/talks/rootcon/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/rootcon/</guid>

@@ -1,5 +1,5 @@
 ---
-title: "ROOTCON: Zero Trust in the era of cloud"
+title: "ROOTCON: Zero Trust in the era of cloud - 2020"
 date: 2020-10-25
 draft: false
 video: https://www.youtube.com/embed/-cb_1WpkFcQ
