@@ -38,4 +38,9 @@ Vandana Verma Sehgal
 
 ![Tech JS Summit 2](/images/techjssummit_2.jpeg)
 
+<br>
+Reference - https://gitnation.com/contents/panel-discussion-application-security-testing
+
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WjhWmG08wcw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
