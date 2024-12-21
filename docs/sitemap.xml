@@ -27,7 +27,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/webinars/2024rsa/</loc>
+    <loc>https://infosecvandana.com/webinars/rsa2024/</loc>
     <lastmod>2024-08-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -309,6 +309,11 @@
   </url><url>
     <loc>https://infosecvandana.com/awards/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/webinars/ec_council_2021/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
