@@ -18,6 +18,13 @@
     </item>
     <item>
       <title>Blackhat MEA 2023 - From Vulnerability to Viability: Tackling Supply Chain Challenges Head-On</title>
+      <link>https://infosecvandana.com/talks/blackhat_2023/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/blackhat_2023/</guid>
+      <description>&lt;p&gt;Title: From Vulnerability to Viability: Tackling Supply Chain Challenges Head-On&lt;/p&gt;&#xA;&lt;p&gt;From Vulnerability to Viability: Tackling Supply Chain Challenges Head-On&amp;quot; dives deep into the pivotal realm of supply chain management, distinguishing between the often conflated concepts of supply chain security and vulnerability. While both elements are crucial to a successful supply chain strategy, they offer different lenses to view potential disruptions and risks. This paper underscores the unique challenges organizations grapple with to ensure robust supply chain security. By offering a comprehensive understanding of the vulnerabilities inherent in global supply chains and presenting strategic measures to address them, this research equips businesses with the tools and insights needed to transition from a state of vulnerability to assured viability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blackhat MEA 2023 - From Vulnerability to Viability: Tackling Supply Chain Challenges Head-On</title>
       <link>https://infosecvandana.com/talks/bhmea2023_2/</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/bhmea2023_2/</guid>
@@ -36,6 +43,13 @@
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/appsecvillage_2023/</guid>
       <description>&lt;p&gt;Title: Appsec on a Limited Budget- DEF CON 31- AppSec Village&lt;/p&gt;&#xA;&lt;p&gt;We are all heading towards the modernization of applications. However, we still see the companies being impacted with the most common website vulnerabilities like SQL Injection, Sensitive data exposure, security misconfiguration, etc.&#xA;OWASP has many projects which can be tied seamlessly into the application development pipeline structure. However, firstly we don’t know if the projects exist, second, if we know about the projects, we do not know the exact working of the projects. In the talk, I will be talking about how to run an AppSec program with open source projects (OWASP Projects)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP NewZealand 2023 - Keynote -  Tracing the Journey of Web Application Security from Past to Future</title>
+      <link>https://infosecvandana.com/talks/appsecnz/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/appsecnz/</guid>
+      <description>&lt;p&gt;Title: Tracing the Journey of Web Application Security from Past to Future&lt;/p&gt;&#xA;&lt;p&gt;The Open Web Application Security Project (OWASP) has profoundly influenced the cybersecurity arena since its inception in 2001, primarily focusing on web application security. This talk outlines the evolution of OWASP, beginning with its establishment and early development of the influential OWASP Top Ten - a document identifying the most prevalent security risks to web applications. We then shift to a discussion of the present day, where OWASP has grown into a global entity, offering a variety of tools, documentation, and community resources that contribute significantly to cybersecurity best practices.&lt;/p&gt;</description>
     </item>
     <item>
       <title>RSA Conference 2021</title>

@@ -1,0 +1,19 @@
+---
+title: "Blackhat MEA 2023 - From Vulnerability to Viability: Tackling Supply Chain Challenges Head-On"
+date: 2023-12-07
+draft: false
+---
+
+Title: From Vulnerability to Viability: Tackling Supply Chain Challenges Head-On
+
+
+From Vulnerability to Viability: Tackling Supply Chain Challenges Head-On" dives deep into the pivotal realm of supply chain management, distinguishing between the often conflated concepts of supply chain security and vulnerability. While both elements are crucial to a successful supply chain strategy, they offer different lenses to view potential disruptions and risks. This paper underscores the unique challenges organizations grapple with to ensure robust supply chain security. By offering a comprehensive understanding of the vulnerabilities inherent in global supply chains and presenting strategic measures to address them, this research equips businesses with the tools and insights needed to transition from a state of vulnerability to assured viability.
+
+
+2023/12/07 Panel : Blackhat : Locknote: Conclusions and Key Takeaways from Day 2
+
+
+Reference:- https://blackhatmea.com/session/vulnerability-viability-tackling-supply-chain-challenges-head
+
+
+
