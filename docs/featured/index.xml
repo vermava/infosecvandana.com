@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s Chat Open Source Security</title>
+      <link>https://infosecvandana.com/featured/openssf/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/openssf/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s Chat Open Source Security With Vandana Verma!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/D_0TOIW4Eu0?si=-sDBjdGlINaWik0f&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/openssf.jpg&#34; alt=&#34;OpenSSF&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Interview with ESG-global by Techtarget</title>
       <link>https://infosecvandana.com/featured/esg2022/</link>

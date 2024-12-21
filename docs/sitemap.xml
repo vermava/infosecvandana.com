@@ -37,6 +37,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/featured/</loc>
+    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/featured/openssf/</loc>
+    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/talks/blackhat_2023/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -104,11 +114,6 @@
   </url><url>
     <loc>https://infosecvandana.com/paneldiscussion/appsecvillage_2022/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/featured/</loc>
-    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
