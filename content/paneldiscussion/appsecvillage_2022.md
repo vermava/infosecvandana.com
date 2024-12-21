@@ -2,6 +2,7 @@
 title: "Defcon 2022 - Agility Broke AppSec. Now It’s Going to Fix It"
 date: 2022-08-12
 draft: false
+featureimage: /images/defcon_2022_appsecvillage.png
 ---
 
 Title: Agility Broke AppSec. Now It’s Going to Fix It
