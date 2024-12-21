@@ -773,6 +773,13 @@
       <description>&lt;p&gt;Title: Running an appsec program with open source projects&lt;/p&gt;&#xA;&lt;p&gt;We are all heading towards the modernization of applications. However, we still see the companies being impacted with the most common website vulnerabilities like SQL Injection, Sensitive data exposure, security misconfiguration, etc.&#xA;OWASP has many projects which can be tied seamlessly into the application development pipeline structure. However, firstly we don’t know if the projects exist, second, if we know about the projects, we do not know the exact working of the projects. In the talk, I will be talking about how to run an AppSec program with open source projects (OWASP Projects)&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Defcon - AppSec Village 2021</title>
+      <link>https://infosecvandana.com/talks/appscvillage2021/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/appscvillage2021/</guid>
+      <description>&lt;p&gt;Title: The Curious Case of Knowing the Unknown&lt;/p&gt;&#xA;&lt;p&gt;Reference:- &lt;a href=&#34;https://www.appsecvillage.com/events/dc-2021/the-curious-case-of-knowing-the-unknown&#34;&gt;https://www.appsecvillage.com/events/dc-2021/the-curious-case-of-knowing-the-unknown&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/appsecvillage_2021.png&#34; alt=&#34;AppSec Village&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Defcon - Red Team Village 2020: Zero Trust</title>
       <link>https://infosecvandana.com/talks/redteamvillage_2020/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
