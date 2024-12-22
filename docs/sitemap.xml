@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://infosecvandana.com/webinars/blackhat2024/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <loc>https://infosecvandana.com/advisoryboard/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/advisoryboard/sossday_2024/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://infosecvandana.com/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/webinars/blackhat2024/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -284,11 +294,6 @@
   </url><url>
     <loc>https://infosecvandana.com/owaspspotlightseries/spotlight15/</loc>
     <lastmod>2021-04-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/advisoryboard/</loc>
-    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

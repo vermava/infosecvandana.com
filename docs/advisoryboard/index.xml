@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/advisoryboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubecon India 2024 - Program Committee: SOSS Community Day India 2024</title>
+      <link>https://infosecvandana.com/advisoryboard/sossday_2024/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/advisoryboard/sossday_2024/</guid>
+      <description>&lt;p&gt;a&lt;/p&gt;&#xA;&lt;p&gt;Reference link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://events.linuxfoundation.org/soss-community-day-india/&#34;&gt;https://events.linuxfoundation.org/soss-community-day-india/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Chairperson - OWASP Global Board of Directors</title>
       <link>https://infosecvandana.com/advisoryboard/owasp/</link>
