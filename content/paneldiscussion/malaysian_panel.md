@@ -1,5 +1,5 @@
 ---
-title: "National Cybersecurity Strategy - Indo-Pacific Series - Episode 2"
+title: "Indo-Pacific Series 2020 - National Cybersecurity Strategy - Indo-Pacific Series - Episode 2"
 date: 2020-08-25
 draft: false
 featureimage: /images/indopacific.png

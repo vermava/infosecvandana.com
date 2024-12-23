@@ -1,5 +1,5 @@
 ---
-title: "Discussion on Cyberthreats and Darkweb scare"
+title: "IIT Kanpur Delhi Chapter 2021 - Discussion on Cyberthreats and Darkweb scare"
 date: 2021-01-16
 draft: false
 featureimage: /images/iitk_1.jpeg

@@ -1,5 +1,5 @@
 ---
-title: "Zero Trust - A vision for Securing Cloud Delivered Business"
+title: "IIT Kanpur 2020 - Zero Trust - A vision for Securing Cloud Delivered Business"
 date: 2020-07-13
 draft: false
 featureimage: /images/iitk.jpeg

@@ -1,5 +1,5 @@
 ---
-title: "Global Roundtable hosted by the ISRM Women in Security Sisterhood group."
+title: "ISRM 2021 - Global Roundtable hosted by the ISRM Women in Security Sisterhood group."
 date: 2021-02-12
 draft: false
 featureimage: /images/isrm.jpeg

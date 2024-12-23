@@ -1,5 +1,5 @@
 ---
-title: "How Owasp can help Security Teams - Guides and Testing Tools"
+title: "TechJS Summit 2020 - How Owasp can help Security Teams - Guides and Testing Tools"
 date: 2020-12-09
 draft: false
 video: https://www.youtube.com/embed/tK8EM0qtQ6A

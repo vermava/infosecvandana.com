@@ -1,5 +1,5 @@
 ---
-title: "Impact of COVID-19 on Cloud Adoption & Security"
+title: "CSA Summit 2020 - Impact of COVID-19 on Cloud Adoption & Security"
 date: 2020-09-24
 draft: false
 featureimage: /images/csasummit.jpeg
