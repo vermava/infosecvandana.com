@@ -66,6 +66,13 @@
       <description>&lt;p&gt;Title: Tracing the Journey of Web Application Security from Past to Future&lt;/p&gt;&#xA;&lt;p&gt;The Open Web Application Security Project (OWASP) has profoundly influenced the cybersecurity arena since its inception in 2001, primarily focusing on web application security. This talk outlines the evolution of OWASP, beginning with its establishment and early development of the influential OWASP Top Ten - a document identifying the most prevalent security risks to web applications. We then shift to a discussion of the present day, where OWASP has grown into a global entity, offering a variety of tools, documentation, and community resources that contribute significantly to cybersecurity best practices.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>RSA Conference 2022 - Continuous Security - Integrating Pipeline Security</title>
+      <link>https://infosecvandana.com/talks/rsa2022/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/rsa2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Title - Continuous Security - Integrating Pipeline Security&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In a world of continuous delivery and cloud native, boundaries between what an application and what constitutes infrastructure are increasingly blurred. Workloads, the containers they ship in, and platform configuration are often developed and deployed by the same teams, and development velocity is the key metric to success. This session will look at how to build security in the CI/CD process.&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - &lt;a href=&#34;https://www.rsaconference.com/Library/presentation/USA/2022/Continuous%20Security%20-%20Integrating%20Pipeline%20Security&#34;&gt;https://www.rsaconference.com/Library/presentation/USA/2022/Continuous%20Security%20-%20Integrating%20Pipeline%20Security&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>ROOTCON 15 - The Curious case of knowing the unknown</title>
       <link>https://infosecvandana.com/talks/rootcon2021/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
