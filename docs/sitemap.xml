@@ -82,6 +82,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/awards/top-100-women-in-cybersecurity/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/talks/blackhateu_2023/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
