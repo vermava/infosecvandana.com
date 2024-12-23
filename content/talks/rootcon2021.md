@@ -5,7 +5,7 @@ draft: false
 video: https://www.youtube.com/embed/kky2DR0F8To
 ---
 
-Title: Zero Trust - A Vision for Securing Cloud and Redefining Security
+**Title: The Curious case of knowing the unknown**
 
 <br>
 Reference:- https://www.rootcon.org/html/archives/rc15#curios_case_unknown
