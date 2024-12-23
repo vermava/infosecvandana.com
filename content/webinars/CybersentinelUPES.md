@@ -1,8 +1,8 @@
 ---
-title: "Application Security: Past, Present, and Future"
+title: "UPES University - Application Security: Past, Present, and Future"
 date: 2020-10-24
 draft: false
-video: https://www.youtube.com/embed/TNGRunPO93s
+featureimage: /images/upes.jpg
 ---
 
 “Cybersecurity is much more than an IT topic.”
