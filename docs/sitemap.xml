@@ -152,6 +152,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/talks/rootcon2021/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/talks/bsides_sg_2021/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -572,7 +577,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/talks/rootcon/</loc>
+    <loc>https://infosecvandana.com/talks/rootcon2020/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

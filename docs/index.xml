@@ -157,6 +157,13 @@
       <description>&lt;p&gt;&lt;strong&gt;Evolving with The New Norm&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>ROOTCON 15 - The Curious case of knowing the unknown</title>
+      <link>https://infosecvandana.com/talks/rootcon2021/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/rootcon2021/</guid>
+      <description>&lt;p&gt;Title: Zero Trust - A Vision for Securing Cloud and Redefining Security&lt;/p&gt;&#xA;&lt;br&gt;&#xA;Reference:- https://www.rootcon.org/html/archives/rc15#curios_case_unknown&#xA;&lt;br&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kky2DR0F8To?si=s2msIRCmZ0VXBeeM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
       <title>BSides Singapore 2021 -  Finding the unknown before it finds you</title>
       <link>https://infosecvandana.com/talks/bsides_sg_2021/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
@@ -718,9 +725,9 @@
     </item>
     <item>
       <title>ROOTCON: Zero Trust in the era of cloud - 2020</title>
-      <link>https://infosecvandana.com/talks/rootcon/</link>
+      <link>https://infosecvandana.com/talks/rootcon2020/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/talks/rootcon/</guid>
+      <guid>https://infosecvandana.com/talks/rootcon2020/</guid>
       <description>&lt;p&gt;Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/-cb_1WpkFcQ&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
