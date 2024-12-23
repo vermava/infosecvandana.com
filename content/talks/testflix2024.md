@@ -1,5 +1,5 @@
 ---
-title: "Testflix - Defending the unknown using AI and cybersecurity - 2024"
+title: "Testflix 2024- Defending the unknown using AI and cybersecurity"
 date: 2024-10-06
 draft: false
 ---
