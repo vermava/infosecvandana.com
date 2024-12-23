@@ -142,6 +142,13 @@ copyright="© Vandana Verma"
   url = "/books/"
   weight = -10
 
+[[menu.main]]
+  identifier = "judge"
+  name = "Awards Judge or Jury"
+  title = "Awards Judge or Jury"
+  url = "/judge/"
+  weight = -10
+
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
