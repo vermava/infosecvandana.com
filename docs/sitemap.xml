@@ -42,6 +42,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/talks/dos2024/</loc>
+    <lastmod>2024-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/talks/futuretechsummit_2022/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
