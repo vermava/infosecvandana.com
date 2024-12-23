@@ -192,6 +192,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/judge/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/judge/cybersecwoman2021/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/ciso/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -684,11 +694,6 @@
   </url><url>
     <loc>https://infosecvandana.com/featured/judgejury/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/judge/</loc>
-    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
