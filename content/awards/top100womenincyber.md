@@ -2,6 +2,7 @@
 title: "The Cyber Express - Top 100 Women in Cybersecurity"
 date: 2024-03-21
 draft: false
+featureimage: /images/Top-100-Women-in-Cybersecurity.jpg
 ---
 
 **The Cyber Express - Top 100 Women in Cybersecurity**
