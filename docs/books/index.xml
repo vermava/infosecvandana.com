@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementing DevSecOps Practices</title>
+      <link>https://infosecvandana.com/books/implementingdevsecops/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/books/implementingdevsecops/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/implementingdevsecops.jpg&#34; alt=&#34;implementingdevsecops&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - &lt;a href=&#34;https://www.amazon.in/Implementing-DevSecOps-Practices-Vandana-Sehgal/dp/1803231491&#34;&gt;https://www.amazon.in/Implementing-DevSecOps-Practices-Vandana-Sehgal/dp/1803231491&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Rise of Cyber Woman</title>
       <link>https://infosecvandana.com/books/riseofcyberwoman/</link>
