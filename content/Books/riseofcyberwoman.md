@@ -6,6 +6,4 @@ featureimage: /images/riseofthewomen.jpg
 ---
 
 
-
-
 ![Riseofcyberwoman](/images/riseofthewomen.jpg)
