@@ -7,6 +7,9 @@ featureimage: /images/cybersecwoman2021.jpeg
 
  Cyber Security Awards
 
+ ![CyberSecWoman](/images/cybersecwoman2021.jpeg)
+
+
 **Reference link:**
 
 https://cybersecurityawards.com/
