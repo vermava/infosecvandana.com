@@ -2,7 +2,6 @@
 title: "Cocon 2021 - New way of looking at the hidden mysteries in the code"
 date: 2021-09-06
 draft: false
-featureimage: images/cocon_2021.jpeg
 ---
 
 **Title - New way of looking at the hidden mysteries in the code**
