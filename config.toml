@@ -135,6 +135,12 @@ copyright="© Vandana Verma"
   url = "/owaspspotlightseries/"
   weight = -20
   
+[[menu.main]]
+  identifier = "books"
+  name = "Books Authored or Contributed"
+  title = "Books Authored or Contributed"
+  url = "/books/"
+  weight = -10
 
 [sitemap]
   changefreq = "monthly"
