@@ -14,6 +14,8 @@ SC Awards Judge 2024
 <br>
 https://www.scworld.com/sc-awards-2024-about?utm_source=marketing-campaign&utm_medium=social&utm_campaign=scawards-recognition-program-2024-may&utm_content=gleanin-judges
 
+https://www.scworld.com/sc-awards-meet-the-judges
+
 
 
 
