@@ -3,7 +3,7 @@ title: "OWASP Project Leadership and Community Roles"
 date: 2025-02-01
 draft: false
 summary: "Public OWASP leadership references spanning project, podcast, and community work."
-featureimage: /images/owaspboard.png
+featureimage: 
 external_url: https://owasp.org/projects/leaders/
 source_name: OWASP
 role: project leader

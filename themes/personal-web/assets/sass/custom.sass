@@ -186,3 +186,25 @@ header
 
 .chroma
   padding: 10px
+
+// Fix for list pages (talks, webinars, leaderspeak, paneldiscussion, etc.)
+// The global `#content:not(.portfolio) img { width:110%; margin:0 -5% }` rule
+// was intended for single-post hero images, but it makes list thumbnails
+// overflow their .post-container and visually overlap adjacent entries
+// (looks like "image from another event next to this title").
+.post-list
+  display: block
+  overflow: hidden
+
+  .post-container
+    display: inline-block
+    vertical-align: top
+    text-align: center
+    overflow: hidden
+    box-sizing: border-box
+
+    img
+      width: auto !important
+      max-width: 100% !important
+      margin: 0 auto !important
+      display: inline-block

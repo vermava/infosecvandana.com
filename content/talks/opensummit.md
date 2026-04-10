@@ -2,7 +2,6 @@
 title: "Open Security Summit"
 date: 2020-06-12
 draft: false
-featureimage: /images/ghci_2.jpeg
 video: https://www.youtube.com/embed/7zs4wezbt8o
 ---
 

@@ -2,165 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Panel Discussions on Vandana Verma</title>
-    <link>https://infosecvandana.com/paneldiscussion/</link>
+    <link>http://localhost:4321/paneldiscussion/</link>
     <description>Recent content in Panel Discussions on Vandana Verma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://infosecvandana.com/paneldiscussion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/paneldiscussion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Black Hat USA 2025 - Panel: Hacking the Status Quo: Tales From Leading Women in Cybersecurity</title>
-      <link>https://infosecvandana.com/paneldiscussion/bhusa2025_leading_women/</link>
+      <link>http://localhost:4321/paneldiscussion/bhusa2025_leading_women/</link>
       <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/bhusa2025_leading_women/</guid>
+      <guid>http://localhost:4321/paneldiscussion/bhusa2025_leading_women/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Panel: Hacking the Status Quo - Tales From Leading Women in Cybersecurity&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Panel at Black Hat USA 2025 featuring leading women from the Black Hat USA Review Board. The conversation shared journeys, challenges, and triumphs across cybersecurity, with a focus on research, leadership, and breaking long-standing norms in the industry.&lt;/p&gt;&#xA;&lt;p&gt;Themes discussed:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Personal paths into security research and leadership&lt;/li&gt;&#xA;&lt;li&gt;Navigating bias and visibility in offensive and defensive security&lt;/li&gt;&#xA;&lt;li&gt;Sustaining influence and community beyond the conference stage&lt;/li&gt;&#xA;&lt;li&gt;Advice for the next generation of women entering cybersecurity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Black Hat Asia 2025 - Locknote: Highlights &amp; Key Takeaways</title>
-      <link>https://infosecvandana.com/paneldiscussion/bhasia2025_locknote/</link>
+      <link>http://localhost:4321/paneldiscussion/bhasia2025_locknote/</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/bhasia2025_locknote/</guid>
+      <guid>http://localhost:4321/paneldiscussion/bhasia2025_locknote/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Locknote: Highlights &amp;amp; Key Takeaways from Black Hat Asia 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Closing locknote panel at Black Hat Asia 2025, bringing together members of the Black Hat Asia Review Board to reflect on the most important research, briefings, and trends from the event. The panel covered governance, risk, and compliance themes alongside emerging offensive and defensive research highlights.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://sessionize.com/vandana-verma/&#34;&gt;https://sessionize.com/vandana-verma/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://snyk.io/blog/black-hat-asia-2025-my-journey-as-a-reviewer-speaker-and-community-connector/&#34;&gt;https://snyk.io/blog/black-hat-asia-2025-my-journey-as-a-reviewer-speaker-and-community-connector/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Black Hat Europe 2024 - Locknote: Conclusions and Key Takeaways</title>
-      <link>https://infosecvandana.com/paneldiscussion/bheu2024_locknote/</link>
+      <link>http://localhost:4321/paneldiscussion/bheu2024_locknote/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/bheu2024_locknote/</guid>
+      <guid>http://localhost:4321/paneldiscussion/bheu2024_locknote/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Locknote: Conclusions and Key Takeaways from Black Hat Europe 2024&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Closing locknote panel at Black Hat Europe 2024. Joined conference founder Jeff Moss and members of the Black Hat Review Board to discuss the most significant research, themes, and takeaways from the event. Artificial intelligence - the reality versus the hype - dominated much of the discussion, alongside governance, risk, and compliance themes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://sessionize.com/vandana-verma/&#34;&gt;https://sessionize.com/vandana-verma/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.govinfosecurity.com/artificial-intelligence-looms-large-at-black-hat-europe-a-27056&#34;&gt;https://www.govinfosecurity.com/artificial-intelligence-looms-large-at-black-hat-europe-a-27056&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blackhat.com/eu-24/&#34;&gt;https://blackhat.com/eu-24/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paving the Way: Balancing Standards, Regulations, Ownership, and Accountability</title>
-      <link>https://infosecvandana.com/paneldiscussion/bhmea2023_3/</link>
+      <link>http://localhost:4321/paneldiscussion/bhmea2023_3/</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/bhmea2023_3/</guid>
+      <guid>http://localhost:4321/paneldiscussion/bhmea2023_3/</guid>
       <description>&lt;p&gt;Title: Paving the Way: Balancing Standards, Regulations, Ownership, and Accountability&lt;/p&gt;&#xA;&lt;p&gt;Reference:- &lt;a href=&#34;https://blackhatmea.com/session/paving-way-balancing-standards-regulations-ownership-and-accountability&#34;&gt;https://blackhatmea.com/session/paving-way-balancing-standards-regulations-ownership-and-accountability&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Defcon 2022 - Agility Broke AppSec. Now It’s Going to Fix It</title>
-      <link>https://infosecvandana.com/paneldiscussion/appsecvillage_2022/</link>
+      <link>http://localhost:4321/paneldiscussion/appsecvillage_2022/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/appsecvillage_2022/</guid>
+      <guid>http://localhost:4321/paneldiscussion/appsecvillage_2022/</guid>
       <description>&lt;p&gt;Title: Agility Broke AppSec. Now It’s Going to Fix It&lt;/p&gt;&#xA;&lt;p&gt;Reference:- &lt;a href=&#34;https://www.appsecvillage.com/events/dc-2022/agility-broke-appsec-now-it-s-going-to-fix-it&#34;&gt;https://www.appsecvillage.com/events/dc-2022/agility-broke-appsec-now-it-s-going-to-fix-it&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evolving with The New Norm​</title>
-      <link>https://infosecvandana.com/paneldiscussion/wicsme2021/</link>
+      <link>http://localhost:4321/paneldiscussion/wicsme2021/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/wicsme2021/</guid>
+      <guid>http://localhost:4321/paneldiscussion/wicsme2021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Evolving with The New Norm&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>EC Council 2021 - Women in Cybersecurity: For Women. By Women.</title>
-      <link>https://infosecvandana.com/paneldiscussion/eccouncil2021/</link>
+      <link>http://localhost:4321/paneldiscussion/eccouncil2021/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/eccouncil2021/</guid>
+      <guid>http://localhost:4321/paneldiscussion/eccouncil2021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Moderator&lt;/strong&gt; -&#xA;&lt;br&gt;&#xA;Nenne Adaora Nwodo, Software Engineer, Microsoft Mixed Reality; Creator, AdoraHack; Public Speaker&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;Malini Rao, Global Head – Cybersecurity and GRC Operations&#xA;&lt;br&gt;&#xA;Vandana Verma, Global Board of Directors at OWASP and Security Solutions Architect at IBM&#xA;&lt;br&gt;&#xA;Beatriz Silveira, SVP, Cyber Intelligence Center Regional Lead APAC, Citi&#xA;&lt;br&gt;&#xA;Vanessa Padua,Cyber security Executive- Director, Microsoft&#xA;&lt;br&gt;&#xA;Date: April 16th, 2021&#xA;Time: 7:30 pm IST/ 10 am EST/ 3:00 pm WAT&lt;/p&gt;&#xA;&lt;br&gt;&#xA;Abstract: According to a 2019 survey, roughly 25% of the overall cybersecurity workforce consists of women. While this is considerably better than 2017, when only 11% of its survey participants were women, there is still a long way to go to address this large gender gap.&#xA;&lt;p&gt;Considering the various ongoing industry challenges — dramatic gender imbalance and the rising talent gap — several golden opportunities for women to work their way up to significant leadership roles are opening up. Cybersecurity is a vast industry that needs professionals for different primary functions, such as security operations, compliance, incident handling, investigations, auditing, training, and several others. As a woman, you have the choice to choose from dozens of such positions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>RSA 2021 - Unique perspectives on some of today’s most pressing technical challenges</title>
-      <link>https://infosecvandana.com/paneldiscussion/rsa2021/</link>
+      <link>http://localhost:4321/paneldiscussion/rsa2021/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/rsa2021/</guid>
+      <guid>http://localhost:4321/paneldiscussion/rsa2021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&#xA;Nicole Perlroth, Sam King &amp;amp; Vandana Verma discuss Industry Leadership for International Women’s Day&lt;/p&gt;&#xA;&lt;p&gt;Sam King, CEO of Veracode, New York Times Investigative Journalist Nicole Perlroth and OWASP Board of Global Directors Vandana Verma share their unique perspectives on some of today’s most pressing technical challenges, and what advice they have to offer women in cybersecurity as leaders in the industry.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - &lt;a href=&#34;https://www.rsaconference.com/library/video/2021-international-womens-day&#34;&gt;https://www.rsaconference.com/library/video/2021-international-womens-day&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/vv58EIKx3qQ?si=9EfUFgRuMXgP5Kag&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>ISRM 2021 - Global Roundtable hosted by the ISRM Women in Security Sisterhood group.</title>
-      <link>https://infosecvandana.com/paneldiscussion/isrm/</link>
+      <link>http://localhost:4321/paneldiscussion/isrm/</link>
       <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/isrm/</guid>
+      <guid>http://localhost:4321/paneldiscussion/isrm/</guid>
       <description>&lt;p&gt;Global Roundtable hosted by the ISRM Women in Security Sisterhood group.&lt;/p&gt;&#xA;&lt;p&gt;The subject of Women in Technology is one that is at the forefront of multiple vectors, including diversity, equality, and need to encourage girls to take up STEM subjects.&lt;/p&gt;&#xA;&lt;p&gt;One way to encourage that is to give examples of inspirational women who have achieved incredible things in their own fields.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Moderator&lt;/strong&gt; - Danyetta Fleming Magana&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dr. Amelia Estwick, Director, National Cybersecurity Institute, spent over 20 years in the INFOSEC/cybersecurity field with the Department of Defense /National Security Agency.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Panel on Application Security Testing</title>
-      <link>https://infosecvandana.com/paneldiscussion/techjs_summit/</link>
+      <link>http://localhost:4321/paneldiscussion/techjs_summit/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/techjs_summit/</guid>
+      <guid>http://localhost:4321/paneldiscussion/techjs_summit/</guid>
       <description>&lt;p&gt;Panel discussion - Application Security Testing&lt;/p&gt;&#xA;&lt;p&gt;Schedule: Jan 28, 19:30-20:10 CET&lt;/p&gt;&#xA;&lt;p&gt;Invited panelists:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Scott Gerlach (CSO &amp;amp; Co-Founder @ StackHawk)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sam Stepanyan (OWASP London Chapter Leader &amp;amp; Independent Application Security Consultant)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Liran Tal (Developer Advocate @ Snyk &amp;amp; Node.js Foundation Security Working Group)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Bar Hofesh (Co-Founder, CTO &amp;amp; Security Researcher @ NeuraLegion)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Moderator:&lt;/p&gt;&#xA;&lt;p&gt;Vandana Verma Sehgal&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The focus of the panel discussion we planned to have but are open to discuss your ideas as well (if you join us):&lt;/p&gt;</description>
     </item>
     <item>
       <title>IIT Kanpur Delhi Chapter 2021 - Discussion on Cyberthreats and Darkweb scare</title>
-      <link>https://infosecvandana.com/paneldiscussion/iitk_alumani/</link>
+      <link>http://localhost:4321/paneldiscussion/iitk_alumani/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/iitk_alumani/</guid>
+      <guid>http://localhost:4321/paneldiscussion/iitk_alumani/</guid>
       <description>&lt;p&gt;Alumni Association of IIT Kanpur Delhi Chapter cordially invites you all to benefit from the Webinar on Cyberthreats and Darkweb scare while working from home on Saturday 16th Jan 2021 from 5.30 PM to 6.30 PM.&lt;/p&gt;&#xA;&lt;p&gt;Moderated By&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mr. Sameer Nigam ( CEO Stratbeans/ IIT Kanpur 96 /IIM A 06)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ms Sneha Rahar ( Manager, American Express/ IIT Kanpur 2016)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Panelists:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Prof Sandeep Shukla IIT Kanpur&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ms Vandana Verma Sehgal IBM&lt;/p&gt;</description>
     </item>
     <item>
       <title>TechJS Summit 2020 - How Owasp can help Security Teams - Guides and Testing Tools</title>
-      <link>https://infosecvandana.com/paneldiscussion/owasptestingtools/</link>
+      <link>http://localhost:4321/paneldiscussion/owasptestingtools/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/owasptestingtools/</guid>
+      <guid>http://localhost:4321/paneldiscussion/owasptestingtools/</guid>
       <description>&lt;p&gt;How Owasp can help Security Teams - Guides and Testing Tools - 8th December 2020&lt;/p&gt;&#xA;&lt;p&gt;By Dinis Cruz, Sam Stepanyan, Grant Ongers and Vandana Verma&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/tK8EM0qtQ6A&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>CSA Summit 2020 - Impact of COVID-19 on Cloud Adoption &amp; Security</title>
-      <link>https://infosecvandana.com/paneldiscussion/csasummit/</link>
+      <link>http://localhost:4321/paneldiscussion/csasummit/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/csasummit/</guid>
+      <guid>http://localhost:4321/paneldiscussion/csasummit/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Impact of COVID-19 on Cloud Adoption &amp;amp; Security&lt;/strong&gt; at &lt;strong&gt;CSA India Annual Summit&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The onset of the pandemic has thrown normalcy out of gear. There is talk of a “new normal”, which continues to be defined and remains as broad as ever. The synapse between the COVID-19 pandemic and cloud security imperatives can be addressed with a call to action that the new cyber &amp;amp; cloud security strategy on the anvil can address. There must be sync with these modern realities and adaptation along with the willingness to innovate for future disruptions which will in turn reinvigorate our trust and boost our digital immunity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CSA UK: Cloud Security and Identity and Access management</title>
-      <link>https://infosecvandana.com/paneldiscussion/csauk/</link>
+      <link>http://localhost:4321/paneldiscussion/csauk/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/csauk/</guid>
+      <guid>http://localhost:4321/paneldiscussion/csauk/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Moderator&lt;/strong&gt; -&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Day of Security 2021: Lunch Panel Founders&#39; Discussion: Being an Ally</title>
-      <link>https://infosecvandana.com/paneldiscussion/doss_2021/</link>
+      <link>http://localhost:4321/paneldiscussion/doss_2021/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/doss_2021/</guid>
+      <guid>http://localhost:4321/paneldiscussion/doss_2021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Moderator&lt;/strong&gt; -&#xA;DoS 2021: Lunch Panel - Founders&amp;rsquo; Discussion: Being an Ally with Deidre Diamond, Soledad Antelada Toledano, Tennisha Martin, &amp;amp; Vandana Verma Sehgal (Keynote)&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Finding a mentor, creating opportunities, providing hands-on training - there are many groups in the cybersecurity world working to break down barriers and engage a more inclusive future security workforce. This powerhouse panel breaks down the challenges, discusses solutions, examines the state of security hiring, and provides so much good insight into how we can supercharge the growth of our industry!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Empowering tips on Online Safety for Working Women</title>
-      <link>https://infosecvandana.com/paneldiscussion/emergingtipsforwomen/</link>
+      <link>http://localhost:4321/paneldiscussion/emergingtipsforwomen/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/emergingtipsforwomen/</guid>
+      <guid>http://localhost:4321/paneldiscussion/emergingtipsforwomen/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Moderator&lt;/strong&gt; - Dr. Chandra Vadhana R, Founder &amp;amp; Director Prayaana Labs&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sanjay Kumar IPS, DIG Range Trivandrum&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vandana Verma, OWASP Global Board of Directors&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3B1cxtxJLgw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Indo-Pacific Series 2020 - National Cybersecurity Strategy - Indo-Pacific Series - Episode 2</title>
-      <link>https://infosecvandana.com/paneldiscussion/malaysian_panel/</link>
+      <link>http://localhost:4321/paneldiscussion/malaysian_panel/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/malaysian_panel/</guid>
+      <guid>http://localhost:4321/paneldiscussion/malaysian_panel/</guid>
       <description>&lt;p&gt;Indo-Pacific Series - reviewing the Australian Cyber Security Strategy and making Women in Security announcements&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Moderator&lt;/strong&gt; - Chris Cubbage&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ron Gauci GAICD&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sean Duca&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ian Yip,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dr Carrine Teoh Chooi Shi&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vandana Verma and&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Raman Sopory&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/vH09VzfHUM4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>IIT Kanpur 2020 - Zero Trust - A vision for Securing Cloud Delivered Business</title>
-      <link>https://infosecvandana.com/paneldiscussion/iitk/</link>
+      <link>http://localhost:4321/paneldiscussion/iitk/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/iitk/</guid>
+      <guid>http://localhost:4321/paneldiscussion/iitk/</guid>
       <description>&lt;p&gt;The #Covid19 pandemic has seen a sudden spur in #Cyber Crimes. With the new world order of WFH and remote working has created new exposures of potential #Cyber-attacks.&lt;/p&gt;&#xA;&lt;p&gt;The panel will discuss how enterprises can use cloud with zero-trust models to achieve utmost security and safeguard their assets, how zero-trust architecture works with mobile apps in cloud environment.&lt;/p&gt;&#xA;&lt;p&gt;Must attend webinar for #technology enthusiasts, #entrepreneurs, IT professionals, programmers &amp;amp; students (planning to build their career in IT). In today’s world the #Cyber Security of Systems assumes unprecedented importance. Join and learn what has changed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to start a Career in AppSec</title>
-      <link>https://infosecvandana.com/paneldiscussion/how-to-start-a-career-in-appsec/</link>
+      <link>http://localhost:4321/paneldiscussion/how-to-start-a-career-in-appsec/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/how-to-start-a-career-in-appsec/</guid>
+      <guid>http://localhost:4321/paneldiscussion/how-to-start-a-career-in-appsec/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Moderator&lt;/strong&gt; - Niloufer Tamboly,&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mohan Yelnadu&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Katy Anton&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vandana Verma&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/gtYP5P6Rx9w&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Fast, Accurate, Agile Security Testing​</title>
-      <link>https://infosecvandana.com/paneldiscussion/securitytestinghcl/</link>
+      <link>http://localhost:4321/paneldiscussion/securitytestinghcl/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/securitytestinghcl/</guid>
+      <guid>http://localhost:4321/paneldiscussion/securitytestinghcl/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Fast, Accurate, Agile Security Testing&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Moderator: Eitan Worcel&lt;/p&gt;&#xA;&lt;p&gt;Panelists:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vandana Verma Sehgal&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dragan Pleskonjic&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Laura Guazzelli&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Reference:-&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.brighttalk.com/webinar/fast-accurate-agile-security-testing%e2%80%8b-with-appscan-v10/&#34;&gt;https://www.brighttalk.com/webinar/fast-accurate-agile-security-testing%e2%80%8b-with-appscan-v10/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Appsec California 2020: Diversity by Design</title>
-      <link>https://infosecvandana.com/paneldiscussion/appseccali/</link>
+      <link>http://localhost:4321/paneldiscussion/appseccali/</link>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/appseccali/</guid>
+      <guid>http://localhost:4321/paneldiscussion/appseccali/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Diversity by Design: Securing the Cyber Workforce Development Lifecycle - Panel&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;(&lt;a href=&#34;https://appseccalifornia2020.sched.com/event/XLtw/diversity-by-design-securing-the-cyber-workforce-development-lifecycle&#34;&gt;https://appseccalifornia2020.sched.com/event/XLtw/diversity-by-design-securing-the-cyber-workforce-development-lifecycle&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;Panel discussion on the importance of diversity and inclusion in information security, as well as shared experiences and best practices around building diversity and inclusion into the constantly evolving cybersecurity ecosystem.&lt;/p&gt;&#xA;&lt;p&gt;Topics covered will include the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Professional learning (from both the educator and learning perspectives)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The importance of diversity on an AppSec team or organization&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;How executives and managers can best incorporate diversity and initiatives within their organization&lt;/p&gt;</description>
     </item>
     <item>
       <title>Women Roundtable hosted by Target</title>
-      <link>https://infosecvandana.com/paneldiscussion/swati/</link>
+      <link>http://localhost:4321/paneldiscussion/swati/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/swati/</guid>
+      <guid>http://localhost:4321/paneldiscussion/swati/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; ‘The Emerging trends in cyber security’.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vandana Verma, Manager Information Security&lt;/p&gt;&#xA;&lt;p&gt;Priya Murthi, Project Manager, Shell&lt;/p&gt;&#xA;&lt;p&gt;Minatee Mishra, Lead Engineer, Philips&lt;/p&gt;&#xA;&lt;p&gt;Nidhi Agarwal, Lead Technical Architect, Target&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Venue&lt;/strong&gt;: Target Corporation India, Manyata Tech Park, Bangalore.&lt;/p&gt;</description>
     </item>
   </channel>
