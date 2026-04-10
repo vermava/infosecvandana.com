@@ -7,8 +7,50 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BSides Kerala 2025 - Panel: Building, Nurturing, and Retaining Cybersecurity Talent in the Gen AI Era</title>
+      <link>https://infosecvandana.com/talks/bsideskerala2025_gen_ai_talent/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/bsideskerala2025_gen_ai_talent/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Panel: Building, Nurturing, and Retaining Cyber Security Talent in the Gen AI Era&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Panel discussion at BSides Kerala 2025 on the evolving challenges of attracting and retaining cybersecurity professionals as AI reshapes the industry. The conversation covered shifting skill requirements, workforce development in the GenAI era, and how to build inclusive career pathways that bring new voices into security.&lt;/p&gt;&#xA;&lt;p&gt;Themes explored:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How GenAI is changing the security skills baseline&lt;/li&gt;&#xA;&lt;li&gt;Mentorship, reskilling, and career pivots for existing security talent&lt;/li&gt;&#xA;&lt;li&gt;Building inclusive pipelines beyond traditional hiring filters&lt;/li&gt;&#xA;&lt;li&gt;Retaining senior talent in a market reshaped by AI&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BSides Kerala 2025 - Panel: Building Resilient Software</title>
+      <link>https://infosecvandana.com/talks/bsideskerala2025_resilient_software/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/bsideskerala2025_resilient_software/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Panel: Building Resilient Software&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Panel discussion at BSides Kerala 2025 exploring the critical intersection of Product Security, DevSecOps, and Application Security (AppSec). The conversation focused on how teams can integrate security throughout the software development lifecycle, balance agility with risk management, and build products that are resilient by design rather than by patch.&lt;/p&gt;&#xA;&lt;p&gt;Topics covered included:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shifting security left without blocking developer velocity&lt;/li&gt;&#xA;&lt;li&gt;Practical product security practices at scale&lt;/li&gt;&#xA;&lt;li&gt;Balancing speed, risk, and compliance in modern delivery pipelines&lt;/li&gt;&#xA;&lt;li&gt;Lessons learned from incidents and response&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operation: Defend the North 2025 - Vancouver (siberX)</title>
+      <link>https://infosecvandana.com/talks/siberx_defend_vancouver_2025/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/siberx_defend_vancouver_2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Operation: Defend the North 2025 - Vancouver&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Speaking engagement at siberX&amp;rsquo;s Operation: Defend the North 2025 in Vancouver, Canada. The session continued the Defend the North tour with a focus on practical AppSec, DevSecOps, and security leadership guidance for regional cyber defenders.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://siberx.org/speaker/vandana-verma-sehgal/&#34;&gt;https://siberx.org/speaker/vandana-verma-sehgal/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operation: Defend the North 2025 - Calgary (siberX)</title>
+      <link>https://infosecvandana.com/talks/siberx_defend_calgary_2025/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/siberx_defend_calgary_2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Operation: Defend the North 2025 - Calgary&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Speaking engagement at siberX&amp;rsquo;s Operation: Defend the North 2025 in Calgary, Canada. The session focused on modern application security, DevSecOps, and building resilient cyber defence strategies for Canadian enterprises.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://siberx.org/speaker/vandana-verma-sehgal/&#34;&gt;https://siberx.org/speaker/vandana-verma-sehgal/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Cybersecurity Meetup - Exclusive Charter (siberX)</title>
+      <link>https://infosecvandana.com/talks/siberx_charter_2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/siberx_charter_2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Cybersecurity Meetup - Exclusive Charter&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Speaking engagement at siberX&amp;rsquo;s The Cybersecurity Meetup, a closed-door charter session bringing together security leaders to discuss modern application security, DevSecOps, and leadership challenges in 2025.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://siberx.org/speaker/vandana-verma-sehgal/&#34;&gt;https://siberx.org/speaker/vandana-verma-sehgal/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Women in Tech Global Conference 2025 - Implementing Zero Trust in an Organisation to be Uncertainty Ready</title>
+      <link>https://infosecvandana.com/talks/wit_global_2025/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/wit_global_2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Session: Implementing Zero Trust in an Organisation to be Uncertainty Ready&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Session at the Women in Tech Global Conference 2025 exploring how organisations can operationalise Zero Trust to stay resilient in uncertain times. The talk walked through the principles of Zero Trust, common pitfalls in adoption, and a practical roadmap for security and identity teams.&lt;/p&gt;&#xA;&lt;p&gt;Key takeaways:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Zero Trust as an operating model, not a product&lt;/li&gt;&#xA;&lt;li&gt;Identity, device, and workload as the new perimeter&lt;/li&gt;&#xA;&lt;li&gt;How to incrementally roll out Zero Trust without breaking the business&lt;/li&gt;&#xA;&lt;li&gt;Making Zero Trust investments audit-ready and uncertainty-ready&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Testflix 2024- Defending the unknown using AI and cybersecurity</title>
       <link>https://infosecvandana.com/talks/testflix2024/</link>

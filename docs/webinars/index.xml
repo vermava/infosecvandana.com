@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/webinars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Radar series</title>
+      <link>https://infosecvandana.com/webinars/ai_radar_series/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/ai_radar_series/</guid>
+      <description>A webinar series covering AI BOMs, threat modeling, MCP security, agentic AI, LLM security, and red teaming.</description>
+    </item>
+    <item>
+      <title>Vulnerabilities on the Radar</title>
+      <link>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar/</guid>
+      <description>A webinar focused on current vulnerabilities and what security teams should pay attention to next.</description>
+    </item>
+    <item>
+      <title>OWASP Top 10 for LLMs - PureAI Webcast (Snyk &#43; OWASP)</title>
+      <link>https://infosecvandana.com/webinars/pureai_owasp_llm_top10/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/pureai_owasp_llm_top10/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;OWASP Top 10 for LLMs&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Webcast presented via PureAI as a Snyk expert and OWASP leader, walking through the OWASP Top 10 for Large Language Model Applications. The session covered each of the top vulnerabilities, how they manifest in real AI-assisted development workflows, and shared actionable strategies for securing AI-native applications in the enterprise.&lt;/p&gt;&#xA;&lt;p&gt;Topics covered:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prompt injection and insecure output handling&lt;/li&gt;&#xA;&lt;li&gt;Training data poisoning and supply chain risks for LLMs&lt;/li&gt;&#xA;&lt;li&gt;Model denial of service and excessive agency&lt;/li&gt;&#xA;&lt;li&gt;Secure patterns for LLM-integrated applications&lt;/li&gt;&#xA;&lt;li&gt;How the OWASP Top 10 for LLM project maps to real developer workflows&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Blackhat - AI: Now Smarter Than Hackers, But Still Confused by Cats</title>
       <link>https://infosecvandana.com/webinars/blackhat2024/</link>

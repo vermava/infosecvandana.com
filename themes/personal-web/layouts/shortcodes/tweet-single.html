@@ -3,9 +3,11 @@
 {{- if $pc.Simple -}}
 {{ template "_internal/shortcodes/twitter_simple.html" . }}
 {{- else -}}
-{{- $tweetID := print (index .Params 0) -}}
-{{- $url := printf "https://api.twitter.com/1/statuses/oembed.json?hide_thread=1&id=%s&dnt=%t" $tweetID $pc.EnableDNT -}}
-{{- $json := getJSON $url -}}
-{{ $json.html | safeHTML }}
+{{/*
+Hugo no longer exposes getJSON in current versions, and the old unauthenticated
+Twitter oEmbed endpoint used here is no longer a reliable path anyway.
+Use the built-in simple shortcode as a durable fallback for local preview/builds.
+*/}}
+{{ template "_internal/shortcodes/twitter_simple.html" . }}
 {{- end -}}
 {{- end -}}

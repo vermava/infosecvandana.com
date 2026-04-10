@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snyk contributor profile</title>
+      <link>https://infosecvandana.com/featured/snyk_contributor_profile/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/snyk_contributor_profile/</guid>
+      <description>Current public profile with recent writing, role details, and headshot.</description>
+    </item>
+    <item>
+      <title>GovInfoSecurity - Artificial Intelligence Looms Large at Black Hat Europe 2024</title>
+      <link>https://infosecvandana.com/featured/govinfosecurity_bheu2024/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/govinfosecurity_bheu2024/</guid>
+      <description>Quoted in GovInfoSecurity coverage of the Black Hat Europe 2024 Locknote panel discussion on AI, reality vs hype.</description>
+    </item>
+    <item>
+      <title>Cyber Leaders on the Move - Cyber Leadership Institute Feature</title>
+      <link>https://infosecvandana.com/featured/cyberleadershipinstitute/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/cyberleadershipinstitute/</guid>
+      <description>Featured in the Cyber Leadership Institute &amp;lsquo;Cyber Leaders on the Move&amp;rsquo; series as Global Chair of OWASP and Security Relations Leader APJ/ANZ at Snyk.</description>
+    </item>
     <item>
       <title>Let&#39;s Chat Open Source Security</title>
       <link>https://infosecvandana.com/featured/openssf/</link>

@@ -7,8 +7,43 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Hat Asia 2025: Reviewer, Speaker, and Community Connector</title>
+      <link>https://infosecvandana.com/blogs/blackhat_asia_2025/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/blackhat_asia_2025/</guid>
+      <description>A recap of reviewer, speaker, panel, and community work around Black Hat Asia 2025.</description>
+    </item>
+    <item>
+      <title>Do not pass GO: Malicious package alert</title>
+      <link>https://infosecvandana.com/blogs/go_malicious_package_alert/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/go_malicious_package_alert/</guid>
+      <description>A software supply chain security article focused on malicious Go packages.</description>
+    </item>
+    <item>
+      <title>Women: Kickstart your Application Security Career</title>
+      <link>https://infosecvandana.com/blogs/women_kickstart_appsec_career/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/women_kickstart_appsec_career/</guid>
+      <description>A career-focused piece encouraging more women to build in application security.</description>
+    </item>
+    <item>
+      <title>How to integrate ASPM with your application security program</title>
+      <link>https://infosecvandana.com/blogs/aspm_appsec_program/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/aspm_appsec_program/</guid>
+      <description>A practical article on ASPM and how it fits into an application security program.</description>
+    </item>
+    <item>
+      <title>Exploiting HTTP/2 CONTINUATION frames for DoS attacks</title>
+      <link>https://infosecvandana.com/blogs/http2_continuation_dos/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/http2_continuation_dos/</guid>
+      <description>A technical article covering denial-of-service risk through HTTP/2 CONTINUATION frames.</description>
+    </item>
     <item>
       <title>Consumer identities in Modern Digital World (CIAM)</title>
       <link>https://infosecvandana.com/blogs/ciam/</link>

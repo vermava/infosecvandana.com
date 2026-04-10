@@ -7,8 +7,162 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SC Awards Judge 2026</title>
+      <link>https://infosecvandana.com/judge/sc_awards_2026/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/judge/sc_awards_2026/</guid>
+      <description>Judge for the 2026 SC Awards.</description>
+    </item>
+    <item>
+      <title>BSides Kerala 2025 - Panel: Building, Nurturing, and Retaining Cybersecurity Talent in the Gen AI Era</title>
+      <link>https://infosecvandana.com/talks/bsideskerala2025_gen_ai_talent/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/bsideskerala2025_gen_ai_talent/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Panel: Building, Nurturing, and Retaining Cyber Security Talent in the Gen AI Era&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Panel discussion at BSides Kerala 2025 on the evolving challenges of attracting and retaining cybersecurity professionals as AI reshapes the industry. The conversation covered shifting skill requirements, workforce development in the GenAI era, and how to build inclusive career pathways that bring new voices into security.&lt;/p&gt;&#xA;&lt;p&gt;Themes explored:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How GenAI is changing the security skills baseline&lt;/li&gt;&#xA;&lt;li&gt;Mentorship, reskilling, and career pivots for existing security talent&lt;/li&gt;&#xA;&lt;li&gt;Building inclusive pipelines beyond traditional hiring filters&lt;/li&gt;&#xA;&lt;li&gt;Retaining senior talent in a market reshaped by AI&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BSides Kerala 2025 - Panel: Building Resilient Software</title>
+      <link>https://infosecvandana.com/talks/bsideskerala2025_resilient_software/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/bsideskerala2025_resilient_software/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Panel: Building Resilient Software&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Panel discussion at BSides Kerala 2025 exploring the critical intersection of Product Security, DevSecOps, and Application Security (AppSec). The conversation focused on how teams can integrate security throughout the software development lifecycle, balance agility with risk management, and build products that are resilient by design rather than by patch.&lt;/p&gt;&#xA;&lt;p&gt;Topics covered included:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shifting security left without blocking developer velocity&lt;/li&gt;&#xA;&lt;li&gt;Practical product security practices at scale&lt;/li&gt;&#xA;&lt;li&gt;Balancing speed, risk, and compliance in modern delivery pipelines&lt;/li&gt;&#xA;&lt;li&gt;Lessons learned from incidents and response&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operation: Defend the North 2025 - Vancouver (siberX)</title>
+      <link>https://infosecvandana.com/talks/siberx_defend_vancouver_2025/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/siberx_defend_vancouver_2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Operation: Defend the North 2025 - Vancouver&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Speaking engagement at siberX&amp;rsquo;s Operation: Defend the North 2025 in Vancouver, Canada. The session continued the Defend the North tour with a focus on practical AppSec, DevSecOps, and security leadership guidance for regional cyber defenders.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://siberx.org/speaker/vandana-verma-sehgal/&#34;&gt;https://siberx.org/speaker/vandana-verma-sehgal/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operation: Defend the North 2025 - Calgary (siberX)</title>
+      <link>https://infosecvandana.com/talks/siberx_defend_calgary_2025/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/siberx_defend_calgary_2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Operation: Defend the North 2025 - Calgary&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Speaking engagement at siberX&amp;rsquo;s Operation: Defend the North 2025 in Calgary, Canada. The session focused on modern application security, DevSecOps, and building resilient cyber defence strategies for Canadian enterprises.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://siberx.org/speaker/vandana-verma-sehgal/&#34;&gt;https://siberx.org/speaker/vandana-verma-sehgal/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Cybersecurity Meetup - Exclusive Charter (siberX)</title>
+      <link>https://infosecvandana.com/talks/siberx_charter_2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/siberx_charter_2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Cybersecurity Meetup - Exclusive Charter&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Speaking engagement at siberX&amp;rsquo;s The Cybersecurity Meetup, a closed-door charter session bringing together security leaders to discuss modern application security, DevSecOps, and leadership challenges in 2025.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://siberx.org/speaker/vandana-verma-sehgal/&#34;&gt;https://siberx.org/speaker/vandana-verma-sehgal/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interview with Tanya Janca (SheHacksPurple) at Black Hat</title>
+      <link>https://infosecvandana.com/podcasts/tanya_janca_bh_interview/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/podcasts/tanya_janca_bh_interview/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Interview with Vandana Verma by Tanya Janca at Black Hat&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Conversation with Tanya Janca (SheHacksPurple) recorded at Black Hat, discussing application security, the OWASP community, AI security, and the state of modern DevSecOps. The interview covers both the stage work and the behind-the-scenes community efforts that shape events like Black Hat.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://x.com/shehackspurple/status/1967320641570246896&#34;&gt;https://x.com/shehackspurple/status/1967320641570246896&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Radar series</title>
+      <link>https://infosecvandana.com/webinars/ai_radar_series/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/ai_radar_series/</guid>
+      <description>A webinar series covering AI BOMs, threat modeling, MCP security, agentic AI, LLM security, and red teaming.</description>
+    </item>
+    <item>
+      <title>Vulnerabilities on the Radar</title>
+      <link>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar/</guid>
+      <description>A webinar focused on current vulnerabilities and what security teams should pay attention to next.</description>
+    </item>
+    <item>
+      <title>Black Hat USA 2025 - Panel: Hacking the Status Quo: Tales From Leading Women in Cybersecurity</title>
+      <link>https://infosecvandana.com/paneldiscussion/bhusa2025_leading_women/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/paneldiscussion/bhusa2025_leading_women/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Panel: Hacking the Status Quo - Tales From Leading Women in Cybersecurity&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Panel at Black Hat USA 2025 featuring leading women from the Black Hat USA Review Board. The conversation shared journeys, challenges, and triumphs across cybersecurity, with a focus on research, leadership, and breaking long-standing norms in the industry.&lt;/p&gt;&#xA;&lt;p&gt;Themes discussed:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Personal paths into security research and leadership&lt;/li&gt;&#xA;&lt;li&gt;Navigating bias and visibility in offensive and defensive security&lt;/li&gt;&#xA;&lt;li&gt;Sustaining influence and community beyond the conference stage&lt;/li&gt;&#xA;&lt;li&gt;Advice for the next generation of women entering cybersecurity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Top 10 for LLMs - PureAI Webcast (Snyk &#43; OWASP)</title>
+      <link>https://infosecvandana.com/webinars/pureai_owasp_llm_top10/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/pureai_owasp_llm_top10/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;OWASP Top 10 for LLMs&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Webcast presented via PureAI as a Snyk expert and OWASP leader, walking through the OWASP Top 10 for Large Language Model Applications. The session covered each of the top vulnerabilities, how they manifest in real AI-assisted development workflows, and shared actionable strategies for securing AI-native applications in the enterprise.&lt;/p&gt;&#xA;&lt;p&gt;Topics covered:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prompt injection and insecure output handling&lt;/li&gt;&#xA;&lt;li&gt;Training data poisoning and supply chain risks for LLMs&lt;/li&gt;&#xA;&lt;li&gt;Model denial of service and excessive agency&lt;/li&gt;&#xA;&lt;li&gt;Secure patterns for LLM-integrated applications&lt;/li&gt;&#xA;&lt;li&gt;How the OWASP Top 10 for LLM project maps to real developer workflows&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Women in Tech Global Conference 2025 - Implementing Zero Trust in an Organisation to be Uncertainty Ready</title>
+      <link>https://infosecvandana.com/talks/wit_global_2025/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/wit_global_2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Session: Implementing Zero Trust in an Organisation to be Uncertainty Ready&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Session at the Women in Tech Global Conference 2025 exploring how organisations can operationalise Zero Trust to stay resilient in uncertain times. The talk walked through the principles of Zero Trust, common pitfalls in adoption, and a practical roadmap for security and identity teams.&lt;/p&gt;&#xA;&lt;p&gt;Key takeaways:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Zero Trust as an operating model, not a product&lt;/li&gt;&#xA;&lt;li&gt;Identity, device, and workload as the new perimeter&lt;/li&gt;&#xA;&lt;li&gt;How to incrementally roll out Zero Trust without breaking the business&lt;/li&gt;&#xA;&lt;li&gt;Making Zero Trust investments audit-ready and uncertainty-ready&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SC Awards Judge 2025</title>
+      <link>https://infosecvandana.com/judge/sc_awards_2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/judge/sc_awards_2025/</guid>
+      <description>Judge for the 2025 SC Awards.</description>
+    </item>
+    <item>
+      <title>Black Hat Asia 2025: Reviewer, Speaker, and Community Connector</title>
+      <link>https://infosecvandana.com/blogs/blackhat_asia_2025/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/blackhat_asia_2025/</guid>
+      <description>A recap of reviewer, speaker, panel, and community work around Black Hat Asia 2025.</description>
+    </item>
+    <item>
+      <title>Black Hat Asia 2025 - Locknote: Highlights &amp; Key Takeaways</title>
+      <link>https://infosecvandana.com/paneldiscussion/bhasia2025_locknote/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/paneldiscussion/bhasia2025_locknote/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Locknote: Highlights &amp;amp; Key Takeaways from Black Hat Asia 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Closing locknote panel at Black Hat Asia 2025, bringing together members of the Black Hat Asia Review Board to reflect on the most important research, briefings, and trends from the event. The panel covered governance, risk, and compliance themes alongside emerging offensive and defensive research highlights.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://sessionize.com/vandana-verma/&#34;&gt;https://sessionize.com/vandana-verma/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://snyk.io/blog/black-hat-asia-2025-my-journey-as-a-reviewer-speaker-and-community-connector/&#34;&gt;https://snyk.io/blog/black-hat-asia-2025-my-journey-as-a-reviewer-speaker-and-community-connector/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nominee - Women in Tech Global Awards 2025</title>
+      <link>https://infosecvandana.com/awards/wit_global_award_2025/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/awards/wit_global_award_2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Women in Tech Global Awards 2025 - Nominee&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Recognised again as a nominee for the Women in Tech Global Awards 2025 for continued work across cybersecurity leadership, OWASP, and community-driven programmes that bring more women into application security, DevSecOps, and AI security.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.womentech.net/nominee/all/all/64309&#34;&gt;https://www.womentech.net/nominee/all/all/64309&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Project Leadership and Community Roles</title>
+      <link>https://infosecvandana.com/advisoryboard/owasp_projects_2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/advisoryboard/owasp_projects_2025/</guid>
+      <description>Public OWASP leadership references spanning project, podcast, and community work.</description>
+    </item>
+    <item>
+      <title>Do not pass GO: Malicious package alert</title>
+      <link>https://infosecvandana.com/blogs/go_malicious_package_alert/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/go_malicious_package_alert/</guid>
+      <description>A software supply chain security article focused on malicious Go packages.</description>
+    </item>
+    <item>
+      <title>Chairperson - OWASP Global Board of Directors</title>
+      <link>https://infosecvandana.com/advisoryboard/owasp/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/advisoryboard/owasp/</guid>
+      <description>&lt;p&gt;Serving on the OWASP Global Board of Directors, including time as Chair of the board - the first female Chair in OWASP&amp;rsquo;s history. Appointed as a Compliance Officer of the OWASP Foundation effective January 1, 2025, continuing to drive governance, global strategy, and community initiatives across the foundation.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://owasp.org/corporate/&#34;&gt;https://owasp.org/corporate/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://owasp.org/www-board/&#34;&gt;https://owasp.org/www-board/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Snyk contributor profile</title>
+      <link>https://infosecvandana.com/featured/snyk_contributor_profile/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/snyk_contributor_profile/</guid>
+      <description>Current public profile with recent writing, role details, and headshot.</description>
+    </item>
+    <item>
+      <title>GovInfoSecurity - Artificial Intelligence Looms Large at Black Hat Europe 2024</title>
+      <link>https://infosecvandana.com/featured/govinfosecurity_bheu2024/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/govinfosecurity_bheu2024/</guid>
+      <description>Quoted in GovInfoSecurity coverage of the Black Hat Europe 2024 Locknote panel discussion on AI, reality vs hype.</description>
+    </item>
+    <item>
+      <title>Black Hat Europe 2024 - Locknote: Conclusions and Key Takeaways</title>
+      <link>https://infosecvandana.com/paneldiscussion/bheu2024_locknote/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/paneldiscussion/bheu2024_locknote/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Locknote: Conclusions and Key Takeaways from Black Hat Europe 2024&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Closing locknote panel at Black Hat Europe 2024. Joined conference founder Jeff Moss and members of the Black Hat Review Board to discuss the most significant research, themes, and takeaways from the event. Artificial intelligence - the reality versus the hype - dominated much of the discussion, alongside governance, risk, and compliance themes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://sessionize.com/vandana-verma/&#34;&gt;https://sessionize.com/vandana-verma/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.govinfosecurity.com/artificial-intelligence-looms-large-at-black-hat-europe-a-27056&#34;&gt;https://www.govinfosecurity.com/artificial-intelligence-looms-large-at-black-hat-europe-a-27056&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blackhat.com/eu-24/&#34;&gt;https://blackhat.com/eu-24/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kubecon India 2024 - Program Committee: SOSS Community Day India 2024</title>
       <link>https://infosecvandana.com/advisoryboard/sossday_2024/</link>
@@ -22,6 +176,13 @@
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/webinars/blackhat2024/</guid>
       <description>&lt;p&gt;AI: Now Smarter Than Hackers, But Still Confused by Cats&lt;/p&gt;&#xA;&lt;p&gt;Thursday, December 5, 2024 | 2:00 - 3:00 PM EST&lt;/p&gt;&#xA;&lt;p&gt;Imagine a world where AI is sharper than even the most skilled hackers, catching malicious intent in milliseconds and thwarting cyber threats with the precision of a laser. Yet, somehow, these digital masterminds are still baffled by a well-timed cat meme or a furry friend caught in an image classification glitch. In this talk, we’ll take a lighthearted journey through the highs and lows of securing AI, exploring the surprising vulnerabilities that lurk in even the most advanced systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cyber Leaders on the Move - Cyber Leadership Institute Feature</title>
+      <link>https://infosecvandana.com/featured/cyberleadershipinstitute/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/cyberleadershipinstitute/</guid>
+      <description>Featured in the Cyber Leadership Institute &amp;lsquo;Cyber Leaders on the Move&amp;rsquo; series as Global Chair of OWASP and Security Relations Leader APJ/ANZ at Snyk.</description>
     </item>
     <item>
       <title>The BSides Weekly Podcast</title>
@@ -38,11 +199,25 @@
       <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;Atomic Talk Title: Defending the unknown using AI and cybersecurity&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;New and unknown threats emerge daily, making traditional cybersecurity methods insufficient. Artificial Intelligence (AI) is transforming how we defend against these unknown threats by enabling predictive analysis, real-time monitoring, and automated responses.&lt;/p&gt;&#xA;&lt;p&gt;AI can detect patterns, anomalies, and suspicious behaviors that humans may overlook, helping to safeguard systems before attacks occur. By combining AI with human expertise, organizations can create a more robust defense strategy, allowing them to identify and neutralize threats faster and more efficiently. This synergy between AI and cybersecurity is essential for staying ahead in the fight against evolving digital dangers.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Women: Kickstart your Application Security Career</title>
+      <link>https://infosecvandana.com/blogs/women_kickstart_appsec_career/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/women_kickstart_appsec_career/</guid>
+      <description>A career-focused piece encouraging more women to build in application security.</description>
+    </item>
+    <item>
       <title>SC Awards Judge 2024</title>
       <link>https://infosecvandana.com/judge/scawardjudge/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/judge/scawardjudge/</guid>
       <description>&lt;p&gt;SC Awards Judge 2024&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/scawardjudge.jpeg&#34; alt=&#34;scawardjudge&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference link:&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.scworld.com/sc-awards-2024-about?utm_source=marketing-campaign&amp;amp;utm_medium=social&amp;amp;utm_campaign=scawards-recognition-program-2024-may&amp;amp;utm_content=gleanin-judges&#34;&gt;https://www.scworld.com/sc-awards-2024-about?utm_source=marketing-campaign&amp;amp;utm_medium=social&amp;amp;utm_campaign=scawards-recognition-program-2024-may&amp;amp;utm_content=gleanin-judges&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.scworld.com/sc-awards-meet-the-judges&#34;&gt;https://www.scworld.com/sc-awards-meet-the-judges&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to integrate ASPM with your application security program</title>
+      <link>https://infosecvandana.com/blogs/aspm_appsec_program/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/aspm_appsec_program/</guid>
+      <description>A practical article on ASPM and how it fits into an application security program.</description>
     </item>
     <item>
       <title>The Magic of Application Security Posture Management and its Future Frontier</title>
@@ -73,6 +248,20 @@
       <description>&lt;p&gt;The goal was to choose a set of CISOs and InfoSec leaders who have demonstrated an extraordinary leadership and resilience during the challenging times&lt;/p&gt;&#xA;&lt;br&gt;&#xA;**Reference**&#xA;https://www.uniindia.com/cyberfrat-makes-an-history-with-cf100-india-2024-45-honouring-the-top-100-cybersecurity-influencers/pnn/news/3261320.html</description>
     </item>
     <item>
+      <title>Day in the Life of a Food Giant CISO</title>
+      <link>https://infosecvandana.com/ciso/food_giant_ciso/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/ciso/food_giant_ciso/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Day in the Life of a Food Giant CISO&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A written feature exploring what a typical day looks like for the CISO of a global food giant - from boardroom risk conversations and third-party risk, to operational technology, supply chain security, and crisis response. The article walks through the priorities, pressures, and practical decisions that shape a day in modern food-industry security leadership.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://snyk.io/blog/day-in-the-life-food-giant-ciso/&#34;&gt;https://snyk.io/blog/day-in-the-life-food-giant-ciso/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exploiting HTTP/2 CONTINUATION frames for DoS attacks</title>
+      <link>https://infosecvandana.com/blogs/http2_continuation_dos/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/http2_continuation_dos/</guid>
+      <description>A technical article covering denial-of-service risk through HTTP/2 CONTINUATION frames.</description>
+    </item>
+    <item>
       <title>Let&#39;s Chat Open Source Security</title>
       <link>https://infosecvandana.com/featured/openssf/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
@@ -85,6 +274,34 @@
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/awards/top100womenincyber/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Cyber Express - Top 100 Women in Cybersecurity&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/Top-100-Women-in-Cybersecurity.jpg&#34; alt=&#34;Top-100-Women-in-Cybersecurity&#34;&gt;&lt;/p&gt;&#xA;&lt;br&gt;&#xA;**Reference**&#xA;&lt;p&gt;&lt;a href=&#34;https://thecyberexpress.com/top-100-women-in-cybersecurity-leading-charge/&#34;&gt;https://thecyberexpress.com/top-100-women-in-cybersecurity-leading-charge/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SERIES 2 - A Day in the Life of a Security Leader: Between Alerts, Boardrooms, and Chaos</title>
+      <link>https://infosecvandana.com/leaderspeak/s2_alerts_boardrooms_chaos/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/s2_alerts_boardrooms_chaos/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;A Day in the Life of a Security Leader: Between Alerts, Boardrooms, and Chaos&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A conversation about what a modern security leader&amp;rsquo;s day really looks like - juggling alerts, board conversations, incident response, team leadership, and strategic priorities. Part of Series 2 of the &amp;ldquo;A Day in the Life of an Entrepreneur&amp;rdquo; / Security Leader series.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qhmg3vNJRR0&#34;&gt;https://www.youtube.com/watch?v=qhmg3vNJRR0&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nominee - Women in Tech Global Awards 2024</title>
+      <link>https://infosecvandana.com/awards/wit_global_award_2024/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/awards/wit_global_award_2024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Women in Tech Global Awards 2024 - Nominee&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Recognised as a nominee for the Women in Tech Global Awards 2024, honouring impact in cybersecurity, community building, and advancing women in tech across global ecosystems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.womentech.net/en-gb/nominee/Vandana%20Verma/Sehgal/64309&#34;&gt;https://www.womentech.net/en-gb/nominee/Vandana%20Verma/Sehgal/64309&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SERIES 2 - A Day in the Life of an Entrepreneur - Anant Shrivastava</title>
+      <link>https://infosecvandana.com/leaderspeak/s2_anantshrivastava/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/s2_anantshrivastava/</guid>
+      <description>&lt;p&gt;Anant Shrivastava&lt;/p&gt;&#xA;&lt;p&gt;Security researcher, trainer, and founder of Cyfinoid Research. Anant shares his journey from offensive security research into training and founding his own company, and what it looks like to build an independent research-led security business.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=d1RU5eLO47U&#34;&gt;https://www.youtube.com/watch?v=d1RU5eLO47U&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SERIES 2 - A Day in the Life of an Entrepreneur - Ajit Hatti</title>
+      <link>https://infosecvandana.com/leaderspeak/s2_ajithatti/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/s2_ajithatti/</guid>
+      <description>&lt;p&gt;Ajit Hatti&lt;/p&gt;&#xA;&lt;p&gt;Security researcher, community builder, and entrepreneur. Ajit shares his journey across security research, co-founding community efforts, and running a security business, along with the lessons he has learned about resilience as an entrepreneur.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6ZQRtmIHKQc&#34;&gt;https://www.youtube.com/watch?v=6ZQRtmIHKQc&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aspiring CXO Award 2024</title>
@@ -108,11 +325,25 @@
       <description>&lt;p&gt;Kim Chakanetsa meets two cybersecurity experts who help women stay safe online.&lt;/p&gt;&#xA;&lt;p&gt;Vandana Verma Sehgal is a Security Solutions leader at Snyk and the Chair of the Board of Directors for OWASP, the Open Web Application Security Project Foundation. She is also the founder of InfosecKids and InfosecGirls.&lt;/p&gt;&#xA;&lt;p&gt;Sophina Kio-Lawson is an information security engineer from Nigeria and the co-founder for SheSecures, an initiative that promotes cyber literacy and inspires and empowers young African women who aspire to work in the tech industry.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>SERIES 2 - A Day in the Life of an Entrepreneur - Subho Halder</title>
+      <link>https://infosecvandana.com/leaderspeak/s2_subhohalder/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/s2_subhohalder/</guid>
+      <description>&lt;p&gt;Subho Halder - Appknox&lt;/p&gt;&#xA;&lt;p&gt;Co-founder and CISO at Appknox. Subho shares his journey into mobile application security entrepreneurship, the challenges of building a product business from India for the world, and his perspective on leadership and growth as a founder.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=k3TFiVrgIjw&#34;&gt;https://www.youtube.com/watch?v=k3TFiVrgIjw&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Black Hat Europe 2023 - Locknote: Conclusions and Key Takeaways from Day 2</title>
       <link>https://infosecvandana.com/talks/blackhateu_2023/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/blackhateu_2023/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Locknote: Conclusions and Key Takeaways from Day 2&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;Jeff Moss  |  Founder of Black Hat and DEF CON Conferences &amp;amp; Former Chief Security Officer and VP at ICANN, U.S. Department of Homeland Security Advisory Council&#xA;&lt;br&gt;&#xA;Ali Abbasi  |  Faculty, CISPA Helmholtz Center for information Security&#xA;&lt;br&gt;&#xA;Jiska Classen  |  Security Researcher, Hasso Plattner Institute&#xA;&lt;br&gt;&#xA;Vandana Verma  |  Security, Snyk&#xA;&lt;br&gt;&#xA;Kenneth White  |  Security Principal, Mongodb&#xA;&lt;br&gt;&#xA;Date: Thursday, December 7 | 4:20pm-5:00pm ( ICC Capital Suites 7 &amp;amp; 12, Level 3 )&#xA;&lt;br&gt;&#xA;Format: 40-Minute Briefings&#xA;&lt;br&gt;&#xA;Track: Keynote&#xA;&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SERIES 2 - A Day in the Life of an Entrepreneur - Guy Podjarny</title>
+      <link>https://infosecvandana.com/leaderspeak/s2_guypodjarny/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/s2_guypodjarny/</guid>
+      <description>&lt;p&gt;Guy Podjarny - Snyk&lt;/p&gt;&#xA;&lt;p&gt;Founder of Snyk and long-time application security leader. Guy shares his journey from AppSec engineer and author to founding Snyk, and what building a developer-first security company has taught him about entrepreneurship, leadership, and the future of DevSecOps.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=NUyvwCswcZ4&#34;&gt;https://www.youtube.com/watch?v=NUyvwCswcZ4&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blackhat MEA 2023 - From Vulnerability to Viability: Tackling Supply Chain Challenges Head-On</title>
@@ -136,6 +367,20 @@
       <description>&lt;p&gt;Title: Paving the Way: Balancing Standards, Regulations, Ownership, and Accountability&lt;/p&gt;&#xA;&lt;p&gt;Reference:- &lt;a href=&#34;https://blackhatmea.com/session/paving-way-balancing-standards-regulations-ownership-and-accountability&#34;&gt;https://blackhatmea.com/session/paving-way-balancing-standards-regulations-ownership-and-accountability&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>SERIES 2 - A Day in the Life of a Security Leader - Kamal Sharma</title>
+      <link>https://infosecvandana.com/leaderspeak/s2_kamalsharma/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/s2_kamalsharma/</guid>
+      <description>&lt;p&gt;Kamal Sharma&lt;/p&gt;&#xA;&lt;p&gt;Security leader Kamal Sharma shares what a day in the life of a modern security leader looks like - from managing teams and priorities to navigating boardroom conversations and incidents. A conversation about leadership, craft, and the realities of running security at scale.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1TzM_2dUDcE&#34;&gt;https://www.youtube.com/watch?v=1TzM_2dUDcE&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SERIES 2 - Leadership Conversation with Divakar Prayaga</title>
+      <link>https://infosecvandana.com/leaderspeak/s2_divakarprayaga/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/s2_divakarprayaga/</guid>
+      <description>&lt;p&gt;Divakar Prayaga&lt;/p&gt;&#xA;&lt;p&gt;A leadership conversation with Divakar Prayaga, exploring his experience across security leadership and entrepreneurship. Divakar talks about his career path, his approach to leading teams, and what it takes to lead effectively in the cyber space.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=L57kpbiIftI&#34;&gt;https://www.youtube.com/watch?v=L57kpbiIftI&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Episode 74: How Curiosity Empowered OWASP Global Chair Vandana Verma </title>
       <link>https://infosecvandana.com/podcasts/humansofinfosec/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
@@ -148,6 +393,13 @@
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/awards/cybersecurityleaderofheyear2023/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cybersecurityleaderofheyear2023.png&#34; alt=&#34;cybersecawards&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SERIES 2 - Episode 06 - Vivek Ramachandran</title>
+      <link>https://infosecvandana.com/leaderspeak/s2_vivekramachandran/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/s2_vivekramachandran/</guid>
+      <description>&lt;p&gt;Vivek Ramachandran - SquareX&lt;/p&gt;&#xA;&lt;p&gt;Founder of SquareX and long-time security researcher, author, and entrepreneur. Vivek shares his journey from wireless security research to founding multiple security businesses, and what running a security startup looks like today.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=eIcImWol1KY&#34;&gt;https://www.youtube.com/watch?v=eIcImWol1KY&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Defcon - AppSec Village 2023</title>
@@ -178,11 +430,39 @@
       <description>&lt;p&gt;Title: Tracing the Journey of Web Application Security from Past to Future&lt;/p&gt;&#xA;&lt;p&gt;The Open Web Application Security Project (OWASP) has profoundly influenced the cybersecurity arena since its inception in 2001, primarily focusing on web application security. This talk outlines the evolution of OWASP, beginning with its establishment and early development of the influential OWASP Top Ten - a document identifying the most prevalent security risks to web applications. We then shift to a discussion of the present day, where OWASP has grown into a global entity, offering a variety of tools, documentation, and community resources that contribute significantly to cybersecurity best practices.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>SERIES 2 - Episode 04 - Ankita Gupta</title>
+      <link>https://infosecvandana.com/leaderspeak/s2_ankitagupta/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/s2_ankitagupta/</guid>
+      <description>&lt;p&gt;Ankita Gupta - Akto&lt;/p&gt;&#xA;&lt;p&gt;Co-founder of Akto. Ankita shares her journey into founding an API security company, the lessons she has learned about building and scaling a product, and what drives her as an entrepreneur in the security space.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rIZOAWGtsbs&#34;&gt;https://www.youtube.com/watch?v=rIZOAWGtsbs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SERIES 2 - Episode 03 - Ankita Dhakar</title>
+      <link>https://infosecvandana.com/leaderspeak/s2_ankitadhakar/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/s2_ankitadhakar/</guid>
+      <description>&lt;p&gt;Ankita Dhakar - Security Lit&lt;/p&gt;&#xA;&lt;p&gt;Founder of Security Lit. Ankita talks about building a cybersecurity company from the ground up, her path into entrepreneurship, and what a day looks like as a founder navigating the security startup space.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nyGe0TO90Ks&#34;&gt;https://www.youtube.com/watch?v=nyGe0TO90Ks&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SERIES 2 - Episode 02 - Travis McPeak</title>
+      <link>https://infosecvandana.com/leaderspeak/s2_travismcpeak/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/s2_travismcpeak/</guid>
+      <description>&lt;p&gt;Travis McPeak&lt;/p&gt;&#xA;&lt;p&gt;Cloud security leader, founder, and long-time AppSec practitioner. Travis shares his journey from enterprise security roles into founding a cloud security company, and his perspective on building products developers actually want to use.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VQgjogpVpFM&#34;&gt;https://www.youtube.com/watch?v=VQgjogpVpFM&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Most In-Demand Entry-Level Cybersecurity Skills for 2023 and Beyond</title>
       <link>https://infosecvandana.com/webinars/ec_council_2023/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/webinars/ec_council_2023/</guid>
       <description>&lt;p&gt;![Ec Council](/images/ec_council_2023.jpg&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ZFfDea-QxxU?si=eDWzyrXRnUlYCGfs&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - &lt;a href=&#34;https://www.eccu.edu/cyber-talks/cybersecurity-skills/&#34;&gt;https://www.eccu.edu/cyber-talks/cybersecurity-skills/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SERIES 2 - Episode 01 - Lakshmi Das</title>
+      <link>https://infosecvandana.com/leaderspeak/s2_lakshmidas/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/s2_lakshmidas/</guid>
+      <description>&lt;p&gt;Lakshmi Das&lt;/p&gt;&#xA;&lt;p&gt;Opening episode of Series 2 of &amp;ldquo;A Day in the Life of an Entrepreneur&amp;rdquo;. Lakshmi shares her journey into security entrepreneurship, the challenges she has navigated, and the lessons she has learned while building in the cyber space.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EBAumGwJTWQ&#34;&gt;https://www.youtube.com/watch?v=EBAumGwJTWQ&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cutting AppSec to the Core: What You Need to Know</title>
@@ -206,6 +486,13 @@
       <description>&lt;p&gt;&lt;strong&gt;Title - Continuous Security - Integrating Pipeline Security&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In a world of continuous delivery and cloud native, boundaries between what an application and what constitutes infrastructure are increasingly blurred. Workloads, the containers they ship in, and platform configuration are often developed and deployed by the same teams, and development velocity is the key metric to success. This session will look at how to build security in the CI/CD process.&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - &lt;a href=&#34;https://www.rsaconference.com/Library/presentation/USA/2022/Continuous%20Security%20-%20Integrating%20Pipeline%20Security&#34;&gt;https://www.rsaconference.com/Library/presentation/USA/2022/Continuous%20Security%20-%20Integrating%20Pipeline%20Security&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>SE Radio 514: OWASP Top 10</title>
+      <link>https://infosecvandana.com/podcasts/se_radio_514/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/podcasts/se_radio_514/</guid>
+      <description>A Software Engineering Radio episode discussing the OWASP Top 10.</description>
+    </item>
+    <item>
       <title>Interview with ESG-global by Techtarget</title>
       <link>https://infosecvandana.com/featured/esg2022/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
@@ -220,11 +507,81 @@
       <description>&lt;p&gt;Women in Cybersecurity&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.techtarget.com/esg-global/video/women-in-cybersecurity-vandana-verma/&#34;&gt;https://www.techtarget.com/esg-global/video/women-in-cybersecurity-vandana-verma/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ctsPEIqXJnc?si=yrBfHb2cH8x-LKD1&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
+      <title>Episode 26 - Marina Segal</title>
+      <link>https://infosecvandana.com/leaderspeak/marinasegal/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/marinasegal/</guid>
+      <description>&lt;p&gt;Marina Segal&lt;/p&gt;&#xA;&lt;p&gt;Cybersecurity founder and product leader. Marina talks about building a cyber security company, the challenges of fundraising and scaling, and what she has learned about leadership and resilience as an entrepreneur.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=XIvMVJbB6pY&#34;&gt;https://www.youtube.com/watch?v=XIvMVJbB6pY&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Episode 25 - Vikram Mehta</title>
+      <link>https://infosecvandana.com/leaderspeak/vikrammehta/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/vikrammehta/</guid>
+      <description>&lt;p&gt;Vikram Mehta&lt;/p&gt;&#xA;&lt;p&gt;Cybersecurity leader and entrepreneur. Vikram shares his experience of building and scaling security work in modern enterprises, and the mindset shifts required to step from a corporate security role into entrepreneurship.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lgJlb2aEZNU&#34;&gt;https://www.youtube.com/watch?v=lgJlb2aEZNU&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Episode 24 - Rahul Tyagi</title>
+      <link>https://infosecvandana.com/leaderspeak/rahultyagi/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/rahultyagi/</guid>
+      <description>&lt;p&gt;Rahul Tyagi&lt;/p&gt;&#xA;&lt;p&gt;Cybersecurity entrepreneur, author, and educator. Rahul shares his journey into security training and entrepreneurship, how he thinks about building a community-first business, and what daily life looks like as a founder in cyber.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sSOam04N9w4&#34;&gt;https://www.youtube.com/watch?v=sSOam04N9w4&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Episode 23 - Sandeep Kamble</title>
+      <link>https://infosecvandana.com/leaderspeak/sandeepkamble/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/sandeepkamble/</guid>
+      <description>&lt;p&gt;Sandeep Kamble&lt;/p&gt;&#xA;&lt;p&gt;Founder and cybersecurity entrepreneur. Sandeep talks about the origin story of his company, the realities of running a security startup, and the lessons he has picked up about leadership and resilience as an entrepreneur.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Jw2OarwrAzk&#34;&gt;https://www.youtube.com/watch?v=Jw2OarwrAzk&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Episode 22 - Muslim Koser</title>
+      <link>https://infosecvandana.com/leaderspeak/muslimkoser/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/muslimkoser/</guid>
+      <description>&lt;p&gt;Muslim Koser&lt;/p&gt;&#xA;&lt;p&gt;Cybersecurity leader and entrepreneur. Muslim shares his path into security leadership and entrepreneurship, what a typical day looks like running security programmes and initiatives, and how he approaches building teams and products.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sqEUIrLZ0jU&#34;&gt;https://www.youtube.com/watch?v=sqEUIrLZ0jU&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Evolving with The New Norm​</title>
       <link>https://infosecvandana.com/paneldiscussion/wicsme2021/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/paneldiscussion/wicsme2021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Evolving with The New Norm&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Episode 21 - Akshat Jain</title>
+      <link>https://infosecvandana.com/leaderspeak/akshatjain/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/akshatjain/</guid>
+      <description>&lt;p&gt;Akshat Jain&lt;/p&gt;&#xA;&lt;p&gt;Cybersecurity entrepreneur. Akshat talks about his journey into founding a security business, the challenges of getting a startup off the ground, and the lessons he has learned along the way.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lIxvNIUfk_Q&#34;&gt;https://www.youtube.com/watch?v=lIxvNIUfk_Q&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Episode 20 - Kunal Bajaj and Sachin Kumar</title>
+      <link>https://infosecvandana.com/leaderspeak/kunal_sachin/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/kunal_sachin/</guid>
+      <description>&lt;p&gt;Kunal Bajaj and Sachin Kumar&lt;/p&gt;&#xA;&lt;p&gt;Co-founders in the cybersecurity space. In this conversation, Kunal and Sachin share their paths into entrepreneurship, how they built their company together, and what a typical day looks like running a security business as co-founders.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xNW8bZmQwho&#34;&gt;https://www.youtube.com/watch?v=xNW8bZmQwho&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Episode 19 - Rahul Sasi</title>
+      <link>https://infosecvandana.com/leaderspeak/rahulsasi/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/rahulsasi/</guid>
+      <description>&lt;p&gt;Rahul Sasi&lt;/p&gt;&#xA;&lt;p&gt;Cybersecurity researcher and founder. Rahul shares his journey from vulnerability research to founding a security product company, the highs and lows of building a security startup, and what drives him as an entrepreneur in the cyber space.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wALCZs7xUEY&#34;&gt;https://www.youtube.com/watch?v=wALCZs7xUEY&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Security Weekly #236</title>
+      <link>https://infosecvandana.com/podcasts/asw_236/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/podcasts/asw_236/</guid>
+      <description>An Application Security Weekly episode with audio, video, and show notes.</description>
+    </item>
+    <item>
+      <title>Episode 18 - Ed Adams</title>
+      <link>https://infosecvandana.com/leaderspeak/edadams/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/edadams/</guid>
+      <description>&lt;p&gt;Ed Adams&lt;/p&gt;&#xA;&lt;p&gt;CEO and software security entrepreneur. Ed shares his long career in application security, what it takes to build and run a security training and services company, and how he thinks about leadership, culture, and the human side of software security.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bh2HVp7yYCI&#34;&gt;https://www.youtube.com/watch?v=bh2HVp7yYCI&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ROOTCON 15 - The Curious case of knowing the unknown</title>
@@ -234,6 +591,13 @@
       <description>&lt;p&gt;&lt;strong&gt;Title: The Curious case of knowing the unknown&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;br&gt;&#xA;Reference:- https://www.rootcon.org/html/archives/rc15#curios_case_unknown&#xA;&lt;br&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kky2DR0F8To?si=s2msIRCmZ0VXBeeM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
+      <title>Episode 17 - Arun Mane</title>
+      <link>https://infosecvandana.com/leaderspeak/arunmane/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/arunmane/</guid>
+      <description>&lt;p&gt;Arun Mane&lt;/p&gt;&#xA;&lt;p&gt;IoT and hardware security researcher and entrepreneur. Arun talks about his journey into hardware security, building a company focused on IoT and automotive security, and what a typical day looks like running a specialised security firm.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=eXIwKq1tifk&#34;&gt;https://www.youtube.com/watch?v=eXIwKq1tifk&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>BSides Singapore 2021 -  Finding the unknown before it finds you</title>
       <link>https://infosecvandana.com/talks/bsides_sg_2021/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
@@ -241,11 +605,25 @@
       <description>&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt; -  Finding the unknown before it finds you&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference Link&lt;/strong&gt;: &lt;a href=&#34;https://www.blackhat.com/us-20/briefings/schedule/index.html#making-an-impact-from-india-to-the-rest-of-the-world-by-building-and-nurturing-women-infosec-community-19663&#34;&gt;Black Hat USA&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/CJ_Huiutgfk?si=qQv4FmxT3ahYyJ5e&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
+      <title>Episode 16 - Tanya Janca</title>
+      <link>https://infosecvandana.com/leaderspeak/tanyajanca/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/tanyajanca/</guid>
+      <description>&lt;p&gt;Tanya Janca (SheHacksPurple)&lt;/p&gt;&#xA;&lt;p&gt;Application security expert, author, educator, and founder. Tanya shares her journey from developer to AppSec leader to running her own security education business, and the day-to-day realities of being an entrepreneur in the DevSecOps and AppSec space.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QXpyKM0FJ8M&#34;&gt;https://www.youtube.com/watch?v=QXpyKM0FJ8M&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Cocon 2021 - New way of looking at the hidden mysteries in the code</title>
       <link>https://infosecvandana.com/talks/cocon_2021/</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/cocon_2021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Title - New way of looking at the hidden mysteries in the code&lt;/strong&gt;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://india.c0c0n.org/2021/agenda&#34;&gt;https://india.c0c0n.org/2021/agenda&lt;/a&gt;&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;13-Nov-2021 (DAY 4), TRACK 3&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cocon_2021.jpeg&#34; alt=&#34;cocon2021&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Episode 15 - Ken Underhill</title>
+      <link>https://infosecvandana.com/leaderspeak/kenunderhill/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/kenunderhill/</guid>
+      <description>&lt;p&gt;Ken Underhill&lt;/p&gt;&#xA;&lt;p&gt;Cybersecurity educator, entrepreneur, and media creator. Ken shares his story of building security education at scale, what a day looks like running a cyber training and content business, and how he balances teaching, entrepreneurship, and community.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BTBaEOCfzb8&#34;&gt;https://www.youtube.com/watch?v=BTBaEOCfzb8&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cyber Security Awards</title>
@@ -262,11 +640,25 @@
       <description>&lt;p&gt;&lt;strong&gt;Magda Chelly&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/m49d4ch3lly/&#34;&gt;https://www.linkedin.com/in/m49d4ch3lly/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bio:-&lt;/p&gt;&#xA;&lt;p&gt;Head of Cyber Risk Consulting, Asia at Marsh Asia, PhD, S-CISO, CISSP, Cert SCI (General Insurance)&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Episode 14 - Kumar Ritesh</title>
+      <link>https://infosecvandana.com/leaderspeak/kumarritesh/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/kumarritesh/</guid>
+      <description>&lt;p&gt;Kumar Ritesh&lt;/p&gt;&#xA;&lt;p&gt;Cybersecurity entrepreneur and founder leading threat intelligence innovation. Kumar talks about his path from intelligence roles into building a cyber threat intelligence company, and the lessons he has learned while scaling a security-first business.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IBiSMndi3Uo&#34;&gt;https://www.youtube.com/watch?v=IBiSMndi3Uo&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Episode 7 - Rohit Srivastwa</title>
       <link>https://infosecvandana.com/ciso/rohitsir/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/ciso/rohitsir/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Rohit Srivastwa&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/rohit11/&#34;&gt;https://www.linkedin.com/in/rohit11/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://twitter.com/rohit11&#34;&gt;https://twitter.com/rohit11&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bio:-&lt;/p&gt;&#xA;&lt;p&gt;Virtual CISO@ Various Large Enterprises, Author, 3x Founder, Charter Member @TiE, Mentor, Investor, Cyber Security Evangelist&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Episode 13 - Grant Ongers</title>
+      <link>https://infosecvandana.com/leaderspeak/grantongers/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/leaderspeak/grantongers/</guid>
+      <description>&lt;p&gt;Grant Ongers&lt;/p&gt;&#xA;&lt;p&gt;Entrepreneur, security leader, and long-time OWASP community contributor. In this conversation, Grant shares his journey into security entrepreneurship, the hurdles along the way, and what a typical day looks like leading security work across organisations and communities.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AChM3Ocj00w&#34;&gt;https://www.youtube.com/watch?v=AChM3Ocj00w&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Episode 6 - Aisling MacRunnels &amp; Ronald Ulko</title>
@@ -435,13 +827,6 @@
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight15/</guid>
       <description>&lt;p&gt;About the Project:-&#xA;Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. Dependency-Track takes a unique and highly beneficial approach by leveraging the capabilities of Software Bill of Materials (SBOM). This approach provides capabilities that traditional Software Composition Analysis (SCA) solutions cannot achieve.&lt;/p&gt;&#xA;&lt;p&gt;Some of the ways you can help are as follows:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Try it out&lt;/li&gt;&#xA;&lt;li&gt;Have your development team try it out&lt;/li&gt;&#xA;&lt;li&gt;Submit feedback via Github issues&lt;/li&gt;&#xA;&lt;li&gt;Submit pull requests&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;References:-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chairperson - OWASP Global Board of Directors</title>
-      <link>https://infosecvandana.com/advisoryboard/owasp/</link>
-      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/advisoryboard/owasp/</guid>
-      <description>&lt;p&gt;Reference link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://owasp.org/corporate/&#34;&gt;https://owasp.org/corporate/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>EC Council 2021 - Women in Cybersecurity: For Women. By Women.</title>

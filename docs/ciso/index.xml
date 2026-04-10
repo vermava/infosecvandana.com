@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/ciso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day in the Life of a Food Giant CISO</title>
+      <link>https://infosecvandana.com/ciso/food_giant_ciso/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/ciso/food_giant_ciso/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Day in the Life of a Food Giant CISO&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A written feature exploring what a typical day looks like for the CISO of a global food giant - from boardroom risk conversations and third-party risk, to operational technology, supply chain security, and crisis response. The article walks through the priorities, pressures, and practical decisions that shape a day in modern food-industry security leadership.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://snyk.io/blog/day-in-the-life-food-giant-ciso/&#34;&gt;https://snyk.io/blog/day-in-the-life-food-giant-ciso/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Episode 8 - Magda Chelly</title>
       <link>https://infosecvandana.com/ciso/magda/</link>
