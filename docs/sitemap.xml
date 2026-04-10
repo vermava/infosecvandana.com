@@ -2,1576 +2,1566 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4322/judge/</loc>
+    <loc>https://infosecvandana.com/judge/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/judge/sc_awards_2026/</loc>
+    <loc>https://infosecvandana.com/judge/sc_awards_2026/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/</loc>
+    <loc>https://infosecvandana.com/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/</loc>
+    <loc>https://infosecvandana.com/blogs/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/building_ai_governance_speed/</loc>
+    <loc>https://infosecvandana.com/blogs/building_ai_governance_speed/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/ai_bill_of_material_appsec/</loc>
+    <loc>https://infosecvandana.com/blogs/ai_bill_of_material_appsec/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/kickstart_genai_security/</loc>
+    <loc>https://infosecvandana.com/blogs/kickstart_genai_security/</loc>
     <lastmod>2026-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/learning_about_llms/</loc>
+    <loc>https://infosecvandana.com/blogs/learning_about_llms/</loc>
     <lastmod>2025-12-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/owasp_top_10_release_candidate/</loc>
+    <loc>https://infosecvandana.com/blogs/owasp_top_10_release_candidate/</loc>
     <lastmod>2025-12-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/owasp_top_10_llm_2025/</loc>
+    <loc>https://infosecvandana.com/blogs/owasp_top_10_llm_2025/</loc>
     <lastmod>2025-11-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/breakingintoinfosec/</loc>
+    <loc>https://infosecvandana.com/breakingintoinfosec/</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/breakingintoinfosec/breaking_into_infosec_with_vandana/</loc>
+    <loc>https://infosecvandana.com/breakingintoinfosec/breaking_into_infosec_with_vandana/</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/appsec_in_the_age_of_ai/</loc>
+    <loc>https://infosecvandana.com/blogs/appsec_in_the_age_of_ai/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/bsideskerala2025_gen_ai_talent/</loc>
+    <loc>https://infosecvandana.com/talks/bsideskerala2025_gen_ai_talent/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/</loc>
+    <loc>https://infosecvandana.com/talks/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/bsideskerala2025_resilient_software/</loc>
+    <loc>https://infosecvandana.com/talks/bsideskerala2025_resilient_software/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/siberx_defend_vancouver_2025/</loc>
+    <loc>https://infosecvandana.com/talks/siberx_defend_vancouver_2025/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/siberx_defend_calgary_2025/</loc>
+    <loc>https://infosecvandana.com/talks/siberx_defend_calgary_2025/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/siberx_charter_2025/</loc>
+    <loc>https://infosecvandana.com/talks/siberx_charter_2025/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/podcasts/tanya_janca_bh_interview/</loc>
+    <loc>https://infosecvandana.com/podcasts/tanya_janca_bh_interview/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/podcasts/</loc>
+    <loc>https://infosecvandana.com/podcasts/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/ai_radar_series/</loc>
+    <loc>https://infosecvandana.com/webinars/ai_radar_series/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/</loc>
+    <loc>https://infosecvandana.com/webinars/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/vulnerabilities_on_the_radar/</loc>
+    <loc>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/bhusa2025_leading_women/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/bhusa2025_leading_women/</loc>
     <lastmod>2025-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/</loc>
     <lastmod>2025-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/pureai_owasp_llm_top10/</loc>
+    <loc>https://infosecvandana.com/webinars/pureai_owasp_llm_top10/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/securing_agentic_ai_apps/</loc>
+    <loc>https://infosecvandana.com/blogs/securing_agentic_ai_apps/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/agentic_ai_what_it_means/</loc>
+    <loc>https://infosecvandana.com/blogs/agentic_ai_what_it_means/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/wit_global_2025/</loc>
+    <loc>https://infosecvandana.com/talks/wit_global_2025/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/judge/sc_awards_2025/</loc>
+    <loc>https://infosecvandana.com/judge/sc_awards_2025/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/cybersecurity_certifications_breakdown/</loc>
+    <loc>https://infosecvandana.com/blogs/cybersecurity_certifications_breakdown/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/blackhat_asia_2025/</loc>
+    <loc>https://infosecvandana.com/blogs/blackhat_asia_2025/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/bhasia2025_locknote/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/bhasia2025_locknote/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/advisoryboard/</loc>
+    <loc>https://infosecvandana.com/advisoryboard/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/communityleadership/</loc>
+    <loc>https://infosecvandana.com/communityleadership/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/communityleadership/owasp_llm_security_verification_standard/</loc>
+    <loc>https://infosecvandana.com/communityleadership/owasp_llm_security_verification_standard/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/communityleadership/owasp_mcp_top_10/</loc>
+    <loc>https://infosecvandana.com/communityleadership/owasp_mcp_top_10/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/communityleadership/owasp_project_leaders/</loc>
+    <loc>https://infosecvandana.com/communityleadership/owasp_project_leaders/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/advisoryboard/owasp_projects_2025/</loc>
+    <loc>https://infosecvandana.com/advisoryboard/owasp_projects_2025/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/go_malicious_package_alert/</loc>
+    <loc>https://infosecvandana.com/blogs/go_malicious_package_alert/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/advisoryboard/owasp/</loc>
+    <loc>https://infosecvandana.com/advisoryboard/owasp/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/</loc>
+    <loc>https://infosecvandana.com/featured/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/communityleadership/owasp_compliance_officer/</loc>
+    <loc>https://infosecvandana.com/communityleadership/owasp_compliance_officer/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/communityleadership/infosecgirls/</loc>
+    <loc>https://infosecvandana.com/communityleadership/infosecgirls/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/snyk_contributor_profile/</loc>
+    <loc>https://infosecvandana.com/featured/snyk_contributor_profile/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/govinfosecurity_bheu2024/</loc>
+    <loc>https://infosecvandana.com/featured/govinfosecurity_bheu2024/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/bheu2024_locknote/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/bheu2024_locknote/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/advisoryboard/sossday_2024/</loc>
+    <loc>https://infosecvandana.com/advisoryboard/sossday_2024/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/blackhat2024/</loc>
+    <loc>https://infosecvandana.com/webinars/blackhat2024/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/communityleadership/owasp_global_board_history/</loc>
+    <loc>https://infosecvandana.com/communityleadership/owasp_global_board_history/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight31/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight31/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/cyberleadershipinstitute/</loc>
+    <loc>https://infosecvandana.com/featured/cyberleadershipinstitute/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/podcasts/bsidesnoida/</loc>
+    <loc>https://infosecvandana.com/podcasts/bsidesnoida/</loc>
     <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/testflix2024/</loc>
+    <loc>https://infosecvandana.com/talks/testflix2024/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/tryhackme_appsec_resources/</loc>
+    <loc>https://infosecvandana.com/blogs/tryhackme_appsec_resources/</loc>
     <lastmod>2024-09-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/women_kickstart_appsec_career/</loc>
+    <loc>https://infosecvandana.com/blogs/women_kickstart_appsec_career/</loc>
     <lastmod>2024-09-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/judge/scawardjudge/</loc>
+    <loc>https://infosecvandana.com/judge/scawardjudge/</loc>
     <lastmod>2024-08-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/aspm_appsec_program/</loc>
+    <loc>https://infosecvandana.com/blogs/aspm_appsec_program/</loc>
     <lastmod>2024-08-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/rsa2024/</loc>
+    <loc>https://infosecvandana.com/webinars/rsa2024/</loc>
     <lastmod>2024-08-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/dos2024/</loc>
+    <loc>https://infosecvandana.com/talks/dos2024/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/futuretechsummit_2022/</loc>
+    <loc>https://infosecvandana.com/talks/futuretechsummit_2022/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/</loc>
+    <loc>https://infosecvandana.com/awards/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/cf100/</loc>
+    <loc>https://infosecvandana.com/awards/cf100/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/</loc>
+    <loc>https://infosecvandana.com/ciso/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/food_giant_ciso/</loc>
+    <loc>https://infosecvandana.com/ciso/food_giant_ciso/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/http2_continuation_dos/</loc>
+    <loc>https://infosecvandana.com/blogs/http2_continuation_dos/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/openssf/</loc>
+    <loc>https://infosecvandana.com/featured/openssf/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/top100womenincyber/</loc>
+    <loc>https://infosecvandana.com/awards/top100womenincyber/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/s2_alerts_boardrooms_chaos/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/s2_alerts_boardrooms_chaos/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/s2_anantshrivastava/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/s2_anantshrivastava/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/s2_ajithatti/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/s2_ajithatti/</loc>
     <lastmod>2024-01-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/aspiriringcxo/</loc>
+    <loc>https://infosecvandana.com/awards/aspiriringcxo/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight30/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight30/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/communityleadership/owasp_podcast/</loc>
+    <loc>https://infosecvandana.com/communityleadership/owasp_podcast/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/communityleadership/owasp_spotlight_series_leadership/</loc>
+    <loc>https://infosecvandana.com/communityleadership/owasp_spotlight_series_leadership/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/books/</loc>
+    <loc>https://infosecvandana.com/books/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/books/implementingdevsecops/</loc>
+    <loc>https://infosecvandana.com/books/implementingdevsecops/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/bbc2023/</loc>
+    <loc>https://infosecvandana.com/featured/bbc2023/</loc>
     <lastmod>2023-12-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/s2_subhohalder/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/s2_subhohalder/</loc>
     <lastmod>2023-12-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/blackhateu_2023/</loc>
+    <loc>https://infosecvandana.com/talks/blackhateu_2023/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/s2_guypodjarny/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/s2_guypodjarny/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/bhmea2023_2/</loc>
+    <loc>https://infosecvandana.com/talks/bhmea2023_2/</loc>
     <lastmod>2023-11-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/bhmea2023_1/</loc>
+    <loc>https://infosecvandana.com/talks/bhmea2023_1/</loc>
     <lastmod>2023-11-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/bhmea2023_3/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/bhmea2023_3/</loc>
     <lastmod>2023-11-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/s2_kamalsharma/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/s2_kamalsharma/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight29/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight29/</loc>
     <lastmod>2023-10-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/s2_divakarprayaga/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/s2_divakarprayaga/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight28/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight28/</loc>
     <lastmod>2023-09-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/podcasts/humansofinfosec/</loc>
+    <loc>https://infosecvandana.com/podcasts/humansofinfosec/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/cybersecurityleaderofheyear2023/</loc>
+    <loc>https://infosecvandana.com/awards/cybersecurityleaderofheyear2023/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/s2_vivekramachandran/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/s2_vivekramachandran/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/appsecvillage_2023/</loc>
+    <loc>https://infosecvandana.com/talks/appsecvillage_2023/</loc>
     <lastmod>2023-08-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/rsa2023/</loc>
+    <loc>https://infosecvandana.com/webinars/rsa2023/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/sid/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/sid/</loc>
     <lastmod>2023-07-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/appsecnz/</loc>
+    <loc>https://infosecvandana.com/talks/appsecnz/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/s2_ankitagupta/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/s2_ankitagupta/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/s2_ankitadhakar/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/s2_ankitadhakar/</loc>
     <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight26/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight26/</loc>
     <lastmod>2023-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/s2_travismcpeak/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/s2_travismcpeak/</loc>
     <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/ec_council_2023/</loc>
+    <loc>https://infosecvandana.com/webinars/ec_council_2023/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/s2_lakshmidas/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/s2_lakshmidas/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/ismg2021/</loc>
+    <loc>https://infosecvandana.com/webinars/ismg2021/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/chris_hughes/</loc>
+    <loc>https://infosecvandana.com/ciso/chris_hughes/</loc>
     <lastmod>2022-11-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/appsecvillage_2022/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/appsecvillage_2022/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight25/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight25/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight24/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight24/</loc>
     <lastmod>2022-07-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/rsa2022/</loc>
+    <loc>https://infosecvandana.com/talks/rsa2022/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/podcasts/se_radio_514/</loc>
+    <loc>https://infosecvandana.com/podcasts/se_radio_514/</loc>
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/esg2022/</loc>
+    <loc>https://infosecvandana.com/featured/esg2022/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/techtarget/</loc>
+    <loc>https://infosecvandana.com/featured/techtarget/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/caroline_wong/</loc>
+    <loc>https://infosecvandana.com/ciso/caroline_wong/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/marinasegal/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/marinasegal/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/chris_russell/</loc>
+    <loc>https://infosecvandana.com/ciso/chris_russell/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/vikrammehta/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/vikrammehta/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/steve_kinman/</loc>
+    <loc>https://infosecvandana.com/ciso/steve_kinman/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/rahultyagi/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/rahultyagi/</loc>
     <lastmod>2022-01-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/sandeepkamble/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/sandeepkamble/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/muslimkoser/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/muslimkoser/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight23/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight23/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/wicsme2021/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/wicsme2021/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/akshatjain/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/akshatjain/</loc>
     <lastmod>2021-11-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/kunal_sachin/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/kunal_sachin/</loc>
     <lastmod>2021-11-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight22/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight22/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/rahulsasi/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/rahulsasi/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/podcasts/asw_236/</loc>
+    <loc>https://infosecvandana.com/podcasts/asw_236/</loc>
     <lastmod>2021-10-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight21/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight21/</loc>
     <lastmod>2021-10-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/breakingintoinfosec/security_career_advice/</loc>
+    <loc>https://infosecvandana.com/breakingintoinfosec/security_career_advice/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/edadams/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/edadams/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/rootcon2021/</loc>
+    <loc>https://infosecvandana.com/talks/rootcon2021/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/arunmane/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/arunmane/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/bsides_sg_2021/</loc>
+    <loc>https://infosecvandana.com/talks/bsides_sg_2021/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight20/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight20/</loc>
     <lastmod>2021-09-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/tanyajanca/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/tanyajanca/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/cocon_2021/</loc>
+    <loc>https://infosecvandana.com/talks/cocon_2021/</loc>
     <lastmod>2021-09-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/kenunderhill/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/kenunderhill/</loc>
     <lastmod>2021-09-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/judge/cybersecwoman2021/</loc>
+    <loc>https://infosecvandana.com/judge/cybersecwoman2021/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/magda/</loc>
+    <loc>https://infosecvandana.com/ciso/magda/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/kumarritesh/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/kumarritesh/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/rohitsir/</loc>
+    <loc>https://infosecvandana.com/ciso/rohitsir/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/grantongers/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/grantongers/</loc>
     <lastmod>2021-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/aisling/</loc>
+    <loc>https://infosecvandana.com/ciso/aisling/</loc>
     <lastmod>2021-07-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/upendra/</loc>
+    <loc>https://infosecvandana.com/ciso/upendra/</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight19/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight19/</loc>
     <lastmod>2021-07-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/abeer/</loc>
+    <loc>https://infosecvandana.com/ciso/abeer/</loc>
     <lastmod>2021-07-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/preetam/</loc>
+    <loc>https://infosecvandana.com/ciso/preetam/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/pawandesai/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/pawandesai/</loc>
     <lastmod>2021-06-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/lakshmi/</loc>
+    <loc>https://infosecvandana.com/ciso/lakshmi/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/aseem/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/aseem/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/ciso/sarb/</loc>
+    <loc>https://infosecvandana.com/ciso/sarb/</loc>
     <lastmod>2021-06-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/shubham/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/shubham/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/aaronrinehart/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/aaronrinehart/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight18/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight18/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/dhillon/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/dhillon/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/amarsingh/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/amarsingh/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight17/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight17/</loc>
     <lastmod>2021-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/aisa2021/</loc>
+    <loc>https://infosecvandana.com/webinars/aisa2021/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/rsa2021/</loc>
+    <loc>https://infosecvandana.com/talks/rsa2021/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/ciam/</loc>
+    <loc>https://infosecvandana.com/blogs/ciam/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/keenan/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/keenan/</loc>
     <lastmod>2021-05-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/mari/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/mari/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/takaharu/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/takaharu/</loc>
     <lastmod>2021-04-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight16/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight16/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/bryson/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/bryson/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight15/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight15/</loc>
     <lastmod>2021-04-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/eccouncil2021/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/eccouncil2021/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/advisoryboard/blackhat/</loc>
+    <loc>https://infosecvandana.com/advisoryboard/blackhat/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/shira/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/shira/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight14/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight14/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/leaderspeak/shivangi/</loc>
+    <loc>https://infosecvandana.com/leaderspeak/shivangi/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight13/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight13/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/ciso/</loc>
+    <loc>https://infosecvandana.com/awards/ciso/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/ec_council_2021/</loc>
+    <loc>https://infosecvandana.com/webinars/ec_council_2021/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/top100indian/</loc>
+    <loc>https://infosecvandana.com/awards/top100indian/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/cq100/</loc>
+    <loc>https://infosecvandana.com/awards/cq100/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/vitbhopal/</loc>
+    <loc>https://infosecvandana.com/webinars/vitbhopal/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/careerinappsec_mit/</loc>
+    <loc>https://infosecvandana.com/talks/careerinappsec_mit/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/rsa2021/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/rsa2021/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/cisomag_2021/</loc>
+    <loc>https://infosecvandana.com/featured/cisomag_2021/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/relentlessyou/</loc>
+    <loc>https://infosecvandana.com/blogs/relentlessyou/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight12/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight12/</loc>
     <lastmod>2021-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/ghci2021/</loc>
+    <loc>https://infosecvandana.com/talks/ghci2021/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/digitalweek/</loc>
+    <loc>https://infosecvandana.com/talks/digitalweek/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/sabudh/</loc>
+    <loc>https://infosecvandana.com/webinars/sabudh/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/securitytestingqa/</loc>
+    <loc>https://infosecvandana.com/trainings/securitytestingqa/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/</loc>
+    <loc>https://infosecvandana.com/trainings/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/advisoryboard/siberx/</loc>
+    <loc>https://infosecvandana.com/advisoryboard/siberx/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/advisoryboard/eccouncil/</loc>
+    <loc>https://infosecvandana.com/advisoryboard/eccouncil/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/isrm/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/isrm/</loc>
     <lastmod>2021-02-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/2021lens/</loc>
+    <loc>https://infosecvandana.com/blogs/2021lens/</loc>
     <lastmod>2021-02-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/ignite/</loc>
+    <loc>https://infosecvandana.com/webinars/ignite/</loc>
     <lastmod>2021-02-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/techjs_summit/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/techjs_summit/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/techbeacon/</loc>
+    <loc>https://infosecvandana.com/featured/techbeacon/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/podcasts/inspire20/</loc>
+    <loc>https://infosecvandana.com/podcasts/inspire20/</loc>
     <lastmod>2021-01-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/iitk_alumani/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/iitk_alumani/</loc>
     <lastmod>2021-01-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/dpsbangalore/</loc>
+    <loc>https://infosecvandana.com/webinars/dpsbangalore/</loc>
     <lastmod>2021-01-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/csw/</loc>
+    <loc>https://infosecvandana.com/featured/csw/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight11/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight11/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/icdmai2021/</loc>
+    <loc>https://infosecvandana.com/talks/icdmai2021/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight10/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight10/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/appsecinfluencer/</loc>
+    <loc>https://infosecvandana.com/awards/appsecinfluencer/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/owaspny/</loc>
+    <loc>https://infosecvandana.com/webinars/owaspny/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight9/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight9/</loc>
     <lastmod>2020-12-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight8/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight8/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/owasptestingtools/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/owasptestingtools/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight7/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight7/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/devopsdays_london/</loc>
+    <loc>https://infosecvandana.com/talks/devopsdays_london/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/scmagazine/</loc>
+    <loc>https://infosecvandana.com/featured/scmagazine/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/timesofindia_techies/</loc>
+    <loc>https://infosecvandana.com/featured/timesofindia_techies/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight6/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight6/</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/mizoramuni/</loc>
+    <loc>https://infosecvandana.com/webinars/mizoramuni/</loc>
     <lastmod>2020-11-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/humanfactor/</loc>
+    <loc>https://infosecvandana.com/featured/humanfactor/</loc>
     <lastmod>2020-11-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/razorpay/</loc>
+    <loc>https://infosecvandana.com/webinars/razorpay/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/timestechies/</loc>
+    <loc>https://infosecvandana.com/webinars/timestechies/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight5/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight5/</loc>
     <lastmod>2020-11-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight4/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight4/</loc>
     <lastmod>2020-11-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight3/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight3/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/ibm/</loc>
+    <loc>https://infosecvandana.com/featured/ibm/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/epicwoman/</loc>
+    <loc>https://infosecvandana.com/featured/epicwoman/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/scmedia/</loc>
+    <loc>https://infosecvandana.com/awards/scmedia/</loc>
     <lastmod>2020-10-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/rootcon2020/</loc>
+    <loc>https://infosecvandana.com/talks/rootcon2020/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/cybersentinelupes/</loc>
+    <loc>https://infosecvandana.com/webinars/cybersentinelupes/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight2/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight2/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/globalappsecsf/</loc>
+    <loc>https://infosecvandana.com/trainings/globalappsecsf/</loc>
     <lastmod>2020-10-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/recipe_igiverify/</loc>
+    <loc>https://infosecvandana.com/blogs/recipe_igiverify/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/owaspspotlightseries/spotlight1/</loc>
+    <loc>https://infosecvandana.com/owaspspotlightseries/spotlight1/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/blackhatasia/</loc>
+    <loc>https://infosecvandana.com/talks/blackhatasia/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/cybersecuritymagazine/</loc>
+    <loc>https://infosecvandana.com/featured/cybersecuritymagazine/</loc>
     <lastmod>2020-09-25T18:23:04+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/csasummit/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/csasummit/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/iam_commercebytes/</loc>
+    <loc>https://infosecvandana.com/webinars/iam_commercebytes/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/stemforgirls/</loc>
+    <loc>https://infosecvandana.com/webinars/stemforgirls/</loc>
     <lastmod>2020-09-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/ewf/</loc>
+    <loc>https://infosecvandana.com/awards/cybersecawards/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/cybersecawards/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:4322/awards/inteligenca/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:4322/paneldiscussion/csauk/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/csauk/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/doss_2021/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/doss_2021/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/emergingtipsforwomen/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/emergingtipsforwomen/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/judgejury/</loc>
+    <loc>https://infosecvandana.com/featured/judgejury/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/judge/topwomeninindia/</loc>
+    <loc>https://infosecvandana.com/judge/topwomeninindia/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/malaysian_panel/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/malaysian_panel/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/runningappsecprogram/</loc>
+    <loc>https://infosecvandana.com/blogs/runningappsecprogram/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/breakingintoinfosec/how_to_be_an_infosec_speaker/</loc>
+    <loc>https://infosecvandana.com/breakingintoinfosec/how_to_be_an_infosec_speaker/</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/podcasts/howtobeinfosecspeaker/</loc>
+    <loc>https://infosecvandana.com/podcasts/howtobeinfosecspeaker/</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/influentialpentester/</loc>
+    <loc>https://infosecvandana.com/awards/influentialpentester/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/appsecvillage_2020/</loc>
+    <loc>https://infosecvandana.com/talks/appsecvillage_2020/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/appscvillage2021/</loc>
+    <loc>https://infosecvandana.com/talks/appscvillage2021/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/redteamvillage_2020/</loc>
+    <loc>https://infosecvandana.com/talks/redteamvillage_2020/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/blackhatusa2020/</loc>
+    <loc>https://infosecvandana.com/talks/blackhatusa2020/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/darkreading/</loc>
+    <loc>https://infosecvandana.com/featured/darkreading/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/synopsis/</loc>
+    <loc>https://infosecvandana.com/featured/synopsis/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/hackkp/</loc>
+    <loc>https://infosecvandana.com/webinars/hackkp/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/breakingintoinfosec/getting_into_cyber/</loc>
+    <loc>https://infosecvandana.com/breakingintoinfosec/getting_into_cyber/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/podcasts/gettingintocyber/</loc>
+    <loc>https://infosecvandana.com/podcasts/gettingintocyber/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/podcasts/maleallies/</loc>
+    <loc>https://infosecvandana.com/podcasts/maleallies/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/nulldoha/</loc>
+    <loc>https://infosecvandana.com/webinars/nulldoha/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/portswigger/</loc>
+    <loc>https://infosecvandana.com/featured/portswigger/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/iitk/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/iitk/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/podcasts/cloudsecuritymyths/</loc>
+    <loc>https://infosecvandana.com/podcasts/cloudsecuritymyths/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/ciikarnataka/</loc>
+    <loc>https://infosecvandana.com/talks/ciikarnataka/</loc>
     <lastmod>2020-06-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/zerotrust/</loc>
+    <loc>https://infosecvandana.com/blogs/zerotrust/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/opensummit/</loc>
+    <loc>https://infosecvandana.com/talks/opensummit/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/womentech/</loc>
+    <loc>https://infosecvandana.com/talks/womentech/</loc>
     <lastmod>2020-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/womentechnet/</loc>
+    <loc>https://infosecvandana.com/talks/womentechnet/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/cybershikhsa_dsci/</loc>
+    <loc>https://infosecvandana.com/webinars/cybershikhsa_dsci/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/cyberday_canada/</loc>
+    <loc>https://infosecvandana.com/talks/cyberday_canada/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/timesofindia/</loc>
+    <loc>https://infosecvandana.com/featured/timesofindia/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/securityapproachespostlockdown/</loc>
+    <loc>https://infosecvandana.com/blogs/securityapproachespostlockdown/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/threatstoprivacy/</loc>
+    <loc>https://infosecvandana.com/blogs/threatstoprivacy/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/owaspsufflock/</loc>
+    <loc>https://infosecvandana.com/webinars/owaspsufflock/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/sarcon2020/</loc>
+    <loc>https://infosecvandana.com/talks/sarcon2020/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/how-to-start-a-career-in-appsec/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/how-to-start-a-career-in-appsec/</loc>
     <lastmod>2020-04-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/sheciso/</loc>
+    <loc>https://infosecvandana.com/webinars/sheciso/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/securitytestinghcl/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/securitytestinghcl/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/manifestationofinfosecspeaking/</loc>
+    <loc>https://infosecvandana.com/blogs/manifestationofinfosecspeaking/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/blogs/my-exhilarting/</loc>
+    <loc>https://infosecvandana.com/blogs/my-exhilarting/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/16womeninappsec/</loc>
+    <loc>https://infosecvandana.com/awards/16womeninappsec/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/cisomag/</loc>
+    <loc>https://infosecvandana.com/featured/cisomag/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/owaspseasides/</loc>
+    <loc>https://infosecvandana.com/trainings/owaspseasides/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/scit/</loc>
+    <loc>https://infosecvandana.com/featured/scit/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/appsec_cali/</loc>
+    <loc>https://infosecvandana.com/trainings/appsec_cali/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/appseccali/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/appseccali/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/devsecops_virtuallytesting/</loc>
+    <loc>https://infosecvandana.com/webinars/devsecops_virtuallytesting/</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/sacon2020/</loc>
+    <loc>https://infosecvandana.com/talks/sacon2020/</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/christuniversity2021/</loc>
+    <loc>https://infosecvandana.com/webinars/christuniversity2021/</loc>
     <lastmod>2019-11-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/cybersecuritymentoringmonday/</loc>
+    <loc>https://infosecvandana.com/webinars/cybersecuritymentoringmonday/</loc>
     <lastmod>2019-11-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/topwomeninindia/</loc>
+    <loc>https://infosecvandana.com/awards/topwomeninindia/</loc>
     <lastmod>2019-10-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/influentialspeaker/</loc>
+    <loc>https://infosecvandana.com/awards/influentialspeaker/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/cocon2019/</loc>
+    <loc>https://infosecvandana.com/trainings/cocon2019/</loc>
     <lastmod>2019-09-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/addo/</loc>
+    <loc>https://infosecvandana.com/talks/addo/</loc>
     <lastmod>2019-09-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/appsecdc/</loc>
+    <loc>https://infosecvandana.com/talks/appsecdc/</loc>
     <lastmod>2019-09-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/appsecdc/</loc>
+    <loc>https://infosecvandana.com/trainings/appsecdc/</loc>
     <lastmod>2019-09-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/itsp/</loc>
+    <loc>https://infosecvandana.com/featured/itsp/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/womancyberjutsu/</loc>
+    <loc>https://infosecvandana.com/awards/womancyberjutsu/</loc>
     <lastmod>2019-09-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/appsecvillage_2019/</loc>
+    <loc>https://infosecvandana.com/talks/appsecvillage_2019/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/devopssurvey/</loc>
+    <loc>https://infosecvandana.com/webinars/devopssurvey/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/devseccon/</loc>
+    <loc>https://infosecvandana.com/talks/devseccon/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/globalappsectelaviv/</loc>
+    <loc>https://infosecvandana.com/trainings/globalappsectelaviv/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/kidsglove/</loc>
+    <loc>https://infosecvandana.com/trainings/kidsglove/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/bugbountyworld/</loc>
+    <loc>https://infosecvandana.com/featured/bugbountyworld/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/books/riseofcyberwoman/</loc>
+    <loc>https://infosecvandana.com/books/riseofcyberwoman/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/featured/hackinterview/</loc>
+    <loc>https://infosecvandana.com/featured/hackinterview/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/owaspseasides2019/</loc>
+    <loc>https://infosecvandana.com/trainings/owaspseasides2019/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/appsec_cali2019/</loc>
+    <loc>https://infosecvandana.com/trainings/appsec_cali2019/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/appsecusa/</loc>
+    <loc>https://infosecvandana.com/trainings/appsecusa/</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/owaspottawa/</loc>
+    <loc>https://infosecvandana.com/webinars/owaspottawa/</loc>
     <lastmod>2018-07-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/shesecures/</loc>
+    <loc>https://infosecvandana.com/webinars/shesecures/</loc>
     <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/talks/appseceurope2018/</loc>
+    <loc>https://infosecvandana.com/talks/appseceurope2018/</loc>
     <lastmod>2018-07-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/awards/managerchoice/</loc>
+    <loc>https://infosecvandana.com/awards/managerchoice/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/trainings/nullcon/</loc>
+    <loc>https://infosecvandana.com/trainings/nullcon/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/webinars/brightalk/</loc>
+    <loc>https://infosecvandana.com/webinars/brightalk/</loc>
     <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/paneldiscussion/swati/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/swati/</loc>
     <lastmod>2017-07-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/categories/</loc>
+    <loc>https://infosecvandana.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:4322/tags/</loc>
+    <loc>https://infosecvandana.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
