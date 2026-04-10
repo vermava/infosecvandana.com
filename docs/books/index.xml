@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books Authored on Vandana Verma</title>
-    <link>https://infosecvandana.com/books/</link>
+    <link>http://localhost:4322/books/</link>
     <description>Recent content in Books Authored on Vandana Verma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://infosecvandana.com/books/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4322/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementing DevSecOps Practices</title>
-      <link>https://infosecvandana.com/books/implementingdevsecops/</link>
+      <link>http://localhost:4322/books/implementingdevsecops/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/books/implementingdevsecops/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/implementingdevsecops.jpg&#34; alt=&#34;implementingdevsecops&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - &lt;a href=&#34;https://www.amazon.in/Implementing-DevSecOps-Practices-Vandana-Sehgal/dp/1803231491&#34;&gt;https://www.amazon.in/Implementing-DevSecOps-Practices-Vandana-Sehgal/dp/1803231491&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:4322/books/implementingdevsecops/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/implementingdevsecops.jpg&#34; alt=&#34;implementingdevsecops&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - &lt;a href=&#34;https://www.amazon.in/Implementing-DevSecOps-Practices-Vandana-Sehgal/dp/1803231491&#34;&gt;https://www.amazon.in/Implementing-DevSecOps-Practices-Vandana-Sehgal/dp/1803231491&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rise of Cyber Woman</title>
-      <link>https://infosecvandana.com/books/riseofcyberwoman/</link>
+      <link>http://localhost:4322/books/riseofcyberwoman/</link>
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/books/riseofcyberwoman/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/riseofthewomen.jpg&#34; alt=&#34;Riseofcyberwoman&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:4322/books/riseofcyberwoman/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/riseofthewomen.jpg&#34; alt=&#34;Riseofcyberwoman&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

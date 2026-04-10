@@ -129,6 +129,20 @@ copyright="© Vandana Verma"
   weight = -20
 
 [[menu.main]]
+  identifier = "breakingintoinfosec"
+  name = "Breaking Into InfoSec"
+  title = "Breaking Into InfoSec"
+  url = "/breakingintoinfosec/"
+  weight = -20
+
+[[menu.main]]
+  identifier = "communityleadership"
+  name = "Community Leadership"
+  title = "Community Leadership"
+  url = "/communityleadership/"
+  weight = -20
+
+[[menu.main]]
   identifier = "owaspspotlightseries"
   name = "OWASP Projects Spotlight Series"
   title = "OWASP Projects Spotlight Series"

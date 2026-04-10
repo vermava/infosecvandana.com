@@ -2,124 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LeaderSpeak on Vandana Verma</title>
-    <link>https://infosecvandana.com/awards/</link>
+    <link>http://localhost:4322/awards/</link>
     <description>Recent content in LeaderSpeak on Vandana Verma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://infosecvandana.com/awards/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4322/awards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>One of the Top 100 Cyber Security Influencers</title>
-      <link>https://infosecvandana.com/awards/cf100/</link>
+      <link>http://localhost:4322/awards/cf100/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/cf100/</guid>
+      <guid>http://localhost:4322/awards/cf100/</guid>
       <description>&lt;p&gt;The goal was to choose a set of CISOs and InfoSec leaders who have demonstrated an extraordinary leadership and resilience during the challenging times&lt;/p&gt;&#xA;&lt;br&gt;&#xA;**Reference**&#xA;https://www.uniindia.com/cyberfrat-makes-an-history-with-cf100-india-2024-45-honouring-the-top-100-cybersecurity-influencers/pnn/news/3261320.html</description>
     </item>
     <item>
       <title>The Cyber Express - Top 100 Women in Cybersecurity</title>
-      <link>https://infosecvandana.com/awards/top100womenincyber/</link>
+      <link>http://localhost:4322/awards/top100womenincyber/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/top100womenincyber/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;The Cyber Express - Top 100 Women in Cybersecurity&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/Top-100-Women-in-Cybersecurity.jpg&#34; alt=&#34;Top-100-Women-in-Cybersecurity&#34;&gt;&lt;/p&gt;&#xA;&lt;br&gt;&#xA;**Reference**&#xA;&lt;p&gt;&lt;a href=&#34;https://thecyberexpress.com/top-100-women-in-cybersecurity-leading-charge/&#34;&gt;https://thecyberexpress.com/top-100-women-in-cybersecurity-leading-charge/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:4322/awards/top100womenincyber/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Cyber Express - Top 100 Women in Cybersecurity&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/Top-100-Women-in-Cybersecurity.jpg&#34; alt=&#34;Top-100-Women-in-Cybersecurity&#34;&gt;&lt;/p&gt;&#xA;&lt;br&gt;&#xA;**Reference**&#xA;&lt;p&gt;&lt;a href=&#34;https://thecyberexpress.com/top-100-women-in-cybersecurity-leading-charge/&#34;&gt;https://thecyberexpress.com/top-100-women-in-cybersecurity-leading-charge/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aspiring CXO Award 2024</title>
-      <link>https://infosecvandana.com/awards/aspiriringcxo/</link>
+      <link>http://localhost:4322/awards/aspiriringcxo/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/aspiriringcxo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/aspiringcxo1.jpeg&#34; alt=&#34;aspiringcxo1&#34;&gt;&#xA;&lt;img src=&#34;https://infosecvandana.com/images/aspiringcxo2.jpeg&#34; alt=&#34;aspiringcxo2&#34;&gt;&#xA;&lt;img src=&#34;https://infosecvandana.com/images/aspiringcxo3.jpeg&#34; alt=&#34;aspiringcxo2&#34;&gt;&lt;/p&gt;&#xA;&lt;br&gt;</description>
+      <guid>http://localhost:4322/awards/aspiriringcxo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/aspiringcxo1.jpeg&#34; alt=&#34;aspiringcxo1&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:4322/images/aspiringcxo2.jpeg&#34; alt=&#34;aspiringcxo2&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:4322/images/aspiringcxo3.jpeg&#34; alt=&#34;aspiringcxo2&#34;&gt;&lt;/p&gt;&#xA;&lt;br&gt;</description>
     </item>
     <item>
       <title>Winner - Cyber Security Leader of the Year Award 2023</title>
-      <link>https://infosecvandana.com/awards/cybersecurityleaderofheyear2023/</link>
+      <link>http://localhost:4322/awards/cybersecurityleaderofheyear2023/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/cybersecurityleaderofheyear2023/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cybersecurityleaderofheyear2023.png&#34; alt=&#34;cybersecawards&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:4322/awards/cybersecurityleaderofheyear2023/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/cybersecurityleaderofheyear2023.png&#34; alt=&#34;cybersecawards&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>7th Annual DynamicCISO Excellence Award Resilient CISO</title>
-      <link>https://infosecvandana.com/awards/ciso/</link>
+      <link>http://localhost:4322/awards/ciso/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/ciso/</guid>
-      <description>&lt;p&gt;The goal was to choose a set of CISOs and InfoSec leaders who have demonstrated an extraordinary leadership and resilience during the challenging times&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/resilientciso.jpeg&#34; alt=&#34;womansupporter_inteligenca&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.cisosummit.co.in&#34;&gt;www.cisosummit.co.in&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:4322/awards/ciso/</guid>
+      <description>&lt;p&gt;The goal was to choose a set of CISOs and InfoSec leaders who have demonstrated an extraordinary leadership and resilience during the challenging times&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/resilientciso.jpeg&#34; alt=&#34;womansupporter_inteligenca&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.cisosummit.co.in&#34;&gt;www.cisosummit.co.in&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CQ 100: Meet The Dynamic Women Changing The Face Of Indian Cyberspace</title>
-      <link>https://infosecvandana.com/awards/top100indian/</link>
+      <link>http://localhost:4322/awards/top100indian/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/top100indian/</guid>
-      <description>&lt;p&gt;SC Media, Women in IT Security Advocates Award&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/dynamicIndianwomen.png&#34; alt=&#34;SC media&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.the420.in/meet-the-dynamic-women-changing-the-face-of-indian-cyberspace/&#34;&gt;https://www.the420.in/meet-the-dynamic-women-changing-the-face-of-indian-cyberspace/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:4322/awards/top100indian/</guid>
+      <description>&lt;p&gt;SC Media, Women in IT Security Advocates Award&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/dynamicIndianwomen.png&#34; alt=&#34;SC media&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.the420.in/meet-the-dynamic-women-changing-the-face-of-indian-cyberspace/&#34;&gt;https://www.the420.in/meet-the-dynamic-women-changing-the-face-of-indian-cyberspace/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CQ100: Meet The Dynamic Women Changing The Face Of Indian Cyberspace 2021</title>
-      <link>https://infosecvandana.com/awards/cq100/</link>
+      <link>http://localhost:4322/awards/cq100/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/cq100/</guid>
+      <guid>http://localhost:4322/awards/cq100/</guid>
       <description>&lt;p&gt;&lt;strong&gt;CQ100: Meet The Dynamic Women Changing The Face Of Indian Cyberspace&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.the420.in/meet-the-dynamic-women-changing-the-face-of-indian-cyberspace/&#34;&gt;https://www.the420.in/meet-the-dynamic-women-changing-the-face-of-indian-cyberspace/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AppSec Influencer of 2020 Award</title>
-      <link>https://infosecvandana.com/awards/appsecinfluencer/</link>
+      <link>http://localhost:4322/awards/appsecinfluencer/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/appsecinfluencer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/appsecinfluencer.png&#34; alt=&#34;appsecinfluencer&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - WhiteSource&#xA;&lt;a href=&#34;https://twitter.com/WhiteSourceSoft/status/1345009431252242432?s=20&#34;&gt;https://twitter.com/WhiteSourceSoft/status/1345009431252242432?s=20&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:4322/awards/appsecinfluencer/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/appsecinfluencer.png&#34; alt=&#34;appsecinfluencer&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - WhiteSource&#xA;&lt;a href=&#34;https://twitter.com/WhiteSourceSoft/status/1345009431252242432?s=20&#34;&gt;https://twitter.com/WhiteSourceSoft/status/1345009431252242432?s=20&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SC Media - Women in IT Security - Advocates Award - 2020</title>
-      <link>https://infosecvandana.com/awards/scmedia/</link>
+      <link>http://localhost:4322/awards/scmedia/</link>
       <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/scmedia/</guid>
+      <guid>http://localhost:4322/awards/scmedia/</guid>
       <description>&lt;p&gt;SC Media, Women in IT Security Advocates Award&lt;/p&gt;&#xA;&lt;p&gt;![SC media](/images/SC media.png)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.scmagazine.com/women-in-it-security/women-advocates/vandana-verma-broadening-the-diversity-aperture/&#34;&gt;https://www.scmagazine.com/women-in-it-security/women-advocates/vandana-verma-broadening-the-diversity-aperture/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Winner - Cyber Security Woman of the Year Award 2020</title>
-      <link>https://infosecvandana.com/awards/cybersecawards/</link>
+      <title>Finalists for women of influence, 2020 - EWF </title>
+      <link>http://localhost:4322/awards/ewf/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/cybersecawards/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cybersecawards.jpg&#34; alt=&#34;cybersecawards&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cybersecurityawards.com/2020-winners&#34;&gt;https://cybersecurityawards.com/2020-winners&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:4322/awards/ewf/</guid>
+      <description>&lt;p&gt;The Executive Women&amp;rsquo;s Forum Finalists for the Women of Influence Awards&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;a href=&#34;https://www.prweb.com/releases/the_executive_women_s_forum_announces_the_2020_finalists_for_the_women_of_influence_awards_corporate_award/prweb17426669.htm&#34;&gt;https://www.prweb.com/releases/the_executive_women_s_forum_announces_the_2020_finalists_for_the_women_of_influence_awards_corporate_award/prweb17426669.htm&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/ewf.png&#34; alt=&#34;ewf&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Winner - Cyber Security Woman of the Year Award 2020</title>
+      <link>http://localhost:4322/awards/cybersecawards/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4322/awards/cybersecawards/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/cybersecawards.jpg&#34; alt=&#34;cybersecawards&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cybersecurityawards.com/2020-winners&#34;&gt;https://cybersecurityawards.com/2020-winners&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finalist for Cyber Security Woman Supporter of the Year Award 2020 by Inteligenca</title>
+      <link>http://localhost:4322/awards/inteligenca/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4322/awards/inteligenca/</guid>
+      <description>&lt;p&gt;Humbled to be enlisted among the finalists for &amp;ldquo;Cybersecurity Woman Supporter of the Year&amp;rdquo; along with Noureen Njoroge&#xA;Noureen Njoroge &amp;amp; Diana Kelley&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/womansupporter_inteligenca.jpeg&#34; alt=&#34;womansupporter_inteligenca&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://leadmind.inteligenca.com/cswy2020/&#34;&gt;https://leadmind.inteligenca.com/cswy2020/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>27 Influential Penetration Testers’ around the world</title>
-      <link>https://infosecvandana.com/awards/influentialpentester/</link>
+      <link>http://localhost:4322/awards/influentialpentester/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/influentialpentester/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/pentester.jpeg&#34; alt=&#34;cybersecawards&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:4322/awards/influentialpentester/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/pentester.jpeg&#34; alt=&#34;cybersecawards&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>16 Women Paving the Way in AppSec</title>
-      <link>https://infosecvandana.com/awards/16womeninappsec/</link>
+      <link>http://localhost:4322/awards/16womeninappsec/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/16womeninappsec/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/16woman.png&#34; alt=&#34;16woman&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Glad to be on the list. Each of the women listed here plays an integral role in the development and progress of application security in their respective organizations. With a wide variety of backgrounds, specialties, and roles, these women are used to pushing boundaries to achieve more.&lt;/p&gt;&#xA;&lt;p&gt;Check out these 16 inspiring women paving the way in AppSec, and follow them on Twitter to stay on top of their news and events.&lt;/p&gt;</description>
+      <guid>http://localhost:4322/awards/16womeninappsec/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/16woman.png&#34; alt=&#34;16woman&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Glad to be on the list. Each of the women listed here plays an integral role in the development and progress of application security in their respective organizations. With a wide variety of backgrounds, specialties, and roles, these women are used to pushing boundaries to achieve more.&lt;/p&gt;&#xA;&lt;p&gt;Check out these 16 inspiring women paving the way in AppSec, and follow them on Twitter to stay on top of their news and events.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top Women in Cybersecurity in India – Instasafe</title>
-      <link>https://infosecvandana.com/awards/topwomeninindia/</link>
+      <link>http://localhost:4322/awards/topwomeninindia/</link>
       <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/topwomeninindia/</guid>
+      <guid>http://localhost:4322/awards/topwomeninindia/</guid>
       <description>&lt;p&gt;On this very note, InstaSafe, this new year brings forth a list of women leaders in this field of technology and cybersecurity as a whole across various sectors based out of India:&lt;/p&gt;&#xA;&lt;p&gt;Reference:-&#xA;&lt;a href=&#34;https://instasafe.com/top-women-in-cybersecurity-in-india/&#34;&gt;https://instasafe.com/top-women-in-cybersecurity-in-india/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>52 Influential Cyber Security Bloggers and Speakers by Peerlyst</title>
-      <link>https://infosecvandana.com/awards/influentialspeaker/</link>
+      <link>http://localhost:4322/awards/influentialspeaker/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/influentialspeaker/</guid>
+      <guid>http://localhost:4322/awards/influentialspeaker/</guid>
       <description>&lt;p&gt;Glad to be on the list.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - &lt;a href=&#34;https://www.peerlyst.com/posts/peerlyst-community-ebook-52-influential-cyber-security-bloggers-and-speakers-peerlyst&#34;&gt;https://www.peerlyst.com/posts/peerlyst-community-ebook-52-influential-cyber-security-bloggers-and-speakers-peerlyst&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Winner - Cyber Security Woman Supporter of the Year Award 2019 - Woman CyberJutsu</title>
-      <link>https://infosecvandana.com/awards/womancyberjutsu/</link>
+      <link>http://localhost:4322/awards/womancyberjutsu/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/womancyberjutsu/</guid>
-      <description>&lt;p&gt;Cyber Security Woman Supporter of the Year Award 2019 - Woman CyberJutsu, 2019 in &amp;ldquo;Secure Coder&amp;rdquo; Category&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cyberjutsu_winner.JPG&#34; alt=&#34;cyberjutsu_winner.JPG&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cyberjutsu.jpg&#34; alt=&#34;cyberjutsu_winner.JPG&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cyberjutsu.png&#34; alt=&#34;cyberjutsu_winner.JPG&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://womenscyberjutsu.org/page/AWARDWinners&#34;&gt;https://womenscyberjutsu.org/page/AWARDWinners&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:4322/awards/womancyberjutsu/</guid>
+      <description>&lt;p&gt;Cyber Security Woman Supporter of the Year Award 2019 - Woman CyberJutsu, 2019 in &amp;ldquo;Secure Coder&amp;rdquo; Category&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/cyberjutsu_winner.JPG&#34; alt=&#34;cyberjutsu_winner.JPG&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/cyberjutsu.jpg&#34; alt=&#34;cyberjutsu_winner.JPG&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/cyberjutsu.png&#34; alt=&#34;cyberjutsu_winner.JPG&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://womenscyberjutsu.org/page/AWARDWinners&#34;&gt;https://womenscyberjutsu.org/page/AWARDWinners&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Manager Choice Award - IBM</title>
-      <link>https://infosecvandana.com/awards/managerchoice/</link>
+      <link>http://localhost:4322/awards/managerchoice/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/managerchoice/</guid>
-      <description>&lt;p&gt;Manager&amp;rsquo;s Choice Award for demonstrating the Unite to get it done now&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/managerchoiceaward.png&#34; alt=&#34;SC media&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://leadmind.inteligenca.com/cswy2020/&#34;&gt;https://leadmind.inteligenca.com/cswy2020/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:4322/awards/managerchoice/</guid>
+      <description>&lt;p&gt;Manager&amp;rsquo;s Choice Award for demonstrating the Unite to get it done now&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:4322/images/managerchoiceaward.png&#34; alt=&#34;SC media&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://leadmind.inteligenca.com/cswy2020/&#34;&gt;https://leadmind.inteligenca.com/cswy2020/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

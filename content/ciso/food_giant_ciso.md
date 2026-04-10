@@ -3,6 +3,7 @@ title: "Day in the Life of a Food Giant CISO"
 subtitle: A day in the life of a CISO
 date: 2024-04-18
 draft: false
+featureimage: /images/resilientciso.jpeg
 ---
 
 **Day in the Life of a Food Giant CISO**

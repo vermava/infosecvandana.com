@@ -1,0 +1,51 @@
+{{ partial "header" .}}
+
+  <h1 id="title"> {{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $videos := where .Pages "Params.video" "!=" nil }}
+  {{ $resources := where .Pages "Params.video" "==" nil }}
+
+  {{ if gt (len $videos) 0 }}
+  <h3>Videos</h3>
+  <div class="post-list">
+    {{ range $videos.ByPublishDate.Reverse }}
+    <div class="post-container" style="width: 760px; padding: 18px; margin: 16px 0; border: 1px solid #e6e6e6; border-radius: 10px;">
+        {{ if .Params.video }}
+        <iframe width="560" height="315" src="{{ .Params.video }}" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {{ end }}
+        <h4 style="margin: 12px 0 8px 0;">
+          <a href="{{.Permalink}}">{{ .Title }}</a>
+        </h4>
+        {{ if .Params.summary }}
+        <p style="margin: 0; line-height: 1.6;">{{ .Params.summary }}</p>
+        {{ else }}
+        <p style="margin: 0; line-height: 1.6;">{{ .Summary }}</p>
+        {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ if gt (len $resources) 0 }}
+  <h3>Resources</h3>
+  <div class="post-list">
+    {{ range $resources.ByPublishDate.Reverse }}
+    <div class="post-container" style="width: 760px; padding: 18px; margin: 16px 0; border: 1px solid #e6e6e6; border-radius: 10px;">
+      <h4 style="margin-top: 0; margin-bottom: 10px;">
+        <a href="{{.Permalink}}">{{ .Title }}</a>
+      </h4>
+      {{ if .Params.summary }}
+      <p style="margin: 0 0 12px 0; line-height: 1.6;">{{ .Params.summary }}</p>
+      {{ else }}
+      <p style="margin: 0 0 12px 0; line-height: 1.6;">{{ .Summary }}</p>
+      {{ end }}
+      {{ if .Params.featureimage }}
+      <img src="{{ .Params.featureimage }}" style="max-width: 250px; max-height: 180px; border-radius: 8px;"> </img>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+
+{{ partial "footer" .}}

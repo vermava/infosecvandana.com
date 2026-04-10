@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breaking Into InfoSec on Vandana Verma</title>
+    <link>http://localhost:4322/breakingintoinfosec/</link>
+    <description>Recent content in Breaking Into InfoSec on Vandana Verma</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Vandana Verma</copyright>
+    <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4322/breakingintoinfosec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breaking into InfoSec with Vandana Verma</title>
+      <link>http://localhost:4322/breakingintoinfosec/breaking_into_infosec_with_vandana/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4322/breakingintoinfosec/breaking_into_infosec_with_vandana/</guid>
+      <description>An overview of the Breaking Into InfoSec series and the broader goal of helping newcomers find practical entry points into security.</description>
+    </item>
+    <item>
+      <title>Security Career Advice with Guy Podjarny</title>
+      <link>http://localhost:4322/breakingintoinfosec/security_career_advice/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4322/breakingintoinfosec/security_career_advice/</guid>
+      <description>Career advice for people breaking into security, with perspective from Snyk founder Guy Podjarny.</description>
+    </item>
+    <item>
+      <title>How to be an InfoSec Speaker</title>
+      <link>http://localhost:4322/breakingintoinfosec/how_to_be_an_infosec_speaker/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4322/breakingintoinfosec/how_to_be_an_infosec_speaker/</guid>
+      <description>Advice for aspiring speakers on sharing work publicly, submitting talks, and becoming more active in the security community.</description>
+    </item>
+    <item>
+      <title>Getting into Cyber</title>
+      <link>http://localhost:4322/breakingintoinfosec/getting_into_cyber/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4322/breakingintoinfosec/getting_into_cyber/</guid>
+      <description>A practical conversation about how to get started in cybersecurity and build an early path into the field.</description>
+    </item>
+  </channel>
+</rss>
