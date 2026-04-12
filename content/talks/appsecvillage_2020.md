@@ -2,6 +2,7 @@
 title: "Defcon - AppSec Village 2020"
 date: 2020-08-09
 draft: false
+video: https://www.youtube.com/embed/cD3-1rb_HNM
 ---
 
 Title: Running an appsec program with open source projects

@@ -7,14 +7,28 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Day in the Life of a Security Leader</title>
+      <link>https://infosecvandana.com/blogs/day_in_life_security_leader/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/day_in_life_security_leader/</guid>
+      <description>&lt;p&gt;A LinkedIn article sharing the day-to-day reality of being a security leader, covering the challenges, decisions, and responsibilities that shape the role.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Axios npm Package Compromised</title>
       <link>https://infosecvandana.com/blogs/axios_npm_package_compromised/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/blogs/axios_npm_package_compromised/</guid>
       <description>&lt;p&gt;This article reflects Vandana Verma&amp;rsquo;s software supply chain and AppSec perspective through the Axios npm compromise, focusing on inherited trust, transitive dependencies, and the hidden execution path behind package installation.&lt;/p&gt;&#xA;&lt;p&gt;The article also points readers to deeper technical writeups, making it a good bridge between timely commentary and practical supply chain security learning.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/pulse/axios-npm-package-compromised-vandana-verma-vdgyc&#34;&gt;https://www.linkedin.com/pulse/axios-npm-package-compromised-vandana-verma-vdgyc&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Model Context Protocol (MCP) for Beginners</title>
+      <link>https://infosecvandana.com/blogs/mcp_for_beginners/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/mcp_for_beginners/</guid>
+      <description>&lt;p&gt;A LinkedIn article introducing the Model Context Protocol (MCP) in accessible terms for beginners, covering the fundamentals of how MCP works in the context of AI agent systems and security implications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building AI at Scale Requires Governance at Speed</title>

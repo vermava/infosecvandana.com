@@ -1,6 +1,6 @@
 ---
 title: "Defcon - AppSec Village 2021"
-date: 2020-08-07
+date: 2021-08-07
 draft: false
 ---
 
