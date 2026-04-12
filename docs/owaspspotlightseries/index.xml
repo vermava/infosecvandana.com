@@ -7,14 +7,35 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/owaspspotlightseries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP Spotlight - Project 33 - OWASP FIASSE</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight33/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight33/</guid>
+      <description>&lt;p&gt;About the Project:-&lt;/p&gt;&#xA;&lt;p&gt;OWASP FIASSE focuses on providing a structured approach to assessing and improving the security of AI systems within enterprise environments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 32 - OWASP AIVSS</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight32/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight32/</guid>
+      <description>&lt;p&gt;About the Project:-&lt;/p&gt;&#xA;&lt;p&gt;OWASP AIVSS (AI Vulnerability Scoring System) provides a framework for scoring and prioritizing vulnerabilities specific to AI and machine learning systems.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OWASP Spotlight - Project 31 - OWASP WrongSecrets</title>
       <link>https://infosecvandana.com/owaspspotlightseries/spotlight31/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight31/</guid>
       <description>&lt;p&gt;About the Project:-&lt;/p&gt;&#xA;&lt;p&gt;OWASP WrongSecrets is a deliberately vulnerable application for learning about secrets management failures and practicing how to find and fix them.&lt;/p&gt;&#xA;&lt;p&gt;References:-&lt;/p&gt;&#xA;&lt;p&gt;OWASP WrongSecrets - &lt;a href=&#34;https://owasp.org/www-project-wrongsecrets/&#34;&gt;https://owasp.org/www-project-wrongsecrets/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Project website - &lt;a href=&#34;https://wrongsecrets.com/&#34;&gt;https://wrongsecrets.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=inSkNPLDlWo&#34;&gt;https://www.youtube.com/watch?v=inSkNPLDlWo&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Spotlight - Project 27 - OWASP LLM</title>
+      <link>https://infosecvandana.com/owaspspotlightseries/spotlight27/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/owaspspotlightseries/spotlight27/</guid>
+      <description>&lt;p&gt;About the Project:-&lt;/p&gt;&#xA;&lt;p&gt;The OWASP LLM project focuses on identifying and addressing security risks associated with Large Language Models, providing guidance for organizations deploying and integrating LLM-based applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OWASP Spotlight - Project 30 - OWASP Developer Guide</title>

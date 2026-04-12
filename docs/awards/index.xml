@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/awards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WomenTech Global Awards 2026 - Nominee</title>
+      <link>https://infosecvandana.com/awards/womentech_global_2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/awards/womentech_global_2026/</guid>
+      <description>&lt;p&gt;Nominated for the Women in Tech Global Awards 2026 by WomenTech Network, recognizing contributions to cybersecurity, diversity, and the broader technology community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WomenTech Global Awards 2025 - Nominee</title>
+      <link>https://infosecvandana.com/awards/womentech_global_2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/awards/womentech_global_2025/</guid>
+      <description>&lt;p&gt;Nominated for the Women in Tech Global Awards 2025 by WomenTech Network, recognizing contributions to cybersecurity, diversity, and the broader technology community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WomenTech Global Awards 2024 - Nominee</title>
+      <link>https://infosecvandana.com/awards/womentech_global_2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/awards/womentech_global_2024/</guid>
+      <description>&lt;p&gt;Nominated for the Women in Tech Global Awards 2024 by WomenTech Network, recognizing contributions to cybersecurity, diversity, and the broader technology community.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>One of the Top 100 Cyber Security Influencers</title>
       <link>https://infosecvandana.com/awards/cf100/</link>
@@ -36,6 +57,13 @@
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/awards/cybersecurityleaderofheyear2023/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cybersecurityleaderofheyear2023.png&#34; alt=&#34;cybersecawards&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Risky Women - Women to Watch</title>
+      <link>https://infosecvandana.com/awards/risky_women_to_watch/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/awards/risky_women_to_watch/</guid>
+      <description>&lt;p&gt;Named as a &amp;ldquo;Woman to Watch&amp;rdquo; by Risky Women, a global network connecting, celebrating and championing women in Risk, Regulation and Compliance since 2014.&lt;/p&gt;</description>
     </item>
     <item>
       <title>7th Annual DynamicCISO Excellence Award Resilient CISO</title>

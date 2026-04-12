@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snyk Blog - My Journey at Black Hat Asia 2025</title>
+      <link>https://infosecvandana.com/featured/snyk_bhasia2025/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/snyk_bhasia2025/</guid>
+      <description>&lt;p&gt;Featured on the Snyk blog sharing the journey as a reviewer, speaker, panelist, speaker coach, and learner at Black Hat Asia 2025. Reflects on the multiple roles and contributions to the cybersecurity community at one of Asia&amp;rsquo;s premier security events.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Snyk contributor profile</title>
       <link>https://infosecvandana.com/featured/snyk_contributor_profile/</link>
@@ -43,6 +50,13 @@
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/featured/bbc2023/</guid>
       <description>&lt;p&gt;Kim Chakanetsa meets two cybersecurity experts who help women stay safe online.&lt;/p&gt;&#xA;&lt;p&gt;Vandana Verma Sehgal is a Security Solutions leader at Snyk and the Chair of the Board of Directors for OWASP, the Open Web Application Security Project Foundation. She is also the founder of InfosecKids and InfosecGirls.&lt;/p&gt;&#xA;&lt;p&gt;Sophina Kio-Lawson is an information security engineer from Nigeria and the co-founder for SheSecures, an initiative that promotes cyber literacy and inspires and empowers young African women who aspire to work in the tech industry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Redgate 100 - Most Influential in the Database Community 2022</title>
+      <link>https://infosecvandana.com/featured/redgate100/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/redgate100/</guid>
+      <description>&lt;p&gt;Recognized as part of the Redgate 100 list, highlighting the most influential people in the database community for 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with ESG-global by Techtarget</title>

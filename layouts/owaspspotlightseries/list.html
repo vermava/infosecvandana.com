@@ -10,7 +10,7 @@
       <a href="{{.Permalink}}">
        <center>
         {{ if .Params.video }}
-        <iframe width="450" height="250" src="{{ .Params.video }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="450" height="250" src="{{ .Params.video }}" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         {{ else if .Params.featureimage }}
         <img src="{{ .Params.featureimage }}" style="max-width: 350px;max-height: 250px;"> </img>
         {{ else }}

@@ -45,6 +45,13 @@
       <description>An Application Security Weekly episode with audio, video, and show notes.</description>
     </item>
     <item>
+      <title>The Secure Developer Ep.55 - Diversity In DevSec And Cloud Security</title>
+      <link>https://infosecvandana.com/podcasts/snyk_secure_developer/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/podcasts/snyk_secure_developer/</guid>
+      <description>&lt;p&gt;Episode 55 of Snyk&amp;rsquo;s &amp;ldquo;The Secure Developer&amp;rdquo; podcast featuring a conversation about diversity in DevSec and cloud security, covering the journey into cybersecurity, community building through InfosecGirls, and the intersection of cloud security and inclusive practices.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Inspire 20 - Vandana Verma</title>
       <link>https://infosecvandana.com/podcasts/inspire20/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
@@ -78,6 +85,13 @@
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/podcasts/cloudsecuritymyths/</guid>
       <description>&lt;p&gt;There are still lots of misconceptions and myths about Cloud Security. In this episode , Vandana Verma Global Board of Directors at OWASP and InfosecGirls shares her thoughts on cloud security. Discover some myth-busting truths about security and the cloud and how to avoid some common perceptions around cloud security. Listen up!&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/lDu1oejkkxs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Cloud Security Podcast - Cloud Security and Infosec Girls</title>
+      <link>https://infosecvandana.com/podcasts/cloud_security_podcast/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/podcasts/cloud_security_podcast/</guid>
+      <description>&lt;p&gt;Appeared on the Cloud Security Podcast to discuss cloud security practices and the InfosecGirls community initiative, covering topics including public cloud security, myths in cloud security, and building inclusive security communities.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
