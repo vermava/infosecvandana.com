@@ -1,0 +1,2 @@
+baseURL = "http://localhost:4322/"
+publishDir = "/tmp/infosecvandana-preview"

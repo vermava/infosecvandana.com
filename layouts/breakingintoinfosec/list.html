@@ -15,7 +15,7 @@
         <iframe width="560" height="315" src="{{ .Params.video }}" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         {{ end }}
         <h4 style="margin: 12px 0 8px 0;">
-          <a href="{{.Permalink}}">{{ .Title }}</a>
+          <a href="{{.RelPermalink}}">{{ .Title }}</a>
         </h4>
         {{ if .Params.summary }}
         <p style="margin: 0; line-height: 1.6;">{{ .Params.summary }}</p>
@@ -33,7 +33,7 @@
     {{ range $resources.ByPublishDate.Reverse }}
     <div class="post-container" style="width: 760px; padding: 18px; margin: 16px 0; border: 1px solid #e6e6e6; border-radius: 10px;">
       <h4 style="margin-top: 0; margin-bottom: 10px;">
-        <a href="{{.Permalink}}">{{ .Title }}</a>
+        <a href="{{.RelPermalink}}">{{ .Title }}</a>
       </h4>
       {{ if .Params.summary }}
       <p style="margin: 0 0 12px 0; line-height: 1.6;">{{ .Params.summary }}</p>

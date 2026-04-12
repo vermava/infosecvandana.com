@@ -2,193 +2,193 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BLOG POSTS on Vandana Verma</title>
-    <link>http://localhost:4322/blogs/</link>
+    <link>https://infosecvandana.com/blogs/</link>
     <description>Recent content in BLOG POSTS on Vandana Verma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4322/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://infosecvandana.com/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building AI at Scale Requires Governance at Speed</title>
-      <link>http://localhost:4322/blogs/building_ai_governance_speed/</link>
+      <link>https://infosecvandana.com/blogs/building_ai_governance_speed/</link>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/building_ai_governance_speed/</guid>
+      <guid>https://infosecvandana.com/blogs/building_ai_governance_speed/</guid>
       <description>A LinkedIn article on AI governance as an operating system for modern AI delivery.</description>
     </item>
     <item>
       <title>AI Bill Of Material and Application Security (AppSec)</title>
-      <link>http://localhost:4322/blogs/ai_bill_of_material_appsec/</link>
+      <link>https://infosecvandana.com/blogs/ai_bill_of_material_appsec/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/ai_bill_of_material_appsec/</guid>
+      <guid>https://infosecvandana.com/blogs/ai_bill_of_material_appsec/</guid>
       <description>A LinkedIn article on why AI is changing what software is and what AppSec needs to become.</description>
     </item>
     <item>
       <title>Kickstart your career in GenAI Security</title>
-      <link>http://localhost:4322/blogs/kickstart_genai_security/</link>
+      <link>https://infosecvandana.com/blogs/kickstart_genai_security/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/kickstart_genai_security/</guid>
+      <guid>https://infosecvandana.com/blogs/kickstart_genai_security/</guid>
       <description>A career-focused LinkedIn article for people entering GenAI security.</description>
     </item>
     <item>
       <title>Learning about Large Language Models (LLMs)</title>
-      <link>http://localhost:4322/blogs/learning_about_llms/</link>
+      <link>https://infosecvandana.com/blogs/learning_about_llms/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/learning_about_llms/</guid>
+      <guid>https://infosecvandana.com/blogs/learning_about_llms/</guid>
       <description>A LinkedIn roadmap for learning how LLMs work, how they are trained, and how to use them effectively.</description>
     </item>
     <item>
       <title>OWASP Top 10 - Release Candidate</title>
-      <link>http://localhost:4322/blogs/owasp_top_10_release_candidate/</link>
+      <link>https://infosecvandana.com/blogs/owasp_top_10_release_candidate/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/owasp_top_10_release_candidate/</guid>
+      <guid>https://infosecvandana.com/blogs/owasp_top_10_release_candidate/</guid>
       <description>&lt;p&gt;This article captures the updated OWASP Top 10 as a living reflection of how AI- and LLM-driven development is reshaping application security.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/pulse/owasp-top-10-release-candidate-vandana-verma-no89c&#34;&gt;https://www.linkedin.com/pulse/owasp-top-10-release-candidate-vandana-verma-no89c&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OWASP Top 10 LLM 2025</title>
-      <link>http://localhost:4322/blogs/owasp_top_10_llm_2025/</link>
+      <link>https://infosecvandana.com/blogs/owasp_top_10_llm_2025/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/owasp_top_10_llm_2025/</guid>
+      <guid>https://infosecvandana.com/blogs/owasp_top_10_llm_2025/</guid>
       <description>A LinkedIn article introducing a YouTube series that turns the OWASP Top 10 for LLMs into practical episodes.</description>
     </item>
     <item>
       <title>AppSec in the Age of AI: The Road to AI-DevSecOps</title>
-      <link>http://localhost:4322/blogs/appsec_in_the_age_of_ai/</link>
+      <link>https://infosecvandana.com/blogs/appsec_in_the_age_of_ai/</link>
       <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/appsec_in_the_age_of_ai/</guid>
+      <guid>https://infosecvandana.com/blogs/appsec_in_the_age_of_ai/</guid>
       <description>A LinkedIn article on how AI-generated code changes AppSec and pushes teams toward AI-DevSecOps.</description>
     </item>
     <item>
       <title>Securing Agentic AI Apps using OWASP Securing Agentic Applications Guide v1.0</title>
-      <link>http://localhost:4322/blogs/securing_agentic_ai_apps/</link>
+      <link>https://infosecvandana.com/blogs/securing_agentic_ai_apps/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/securing_agentic_ai_apps/</guid>
+      <guid>https://infosecvandana.com/blogs/securing_agentic_ai_apps/</guid>
       <description>&lt;p&gt;This article is a strong fit for the site&amp;rsquo;s current direction because it connects agentic application security to concrete OWASP guidance and real implementation concerns.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/pulse/securing-agentic-ai-apps-using-owasp-applications-guide-vandana-verma-mtptc&#34;&gt;https://www.linkedin.com/pulse/securing-agentic-ai-apps-using-owasp-applications-guide-vandana-verma-mtptc&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Rise of Agentic AI and What It Means for Us</title>
-      <link>http://localhost:4322/blogs/agentic_ai_what_it_means/</link>
+      <link>https://infosecvandana.com/blogs/agentic_ai_what_it_means/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/agentic_ai_what_it_means/</guid>
+      <guid>https://infosecvandana.com/blogs/agentic_ai_what_it_means/</guid>
       <description>A LinkedIn article on agentic AI, why it matters, and how its architecture changes security conversations.</description>
     </item>
     <item>
       <title>Do We Really Need Cybersecurity Certifications? Let’s Break It Down</title>
-      <link>http://localhost:4322/blogs/cybersecurity_certifications_breakdown/</link>
+      <link>https://infosecvandana.com/blogs/cybersecurity_certifications_breakdown/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/cybersecurity_certifications_breakdown/</guid>
+      <guid>https://infosecvandana.com/blogs/cybersecurity_certifications_breakdown/</guid>
       <description>A LinkedIn article on when certifications help, when they do not, and how to think about them in a cybersecurity career.</description>
     </item>
     <item>
       <title>Black Hat Asia 2025: Reviewer, Speaker, and Community Connector</title>
-      <link>http://localhost:4322/blogs/blackhat_asia_2025/</link>
+      <link>https://infosecvandana.com/blogs/blackhat_asia_2025/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/blackhat_asia_2025/</guid>
+      <guid>https://infosecvandana.com/blogs/blackhat_asia_2025/</guid>
       <description>&lt;p&gt;This piece captures a broader Black Hat Asia 2025 journey across multiple roles including reviewer, speaker, panel participant, and speaker coach.&lt;/p&gt;&#xA;&lt;p&gt;It is a strong recent addition for the site because it brings together community leadership, conference participation, and mentoring in one place.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/black-hat-asia-2025-my-journey-as-a-reviewer-speaker-and-community-connector/&#34;&gt;https://snyk.io/blog/black-hat-asia-2025-my-journey-as-a-reviewer-speaker-and-community-connector/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-it-belongs-here&#34;&gt;Why it belongs here&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;reflects 2025 conference activity&lt;/li&gt;&#xA;&lt;li&gt;shows reviewer and community leadership work, not only stage speaking&lt;/li&gt;&#xA;&lt;li&gt;includes event photos that can later be used as source imagery references&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Do not pass GO: Malicious package alert</title>
-      <link>http://localhost:4322/blogs/go_malicious_package_alert/</link>
+      <link>https://infosecvandana.com/blogs/go_malicious_package_alert/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/go_malicious_package_alert/</guid>
+      <guid>https://infosecvandana.com/blogs/go_malicious_package_alert/</guid>
       <description>A software supply chain security article focused on malicious Go packages.</description>
     </item>
     <item>
       <title>Try Hack Me - Application Security Resources</title>
-      <link>http://localhost:4322/blogs/tryhackme_appsec_resources/</link>
+      <link>https://infosecvandana.com/blogs/tryhackme_appsec_resources/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/tryhackme_appsec_resources/</guid>
+      <guid>https://infosecvandana.com/blogs/tryhackme_appsec_resources/</guid>
       <description>&lt;p&gt;This is a practical learning-resources article that fits well with the site&amp;rsquo;s mentoring and beginner-friendly content.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/pulse/try-hack-me-application-security-resources-vandana-verma-vzeec&#34;&gt;https://www.linkedin.com/pulse/try-hack-me-application-security-resources-vandana-verma-vzeec&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Women: Kickstart your Application Security Career</title>
-      <link>http://localhost:4322/blogs/women_kickstart_appsec_career/</link>
+      <link>https://infosecvandana.com/blogs/women_kickstart_appsec_career/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/women_kickstart_appsec_career/</guid>
+      <guid>https://infosecvandana.com/blogs/women_kickstart_appsec_career/</guid>
       <description>&lt;p&gt;This article is a strong fit for the site&amp;rsquo;s writing and mentoring story, combining application security guidance with community-building and career support.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/women-kickstart-your-application-security-career/&#34;&gt;https://snyk.io/blog/women-kickstart-your-application-security-career/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to integrate ASPM with your application security program</title>
-      <link>http://localhost:4322/blogs/aspm_appsec_program/</link>
+      <link>https://infosecvandana.com/blogs/aspm_appsec_program/</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/aspm_appsec_program/</guid>
+      <guid>https://infosecvandana.com/blogs/aspm_appsec_program/</guid>
       <description>&lt;p&gt;This article pairs well with the RSA 2024 webcast already on the site and helps connect the speaking archive with related written work.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/integrate-aspm-with-application-security/&#34;&gt;https://snyk.io/blog/integrate-aspm-with-application-security/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploiting HTTP/2 CONTINUATION frames for DoS attacks</title>
-      <link>http://localhost:4322/blogs/http2_continuation_dos/</link>
+      <link>https://infosecvandana.com/blogs/http2_continuation_dos/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/http2_continuation_dos/</guid>
+      <guid>https://infosecvandana.com/blogs/http2_continuation_dos/</guid>
       <description>&lt;p&gt;This technical write-up adds more depth to the site by showing public work beyond talks and panels.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/exploiting-http-2-continuation-frames-dos-attacks/&#34;&gt;https://snyk.io/blog/exploiting-http-2-continuation-frames-dos-attacks/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Consumer identities in Modern Digital World (CIAM)</title>
-      <link>http://localhost:4322/blogs/ciam/</link>
+      <link>https://infosecvandana.com/blogs/ciam/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/ciam/</guid>
+      <guid>https://infosecvandana.com/blogs/ciam/</guid>
       <description>&lt;p&gt;Digitization is the way to go However, while the consumers are increasing, we still follow the primitive approach and have always been taking too much information from the users like Email Address, Username, Address, Password and much more during the first interaction itself.&lt;/p&gt;&#xA;&lt;p&gt;At the same time, security is becoming equally big concern for the organizations and users. Usability is severely impacted with applying the highest level of security on every user interaction which results in a poor user experience. So, balancing both becomes the priority for any organization to keep the user base intact.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Celebrate ‘You’ - Be relentless, fearless, voice out!</title>
-      <link>http://localhost:4322/blogs/relentlessyou/</link>
+      <link>https://infosecvandana.com/blogs/relentlessyou/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/relentlessyou/</guid>
+      <guid>https://infosecvandana.com/blogs/relentlessyou/</guid>
       <description>&lt;p&gt;Let’s start with a beautiful quote by Ruth Bader Ginsburg -“Women will have achieved true equality when men share with them the responsibility of bringing up the next generation”. 2020 has taught that a family can have 2 heroes in the same home and share responsibilities while meting differences. Supporting and uplifting each other, leads to co-growth which can be a strong influence personally and the backbone for a positive career path.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2021 LENS INTO CYBERSECURITY TRENDS</title>
-      <link>http://localhost:4322/blogs/2021lens/</link>
+      <link>https://infosecvandana.com/blogs/2021lens/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/2021lens/</guid>
+      <guid>https://infosecvandana.com/blogs/2021lens/</guid>
       <description>&lt;p&gt;2020 was a year like never before. We all witnessed the twists and turns in our lives. It did have a torrential impact on the cyber security ecosystem too. Although everyone quickly adapted to the new world and embraced the use of technology to work from home, but deep down it meant there was a whole new attack to be guarded against- inadequate preparedness. This led to the paradigm shift from the highly forecasted AI and ML taking precedence whereas it was cloud migration or computing taking the top priority.With such a shift, 2021 brings hopes and new beginnings to organisations looking to re-model to the new way of working and adapting to the current solutions. Listed here are few technological aspects which will take primacy over the workforce ecosystems: -&lt;/p&gt;</description>
     </item>
     <item>
       <title>Integration Reciepe : IBM IGI with IBM Security Verify </title>
-      <link>http://localhost:4322/blogs/recipe_igiverify/</link>
+      <link>https://infosecvandana.com/blogs/recipe_igiverify/</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/recipe_igiverify/</guid>
+      <guid>https://infosecvandana.com/blogs/recipe_igiverify/</guid>
       <description>&lt;p&gt;Recently I have been experimenting with various IBM product integrations and I posted a reciepe in IBM Community portal for integration of IBM IGI with IBM Security Verify.&lt;/p&gt;&#xA;&lt;p&gt;This recipe talks about the ideal set of steps that someone has to take to connect the two applications.&lt;/p&gt;&#xA;&lt;p&gt;Here is a direct link to the article.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://community.ibm.com/community/user/security/communities/community-home/digestviewer/viewthread?MessageKey=753ba57a-d19c-4959-9c26-213ac8c24d40&amp;amp;CommunityKey=e7c36119-46d7-42f2-97a9-b44f0cc89c6d&amp;amp;tab=digestviewer#bm753ba57a-d19c-4959-9c26-213ac8c24d40&#34;&gt;Recipe for IBM Security Verify Governance (IGI) and IBM Security Verify for Workforce IAM Integration&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Running an AppSec Program with Open Source (OWASP) Projects</title>
-      <link>http://localhost:4322/blogs/runningappsecprogram/</link>
+      <link>https://infosecvandana.com/blogs/runningappsecprogram/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/runningappsecprogram/</guid>
+      <guid>https://infosecvandana.com/blogs/runningappsecprogram/</guid>
       <description>&lt;p&gt;We are all heading towards modernisation of applications. However, we still see the vulnerabilities like SQL Injection, Sensitive data exposure, and security misconfiguration etc. When the loopholes  in applications (such as legacy, desktop, web, mobile, micro services) are exploited, it can give malicious actors access to the organisation&amp;rsquo;s data.&lt;/p&gt;&#xA;&lt;p&gt;This is a fact that Breaches will happen and security flaws will exist, however what we can do is minimise the chances. This is when the AppSec program comes into picture.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zero Trust:Trust no one, Verify everyone</title>
-      <link>http://localhost:4322/blogs/zerotrust/</link>
+      <link>https://infosecvandana.com/blogs/zerotrust/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/zerotrust/</guid>
+      <guid>https://infosecvandana.com/blogs/zerotrust/</guid>
       <description>&lt;p&gt;Cloud Migration is the next big thing. Everyone wants to be in the cloud, but what about security and compliance standards? How do organizations manage both safety and security in the “Cloud Era”? Cloud deployments render the concept that everyone inside of a corporate network should be trusted null and void. Essentially, when it comes to the cloud, everyone is a tenant on a big server farm full of tenants. Thus, the only way forward is the Zero-Trust Model.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Security Approaches Post Lockdown</title>
-      <link>http://localhost:4322/blogs/securityapproachespostlockdown/</link>
+      <link>https://infosecvandana.com/blogs/securityapproachespostlockdown/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/securityapproachespostlockdown/</guid>
+      <guid>https://infosecvandana.com/blogs/securityapproachespostlockdown/</guid>
       <description>&lt;p&gt;It will not be easy to go out even when the lockdown period is over. The way this pandemic is evolving, will take us far away from what we consider normal, and that is for a while. In such a scenario, how shall we be resuming the day to day operations post lockdown? The role of the security team is now more important than ever because of the pandemic and remote work models, the perimeter of the organization has been modified drastically. Cyber attacks are on the rise, the need to manage many more devices, applications, etc. InfoSec is more important than ever. Most of the companies were able to pull off the remote working with all the struggle with technologies involved. In such a case what a CISO can do by keeping in mind how strategically breaking down the whole organisation infrastructure to cater to remote working conditions, categorizing and prioritizing things. Also looking at where the attacks could come from (having a clear threat model) and measure everything&lt;/p&gt;</description>
     </item>
     <item>
       <title>Un-desireable. Un-imaginable. Un-thinkable. We still have the capacity to out beat the threats to your privacy.</title>
-      <link>http://localhost:4322/blogs/threatstoprivacy/</link>
+      <link>https://infosecvandana.com/blogs/threatstoprivacy/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/threatstoprivacy/</guid>
+      <guid>https://infosecvandana.com/blogs/threatstoprivacy/</guid>
       <description>&lt;p&gt;The time is challenging. No one ever believed that a pandemic would leave us stranded. We will be home for such a long time even though some of us always wanted to work from home but never this way. Most of the organisations are trying to keep the spirits of the employees high and making sure they are safe from the critical situation outside. For many companies especially start ups who didn&amp;rsquo;t have the infrastructure and facilities for the employees and were surviving just on the need base.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Manifestation of InfoSec Speaking</title>
-      <link>http://localhost:4322/blogs/manifestationofinfosecspeaking/</link>
+      <link>https://infosecvandana.com/blogs/manifestationofinfosecspeaking/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/manifestationofinfosecspeaking/</guid>
+      <guid>https://infosecvandana.com/blogs/manifestationofinfosecspeaking/</guid>
       <description>&lt;p&gt;Speaking at any Conference is a savoir faire itself. Most often I am asked when and how to start the Infosec speaking journey. My answer to them is fundamental: there is no juncture pre-defined for it. There is no age or qualification criteria to speak at any conference.&lt;/p&gt;&#xA;&lt;p&gt;I started my journey by speaking at the local meets. Local meets gave me the platform to share my knowledge with a wider audience. It’s one of the best places to start and connect with the crowd as well as address the questions coming thereafter. I was absolutely nervous delivering my first talk at a meetup. Although I had delivered multiple sessions within my organisation,I still hesitated from making eye contact with the audience.  My first session was on information security news bytes, the topic was very simple as I just had to look up the latest infosec news from the various news sources, however it was not so easy for me to speak with a loose assemblage of diverse groups of people. The only thing that bothered me constantly was what if I said something wrong. Eventually, I kept on giving talks on various topics, and everytime I spoke at a meet or a conference, it made me more confident.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Exhilarating InfoSec Journey</title>
-      <link>http://localhost:4322/blogs/my-exhilarting/</link>
+      <link>https://infosecvandana.com/blogs/my-exhilarting/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/blogs/my-exhilarting/</guid>
+      <guid>https://infosecvandana.com/blogs/my-exhilarting/</guid>
       <description>&lt;p&gt;Being an information security evangelist, I have been preaching and practicing security for more than a decade. Security is my bread and butter and I love it! I started with consulting roles, where I would use my skills to suggest solutions and improvements. Later, I transitioned to internal security teams which gave me a clear and concise perspective on how organizations manage security risk.&lt;/p&gt;&#xA;&lt;p&gt;In my opinion, the Information Security Expert can be anyone who has a curiosity towards aspects of technology. You need to build on that curiosity and spend a lot of time understanding the inner working of these technologies. Information security is a multi-speciality domain and hence specialists are very common. You can be an expert in a specific area of Information Security, for instance a Malware Analyst (an expert in areas such as Dissecting Malicious software and Reverse engineering) or an Application Security person (an expert in application security, code review, or DevSecOps processes).&lt;/p&gt;</description>
     </item>
   </channel>
