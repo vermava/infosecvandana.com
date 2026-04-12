@@ -3,7 +3,7 @@ title: "Day in the Life of a Food Giant CISO"
 subtitle: A day in the life of a CISO
 date: 2024-04-18
 draft: false
-video: https://youtu.be/l5WwJXeesVc?si=-mxmahM1ON76vfeG
+video: https://www.youtube.com/embed/l5WwJXeesVc?si=9UDXi3_ZE_p7iBvp
 ---
 
 **Day in the Life of a Food Giant CISO**
