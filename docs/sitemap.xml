@@ -27,6 +27,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/paneldiscussion/identityshield_2026_she_secures_future/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/paneldiscussion/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/blogs/ai_bill_of_material_appsec/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -123,11 +133,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://infosecvandana.com/paneldiscussion/bhusa2025_leading_women/</loc>
-    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/paneldiscussion/</loc>
     <lastmod>2025-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
