@@ -164,6 +164,90 @@
       <description>&lt;p&gt;This technical write-up adds more depth to the site by showing public work beyond talks and panels.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/exploiting-http-2-continuation-frames-dos-attacks/&#34;&gt;https://snyk.io/blog/exploiting-http-2-continuation-frames-dos-attacks/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Does GitOps enhance application security?</title>
+      <link>https://infosecvandana.com/blogs/gitops_appsec/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/gitops_appsec/</guid>
+      <description>&lt;p&gt;This article explores how GitOps practices can improve application security by leveraging Git-based workflows for infrastructure and deployment management.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/gitops-application-security/&#34;&gt;https://snyk.io/blog/gitops-application-security/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research with Snyk and Redhunt Labs: Scanning the top 1000 orgs on GitHub</title>
+      <link>https://infosecvandana.com/blogs/snyk_redhunt_scanning_github/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/snyk_redhunt_scanning_github/</guid>
+      <description>&lt;p&gt;A collaborative research effort between Snyk and Redhunt Labs scanning the top 1000 organizations on GitHub to identify security risks and patterns across open source repositories.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/snyk-redhunt-labs-scanning-top-1000-orgs-on-github/&#34;&gt;https://snyk.io/blog/snyk-redhunt-labs-scanning-top-1000-orgs-on-github/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ethical hacking techniques</title>
+      <link>https://infosecvandana.com/blogs/ethical_hacking_techniques/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/ethical_hacking_techniques/</guid>
+      <description>&lt;p&gt;An overview of ethical hacking techniques used by security professionals to identify and remediate vulnerabilities before malicious actors can exploit them.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/ethical-hacking-techniques/&#34;&gt;https://snyk.io/blog/ethical-hacking-techniques/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ethical Hacking: Top Tools</title>
+      <link>https://infosecvandana.com/blogs/ethical_hacking_tools/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/ethical_hacking_tools/</guid>
+      <description>&lt;p&gt;A comprehensive guide to the top tools used in ethical hacking, covering reconnaissance, scanning, exploitation, and reporting tools that every security professional should know.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/ethical-hacking-tools/&#34;&gt;https://snyk.io/blog/ethical-hacking-tools/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unlocking the power of multi-cloud security</title>
+      <link>https://infosecvandana.com/blogs/multi_cloud_security/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/multi_cloud_security/</guid>
+      <description>&lt;p&gt;This article explores the challenges and strategies for securing multi-cloud environments, covering best practices for maintaining consistent security postures across different cloud providers.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/multi-cloud-security/&#34;&gt;https://snyk.io/blog/multi-cloud-security/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Securing the digital future: Reviewing the Biden-Harris administration&#39;s National Cybersecurity Strategy</title>
+      <link>https://infosecvandana.com/blogs/biden_harris_cybersecurity_strategy/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/biden_harris_cybersecurity_strategy/</guid>
+      <description>&lt;p&gt;A review of the Biden-Harris administration&amp;rsquo;s National Cybersecurity Strategy, examining its key pillars and implications for software security, supply chain protection, and the broader cybersecurity ecosystem.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/biden-harris-national-cybersecurity-strategy/&#34;&gt;https://snyk.io/blog/biden-harris-national-cybersecurity-strategy/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Supply chain security incident at CircleCI: Rotate your secrets</title>
+      <link>https://infosecvandana.com/blogs/circleci_supply_chain_incident/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/circleci_supply_chain_incident/</guid>
+      <description>&lt;p&gt;Analysis of the supply chain security incident at CircleCI, explaining the impact and providing actionable guidance on rotating secrets and securing CI/CD pipelines.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/supply-chain-security-incident-circleci-secrets/&#34;&gt;https://snyk.io/blog/supply-chain-security-incident-circleci-secrets/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Key points from Google and Accenture&#39;s ransomware white paper</title>
+      <link>https://infosecvandana.com/blogs/ransomware_white_paper_google_accenture/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/ransomware_white_paper_google_accenture/</guid>
+      <description>&lt;p&gt;A summary and analysis of key points from the joint Google and Accenture ransomware white paper, highlighting trends, attack vectors, and recommended defenses for organizations.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/key-points-from-ransomware-white-paper/&#34;&gt;https://snyk.io/blog/key-points-from-ransomware-white-paper/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Update: OpenSSL high severity vulnerabilities</title>
+      <link>https://infosecvandana.com/blogs/openssl_high_severity_update/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/openssl_high_severity_update/</guid>
+      <description>&lt;p&gt;An update on the OpenSSL high severity vulnerabilities, providing details on the impact, affected versions, and remediation steps for security teams.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/openssl-high-severity-vulnerabilities/&#34;&gt;https://snyk.io/blog/openssl-high-severity-vulnerabilities/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New OpenSSL critical vulnerability: What you need to know</title>
+      <link>https://infosecvandana.com/blogs/openssl_critical_vulnerability/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/openssl_critical_vulnerability/</guid>
+      <description>&lt;p&gt;A timely breakdown of the new OpenSSL critical vulnerability, covering what security teams need to know about the risk, affected systems, and how to respond.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/new-openssl-critical-vulnerability/&#34;&gt;https://snyk.io/blog/new-openssl-critical-vulnerability/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Looking back at Black Hat USA 2022</title>
+      <link>https://infosecvandana.com/blogs/looking_back_blackhat_usa_2022/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/looking_back_blackhat_usa_2022/</guid>
+      <description>&lt;p&gt;A recap of Black Hat USA 2022, covering key themes, notable talks, emerging trends, and takeaways from one of the largest cybersecurity conferences.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/looking-back-black-hat-usa-2022/&#34;&gt;https://snyk.io/blog/looking-back-black-hat-usa-2022/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Snyk helps satisfy White House cybersecurity recommendations</title>
+      <link>https://infosecvandana.com/blogs/snyk_white_house_cybersecurity/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/snyk_white_house_cybersecurity/</guid>
+      <description>&lt;p&gt;An overview of how Snyk&amp;rsquo;s developer security platform helps organizations meet the White House cybersecurity recommendations, covering software supply chain security, SBOM generation, and secure development practices.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/snyk-white-house-cybersecurity-recommendations/&#34;&gt;https://snyk.io/blog/snyk-white-house-cybersecurity-recommendations/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Consumer identities in Modern Digital World (CIAM)</title>
       <link>https://infosecvandana.com/blogs/ciam/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>

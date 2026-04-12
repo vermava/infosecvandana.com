@@ -192,6 +192,13 @@
       <description>&lt;p&gt;This EC-Council cyber talk publicly lists Vandana Verma and focuses on how AI can help modern teams automate security checks and decisions across the software delivery lifecycle.&lt;/p&gt;&#xA;&lt;p&gt;The public event page includes the abstract, speaker block, and event framing around AI-enhanced DevSecOps.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/ai-enhanced-devsecops-automating-security-from-code-to-cloud/&#34;&gt;https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/ai-enhanced-devsecops-automating-security-from-code-to-cloud/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>SecuritySenses/Snyk — OWASP Top 10: Navigating the New AppSec Landscape in the Age of AI</title>
+      <link>https://infosecvandana.com/webinars/securitysenses_owasp_top10_ai/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/securitysenses_owasp_top10_ai/</guid>
+      <description>&lt;p&gt;Online workshop hosted by SecuritySenses featuring Vandana Verma Sehgal (OWASP Leader and Staff Developer Advocate at Snyk). The session covered what&amp;rsquo;s new in the OWASP Top 10, how these updates reflect evolving application security threats, and how AI-generated code and LLM-powered workflows intersect with core OWASP categories. Attendees could earn 1 CPE credit.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://securitysenses.com/events/snyk-owasp-top-10-navigating-new-appsec-landscape-age-ai&#34;&gt;https://securitysenses.com/events/snyk-owasp-top-10-navigating-new-appsec-landscape-age-ai&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>BSides Kerala 2025 - Panel: Building, Nurturing, and Retaining Cybersecurity Talent in the Gen AI Era</title>
       <link>https://infosecvandana.com/paneldiscussion/bsideskerala2025_gen_ai_talent/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
@@ -731,6 +738,13 @@
       <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cybersecurityleaderofheyear2023.png&#34; alt=&#34;cybersecawards&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Does GitOps enhance application security?</title>
+      <link>https://infosecvandana.com/blogs/gitops_appsec/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/gitops_appsec/</guid>
+      <description>&lt;p&gt;This article explores how GitOps practices can improve application security by leveraging Git-based workflows for infrastructure and deployment management.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/gitops-application-security/&#34;&gt;https://snyk.io/blog/gitops-application-security/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>SERIES 2 - Episode 06 - Vivek Ramachandran</title>
       <link>https://infosecvandana.com/leaderspeak/s2_vivekramachandran/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
@@ -766,11 +780,39 @@
       <description>&lt;p&gt;Title: Tracing the Journey of Web Application Security from Past to Future&lt;/p&gt;&#xA;&lt;p&gt;The Open Web Application Security Project (OWASP) has profoundly influenced the cybersecurity arena since its inception in 2001, primarily focusing on web application security. This talk outlines the evolution of OWASP, beginning with its establishment and early development of the influential OWASP Top Ten - a document identifying the most prevalent security risks to web applications. We then shift to a discussion of the present day, where OWASP has grown into a global entity, offering a variety of tools, documentation, and community resources that contribute significantly to cybersecurity best practices.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Research with Snyk and Redhunt Labs: Scanning the top 1000 orgs on GitHub</title>
+      <link>https://infosecvandana.com/blogs/snyk_redhunt_scanning_github/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/snyk_redhunt_scanning_github/</guid>
+      <description>&lt;p&gt;A collaborative research effort between Snyk and Redhunt Labs scanning the top 1000 organizations on GitHub to identify security risks and patterns across open source repositories.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/snyk-redhunt-labs-scanning-top-1000-orgs-on-github/&#34;&gt;https://snyk.io/blog/snyk-redhunt-labs-scanning-top-1000-orgs-on-github/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ethical hacking techniques</title>
+      <link>https://infosecvandana.com/blogs/ethical_hacking_techniques/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/ethical_hacking_techniques/</guid>
+      <description>&lt;p&gt;An overview of ethical hacking techniques used by security professionals to identify and remediate vulnerabilities before malicious actors can exploit them.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/ethical-hacking-techniques/&#34;&gt;https://snyk.io/blog/ethical-hacking-techniques/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ethical Hacking: Top Tools</title>
+      <link>https://infosecvandana.com/blogs/ethical_hacking_tools/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/ethical_hacking_tools/</guid>
+      <description>&lt;p&gt;A comprehensive guide to the top tools used in ethical hacking, covering reconnaissance, scanning, exploitation, and reporting tools that every security professional should know.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/ethical-hacking-tools/&#34;&gt;https://snyk.io/blog/ethical-hacking-tools/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>SERIES 2 - Episode 04 - Ankita Gupta</title>
       <link>https://infosecvandana.com/leaderspeak/s2_ankitagupta/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/leaderspeak/s2_ankitagupta/</guid>
       <description>&lt;p&gt;Ankita Gupta - Akto&lt;/p&gt;&#xA;&lt;p&gt;Co-founder of Akto. Ankita shares her journey into founding an API security company, the lessons she has learned about building and scaling a product, and what drives her as an entrepreneur in the security space.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rIZOAWGtsbs&#34;&gt;https://www.youtube.com/watch?v=rIZOAWGtsbs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unlocking the power of multi-cloud security</title>
+      <link>https://infosecvandana.com/blogs/multi_cloud_security/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/multi_cloud_security/</guid>
+      <description>&lt;p&gt;This article explores the challenges and strategies for securing multi-cloud environments, covering best practices for maintaining consistent security postures across different cloud providers.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/multi-cloud-security/&#34;&gt;https://snyk.io/blog/multi-cloud-security/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SERIES 2 - Episode 03 - Ankita Dhakar</title>
@@ -785,6 +827,13 @@
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight26/</guid>
       <description>&lt;p&gt;About the Project:-&lt;/p&gt;&#xA;&lt;p&gt;SamuraiWTF is a web training and testing framework built as a virtual machine with vulnerable applications and tools to support hands-on learning and web penetration testing practice.&lt;/p&gt;&#xA;&lt;p&gt;References:-&lt;/p&gt;&#xA;&lt;p&gt;OWASP SamuraiWTF - &lt;a href=&#34;https://owasp.org/www-project-samuraiwtf/&#34;&gt;https://owasp.org/www-project-samuraiwtf/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;GitHub - &lt;a href=&#34;https://github.com/SamuraiWTF/samuraiwtf&#34;&gt;https://github.com/SamuraiWTF/samuraiwtf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=PBWUlx_kJmI&#34;&gt;https://www.youtube.com/watch?v=PBWUlx_kJmI&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Securing the digital future: Reviewing the Biden-Harris administration&#39;s National Cybersecurity Strategy</title>
+      <link>https://infosecvandana.com/blogs/biden_harris_cybersecurity_strategy/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/biden_harris_cybersecurity_strategy/</guid>
+      <description>&lt;p&gt;A review of the Biden-Harris administration&amp;rsquo;s National Cybersecurity Strategy, examining its key pillars and implications for software security, supply chain protection, and the broader cybersecurity ecosystem.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/biden-harris-national-cybersecurity-strategy/&#34;&gt;https://snyk.io/blog/biden-harris-national-cybersecurity-strategy/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SERIES 2 - Episode 02 - Travis McPeak</title>
@@ -815,6 +864,13 @@
       <description>&lt;p&gt;Lakshmi Das&lt;/p&gt;&#xA;&lt;p&gt;Opening episode of Series 2 of &amp;ldquo;A Day in the Life of an Entrepreneur&amp;rdquo;. Lakshmi shares her journey into security entrepreneurship, the challenges she has navigated, and the lessons she has learned while building in the cyber space.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EBAumGwJTWQ&#34;&gt;https://www.youtube.com/watch?v=EBAumGwJTWQ&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Supply chain security incident at CircleCI: Rotate your secrets</title>
+      <link>https://infosecvandana.com/blogs/circleci_supply_chain_incident/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/circleci_supply_chain_incident/</guid>
+      <description>&lt;p&gt;Analysis of the supply chain security incident at CircleCI, explaining the impact and providing actionable guidance on rotating secrets and securing CI/CD pipelines.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/supply-chain-security-incident-circleci-secrets/&#34;&gt;https://snyk.io/blog/supply-chain-security-incident-circleci-secrets/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>SC Media - Contributor Profile</title>
       <link>https://infosecvandana.com/featured/sc_media_contributor/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -829,11 +885,39 @@
       <description>&lt;p&gt;According to a recent report, 69% of CISOs say the volume of alerts make it difficult to prioritize vulnerabilities. That’s one of the reasons why picking open-source packages to use in your application is a strenuous process. Package ecosystems such as NPM have over a million packages in them, and when you are dealing with numbers that high, there is bound to be a lack of maintenance or other issues that will cause holes in your security.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Key points from Google and Accenture&#39;s ransomware white paper</title>
+      <link>https://infosecvandana.com/blogs/ransomware_white_paper_google_accenture/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/ransomware_white_paper_google_accenture/</guid>
+      <description>&lt;p&gt;A summary and analysis of key points from the joint Google and Accenture ransomware white paper, highlighting trends, attack vectors, and recommended defenses for organizations.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/key-points-from-ransomware-white-paper/&#34;&gt;https://snyk.io/blog/key-points-from-ransomware-white-paper/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>A day in the life of a CISO: Chris Hughes of Aquia</title>
       <link>https://infosecvandana.com/ciso/chris_hughes/</link>
       <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/ciso/chris_hughes/</guid>
       <description>&lt;p&gt;This feature covers a discussion with Chris Hughes, CISO and co-founder of Aquia, including his path into security leadership, software supply chain security, SBOMs, workforce challenges, and practical risk management.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/pt-BR/blog/day-in-the-life-ciso-chris-hughes-aquia/&#34;&gt;https://snyk.io/pt-BR/blog/day-in-the-life-ciso-chris-hughes-aquia/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Update: OpenSSL high severity vulnerabilities</title>
+      <link>https://infosecvandana.com/blogs/openssl_high_severity_update/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/openssl_high_severity_update/</guid>
+      <description>&lt;p&gt;An update on the OpenSSL high severity vulnerabilities, providing details on the impact, affected versions, and remediation steps for security teams.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/openssl-high-severity-vulnerabilities/&#34;&gt;https://snyk.io/blog/openssl-high-severity-vulnerabilities/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New OpenSSL critical vulnerability: What you need to know</title>
+      <link>https://infosecvandana.com/blogs/openssl_critical_vulnerability/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/openssl_critical_vulnerability/</guid>
+      <description>&lt;p&gt;A timely breakdown of the new OpenSSL critical vulnerability, covering what security teams need to know about the risk, affected systems, and how to respond.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/new-openssl-critical-vulnerability/&#34;&gt;https://snyk.io/blog/new-openssl-critical-vulnerability/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Looking back at Black Hat USA 2022</title>
+      <link>https://infosecvandana.com/blogs/looking_back_blackhat_usa_2022/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/looking_back_blackhat_usa_2022/</guid>
+      <description>&lt;p&gt;A recap of Black Hat USA 2022, covering key themes, notable talks, emerging trends, and takeaways from one of the largest cybersecurity conferences.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/looking-back-black-hat-usa-2022/&#34;&gt;https://snyk.io/blog/looking-back-black-hat-usa-2022/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Secure Software Summit 2022 - New Way of Envisioning Security in the Dependencies</title>
@@ -899,6 +983,13 @@
       <description>&lt;p&gt;Named in the 40 under 40 in Cybersecurity list for 2022, recognizing emerging leaders making significant contributions to the cybersecurity field.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Interview: Women in Cyber and Open Source Security — Cyber Protection Magazine</title>
+      <link>https://infosecvandana.com/featured/cyber_protection_magazine/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/cyber_protection_magazine/</guid>
+      <description>&lt;p&gt;Featured interview with Cyber Protection Magazine discussing the InfosecGirls initiative, the significance of open source security, and Vandana&amp;rsquo;s work at Snyk helping to ensure open source security. The conversation covered the impact of the pandemic on InfosecGirls, progress on gender balance in cybersecurity, and career opportunities for women in the field.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://cyberprotection-magazine.com/interview-women-in-cyber-and-open-source-security&#34;&gt;https://cyberprotection-magazine.com/interview-women-in-cyber-and-open-source-security&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Redgate 100 - Most Influential in the Database Community 2022</title>
       <link>https://infosecvandana.com/featured/redgate100/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
@@ -939,6 +1030,13 @@
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/featured/techtarget/</guid>
       <description>&lt;p&gt;Women in Cybersecurity&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.techtarget.com/esg-global/video/women-in-cybersecurity-vandana-verma/&#34;&gt;https://www.techtarget.com/esg-global/video/women-in-cybersecurity-vandana-verma/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ctsPEIqXJnc?si=yrBfHb2cH8x-LKD1&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>How Snyk helps satisfy White House cybersecurity recommendations</title>
+      <link>https://infosecvandana.com/blogs/snyk_white_house_cybersecurity/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/snyk_white_house_cybersecurity/</guid>
+      <description>&lt;p&gt;An overview of how Snyk&amp;rsquo;s developer security platform helps organizations meet the White House cybersecurity recommendations, covering software supply chain security, SBOM generation, and secure development practices.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/blog/snyk-white-house-cybersecurity-recommendations/&#34;&gt;https://snyk.io/blog/snyk-white-house-cybersecurity-recommendations/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Day in the Life of a Service Company CISO - Caroline Wong</title>
@@ -995,6 +1093,13 @@
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/leaderspeak/rahultyagi/</guid>
       <description>&lt;p&gt;Rahul Tyagi&lt;/p&gt;&#xA;&lt;p&gt;Cybersecurity entrepreneur, author, and educator. Rahul shares his journey into security training and entrepreneurship, how he thinks about building a community-first business, and what daily life looks like as a founder in cyber.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sSOam04N9w4&#34;&gt;https://www.youtube.com/watch?v=sSOam04N9w4&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security Challenges in FinTech — Wallarm Researcher Corner</title>
+      <link>https://infosecvandana.com/featured/wallarm_fintech_security/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/wallarm_fintech_security/</guid>
+      <description>&lt;p&gt;Featured discussion with Wallarm&amp;rsquo;s Researcher Corner on security challenges in the FinTech space. The conversation covered OWASP Top 10 and related projects, modern FinTech cyber threats, the importance of designing secure architecture from the start, and the resources OWASP offers for securing financial applications.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://lab.wallarm.com/security-challenges-in-fintech-discussion-with-vandana-verma-owasp/&#34;&gt;https://lab.wallarm.com/security-challenges-in-fintech-discussion-with-vandana-verma-owasp/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Episode 23 - Sandeep Kamble</title>
@@ -1184,6 +1289,13 @@
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/leaderspeak/kenunderhill/</guid>
       <description>&lt;p&gt;Ken Underhill&lt;/p&gt;&#xA;&lt;p&gt;Cybersecurity educator, entrepreneur, and media creator. Ken shares his story of building security education at scale, what a day looks like running a cyber training and content business, and how he balances teaching, entrepreneurship, and community.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BTBaEOCfzb8&#34;&gt;https://www.youtube.com/watch?v=BTBaEOCfzb8&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Had My Own Share Of Struggles But Learnt How To Survive And Stand Strong — Eat My News</title>
+      <link>https://infosecvandana.com/featured/eatmynews_interview/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/eatmynews_interview/</guid>
+      <description>&lt;p&gt;Featured interview with Eat My News, discussing the journey from struggles to becoming a recognized advocate in cybersecurity in India. The conversation covers career challenges, community building, and standing strong through adversity.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.eatmy.news/2021/09/vandana-verma-sehgal-i-had-my-own-share.html&#34;&gt;https://www.eatmy.news/2021/09/vandana-verma-sehgal-i-had-my-own-share.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cyber Security Awards</title>
@@ -1466,11 +1578,11 @@
       <description>&lt;p&gt;&lt;strong&gt;Moderator&lt;/strong&gt; -&#xA;&lt;br&gt;&#xA;Nenne Adaora Nwodo, Software Engineer, Microsoft Mixed Reality; Creator, AdoraHack; Public Speaker&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;Malini Rao, Global Head – Cybersecurity and GRC Operations&#xA;&lt;br&gt;&#xA;Vandana Verma, Global Board of Directors at OWASP and Security Solutions Architect at IBM&#xA;&lt;br&gt;&#xA;Beatriz Silveira, SVP, Cyber Intelligence Center Regional Lead APAC, Citi&#xA;&lt;br&gt;&#xA;Vanessa Padua,Cyber security Executive- Director, Microsoft&#xA;&lt;br&gt;&#xA;Date: April 16th, 2021&#xA;Time: 7:30 pm IST/ 10 am EST/ 3:00 pm WAT&lt;/p&gt;&#xA;&lt;br&gt;&#xA;Abstract: According to a 2019 survey, roughly 25% of the overall cybersecurity workforce consists of women. While this is considerably better than 2017, when only 11% of its survey participants were women, there is still a long way to go to address this large gender gap.&#xA;&lt;p&gt;Considering the various ongoing industry challenges — dramatic gender imbalance and the rising talent gap — several golden opportunities for women to work their way up to significant leadership roles are opening up. Cybersecurity is a vast industry that needs professionals for different primary functions, such as security operations, compliance, incident handling, investigations, auditing, training, and several others. As a woman, you have the choice to choose from dozens of such positions.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Black Hat Asia Review Board</title>
+      <title>Black Hat Review Board — Asia &amp; Europe</title>
       <link>https://infosecvandana.com/advisoryboard/blackhat/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/advisoryboard/blackhat/</guid>
-      <description>&lt;p&gt;Reference link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.blackhat.com/asia-21/review-board.html#Vandana-Verma&#34;&gt;https://www.blackhat.com/asia-21/review-board.html#Vandana-Verma&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Member of the Black Hat Asia Review Board (since 2020) and Black Hat Europe Review Board, evaluating submissions and shaping the technical content of two of the world&amp;rsquo;s premier cybersecurity conferences.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.blackhat.com/review-board.html&#34;&gt;https://www.blackhat.com/review-board.html&lt;/a&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://blackhat.com/html/review-board-asia.html&#34;&gt;https://blackhat.com/html/review-board-asia.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Episode 2 - Shira Shamban</title>
@@ -2458,13 +2570,6 @@
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/security_guild_2019/</guid>
       <description>&lt;p&gt;Speaker at Security Guild 2019, presenting on application security and DevSecOps topics to the security community.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Top Women in Cybersecurity in India – Instasafe</title>
-      <link>https://infosecvandana.com/awards/topwomeninindia/</link>
-      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/awards/topwomeninindia/</guid>
-      <description>&lt;p&gt;On this very note, InstaSafe, this new year brings forth a list of women leaders in this field of technology and cybersecurity as a whole across various sectors based out of India:&lt;/p&gt;&#xA;&lt;p&gt;Reference:-&#xA;&lt;a href=&#34;https://instasafe.com/top-women-in-cybersecurity-in-india/&#34;&gt;https://instasafe.com/top-women-in-cybersecurity-in-india/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>52 Influential Cyber Security Bloggers and Speakers by Peerlyst</title>

@@ -1,10 +1,14 @@
 ---
-title: "Black Hat Asia Review Board"
+title: "Black Hat Review Board — Asia & Europe"
 date: 2021-04-15
 draft: false
 featureimage: /images/bhasia_rb.png
 ---
 
-Reference link:
+Member of the Black Hat Asia Review Board (since 2020) and Black Hat Europe Review Board, evaluating submissions and shaping the technical content of two of the world's premier cybersecurity conferences.
 
-https://www.blackhat.com/asia-21/review-board.html#Vandana-Verma
+**Reference**
+<br>
+https://www.blackhat.com/review-board.html
+<br>
+https://blackhat.com/html/review-board-asia.html

@@ -31,6 +31,13 @@
       <description>&lt;p&gt;This EC-Council cyber talk publicly lists Vandana Verma and focuses on how AI can help modern teams automate security checks and decisions across the software delivery lifecycle.&lt;/p&gt;&#xA;&lt;p&gt;The public event page includes the abstract, speaker block, and event framing around AI-enhanced DevSecOps.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/ai-enhanced-devsecops-automating-security-from-code-to-cloud/&#34;&gt;https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/ai-enhanced-devsecops-automating-security-from-code-to-cloud/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>SecuritySenses/Snyk — OWASP Top 10: Navigating the New AppSec Landscape in the Age of AI</title>
+      <link>https://infosecvandana.com/webinars/securitysenses_owasp_top10_ai/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/securitysenses_owasp_top10_ai/</guid>
+      <description>&lt;p&gt;Online workshop hosted by SecuritySenses featuring Vandana Verma Sehgal (OWASP Leader and Staff Developer Advocate at Snyk). The session covered what&amp;rsquo;s new in the OWASP Top 10, how these updates reflect evolving application security threats, and how AI-generated code and LLM-powered workflows intersect with core OWASP categories. Attendees could earn 1 CPE credit.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://securitysenses.com/events/snyk-owasp-top-10-navigating-new-appsec-landscape-age-ai&#34;&gt;https://securitysenses.com/events/snyk-owasp-top-10-navigating-new-appsec-landscape-age-ai&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Snyk Webinar - OWASP Top 10 for LLMs</title>
       <link>https://infosecvandana.com/webinars/snyk_owasp_top10_llms_2025/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
