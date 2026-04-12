@@ -38,13 +38,6 @@
       <description>A career-focused LinkedIn article for people entering GenAI security.</description>
     </item>
     <item>
-      <title>WomenTech Global Awards 2026 - Nominee</title>
-      <link>http://localhost:4322/awards/womentech_global_2026/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/awards/womentech_global_2026/</guid>
-      <description>&lt;p&gt;Nominated for the Women in Tech Global Awards 2026 by WomenTech Network, recognizing contributions to cybersecurity, diversity, and the broader technology community.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Learning about Large Language Models (LLMs)</title>
       <link>http://localhost:4322/blogs/learning_about_llms/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
@@ -183,13 +176,6 @@
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:4322/judge/sc_awards_2025/</guid>
       <description>Judge for the 2025 SC Awards.</description>
-    </item>
-    <item>
-      <title>WomenTech Global Awards 2025 - Nominee</title>
-      <link>http://localhost:4322/awards/womentech_global_2025/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/awards/womentech_global_2025/</guid>
-      <description>&lt;p&gt;Nominated for the Women in Tech Global Awards 2025 by WomenTech Network, recognizing contributions to cybersecurity, diversity, and the broader technology community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Do We Really Need Cybersecurity Certifications? Let’s Break It Down</title>
@@ -393,13 +379,6 @@
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4322/owaspspotlightseries/spotlight27/</guid>
       <description>&lt;p&gt;About the Project:-&lt;/p&gt;&#xA;&lt;p&gt;The OWASP LLM project focuses on identifying and addressing security risks associated with Large Language Models, providing guidance for organizations deploying and integrating LLM-based applications.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>WomenTech Global Awards 2024 - Nominee</title>
-      <link>http://localhost:4322/awards/womentech_global_2024/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/awards/womentech_global_2024/</guid>
-      <description>&lt;p&gt;Nominated for the Women in Tech Global Awards 2024 by WomenTech Network, recognizing contributions to cybersecurity, diversity, and the broader technology community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Day of Shecurity India 2024 - Keynote: Securing AI for Future Ready</title>
