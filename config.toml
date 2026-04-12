@@ -53,6 +53,13 @@ copyright="© Vandana Verma"
 [menu]
 
 [[menu.main]]
+  identifier = "keynotes"
+  name = "Keynotes & Locknotes"
+  title = "Keynotes & Locknotes"
+  url = "/keynotes/"
+  weight = -110
+
+[[menu.main]]
   identifier = "talks"
   name = "Conference Talks"
   title = "Blog section"
