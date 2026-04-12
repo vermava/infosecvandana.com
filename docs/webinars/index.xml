@@ -80,13 +80,6 @@
       <description>&lt;p&gt;&lt;strong&gt;The Magic of Application Security Posture Management and its Future Frontier&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;Aug. 6, 2024 | 02:00 PM ET | 11:00 AM PT&lt;/p&gt;&#xA;&lt;p&gt;Vandana Verma Sehgal presented this RSAC webcast on Application Security Posture Management and where ASPM is heading next.&lt;/p&gt;&#xA;&lt;p&gt;In this captivating discussion, we will embark on a journey into the enchanted realm of ASPM (Application Security Posture Management), discovering its remarkable abilities to fortify our application defenses amidst the ever-shifting digital security landscape. Through proactive risk mitigation, real-time vulnerability management, and the foresight of predictive analytics, ASPM casts a powerful shield around our applications, safeguarding them from the nefarious intentions of cyber adversaries. As we peer into the crystal ball of tomorrow, we envision ASPM soaring to new heights, weaving spells of automation, artificial intelligence, and blockchain into its arsenal, transcending traditional boundaries to protect our digital realm with even greater efficacy. Join us as we unravel the wonders of ASPM and the limitless potential it holds in shaping the future of cybersecurity.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>RSA Conference Webcast - Proactive Defense: Advanced Threat Modeling</title>
-      <link>https://infosecvandana.com/webinars/rsa_proactive_defense/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/webinars/rsa_proactive_defense/</guid>
-      <description>&lt;p&gt;RSA Conference webcast on proactive defense and advanced threat modeling for robust cybersecurity, presented as Security Relations Leader at Snyk.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>RSA 2023 - Proactive Defense: Advanced Threat Modeling for Robust Cybersecurity</title>
       <link>https://infosecvandana.com/webinars/rsa2023/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
@@ -120,13 +113,6 @@
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/webinars/ec_council_2021/</guid>
       <description>EC-Council cyber talk featuring Vandana Verma on practical zero trust strategy and implementation.</description>
-    </item>
-    <item>
-      <title>Keynote speaker for Cyber Security Warriors Club Opening</title>
-      <link>https://infosecvandana.com/webinars/vitbhopal/</link>
-      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/webinars/vitbhopal/</guid>
-      <description>&lt;p&gt;Colleges are doing exceptional work towards bringing cyber security closer to the students. Once such incident, I witnessed over the weekend, where I was invited to VIT Bhopal University as a Chief Guest and #keynote speaker at the launch of the VIT Bhopal Cyber Warriors Club where I shared my views around Careers in Cyber Security and what students can do make the future shine for our country.&lt;/p&gt;&#xA;&lt;p&gt;It such a heartwarming experience to see the College Management going extra mile for the students to motivate the students to innovate in different faces of cyber security from creating CTF&amp;rsquo;s hardware, software to creating something totally incredible with #AI.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bridge the gap between AI/ML and Cyber Security</title>
@@ -232,6 +218,13 @@
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/webinars/sheciso/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Webinar:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Zero trust , why and why not?&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/aT3Mpjr7ug0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Fast, Accurate, Agile Security Testing​</title>
+      <link>https://infosecvandana.com/webinars/brighttalk_security_testing/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/brighttalk_security_testing/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Fast, Accurate, Agile Security Testing&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Moderator: Eitan Worcel&lt;/p&gt;&#xA;&lt;p&gt;Panelists:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vandana Verma Sehgal&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dragan Pleskonjic&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Laura Guazzelli&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Reference:-&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.brighttalk.com/webinar/fast-accurate-agile-security-testing%e2%80%8b-with-appscan-v10/&#34;&gt;https://www.brighttalk.com/webinar/fast-accurate-agile-security-testing%e2%80%8b-with-appscan-v10/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DevSecOps - Virtually Testing </title>

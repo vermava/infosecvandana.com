@@ -431,13 +431,6 @@
     </item>
     <item>
       <title>Black Hat Europe 2024 - Locknote: Conclusions and Key Takeaways</title>
-      <link>https://infosecvandana.com/paneldiscussion/bheu2023_locknote/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/bheu2023_locknote/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Locknote: Conclusions and Key Takeaways from Black Hat Europe 2024&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Closing locknote panel at Black Hat Europe 2024. Joined conference founder Jeff Moss and members of the Black Hat Review Board to discuss the most significant research, themes, and takeaways from the event. Artificial intelligence - the reality versus the hype - dominated much of the discussion, alongside governance, risk, and compliance themes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blackhat.com/eu-23/briefings/schedule/#locknote-conclusions-and-key-takeaways-from-day-2-36492&#34;&gt;https://blackhat.com/eu-23/briefings/schedule/#locknote-conclusions-and-key-takeaways-from-day-2-36492&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Black Hat Europe 2024 - Locknote: Conclusions and Key Takeaways</title>
       <link>https://infosecvandana.com/paneldiscussion/bheu2024_locknote/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/paneldiscussion/bheu2024_locknote/</guid>
@@ -662,9 +655,9 @@
     </item>
     <item>
       <title>Black Hat Europe 2023 - Locknote: Conclusions and Key Takeaways from Day 2</title>
-      <link>https://infosecvandana.com/talks/blackhateu_2023/</link>
+      <link>https://infosecvandana.com/paneldiscussion/bheu2023_locknote/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/talks/blackhateu_2023/</guid>
+      <guid>https://infosecvandana.com/paneldiscussion/bheu2023_locknote/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Locknote: Conclusions and Key Takeaways from Day 2&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;Jeff Moss  |  Founder of Black Hat and DEF CON Conferences &amp;amp; Former Chief Security Officer and VP at ICANN, U.S. Department of Homeland Security Advisory Council&#xA;&lt;br&gt;&#xA;Ali Abbasi  |  Faculty, CISPA Helmholtz Center for information Security&#xA;&lt;br&gt;&#xA;Jiska Classen  |  Security Researcher, Hasso Plattner Institute&#xA;&lt;br&gt;&#xA;Vandana Verma  |  Security, Snyk&#xA;&lt;br&gt;&#xA;Kenneth White  |  Security Principal, Mongodb&#xA;&lt;br&gt;&#xA;Date: Thursday, December 7 | 4:20pm-5:00pm ( ICC Capital Suites 7 &amp;amp; 12, Level 3 )&#xA;&lt;br&gt;&#xA;Format: 40-Minute Briefings&#xA;&lt;br&gt;&#xA;Track: Keynote&#xA;&lt;br&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -715,13 +708,6 @@
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/leaderspeak/s2_divakarprayaga/</guid>
       <description>&lt;p&gt;Divakar Prayaga&lt;/p&gt;&#xA;&lt;p&gt;A leadership conversation with Divakar Prayaga, exploring his experience across security leadership and entrepreneurship. Divakar talks about his career path, his approach to leading teams, and what it takes to lead effectively in the cyber space.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=L57kpbiIftI&#34;&gt;https://www.youtube.com/watch?v=L57kpbiIftI&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>RSA Conference Webcast - Proactive Defense: Advanced Threat Modeling</title>
-      <link>https://infosecvandana.com/webinars/rsa_proactive_defense/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/webinars/rsa_proactive_defense/</guid>
-      <description>&lt;p&gt;RSA Conference webcast on proactive defense and advanced threat modeling for robust cybersecurity, presented as Security Relations Leader at Snyk.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OWASP Spotlight - Project 28 - OWASP OpenCRE</title>
@@ -1572,9 +1558,9 @@
     </item>
     <item>
       <title>Keynote speaker for Cyber Security Warriors Club Opening</title>
-      <link>https://infosecvandana.com/webinars/vitbhopal/</link>
+      <link>https://infosecvandana.com/talks/vitbhopal_keynote_2021/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/webinars/vitbhopal/</guid>
+      <guid>https://infosecvandana.com/talks/vitbhopal_keynote_2021/</guid>
       <description>&lt;p&gt;Colleges are doing exceptional work towards bringing cyber security closer to the students. Once such incident, I witnessed over the weekend, where I was invited to VIT Bhopal University as a Chief Guest and #keynote speaker at the launch of the VIT Bhopal Cyber Warriors Club where I shared my views around Careers in Cyber Security and what students can do make the future shine for our country.&lt;/p&gt;&#xA;&lt;p&gt;It such a heartwarming experience to see the College Management going extra mile for the students to motivate the students to innovate in different faces of cyber security from creating CTF&amp;rsquo;s hardware, software to creating something totally incredible with #AI.&lt;/p&gt;</description>
     </item>
     <item>
@@ -2096,17 +2082,10 @@
       <description>&lt;p&gt;&lt;strong&gt;Moderator&lt;/strong&gt; - Dr. Chandra Vadhana R, Founder &amp;amp; Director Prayaana Labs&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sanjay Kumar IPS, DIG Range Trivandrum&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vandana Verma, OWASP Global Board of Directors&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3B1cxtxJLgw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
-      <title>OWASP Kerala 2020 - Empowering Tips on Online Safety for Working Women</title>
-      <link>https://infosecvandana.com/talks/owasp_kerala_2020_online_safety/</link>
-      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/talks/owasp_kerala_2020_online_safety/</guid>
-      <description>OWASP chapter talk featuring Vandana Verma on practical online safety guidance for working women.</description>
-    </item>
-    <item>
       <title>Judge and Jury for Top 20 Indian Women Influencers in Security 2020 </title>
-      <link>https://infosecvandana.com/featured/judgejury/</link>
+      <link>https://infosecvandana.com/judge/top20_indian_women_2020/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/judgejury/</guid>
+      <guid>https://infosecvandana.com/judge/top20_indian_women_2020/</guid>
       <description>&lt;p&gt;Dr Kiran Bedi was in her element as the Chief Guest&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/dr.kiranbedi.jpg&#34; alt=&#34;dr.kiranbedi&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The jury comprised of&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;• Mr Rajan Luthra, Chairman’s Office – Head-Special Projects, Reliance Industries Ltd.&lt;/p&gt;&#xA;&lt;p&gt;• Dr. Shailja Vaidya Gupta, Senior Adviser – Office of the Principal Scientific Adviser to Government of India&lt;/p&gt;&#xA;&lt;p&gt;• Ms Bonnie Butlin, Co-founder &amp;amp; Executive Director, Security Partners Forum&lt;/p&gt;&#xA;&lt;p&gt;• Ms Aman Singh, Publisher SECURITY TODAY &amp;amp; SECURITY UPDATE&lt;/p&gt;&#xA;&lt;p&gt;• Ms Vandana Verma, President, Infosec Girls.&lt;/p&gt;</description>
     </item>
     <item>
@@ -2222,7 +2201,7 @@
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/J20ppzkgIy0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
-      <title>How to be an InfoSec Speaker - Vandana Verma</title>
+      <title>Male Allies in Cybersecurity - Vandana Verma</title>
       <link>https://infosecvandana.com/podcasts/maleallies/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/podcasts/maleallies/</guid>
@@ -2290,13 +2269,6 @@
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/owasp_sendai_2020_devsecops/</guid>
       <description>OWASP chapter talk by Vandana Verma on DevSecOps and secure application delivery.</description>
-    </item>
-    <item>
-      <title>Implementing Zero Trust in an organisation to be uncertainty Ready</title>
-      <link>https://infosecvandana.com/talks/womentech/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/talks/womentech/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;Implementing Zero Trust in an organisation to be uncertainty Ready&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/WTGC.png&#34; alt=&#34;WIT&#34;&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/p_n3QCDqIsY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;Reference:-&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.womentech.net/en-in/speaker/Vandana/Verma&#34;&gt;https://www.womentech.net/en-in/speaker/Vandana/Verma&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title> Women Tech Network Global Conference: Implementing Zero Trust in an organisation to be uncertainty Ready </title>
@@ -2377,9 +2349,9 @@
     </item>
     <item>
       <title>Fast, Accurate, Agile Security Testing​</title>
-      <link>https://infosecvandana.com/paneldiscussion/securitytestinghcl/</link>
+      <link>https://infosecvandana.com/webinars/brighttalk_security_testing/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/paneldiscussion/securitytestinghcl/</guid>
+      <guid>https://infosecvandana.com/webinars/brighttalk_security_testing/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Fast, Accurate, Agile Security Testing&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Moderator: Eitan Worcel&lt;/p&gt;&#xA;&lt;p&gt;Panelists:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vandana Verma Sehgal&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dragan Pleskonjic&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Laura Guazzelli&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Reference:-&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.brighttalk.com/webinar/fast-accurate-agile-security-testing%e2%80%8b-with-appscan-v10/&#34;&gt;https://www.brighttalk.com/webinar/fast-accurate-agile-security-testing%e2%80%8b-with-appscan-v10/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -2514,20 +2486,6 @@
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/addo/</guid>
       <description>&lt;p&gt;There has been a lot of conversations around diversity and inclusion in the recent past.  This is a step in a positive direction. The benefits of diversity in cybersecurity are clear. As an industry, we can do better, we need to do better. We need not only to keep the conversation going but to really place some action behind it. While homogenous teams feel easier to operate in, it can lead to stagnation, or specialisations in some aspects at the expense of others.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Keynote: Diversity And Inclusion - Not Just A Gender Gap - Vandana Verma </title>
-      <link>https://infosecvandana.com/talks/appsecdc/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/talks/appsecdc/</guid>
-      <description>&lt;p&gt;There has been a lot of conversations around diversity and inclusion in the recent past.  This is a step in a positive direction. The benefits of diversity in cybersecurity are clear. As an industry, we can do better, we need to do better. We need not only to keep the conversation going but to really place some action behind it. While homogenous teams feel easier to operate in, it can lead to stagnation, or specialisations in some aspects at the expense of others.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Keynote: Global AppSec DC 2019 - Making a Change, One at a Time - Diversity: More than just Gender</title>
-      <link>https://infosecvandana.com/talks/appsecdc_keynote_2019/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/talks/appsecdc_keynote_2019/</guid>
-      <description>&lt;p&gt;Keynote address at OWASP Global AppSec DC 2019 on the topic of diversity in cybersecurity, going beyond just the gender gap and addressing broader inclusion in the security community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Global AppSec DC 2019 </title>

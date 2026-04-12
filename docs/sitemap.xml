@@ -367,11 +367,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/paneldiscussion/bheu2023_locknote/</loc>
-    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://infosecvandana.com/paneldiscussion/bheu2024_locknote/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -552,7 +547,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/talks/blackhateu_2023/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/bheu2023_locknote/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -589,11 +584,6 @@
   </url><url>
     <loc>https://infosecvandana.com/leaderspeak/s2_divakarprayaga/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/webinars/rsa_proactive_defense/</loc>
-    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1202,7 +1192,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/webinars/vitbhopal/</loc>
+    <loc>https://infosecvandana.com/talks/vitbhopal_keynote_2021/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1577,12 +1567,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/talks/owasp_kerala_2020_online_safety/</loc>
-    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/featured/judgejury/</loc>
+    <loc>https://infosecvandana.com/judge/top20_indian_women_2020/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1717,11 +1702,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/talks/womentech/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://infosecvandana.com/talks/womentechnet/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1777,7 +1757,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/paneldiscussion/securitytestinghcl/</loc>
+    <loc>https://infosecvandana.com/webinars/brighttalk_security_testing/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1873,16 +1853,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://infosecvandana.com/talks/addo/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/talks/appsecdc/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/talks/appsecdc_keynote_2019/</loc>
     <lastmod>2019-09-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
