@@ -2,7 +2,6 @@
 title: "Consumer identities in Modern Digital World (CIAM)"
 date: 2021-05-17
 draft: false
-featureimage: /images/manifestationofspeaking.png
 ---
 
 Digitization is the way to go However, while the consumers are increasing, we still follow the primitive approach and have always been taking too much information from the users like Email Address, Username, Address, Password and much more during the first interaction itself.

@@ -3,7 +3,6 @@ title: "Do We Really Need Cybersecurity Certifications? Let’s Break It Down"
 date: 2025-05-05
 draft: false
 summary: "A LinkedIn article on when certifications help, when they do not, and how to think about them in a cybersecurity career."
-featureimage: /images/careerinappsec.jpeg
 external_url: https://www.linkedin.com/pulse/do-we-really-need-cybersecurity-certifications-lets-break-verma-akgfc
 source_name: LinkedIn
 role: author

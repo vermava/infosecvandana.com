@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Community Leadership on Vandana Verma</title>
-    <link>http://localhost:4322/communityleadership/</link>
+    <link>https://infosecvandana.com/communityleadership/</link>
     <description>Recent content in Community Leadership on Vandana Verma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4322/communityleadership/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://infosecvandana.com/communityleadership/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OWASP LLM Security Verification Standard Leadership</title>
-      <link>http://localhost:4322/communityleadership/owasp_llm_security_verification_standard/</link>
+      <link>https://infosecvandana.com/communityleadership/owasp_llm_security_verification_standard/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/communityleadership/owasp_llm_security_verification_standard/</guid>
+      <guid>https://infosecvandana.com/communityleadership/owasp_llm_security_verification_standard/</guid>
       <description>Leadership on the OWASP LLM Security Verification Standard, connecting application security and secure AI development.</description>
     </item>
     <item>
       <title>OWASP MCP Top 10 Leadership</title>
-      <link>http://localhost:4322/communityleadership/owasp_mcp_top_10/</link>
+      <link>https://infosecvandana.com/communityleadership/owasp_mcp_top_10/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/communityleadership/owasp_mcp_top_10/</guid>
+      <guid>https://infosecvandana.com/communityleadership/owasp_mcp_top_10/</guid>
       <description>Leadership work on the OWASP MCP Top 10, focused on emerging security risks around AI agents and MCP ecosystems.</description>
     </item>
     <item>
       <title>OWASP Project Leadership</title>
-      <link>http://localhost:4322/communityleadership/owasp_project_leaders/</link>
+      <link>https://infosecvandana.com/communityleadership/owasp_project_leaders/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/communityleadership/owasp_project_leaders/</guid>
+      <guid>https://infosecvandana.com/communityleadership/owasp_project_leaders/</guid>
       <description>A current public snapshot of active OWASP leadership across multiple projects and community initiatives.</description>
     </item>
     <item>
       <title>OWASP Compliance Leadership</title>
-      <link>http://localhost:4322/communityleadership/owasp_compliance_officer/</link>
+      <link>https://infosecvandana.com/communityleadership/owasp_compliance_officer/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/communityleadership/owasp_compliance_officer/</guid>
+      <guid>https://infosecvandana.com/communityleadership/owasp_compliance_officer/</guid>
       <description>Current governance and compliance work within OWASP, including the public appointment as Compliance Officer.</description>
     </item>
     <item>
       <title>President, InfosecGirls</title>
-      <link>http://localhost:4322/communityleadership/infosecgirls/</link>
+      <link>https://infosecvandana.com/communityleadership/infosecgirls/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/communityleadership/infosecgirls/</guid>
+      <guid>https://infosecvandana.com/communityleadership/infosecgirls/</guid>
       <description>Founder and President of InfosecGirls, building a global cybersecurity community through mentorship, workshops, and inclusive learning.</description>
     </item>
     <item>
       <title>OWASP Board Service</title>
-      <link>http://localhost:4322/communityleadership/owasp_global_board_history/</link>
+      <link>https://infosecvandana.com/communityleadership/owasp_global_board_history/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/communityleadership/owasp_global_board_history/</guid>
+      <guid>https://infosecvandana.com/communityleadership/owasp_global_board_history/</guid>
       <description>A public timeline reference for board service and long-running governance leadership within OWASP.</description>
     </item>
     <item>
       <title>OWASP Podcast</title>
-      <link>http://localhost:4322/communityleadership/owasp_podcast/</link>
+      <link>https://infosecvandana.com/communityleadership/owasp_podcast/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/communityleadership/owasp_podcast/</guid>
+      <guid>https://infosecvandana.com/communityleadership/owasp_podcast/</guid>
       <description>Co-hosting the OWASP Podcast and helping spotlight community conversations, updates, and project work.</description>
     </item>
     <item>
       <title>OWASP Spotlight Series Leadership</title>
-      <link>http://localhost:4322/communityleadership/owasp_spotlight_series_leadership/</link>
+      <link>https://infosecvandana.com/communityleadership/owasp_spotlight_series_leadership/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/communityleadership/owasp_spotlight_series_leadership/</guid>
+      <guid>https://infosecvandana.com/communityleadership/owasp_spotlight_series_leadership/</guid>
       <description>Leadership behind the OWASP Spotlight Series, featuring projects and contributors from across the OWASP ecosystem.</description>
     </item>
   </channel>

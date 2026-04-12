@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advisory Board on Vandana Verma</title>
-    <link>http://localhost:4322/advisoryboard/</link>
+    <link>https://infosecvandana.com/advisoryboard/</link>
     <description>Recent content in Advisory Board on Vandana Verma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4322/advisoryboard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://infosecvandana.com/advisoryboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OWASP Project Leadership and Community Roles</title>
-      <link>http://localhost:4322/advisoryboard/owasp_projects_2025/</link>
+      <link>https://infosecvandana.com/advisoryboard/owasp_projects_2025/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/advisoryboard/owasp_projects_2025/</guid>
+      <guid>https://infosecvandana.com/advisoryboard/owasp_projects_2025/</guid>
       <description>Public OWASP leadership references spanning project, podcast, and community work.</description>
     </item>
     <item>
       <title>Chairperson - OWASP Global Board of Directors</title>
-      <link>http://localhost:4322/advisoryboard/owasp/</link>
+      <link>https://infosecvandana.com/advisoryboard/owasp/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/advisoryboard/owasp/</guid>
+      <guid>https://infosecvandana.com/advisoryboard/owasp/</guid>
       <description>&lt;p&gt;Serving on the OWASP Global Board of Directors, including time as Chair of the board - the first female Chair in OWASP&amp;rsquo;s history. Appointed as a Compliance Officer of the OWASP Foundation effective January 1, 2025, continuing to drive governance, global strategy, and community initiatives across the foundation.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://owasp.org/corporate/&#34;&gt;https://owasp.org/corporate/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://owasp.org/www-board/&#34;&gt;https://owasp.org/www-board/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kubecon India 2024 - Program Committee: SOSS Community Day India 2024</title>
-      <link>http://localhost:4322/advisoryboard/sossday_2024/</link>
+      <link>https://infosecvandana.com/advisoryboard/sossday_2024/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/advisoryboard/sossday_2024/</guid>
+      <guid>https://infosecvandana.com/advisoryboard/sossday_2024/</guid>
       <description>&lt;p&gt;Reference link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://events.linuxfoundation.org/soss-community-day-india/&#34;&gt;https://events.linuxfoundation.org/soss-community-day-india/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Black Hat Asia Review Board</title>
-      <link>http://localhost:4322/advisoryboard/blackhat/</link>
+      <link>https://infosecvandana.com/advisoryboard/blackhat/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/advisoryboard/blackhat/</guid>
+      <guid>https://infosecvandana.com/advisoryboard/blackhat/</guid>
       <description>&lt;p&gt;Reference link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.blackhat.com/asia-21/review-board.html#Vandana-Verma&#34;&gt;https://www.blackhat.com/asia-21/review-board.html#Vandana-Verma&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beyond Borders Advisory Board Member - SiberX</title>
-      <link>http://localhost:4322/advisoryboard/siberx/</link>
+      <link>https://infosecvandana.com/advisoryboard/siberx/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/advisoryboard/siberx/</guid>
+      <guid>https://infosecvandana.com/advisoryboard/siberx/</guid>
       <description>&lt;p&gt;Reference link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.siberx.org/event/women-in-cybersecurity-beyond-borders/&#34;&gt;https://www.siberx.org/event/women-in-cybersecurity-beyond-borders/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>EC-Council Advisory Board for CND</title>
-      <link>http://localhost:4322/advisoryboard/eccouncil/</link>
+      <link>https://infosecvandana.com/advisoryboard/eccouncil/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/advisoryboard/eccouncil/</guid>
+      <guid>https://infosecvandana.com/advisoryboard/eccouncil/</guid>
       <description>&lt;p&gt;Reference link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.eccouncil.org/cnd-advisory-board/&#34;&gt;https://www.eccouncil.org/cnd-advisory-board/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

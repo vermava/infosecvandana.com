@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcast on Vandana Verma</title>
-    <link>http://localhost:4322/podcasts/</link>
+    <link>https://infosecvandana.com/podcasts/</link>
     <description>Recent content in Podcast on Vandana Verma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4322/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://infosecvandana.com/podcasts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interview with Tanya Janca (SheHacksPurple) at Black Hat</title>
-      <link>http://localhost:4322/podcasts/tanya_janca_bh_interview/</link>
+      <link>https://infosecvandana.com/podcasts/tanya_janca_bh_interview/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/podcasts/tanya_janca_bh_interview/</guid>
+      <guid>https://infosecvandana.com/podcasts/tanya_janca_bh_interview/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Interview with Vandana Verma by Tanya Janca at Black Hat&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Conversation with Tanya Janca (SheHacksPurple) recorded at Black Hat, discussing application security, the OWASP community, AI security, and the state of modern DevSecOps. The interview covers both the stage work and the behind-the-scenes community efforts that shape events like Black Hat.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://x.com/shehackspurple/status/1967320641570246896&#34;&gt;https://x.com/shehackspurple/status/1967320641570246896&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The BSides Weekly Podcast</title>
-      <link>http://localhost:4322/podcasts/bsidesnoida/</link>
+      <link>https://infosecvandana.com/podcasts/bsidesnoida/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/podcasts/bsidesnoida/</guid>
+      <guid>https://infosecvandana.com/podcasts/bsidesnoida/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7bZHzzXPSnw?si=RF1JgbBX5wxy2oGK&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Episode 74: How Curiosity Empowered OWASP Global Chair Vandana Verma </title>
-      <link>http://localhost:4322/podcasts/humansofinfosec/</link>
+      <link>https://infosecvandana.com/podcasts/humansofinfosec/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/podcasts/humansofinfosec/</guid>
+      <guid>https://infosecvandana.com/podcasts/humansofinfosec/</guid>
       <description>&lt;p&gt;Link -&amp;gt; &lt;a href=&#34;https://resource.cobalt.io/humans-of-infosec/episode-74-how-curiosity-empowered-owasp-global-chair-vandana-verma&#34;&gt;https://resource.cobalt.io/humans-of-infosec/episode-74-how-curiosity-empowered-owasp-global-chair-vandana-verma&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/humans-of-infosec/episode-74-how-curiosity-empowered-owasp-global-chair-vandana-verma?utm_source=clipboard&amp;amp;utm_campaign=wtshare&amp;amp;utm_medium=widget&amp;amp;utm_content=https%253A%252F%252Fsoundcloud.com%252Fhumans-of-infosec%252Fepisode-74-how-curiosity-empowered-owasp-global-chair-vandana-verma&#34;&gt;https://soundcloud.com/humans-of-infosec/episode-74-how-curiosity-empowered-owasp-global-chair-vandana-verma?utm_source=clipboard&amp;amp;utm_campaign=wtshare&amp;amp;utm_medium=widget&amp;amp;utm_content=https%253A%252F%252Fsoundcloud.com%252Fhumans-of-infosec%252Fepisode-74-how-curiosity-empowered-owasp-global-chair-vandana-verma&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SE Radio 514: OWASP Top 10</title>
-      <link>http://localhost:4322/podcasts/se_radio_514/</link>
+      <link>https://infosecvandana.com/podcasts/se_radio_514/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/podcasts/se_radio_514/</guid>
+      <guid>https://infosecvandana.com/podcasts/se_radio_514/</guid>
       <description>A Software Engineering Radio episode discussing the OWASP Top 10.</description>
     </item>
     <item>
       <title>Application Security Weekly #236</title>
-      <link>http://localhost:4322/podcasts/asw_236/</link>
+      <link>https://infosecvandana.com/podcasts/asw_236/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/podcasts/asw_236/</guid>
+      <guid>https://infosecvandana.com/podcasts/asw_236/</guid>
       <description>An Application Security Weekly episode with audio, video, and show notes.</description>
     </item>
     <item>
       <title>The Secure Developer Ep.55 - Diversity In DevSec And Cloud Security</title>
-      <link>http://localhost:4322/podcasts/snyk_secure_developer/</link>
+      <link>https://infosecvandana.com/podcasts/snyk_secure_developer/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/podcasts/snyk_secure_developer/</guid>
+      <guid>https://infosecvandana.com/podcasts/snyk_secure_developer/</guid>
       <description>&lt;p&gt;Episode 55 of Snyk&amp;rsquo;s &amp;ldquo;The Secure Developer&amp;rdquo; podcast featuring a conversation about diversity in DevSec and cloud security, covering the journey into cybersecurity, community building through InfosecGirls, and the intersection of cloud security and inclusive practices.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inspire 20 - Vandana Verma</title>
-      <link>http://localhost:4322/podcasts/inspire20/</link>
+      <link>https://infosecvandana.com/podcasts/inspire20/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/podcasts/inspire20/</guid>
+      <guid>https://infosecvandana.com/podcasts/inspire20/</guid>
       <description>&lt;p&gt;In the podcast, Verma explains why mentorship is so critical in addressing gender imbalance in the tech industry, and what it means to &amp;ldquo;uplift others,&amp;rdquo; help them conquer their fears, and guide them in the right direction.&lt;/p&gt;&#xA;&lt;p&gt;EP15: Vandana Verma Sehgal, Board of Directors at OWASP &amp;amp; President InfosecGirls by INSPIRE 20 is licensed under a  Creative Commons License.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/user-699370465/inspire-20-vandana-verma-infosec-girls&#34;&gt;https://soundcloud.com/user-699370465/inspire-20-vandana-verma-infosec-girls&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to be an InfoSec Speaker - Vandana Verma</title>
-      <link>http://localhost:4322/podcasts/howtobeinfosecspeaker/</link>
+      <link>https://infosecvandana.com/podcasts/howtobeinfosecspeaker/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/podcasts/howtobeinfosecspeaker/</guid>
+      <guid>https://infosecvandana.com/podcasts/howtobeinfosecspeaker/</guid>
       <description>&lt;p&gt;There are still lots of misconceptions and myths about Cloud Security. In this episode , Vandana Verma Global Board of Directors at OWASP and InfosecGirls shares her thoughts on cloud security. Discover some myth-busting truths about security and the cloud and how to avoid some common perceptions around cloud security. Listen up!&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/wd27PIGl9w4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Getting into Cyber</title>
-      <link>http://localhost:4322/podcasts/gettingintocyber/</link>
+      <link>https://infosecvandana.com/podcasts/gettingintocyber/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/podcasts/gettingintocyber/</guid>
+      <guid>https://infosecvandana.com/podcasts/gettingintocyber/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/J20ppzkgIy0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>How to be an InfoSec Speaker - Vandana Verma</title>
-      <link>http://localhost:4322/podcasts/maleallies/</link>
+      <link>https://infosecvandana.com/podcasts/maleallies/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/podcasts/maleallies/</guid>
+      <guid>https://infosecvandana.com/podcasts/maleallies/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Qk3cxvTIGE4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Cloud Security Myths with Vandana Verma</title>
-      <link>http://localhost:4322/podcasts/cloudsecuritymyths/</link>
+      <link>https://infosecvandana.com/podcasts/cloudsecuritymyths/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/podcasts/cloudsecuritymyths/</guid>
+      <guid>https://infosecvandana.com/podcasts/cloudsecuritymyths/</guid>
       <description>&lt;p&gt;There are still lots of misconceptions and myths about Cloud Security. In this episode , Vandana Verma Global Board of Directors at OWASP and InfosecGirls shares her thoughts on cloud security. Discover some myth-busting truths about security and the cloud and how to avoid some common perceptions around cloud security. Listen up!&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/lDu1oejkkxs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Cloud Security Podcast - Cloud Security and Infosec Girls</title>
-      <link>http://localhost:4322/podcasts/cloud_security_podcast/</link>
+      <link>https://infosecvandana.com/podcasts/cloud_security_podcast/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/podcasts/cloud_security_podcast/</guid>
+      <guid>https://infosecvandana.com/podcasts/cloud_security_podcast/</guid>
       <description>&lt;p&gt;Appeared on the Cloud Security Podcast to discuss cloud security practices and the InfosecGirls community initiative, covering topics including public cloud security, myths in cloud security, and building inclusive security communities.&lt;/p&gt;</description>
     </item>
   </channel>
