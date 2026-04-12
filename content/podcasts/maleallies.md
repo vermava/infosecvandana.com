@@ -1,5 +1,5 @@
 ---
-title: "How to be an InfoSec Speaker - Vandana Verma"
+title: "Male Allies in Cybersecurity - Vandana Verma"
 date: 2020-07-29
 draft: false
 video: https://www.youtube.com/embed/Qk3cxvTIGE4
