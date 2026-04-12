@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Axios npm Package Compromised</title>
+      <link>https://infosecvandana.com/blogs/axios_npm_package_compromised/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/axios_npm_package_compromised/</guid>
+      <description>&lt;p&gt;This article reflects Vandana Verma&amp;rsquo;s software supply chain and AppSec perspective through the Axios npm compromise, focusing on inherited trust, transitive dependencies, and the hidden execution path behind package installation.&lt;/p&gt;&#xA;&lt;p&gt;The article also points readers to deeper technical writeups, making it a good bridge between timely commentary and practical supply chain security learning.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/pulse/axios-npm-package-compromised-vandana-verma-vdgyc&#34;&gt;https://www.linkedin.com/pulse/axios-npm-package-compromised-vandana-verma-vdgyc&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Building AI at Scale Requires Governance at Speed</title>
       <link>https://infosecvandana.com/blogs/building_ai_governance_speed/</link>
@@ -24,11 +31,25 @@
       <description>A LinkedIn article on why AI is changing what software is and what AppSec needs to become.</description>
     </item>
     <item>
+      <title>AI Security 101 for AppSec Engineers</title>
+      <link>https://infosecvandana.com/blogs/ai_security_101_appsec_engineers/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/ai_security_101_appsec_engineers/</guid>
+      <description>A LinkedIn article by Vandana Verma introducing AI security concepts for AppSec engineers through the public LinkedIn profile article feed.</description>
+    </item>
+    <item>
       <title>Kickstart your career in GenAI Security</title>
       <link>https://infosecvandana.com/blogs/kickstart_genai_security/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/blogs/kickstart_genai_security/</guid>
       <description>A career-focused LinkedIn article for people entering GenAI security.</description>
+    </item>
+    <item>
+      <title>Retrieval-Augmented Generation (RAG) Security</title>
+      <link>https://infosecvandana.com/blogs/rag_security/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/rag_security/</guid>
+      <description>A LinkedIn article by Vandana Verma on Retrieval-Augmented Generation security, captured from the public LinkedIn profile article list.</description>
     </item>
     <item>
       <title>Learning about Large Language Models (LLMs)</title>
@@ -64,6 +85,13 @@
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/blogs/securing_agentic_ai_apps/</guid>
       <description>&lt;p&gt;This article is a strong fit for the site&amp;rsquo;s current direction because it connects agentic application security to concrete OWASP guidance and real implementation concerns.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/pulse/securing-agentic-ai-apps-using-owasp-applications-guide-vandana-verma-mtptc&#34;&gt;https://www.linkedin.com/pulse/securing-agentic-ai-apps-using-owasp-applications-guide-vandana-verma-mtptc&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prompt Injection - OWASP Top 10 LLM</title>
+      <link>https://infosecvandana.com/blogs/prompt_injection_owasp_top10_llm/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/prompt_injection_owasp_top10_llm/</guid>
+      <description>&lt;p&gt;This LinkedIn article breaks down prompt injection in an accessible way while tying it directly to the OWASP Top 10 for LLM applications.&lt;/p&gt;&#xA;&lt;p&gt;It is a strong fit for the site&amp;rsquo;s AI security writing because it translates a complex LLM risk into developer-friendly language and links the topic to the broader OWASP educational series.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/pulse/prompt-injection-owasp-top-10-llm-vandana-verma-hppcc&#34;&gt;https://www.linkedin.com/pulse/prompt-injection-owasp-top-10-llm-vandana-verma-hppcc&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Rise of Agentic AI and What It Means for Us</title>

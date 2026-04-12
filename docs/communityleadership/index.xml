@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/communityleadership/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP Bangalore - Official LinkedIn Group Notice</title>
+      <link>https://infosecvandana.com/communityleadership/owasp_bangalore_official_linkedin_group_notice/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/communityleadership/owasp_bangalore_official_linkedin_group_notice/</guid>
+      <description>Public LinkedIn community notice by Vandana Verma clarifying the official OWASP Bangalore group and warning about an unaffiliated fake group.</description>
+    </item>
     <item>
       <title>OWASP LLM Security Verification Standard Leadership</title>
       <link>https://infosecvandana.com/communityleadership/owasp_llm_security_verification_standard/</link>

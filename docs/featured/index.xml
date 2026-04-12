@@ -7,8 +7,36 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LinkedIn Post - AI Governance Frameworks: EU AI Act, ISO 42001, NIST AI RMF</title>
+      <link>https://infosecvandana.com/featured/linkedin_ai_governance_frameworks/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/linkedin_ai_governance_frameworks/</guid>
+      <description>Public LinkedIn post by Vandana Verma comparing the EU AI Act, ISO 42001, and NIST AI RMF as complementary AI governance frameworks.</description>
+    </item>
+    <item>
+      <title>LinkedIn Post - OWASP Top 10 for LLM04: Data and Model Poisoning</title>
+      <link>https://infosecvandana.com/featured/linkedin_owasp_llm04_data_model_poisoning/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/linkedin_owasp_llm04_data_model_poisoning/</guid>
+      <description>Public LinkedIn post by Vandana Verma explaining OWASP Top 10 for LLM04 and why data and model poisoning matter in AI systems.</description>
+    </item>
+    <item>
+      <title>LinkedIn profile</title>
+      <link>https://infosecvandana.com/featured/linkedin_profile/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/linkedin_profile/</guid>
+      <description>Public LinkedIn profile for Vandana Verma with experience summary, follower count, activity, and article inventory.</description>
+    </item>
+    <item>
+      <title>Sessionize speaker profile</title>
+      <link>https://infosecvandana.com/featured/sessionize_speaker_profile/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/sessionize_speaker_profile/</guid>
+      <description>&lt;p&gt;The Sessionize speaker profile is a strong public anchor for Vandana Verma because it brings together bio, speaker profile details, and a broader talk inventory in one place.&lt;/p&gt;&#xA;&lt;p&gt;It is also one of the easier public pages to use when cross-checking talk titles and conference appearances.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://sessionize.com/vandana-verma/&#34;&gt;https://sessionize.com/vandana-verma/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>RSAC expert profile</title>
       <link>https://infosecvandana.com/featured/rsac_expert_profile/</link>
@@ -28,7 +56,7 @@
       <link>https://infosecvandana.com/featured/snyk_contributor_profile/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/featured/snyk_contributor_profile/</guid>
-      <description>Current public profile with recent writing, role details, and headshot.</description>
+      <description>&lt;p&gt;This page is a strong profile anchor because it combines current role wording, article history, and a public headshot in one place.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/contributors/vandana-verma-sehgal/&#34;&gt;https://snyk.io/contributors/vandana-verma-sehgal/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GovInfoSecurity - Artificial Intelligence Looms Large at Black Hat Europe 2024</title>

@@ -18,4 +18,3 @@ https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in-cybersecu
 
 
 
-

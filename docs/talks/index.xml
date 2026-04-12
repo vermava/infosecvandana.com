@@ -7,21 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BSides Kerala 2025 - Panel: Building, Nurturing, and Retaining Cybersecurity Talent in the Gen AI Era</title>
-      <link>https://infosecvandana.com/talks/bsideskerala2025_gen_ai_talent/</link>
-      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/talks/bsideskerala2025_gen_ai_talent/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Panel: Building, Nurturing, and Retaining Cyber Security Talent in the Gen AI Era&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Panel discussion at BSides Kerala 2025 on the evolving challenges of attracting and retaining cybersecurity professionals as AI reshapes the industry. The conversation covered shifting skill requirements, workforce development in the GenAI era, and how to build inclusive career pathways that bring new voices into security.&lt;/p&gt;&#xA;&lt;p&gt;Themes explored:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How GenAI is changing the security skills baseline&lt;/li&gt;&#xA;&lt;li&gt;Mentorship, reskilling, and career pivots for existing security talent&lt;/li&gt;&#xA;&lt;li&gt;Building inclusive pipelines beyond traditional hiring filters&lt;/li&gt;&#xA;&lt;li&gt;Retaining senior talent in a market reshaped by AI&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>BSides Kerala 2025 - Panel: Building Resilient Software</title>
-      <link>https://infosecvandana.com/talks/bsideskerala2025_resilient_software/</link>
-      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/talks/bsideskerala2025_resilient_software/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Panel: Building Resilient Software&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Panel discussion at BSides Kerala 2025 exploring the critical intersection of Product Security, DevSecOps, and Application Security (AppSec). The conversation focused on how teams can integrate security throughout the software development lifecycle, balance agility with risk management, and build products that are resilient by design rather than by patch.&lt;/p&gt;&#xA;&lt;p&gt;Topics covered included:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shifting security left without blocking developer velocity&lt;/li&gt;&#xA;&lt;li&gt;Practical product security practices at scale&lt;/li&gt;&#xA;&lt;li&gt;Balancing speed, risk, and compliance in modern delivery pipelines&lt;/li&gt;&#xA;&lt;li&gt;Lessons learned from incidents and response&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
+      <title>Serverless Toronto 2025 - Securing Model Context Protocol (MCP)</title>
+      <link>https://infosecvandana.com/talks/serverless_toronto_mcp_2025/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/serverless_toronto_mcp_2025/</guid>
+      <description>Meetup talk by Vandana Verma on securing Model Context Protocol trust boundaries and MCP-connected systems.</description>
     </item>
     <item>
       <title>Operation: Defend the North 2025 - Vancouver (siberX)</title>
@@ -108,11 +101,39 @@
       <description>&lt;p&gt;Title: Tracing the Journey of Web Application Security from Past to Future&lt;/p&gt;&#xA;&lt;p&gt;The Open Web Application Security Project (OWASP) has profoundly influenced the cybersecurity arena since its inception in 2001, primarily focusing on web application security. This talk outlines the evolution of OWASP, beginning with its establishment and early development of the influential OWASP Top Ten - a document identifying the most prevalent security risks to web applications. We then shift to a discussion of the present day, where OWASP has grown into a global entity, offering a variety of tools, documentation, and community resources that contribute significantly to cybersecurity best practices.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Secure Software Summit 2022 - New Way of Envisioning Security in the Dependencies</title>
+      <link>https://infosecvandana.com/talks/techstrong_secure_software_2022/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/techstrong_secure_software_2022/</guid>
+      <description>TechStrong Secure Software Summit session by Vandana Verma on dependency security and modern software supply chain risk.</description>
+    </item>
+    <item>
+      <title>React Summit 2022 - New Way of Envisioning Security in the Dependencies</title>
+      <link>https://infosecvandana.com/talks/react_summit_2022_dependencies/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/react_summit_2022_dependencies/</guid>
+      <description>Conference talk by Vandana Verma Sehgal on supply chain thinking and dependency security in modern software development.</description>
+    </item>
+    <item>
       <title>RSA Conference 2022 - Continuous Security - Integrating Pipeline Security</title>
       <link>https://infosecvandana.com/talks/rsa2022/</link>
       <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/rsa2022/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Title - Continuous Security - Integrating Pipeline Security&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vandana Verma Sehgal presented this RSAC 2022 session on building security into modern CI/CD workflows.&lt;/p&gt;&#xA;&lt;p&gt;In a world of continuous delivery and cloud native, boundaries between what an application and what constitutes infrastructure are increasingly blurred. Workloads, the containers they ship in, and platform configuration are often developed and deployed by the same teams, and development velocity is the key metric to success. This session will look at how to build security in the CI/CD process.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WeAreDevelopers 2022 - Walking into the Era of Supply Chain Risks</title>
+      <link>https://infosecvandana.com/talks/wearedevelopers_supply_chain_2022/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/wearedevelopers_supply_chain_2022/</guid>
+      <description>Public conference talk by Vandana Verma Sehgal on software supply chain risks and modern application security realities.</description>
+    </item>
+    <item>
+      <title>WeAreDevelopers 2022 - Stranger Danger: Your Java Attack Surface Just Got Bigger</title>
+      <link>https://infosecvandana.com/talks/wearedevelopers_java_attack_surface_2022/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/wearedevelopers_java_attack_surface_2022/</guid>
+      <description>Public talk by Vandana Verma Sehgal on Java attack surface growth and the security impact of dependency risk.</description>
     </item>
     <item>
       <title>ROOTCON 15 - The Curious case of knowing the unknown</title>
@@ -192,6 +213,13 @@
       <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/blackhatasia2020.png&#34; alt=&#34;blackhat2020&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference Link&lt;/strong&gt;: &lt;a href=&#34;https://www.blackhat.com/asia-20/briefings/schedule/index.html#making-an-impact-from-india-to-the-rest-of-the-world-by-building-and-nurturing-women-infosec-community-18483&#34;&gt;Black Hat Asia&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OWASP Kerala 2020 - Empowering Tips on Online Safety for Working Women</title>
+      <link>https://infosecvandana.com/talks/owasp_kerala_2020_online_safety/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/owasp_kerala_2020_online_safety/</guid>
+      <description>OWASP chapter talk featuring Vandana Verma on practical online safety guidance for working women.</description>
+    </item>
+    <item>
       <title>Defcon - AppSec Village 2020</title>
       <link>https://infosecvandana.com/talks/appsecvillage_2020/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
@@ -232,6 +260,13 @@
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/opensummit/</guid>
       <description>&lt;p&gt;Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7zs4wezbt8o&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Sendai 2020 - DevSecOps Deep Dive</title>
+      <link>https://infosecvandana.com/talks/owasp_sendai_2020_devsecops/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/owasp_sendai_2020_devsecops/</guid>
+      <description>OWASP chapter talk by Vandana Verma on DevSecOps and secure application delivery.</description>
     </item>
     <item>
       <title>Implementing Zero Trust in an organisation to be uncertainty Ready</title>

@@ -2,6 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://infosecvandana.com/communityleadership/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/featured/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/featured/linkedin_ai_governance_frameworks/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/featured/linkedin_owasp_llm04_data_model_poisoning/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/featured/linkedin_profile/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/communityleadership/owasp_bangalore_official_linkedin_group_notice/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/featured/sessionize_speaker_profile/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/blogs/axios_npm_package_compromised/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/blogs/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/trainings/rsac_2026_secure_agentic_ai_workflow/</loc>
     <lastmod>2026-03-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -12,17 +62,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://infosecvandana.com/judge/</loc>
-    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/featured/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -37,13 +77,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/blogs/</loc>
+    <loc>https://infosecvandana.com/blogs/building_ai_governance_speed/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/blogs/building_ai_governance_speed/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <loc>https://infosecvandana.com/webinars/ai_radar_february_2026/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/webinars/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/webinars/ai_learning_series_threat_modeling_mcp_2026/</loc>
+    <lastmod>2026-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -62,8 +112,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/blogs/ai_security_101_appsec_engineers/</loc>
+    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/blogs/kickstart_genai_security/</loc>
     <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/blogs/rag_security/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -74,6 +134,16 @@
   </url><url>
     <loc>https://infosecvandana.com/blogs/owasp_top_10_release_candidate/</loc>
     <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/talks/</loc>
+    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/talks/serverless_toronto_mcp_2025/</loc>
+    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -97,17 +167,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/talks/bsideskerala2025_gen_ai_talent/</loc>
+    <loc>https://infosecvandana.com/webinars/ec_council_ai_enhanced_devsecops_2025/</loc>
+    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/paneldiscussion/bsideskerala2025_gen_ai_talent/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/talks/</loc>
-    <lastmod>2025-11-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/talks/bsideskerala2025_resilient_software/</loc>
+    <loc>https://infosecvandana.com/paneldiscussion/bsideskerala2025_resilient_software/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -127,6 +197,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/webinars/snyk_owasp_top10_llms_2025/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/podcasts/tanya_janca_bh_interview/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -134,16 +209,6 @@
   </url><url>
     <loc>https://infosecvandana.com/podcasts/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/webinars/ai_radar_series/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/webinars/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -164,6 +229,16 @@
   </url><url>
     <loc>https://infosecvandana.com/blogs/securing_agentic_ai_apps/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar_july_2025/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/blogs/prompt_injection_owasp_top10_llm/</loc>
+    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -218,11 +293,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://infosecvandana.com/advisoryboard/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://infosecvandana.com/communityleadership/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -324,6 +394,11 @@
   </url><url>
     <loc>https://infosecvandana.com/blogs/tryhackme_appsec_resources/</loc>
     <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/webinars/cyber_voyage_2024/</loc>
+    <lastmod>2024-09-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -582,6 +657,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/talks/techstrong_secure_software_2022/</loc>
+    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/paneldiscussion/appsecvillage_2022/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -594,6 +674,11 @@
   </url><url>
     <loc>https://infosecvandana.com/owaspspotlightseries/spotlight24/</loc>
     <lastmod>2022-07-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/talks/react_summit_2022_dependencies/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -614,6 +699,11 @@
   </url><url>
     <loc>https://infosecvandana.com/paneldiscussion/bhasia2022_locknote/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/talks/wearedevelopers_supply_chain_2022/</loc>
+    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -639,6 +729,11 @@
   </url><url>
     <loc>https://infosecvandana.com/ciso/chris_russell/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/talks/wearedevelopers_java_attack_surface_2022/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1402,6 +1497,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/talks/owasp_kerala_2020_online_safety/</loc>
+    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/featured/judgejury/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1528,6 +1628,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://infosecvandana.com/talks/opensummit/</loc>
+    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/talks/owasp_sendai_2020_devsecops/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

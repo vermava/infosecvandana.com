@@ -7,8 +7,50 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LinkedIn Post - AI Governance Frameworks: EU AI Act, ISO 42001, NIST AI RMF</title>
+      <link>https://infosecvandana.com/featured/linkedin_ai_governance_frameworks/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/linkedin_ai_governance_frameworks/</guid>
+      <description>Public LinkedIn post by Vandana Verma comparing the EU AI Act, ISO 42001, and NIST AI RMF as complementary AI governance frameworks.</description>
+    </item>
+    <item>
+      <title>LinkedIn Post - OWASP Top 10 for LLM04: Data and Model Poisoning</title>
+      <link>https://infosecvandana.com/featured/linkedin_owasp_llm04_data_model_poisoning/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/linkedin_owasp_llm04_data_model_poisoning/</guid>
+      <description>Public LinkedIn post by Vandana Verma explaining OWASP Top 10 for LLM04 and why data and model poisoning matter in AI systems.</description>
+    </item>
+    <item>
+      <title>LinkedIn profile</title>
+      <link>https://infosecvandana.com/featured/linkedin_profile/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/linkedin_profile/</guid>
+      <description>Public LinkedIn profile for Vandana Verma with experience summary, follower count, activity, and article inventory.</description>
+    </item>
+    <item>
+      <title>OWASP Bangalore - Official LinkedIn Group Notice</title>
+      <link>https://infosecvandana.com/communityleadership/owasp_bangalore_official_linkedin_group_notice/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/communityleadership/owasp_bangalore_official_linkedin_group_notice/</guid>
+      <description>Public LinkedIn community notice by Vandana Verma clarifying the official OWASP Bangalore group and warning about an unaffiliated fake group.</description>
+    </item>
+    <item>
+      <title>Sessionize speaker profile</title>
+      <link>https://infosecvandana.com/featured/sessionize_speaker_profile/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/featured/sessionize_speaker_profile/</guid>
+      <description>&lt;p&gt;The Sessionize speaker profile is a strong public anchor for Vandana Verma because it brings together bio, speaker profile details, and a broader talk inventory in one place.&lt;/p&gt;&#xA;&lt;p&gt;It is also one of the easier public pages to use when cross-checking talk titles and conference appearances.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://sessionize.com/vandana-verma/&#34;&gt;https://sessionize.com/vandana-verma/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Axios npm Package Compromised</title>
+      <link>https://infosecvandana.com/blogs/axios_npm_package_compromised/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/axios_npm_package_compromised/</guid>
+      <description>&lt;p&gt;This article reflects Vandana Verma&amp;rsquo;s software supply chain and AppSec perspective through the Axios npm compromise, focusing on inherited trust, transitive dependencies, and the hidden execution path behind package installation.&lt;/p&gt;&#xA;&lt;p&gt;The article also points readers to deeper technical writeups, making it a good bridge between timely commentary and practical supply chain security learning.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/pulse/axios-npm-package-compromised-vandana-verma-vdgyc&#34;&gt;https://www.linkedin.com/pulse/axios-npm-package-compromised-vandana-verma-vdgyc&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>RSAC 2026 - Building Your First Secure Agentic AI Workflow</title>
       <link>https://infosecvandana.com/trainings/rsac_2026_secure_agentic_ai_workflow/</link>
@@ -38,6 +80,20 @@
       <description>A LinkedIn article on AI governance as an operating system for modern AI delivery.</description>
     </item>
     <item>
+      <title>AI Radar - February 2026 Edition</title>
+      <link>https://infosecvandana.com/webinars/ai_radar_february_2026/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/ai_radar_february_2026/</guid>
+      <description>&lt;p&gt;The February 2026 AI Radar edition publicly lists Vandana Verma Sehgal as host and continues the series on AI-driven development, LLM risk, MCP security, and practical security guidance for modern engineering teams.&lt;/p&gt;&#xA;&lt;p&gt;The public event page includes speaker details, session framing, and a speaker image block.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://go.snyk.io/emea-ai-radar-series-feb.html&#34;&gt;https://go.snyk.io/emea-ai-radar-series-feb.html&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Learning Series #2 - Securing Agentic AI Systems: Threat Modeling MCP</title>
+      <link>https://infosecvandana.com/webinars/ai_learning_series_threat_modeling_mcp_2026/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/ai_learning_series_threat_modeling_mcp_2026/</guid>
+      <description>LinkedIn-posted webinar by Vandana Verma on threat modeling MCP and defending agentic AI trust boundaries.</description>
+    </item>
+    <item>
       <title>IdentityShield Summit 2026 - Panel: She Secures the Future: Women Leading the Next Wave of Cyber Resilience</title>
       <link>https://infosecvandana.com/paneldiscussion/identityshield_2026_she_secures_future/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
@@ -52,11 +108,25 @@
       <description>A LinkedIn article on why AI is changing what software is and what AppSec needs to become.</description>
     </item>
     <item>
+      <title>AI Security 101 for AppSec Engineers</title>
+      <link>https://infosecvandana.com/blogs/ai_security_101_appsec_engineers/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/ai_security_101_appsec_engineers/</guid>
+      <description>A LinkedIn article by Vandana Verma introducing AI security concepts for AppSec engineers through the public LinkedIn profile article feed.</description>
+    </item>
+    <item>
       <title>Kickstart your career in GenAI Security</title>
       <link>https://infosecvandana.com/blogs/kickstart_genai_security/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/blogs/kickstart_genai_security/</guid>
       <description>A career-focused LinkedIn article for people entering GenAI security.</description>
+    </item>
+    <item>
+      <title>Retrieval-Augmented Generation (RAG) Security</title>
+      <link>https://infosecvandana.com/blogs/rag_security/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/rag_security/</guid>
+      <description>A LinkedIn article by Vandana Verma on Retrieval-Augmented Generation security, captured from the public LinkedIn profile article list.</description>
     </item>
     <item>
       <title>Learning about Large Language Models (LLMs)</title>
@@ -71,6 +141,13 @@
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/blogs/owasp_top_10_release_candidate/</guid>
       <description>&lt;p&gt;This article captures the updated OWASP Top 10 as a living reflection of how AI- and LLM-driven development is reshaping application security.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/pulse/owasp-top-10-release-candidate-vandana-verma-no89c&#34;&gt;https://www.linkedin.com/pulse/owasp-top-10-release-candidate-vandana-verma-no89c&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Serverless Toronto 2025 - Securing Model Context Protocol (MCP)</title>
+      <link>https://infosecvandana.com/talks/serverless_toronto_mcp_2025/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/serverless_toronto_mcp_2025/</guid>
+      <description>Meetup talk by Vandana Verma on securing Model Context Protocol trust boundaries and MCP-connected systems.</description>
     </item>
     <item>
       <title>OWASP Top 10 LLM 2025</title>
@@ -94,18 +171,25 @@
       <description>A LinkedIn article on how AI-generated code changes AppSec and pushes teams toward AI-DevSecOps.</description>
     </item>
     <item>
+      <title>EC-Council 2025 - AI-Enhanced DevSecOps: Automating Security from Code to Cloud</title>
+      <link>https://infosecvandana.com/webinars/ec_council_ai_enhanced_devsecops_2025/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/ec_council_ai_enhanced_devsecops_2025/</guid>
+      <description>&lt;p&gt;This EC-Council cyber talk publicly lists Vandana Verma and focuses on how AI can help modern teams automate security checks and decisions across the software delivery lifecycle.&lt;/p&gt;&#xA;&lt;p&gt;The public event page includes the abstract, speaker block, and event framing around AI-enhanced DevSecOps.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/ai-enhanced-devsecops-automating-security-from-code-to-cloud/&#34;&gt;https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/ai-enhanced-devsecops-automating-security-from-code-to-cloud/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>BSides Kerala 2025 - Panel: Building, Nurturing, and Retaining Cybersecurity Talent in the Gen AI Era</title>
-      <link>https://infosecvandana.com/talks/bsideskerala2025_gen_ai_talent/</link>
+      <link>https://infosecvandana.com/paneldiscussion/bsideskerala2025_gen_ai_talent/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/talks/bsideskerala2025_gen_ai_talent/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Panel: Building, Nurturing, and Retaining Cyber Security Talent in the Gen AI Era&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Panel discussion at BSides Kerala 2025 on the evolving challenges of attracting and retaining cybersecurity professionals as AI reshapes the industry. The conversation covered shifting skill requirements, workforce development in the GenAI era, and how to build inclusive career pathways that bring new voices into security.&lt;/p&gt;&#xA;&lt;p&gt;Themes explored:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How GenAI is changing the security skills baseline&lt;/li&gt;&#xA;&lt;li&gt;Mentorship, reskilling, and career pivots for existing security talent&lt;/li&gt;&#xA;&lt;li&gt;Building inclusive pipelines beyond traditional hiring filters&lt;/li&gt;&#xA;&lt;li&gt;Retaining senior talent in a market reshaped by AI&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://infosecvandana.com/paneldiscussion/bsideskerala2025_gen_ai_talent/</guid>
+      <description>Panel discussion featuring Vandana Verma on how AI is reshaping cybersecurity talent, hiring, retention, and inclusive career growth.</description>
     </item>
     <item>
       <title>BSides Kerala 2025 - Panel: Building Resilient Software</title>
-      <link>https://infosecvandana.com/talks/bsideskerala2025_resilient_software/</link>
+      <link>https://infosecvandana.com/paneldiscussion/bsideskerala2025_resilient_software/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/talks/bsideskerala2025_resilient_software/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Panel: Building Resilient Software&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Panel discussion at BSides Kerala 2025 exploring the critical intersection of Product Security, DevSecOps, and Application Security (AppSec). The conversation focused on how teams can integrate security throughout the software development lifecycle, balance agility with risk management, and build products that are resilient by design rather than by patch.&lt;/p&gt;&#xA;&lt;p&gt;Topics covered included:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shifting security left without blocking developer velocity&lt;/li&gt;&#xA;&lt;li&gt;Practical product security practices at scale&lt;/li&gt;&#xA;&lt;li&gt;Balancing speed, risk, and compliance in modern delivery pipelines&lt;/li&gt;&#xA;&lt;li&gt;Lessons learned from incidents and response&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://infosecvandana.com/paneldiscussion/bsideskerala2025_resilient_software/</guid>
+      <description>Panel discussion featuring Vandana Verma on resilient software, product security, DevSecOps, and secure delivery at scale.</description>
     </item>
     <item>
       <title>Operation: Defend the North 2025 - Vancouver (siberX)</title>
@@ -129,6 +213,13 @@
       <description>&lt;p&gt;&lt;strong&gt;The Cybersecurity Meetup - Exclusive Charter&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Speaking engagement at siberX&amp;rsquo;s The Cybersecurity Meetup, a closed-door charter session bringing together security leaders to discuss modern application security, DevSecOps, and leadership challenges in 2025.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://siberx.org/speaker/vandana-verma-sehgal/&#34;&gt;https://siberx.org/speaker/vandana-verma-sehgal/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Snyk Webinar - OWASP Top 10 for LLMs</title>
+      <link>https://infosecvandana.com/webinars/snyk_owasp_top10_llms_2025/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/snyk_owasp_top10_llms_2025/</guid>
+      <description>&lt;p&gt;This public Snyk webinar lists Vandana Verma Sehgal as presenter and focuses on the OWASP Top 10 for LLM applications, including practical risks for teams adopting AI-assisted workflows.&lt;/p&gt;&#xA;&lt;p&gt;It complements the PureAI webcast already on the site by anchoring the same topic to the official Snyk registration page.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://go.snyk.io/owasp-top-10-llm.html&#34;&gt;https://go.snyk.io/owasp-top-10-llm.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Alternate public registration page&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://go.snyk.io/owasp-top-10-llm-isc2.html&#34;&gt;https://go.snyk.io/owasp-top-10-llm-isc2.html&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Interview with Tanya Janca (SheHacksPurple) at Black Hat</title>
       <link>https://infosecvandana.com/podcasts/tanya_janca_bh_interview/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
@@ -136,18 +227,11 @@
       <description>&lt;p&gt;&lt;strong&gt;Interview with Vandana Verma by Tanya Janca at Black Hat&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Conversation with Tanya Janca (SheHacksPurple) recorded at Black Hat, discussing application security, the OWASP community, AI security, and the state of modern DevSecOps. The interview covers both the stage work and the behind-the-scenes community efforts that shape events like Black Hat.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://x.com/shehackspurple/status/1967320641570246896&#34;&gt;https://x.com/shehackspurple/status/1967320641570246896&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI Radar series</title>
-      <link>https://infosecvandana.com/webinars/ai_radar_series/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/webinars/ai_radar_series/</guid>
-      <description>&lt;p&gt;The AI Radar series is one of the clearest public signals of a newer focus on AI security, LLM security, agentic AI, and MCP security.&lt;/p&gt;&#xA;&lt;p&gt;Topics listed on the public page include AI BOMs, threat modeling, MCP security, agentic AI, LLM security, and red teaming.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://go.snyk.io/isc2-emea-ai-radar-series.html&#34;&gt;https://go.snyk.io/isc2-emea-ai-radar-series.html&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vulnerabilities on the Radar</title>
+      <title>Vulnerabilities on the Radar - August 2025 Edition</title>
       <link>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar/</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar/</guid>
-      <description>A webinar focused on current vulnerabilities and what security teams should pay attention to next.</description>
+      <description>Snyk webinar hosted by Vandana Verma Sehgal on notable vulnerabilities and what security teams should prioritize next.</description>
     </item>
     <item>
       <title>Black Hat USA 2025 - Panel: Hacking the Status Quo: Tales From Leading Women in Cybersecurity</title>
@@ -169,6 +253,20 @@
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/blogs/securing_agentic_ai_apps/</guid>
       <description>&lt;p&gt;This article is a strong fit for the site&amp;rsquo;s current direction because it connects agentic application security to concrete OWASP guidance and real implementation concerns.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/pulse/securing-agentic-ai-apps-using-owasp-applications-guide-vandana-verma-mtptc&#34;&gt;https://www.linkedin.com/pulse/securing-agentic-ai-apps-using-owasp-applications-guide-vandana-verma-mtptc&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vulnerabilities on the Radar - July 2025 Edition</title>
+      <link>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar_july_2025/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar_july_2025/</guid>
+      <description>&lt;p&gt;The July 2025 edition of Vulnerabilities on the Radar publicly lists Vandana Verma Sehgal as host alongside Wesley Bentura and continues the series on vulnerabilities that deserve immediate attention from security teams.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://go.snyk.io/wbn_250729_emea-vulnerability-series-july_Reg-page&#34;&gt;https://go.snyk.io/wbn_250729_emea-vulnerability-series-july_Reg-page&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prompt Injection - OWASP Top 10 LLM</title>
+      <link>https://infosecvandana.com/blogs/prompt_injection_owasp_top10_llm/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/blogs/prompt_injection_owasp_top10_llm/</guid>
+      <description>&lt;p&gt;This LinkedIn article breaks down prompt injection in an accessible way while tying it directly to the OWASP Top 10 for LLM applications.&lt;/p&gt;&#xA;&lt;p&gt;It is a strong fit for the site&amp;rsquo;s AI security writing because it translates a complex LLM risk into developer-friendly language and links the topic to the broader OWASP educational series.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/pulse/prompt-injection-owasp-top-10-llm-vandana-verma-hppcc&#34;&gt;https://www.linkedin.com/pulse/prompt-injection-owasp-top-10-llm-vandana-verma-hppcc&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Rise of Agentic AI and What It Means for Us</title>
@@ -294,7 +392,7 @@
       <link>https://infosecvandana.com/featured/snyk_contributor_profile/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/featured/snyk_contributor_profile/</guid>
-      <description>Current public profile with recent writing, role details, and headshot.</description>
+      <description>&lt;p&gt;This page is a strong profile anchor because it combines current role wording, article history, and a public headshot in one place.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/contributors/vandana-verma-sehgal/&#34;&gt;https://snyk.io/contributors/vandana-verma-sehgal/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GovInfoSecurity - Artificial Intelligence Looms Large at Black Hat Europe 2024</title>
@@ -372,6 +470,13 @@
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/blogs/tryhackme_appsec_resources/</guid>
       <description>&lt;p&gt;This is a practical learning-resources article that fits well with the site&amp;rsquo;s mentoring and beginner-friendly content.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/pulse/try-hack-me-application-security-resources-vandana-verma-vzeec&#34;&gt;https://www.linkedin.com/pulse/try-hack-me-application-security-resources-vandana-verma-vzeec&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cyber Voyage - Cybersecurity Leader Talks with Vandana Verma</title>
+      <link>https://infosecvandana.com/webinars/cyber_voyage_2024/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/cyber_voyage_2024/</guid>
+      <description>Public video conversation featuring Vandana Verma on cybersecurity leadership, experience, and industry perspective.</description>
     </item>
     <item>
       <title>Women: Kickstart your Application Security Career</title>
@@ -703,6 +808,13 @@
       <description>&lt;p&gt;This feature covers a discussion with Chris Hughes, CISO and co-founder of Aquia, including his path into security leadership, software supply chain security, SBOMs, workforce challenges, and practical risk management.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/pt-BR/blog/day-in-the-life-ciso-chris-hughes-aquia/&#34;&gt;https://snyk.io/pt-BR/blog/day-in-the-life-ciso-chris-hughes-aquia/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Secure Software Summit 2022 - New Way of Envisioning Security in the Dependencies</title>
+      <link>https://infosecvandana.com/talks/techstrong_secure_software_2022/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/techstrong_secure_software_2022/</guid>
+      <description>TechStrong Secure Software Summit session by Vandana Verma on dependency security and modern software supply chain risk.</description>
+    </item>
+    <item>
       <title>Defcon 2022 - Agility Broke AppSec. Now It’s Going to Fix It</title>
       <link>https://infosecvandana.com/paneldiscussion/appsecvillage_2022/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
@@ -722,6 +834,13 @@
       <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/owaspspotlightseries/spotlight24/</guid>
       <description>&lt;p&gt;About the Project:-&lt;/p&gt;&#xA;&lt;p&gt;The OWASP Secure Headers Project describes HTTP response headers that help applications increase security and reduce exposure to preventable browser-side risks.&lt;/p&gt;&#xA;&lt;p&gt;References:-&lt;/p&gt;&#xA;&lt;p&gt;OWASP Secure Headers Project - &lt;a href=&#34;https://owasp.org/www-project-secure-headers/&#34;&gt;https://owasp.org/www-project-secure-headers/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;GitHub - &lt;a href=&#34;https://github.com/OWASP/www-project-secure-headers&#34;&gt;https://github.com/OWASP/www-project-secure-headers&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=N4F3VWQYU9E&#34;&gt;https://www.youtube.com/watch?v=N4F3VWQYU9E&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>React Summit 2022 - New Way of Envisioning Security in the Dependencies</title>
+      <link>https://infosecvandana.com/talks/react_summit_2022_dependencies/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/react_summit_2022_dependencies/</guid>
+      <description>Conference talk by Vandana Verma Sehgal on supply chain thinking and dependency security in modern software development.</description>
     </item>
     <item>
       <title>RSA Conference 2022 - Continuous Security - Integrating Pipeline Security</title>
@@ -750,6 +869,13 @@
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/paneldiscussion/bhasia2022_locknote/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Locknote: Conclusions and Key Takeaways from Black Hat Asia 2022&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jeff Moss  |  Former Chief Security Officer and VP at ICANN, Founder of Black Hat and DEF CON Conferences, U.S. Department of Homeland Security Advisory Council&lt;/p&gt;&#xA;&lt;p&gt;Ryan Flores  |  Senior Manager, Forward-Looking Threat Research Team APAC&lt;/p&gt;&#xA;&lt;p&gt;Lidia Giuliano  |  Security Advisor/Consultant, Financial Services&lt;/p&gt;&#xA;&lt;p&gt;Vandana Verma Sehgal  |  Security Relations Leader, Snyk&lt;/p&gt;&#xA;&lt;p&gt;Stefano Zanero  |  Associate Professor, Dipartimento Di Elettronica, Informazione E Bioingegneria, Politecnico di Milano&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WeAreDevelopers 2022 - Walking into the Era of Supply Chain Risks</title>
+      <link>https://infosecvandana.com/talks/wearedevelopers_supply_chain_2022/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/wearedevelopers_supply_chain_2022/</guid>
+      <description>Public conference talk by Vandana Verma Sehgal on software supply chain risks and modern application security realities.</description>
     </item>
     <item>
       <title>Interview with ESG-global by Techtarget</title>
@@ -785,6 +911,13 @@
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/ciso/chris_russell/</guid>
       <description>&lt;p&gt;Chris Russell, CISO at tZERO, on the journey to becoming a fintech CISO, what makes the role different, and how security leadership connects to cryptocurrency, digital wallets, and modern fintech risk.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://securitysenses.com/videos/day-life-fintech-ciso-chris-russell-ciso-tzero&#34;&gt;https://securitysenses.com/videos/day-life-fintech-ciso-chris-russell-ciso-tzero&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WeAreDevelopers 2022 - Stranger Danger: Your Java Attack Surface Just Got Bigger</title>
+      <link>https://infosecvandana.com/talks/wearedevelopers_java_attack_surface_2022/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/wearedevelopers_java_attack_surface_2022/</guid>
+      <description>Public talk by Vandana Verma Sehgal on Java attack surface growth and the security impact of dependency risk.</description>
     </item>
     <item>
       <title>Episode 25 - Vikram Mehta</title>
@@ -1312,11 +1445,11 @@
       <description>&lt;p&gt;The goal was to choose a set of CISOs and InfoSec leaders who have demonstrated an extraordinary leadership and resilience during the challenging times&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/resilientciso.jpeg&#34; alt=&#34;womansupporter_inteligenca&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.cisosummit.co.in&#34;&gt;www.cisosummit.co.in&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>EC Council 2023 - Zero Trust and You: How to Build the Best Security Model for Your Business</title>
+      <title>EC-Council 2021 - Zero Trust and You: How to Build the Best Security Model for Your Business</title>
       <link>https://infosecvandana.com/webinars/ec_council_2021/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/webinars/ec_council_2021/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Reference&lt;/em&gt; -&#xA;&lt;a href=&#34;https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/zero-trust-and-you-how-to-build-the-best-security-model-for-your-business/&#34;&gt;https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/zero-trust-and-you-how-to-build-the-best-security-model-for-your-business/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/t57etC8edz0?si=y_9GDE8nY1-PAs-i&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+      <description>EC-Council cyber talk featuring Vandana Verma on practical zero trust strategy and implementation.</description>
     </item>
     <item>
       <title>Breaking into Web App Pen-testing - Gabrielle</title>
@@ -1365,7 +1498,7 @@
       <link>https://infosecvandana.com/paneldiscussion/rsa2021/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/paneldiscussion/rsa2021/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&#xA;Nicole Perlroth, Sam King &amp;amp; Vandana Verma discuss Industry Leadership for International Women’s Day&lt;/p&gt;&#xA;&lt;p&gt;Sam King, CEO of Veracode, New York Times investigative journalist Nicole Perlroth, and OWASP Board of Global Directors member Vandana Verma share their perspectives on technical leadership and advice for women in cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - &lt;a href=&#34;https://www.rsaconference.com/library/video/2021-international-womens-day&#34;&gt;https://www.rsaconference.com/library/video/2021-international-womens-day&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/vv58EIKx3qQ?si=9EfUFgRuMXgP5Kag&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Nicole Perlroth, Sam King &amp;amp; Vandana Verma discuss Industry Leadership for International Women’s Day&lt;/li&gt;&#xA;&lt;li&gt;Sam King, CEO of Veracode, New York Times investigative journalist Nicole Perlroth, and OWASP Board of Global Directors member - - - Vandana Verma share their perspectives on technical leadership and advice for women in cybersecurity.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - &lt;a href=&#34;https://www.rsaconference.com/library/video/2021-international-womens-day&#34;&gt;https://www.rsaconference.com/library/video/2021-international-womens-day&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with CISO MAG</title>
@@ -1851,6 +1984,13 @@
       <description>&lt;p&gt;&lt;strong&gt;Moderator&lt;/strong&gt; - Dr. Chandra Vadhana R, Founder &amp;amp; Director Prayaana Labs&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Panelists&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sanjay Kumar IPS, DIG Range Trivandrum&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vandana Verma, OWASP Global Board of Directors&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3B1cxtxJLgw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
+      <title>OWASP Kerala 2020 - Empowering Tips on Online Safety for Working Women</title>
+      <link>https://infosecvandana.com/talks/owasp_kerala_2020_online_safety/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/owasp_kerala_2020_online_safety/</guid>
+      <description>OWASP chapter talk featuring Vandana Verma on practical online safety guidance for working women.</description>
+    </item>
+    <item>
       <title>Judge and Jury for Top 20 Indian Women Influencers in Security 2020 </title>
       <link>https://infosecvandana.com/featured/judgejury/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
@@ -2031,6 +2171,13 @@
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/talks/opensummit/</guid>
       <description>&lt;p&gt;Title : Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7zs4wezbt8o&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>OWASP Sendai 2020 - DevSecOps Deep Dive</title>
+      <link>https://infosecvandana.com/talks/owasp_sendai_2020_devsecops/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/owasp_sendai_2020_devsecops/</guid>
+      <description>OWASP chapter talk by Vandana Verma on DevSecOps and secure application delivery.</description>
     </item>
     <item>
       <title>Implementing Zero Trust in an organisation to be uncertainty Ready</title>

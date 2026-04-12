@@ -7,21 +7,42 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://infosecvandana.com/webinars/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI Radar series</title>
-      <link>https://infosecvandana.com/webinars/ai_radar_series/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/webinars/ai_radar_series/</guid>
-      <description>&lt;p&gt;The AI Radar series is one of the clearest public signals of a newer focus on AI security, LLM security, agentic AI, and MCP security.&lt;/p&gt;&#xA;&lt;p&gt;Topics listed on the public page include AI BOMs, threat modeling, MCP security, agentic AI, LLM security, and red teaming.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://go.snyk.io/isc2-emea-ai-radar-series.html&#34;&gt;https://go.snyk.io/isc2-emea-ai-radar-series.html&lt;/a&gt;&lt;/p&gt;</description>
+      <title>AI Radar - February 2026 Edition</title>
+      <link>https://infosecvandana.com/webinars/ai_radar_february_2026/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/ai_radar_february_2026/</guid>
+      <description>&lt;p&gt;The February 2026 AI Radar edition publicly lists Vandana Verma Sehgal as host and continues the series on AI-driven development, LLM risk, MCP security, and practical security guidance for modern engineering teams.&lt;/p&gt;&#xA;&lt;p&gt;The public event page includes speaker details, session framing, and a speaker image block.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://go.snyk.io/emea-ai-radar-series-feb.html&#34;&gt;https://go.snyk.io/emea-ai-radar-series-feb.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Vulnerabilities on the Radar</title>
+      <title>AI Learning Series #2 - Securing Agentic AI Systems: Threat Modeling MCP</title>
+      <link>https://infosecvandana.com/webinars/ai_learning_series_threat_modeling_mcp_2026/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/ai_learning_series_threat_modeling_mcp_2026/</guid>
+      <description>LinkedIn-posted webinar by Vandana Verma on threat modeling MCP and defending agentic AI trust boundaries.</description>
+    </item>
+    <item>
+      <title>EC-Council 2025 - AI-Enhanced DevSecOps: Automating Security from Code to Cloud</title>
+      <link>https://infosecvandana.com/webinars/ec_council_ai_enhanced_devsecops_2025/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/ec_council_ai_enhanced_devsecops_2025/</guid>
+      <description>&lt;p&gt;This EC-Council cyber talk publicly lists Vandana Verma and focuses on how AI can help modern teams automate security checks and decisions across the software delivery lifecycle.&lt;/p&gt;&#xA;&lt;p&gt;The public event page includes the abstract, speaker block, and event framing around AI-enhanced DevSecOps.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/ai-enhanced-devsecops-automating-security-from-code-to-cloud/&#34;&gt;https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/ai-enhanced-devsecops-automating-security-from-code-to-cloud/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Snyk Webinar - OWASP Top 10 for LLMs</title>
+      <link>https://infosecvandana.com/webinars/snyk_owasp_top10_llms_2025/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/snyk_owasp_top10_llms_2025/</guid>
+      <description>&lt;p&gt;This public Snyk webinar lists Vandana Verma Sehgal as presenter and focuses on the OWASP Top 10 for LLM applications, including practical risks for teams adopting AI-assisted workflows.&lt;/p&gt;&#xA;&lt;p&gt;It complements the PureAI webcast already on the site by anchoring the same topic to the official Snyk registration page.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://go.snyk.io/owasp-top-10-llm.html&#34;&gt;https://go.snyk.io/owasp-top-10-llm.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Alternate public registration page&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://go.snyk.io/owasp-top-10-llm-isc2.html&#34;&gt;https://go.snyk.io/owasp-top-10-llm-isc2.html&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vulnerabilities on the Radar - August 2025 Edition</title>
       <link>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar/</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar/</guid>
-      <description>A webinar focused on current vulnerabilities and what security teams should pay attention to next.</description>
+      <description>Snyk webinar hosted by Vandana Verma Sehgal on notable vulnerabilities and what security teams should prioritize next.</description>
     </item>
     <item>
       <title>OWASP Top 10 for LLMs - PureAI Webcast (Snyk &#43; OWASP)</title>
@@ -31,11 +52,25 @@
       <description>&lt;p&gt;&lt;strong&gt;OWASP Top 10 for LLMs&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Webcast presented via PureAI as a Snyk expert and OWASP leader, walking through the OWASP Top 10 for Large Language Model Applications. The session covered each of the top vulnerabilities, how they manifest in real AI-assisted development workflows, and shared actionable strategies for securing AI-native applications in the enterprise.&lt;/p&gt;&#xA;&lt;p&gt;Topics covered:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prompt injection and insecure output handling&lt;/li&gt;&#xA;&lt;li&gt;Training data poisoning and supply chain risks for LLMs&lt;/li&gt;&#xA;&lt;li&gt;Model denial of service and excessive agency&lt;/li&gt;&#xA;&lt;li&gt;Secure patterns for LLM-integrated applications&lt;/li&gt;&#xA;&lt;li&gt;How the OWASP Top 10 for LLM project maps to real developer workflows&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Vulnerabilities on the Radar - July 2025 Edition</title>
+      <link>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar_july_2025/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/vulnerabilities_on_the_radar_july_2025/</guid>
+      <description>&lt;p&gt;The July 2025 edition of Vulnerabilities on the Radar publicly lists Vandana Verma Sehgal as host alongside Wesley Bentura and continues the series on vulnerabilities that deserve immediate attention from security teams.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://go.snyk.io/wbn_250729_emea-vulnerability-series-july_Reg-page&#34;&gt;https://go.snyk.io/wbn_250729_emea-vulnerability-series-july_Reg-page&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Blackhat - AI: Now Smarter Than Hackers, But Still Confused by Cats</title>
       <link>https://infosecvandana.com/webinars/blackhat2024/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/webinars/blackhat2024/</guid>
       <description>&lt;p&gt;AI: Now Smarter Than Hackers, But Still Confused by Cats&lt;/p&gt;&#xA;&lt;p&gt;Thursday, December 5, 2024 | 2:00 - 3:00 PM EST&lt;/p&gt;&#xA;&lt;p&gt;Imagine a world where AI is sharper than even the most skilled hackers, catching malicious intent in milliseconds and thwarting cyber threats with the precision of a laser. Yet, somehow, these digital masterminds are still baffled by a well-timed cat meme or a furry friend caught in an image classification glitch. In this talk, we’ll take a lighthearted journey through the highs and lows of securing AI, exploring the surprising vulnerabilities that lurk in even the most advanced systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cyber Voyage - Cybersecurity Leader Talks with Vandana Verma</title>
+      <link>https://infosecvandana.com/webinars/cyber_voyage_2024/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/cyber_voyage_2024/</guid>
+      <description>Public video conversation featuring Vandana Verma on cybersecurity leadership, experience, and industry perspective.</description>
     </item>
     <item>
       <title>RSA 2024 - The Magic of Application Security Posture Management and its Future Frontier</title>
@@ -73,11 +108,11 @@
       <description>&lt;p&gt;It was a pleasure to be part of the ONLINE PANEL: &amp;lsquo;Shifting Left in Application Security&amp;rsquo; at Australian Information Security Association (AISA) this morning with the wonderful co- panelists&lt;/p&gt;&#xA;&lt;p&gt;◼ Teuta H Hyseni&lt;/p&gt;&#xA;&lt;p&gt;◼ Nancy Gariché&lt;/p&gt;&#xA;&lt;p&gt;◼ Vandana Verma Sehgal (myself)&lt;/p&gt;&#xA;&lt;p&gt;Incredible discussion around DevSecOps-oriented application security programme, cloud-first strategy, Zero Trust and DevSecOps for legacy applications.&lt;/p&gt;&#xA;&lt;p&gt;Date: Wednesday 19 May 2021&lt;/p&gt;&#xA;&lt;p&gt;Time Zones:&lt;/p&gt;&#xA;&lt;p&gt;11:30am - 12:30pm AEST (Brisbane, Canberra, Melbourne, Sydney &amp;amp; Hobart)&#xA;11:00am - 12:00pm ACST (Adelaide)&#xA;9:30am - 10:30am AWST (Perth)&lt;/p&gt;</description>
     </item>
     <item>
-      <title>EC Council 2023 - Zero Trust and You: How to Build the Best Security Model for Your Business</title>
+      <title>EC-Council 2021 - Zero Trust and You: How to Build the Best Security Model for Your Business</title>
       <link>https://infosecvandana.com/webinars/ec_council_2021/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/webinars/ec_council_2021/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Reference&lt;/em&gt; -&#xA;&lt;a href=&#34;https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/zero-trust-and-you-how-to-build-the-best-security-model-for-your-business/&#34;&gt;https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/zero-trust-and-you-how-to-build-the-best-security-model-for-your-business/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/t57etC8edz0?si=y_9GDE8nY1-PAs-i&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+      <description>EC-Council cyber talk featuring Vandana Verma on practical zero trust strategy and implementation.</description>
     </item>
     <item>
       <title>Keynote speaker for Cyber Security Warriors Club Opening</title>
