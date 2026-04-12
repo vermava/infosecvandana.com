@@ -2,6 +2,11 @@
 title: "BSides Kerala 2025 - Panel: Building, Nurturing, and Retaining Cybersecurity Talent in the Gen AI Era"
 date: 2025-11-02
 draft: false
+summary: "Panel discussion featuring Vandana Verma on how AI is reshaping cybersecurity talent, hiring, retention, and inclusive career growth."
+external_url: https://bsideskerala.in/speakers/2025/vandana-verma/
+source_name: BSides Kerala
+role: panelist
+status: upcoming
 ---
 
 **Panel: Building, Nurturing, and Retaining Cyber Security Talent in the Gen AI Era**

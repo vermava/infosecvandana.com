@@ -2,6 +2,11 @@
 title: "BSides Kerala 2025 - Panel: Building Resilient Software"
 date: 2025-11-01
 draft: false
+summary: "Panel discussion featuring Vandana Verma on resilient software, product security, DevSecOps, and secure delivery at scale."
+external_url: https://bsideskerala.in/speakers/2025/vandana-verma/
+source_name: BSides Kerala
+role: panelist
+status: upcoming
 ---
 
 **Panel: Building Resilient Software**
