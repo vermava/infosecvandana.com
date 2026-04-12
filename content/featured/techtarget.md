@@ -2,7 +2,6 @@
 title: "Women in Cybersecurity"
 date: 2022-03-31
 draft: false
-featureimage: /images/Women_in_Cybersecurity_Verma.jpg
 ---
 
 Women in Cybersecurity
