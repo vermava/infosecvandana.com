@@ -3,7 +3,7 @@ title: "Episode 7 - Rohit Srivastwa"
 subtitle: A day in the life of a CISO 
 date: 2021-08-10
 draft: false
-video: https://www.youtube.com/embed/dC1f-uomLEc
+video: https://www.youtube.com/embed/dC1f-uomLEc?si=TZTq8NCb1co5_owP
 ---
 
 **Rohit Srivastwa**

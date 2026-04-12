@@ -12,5 +12,3 @@ The series also has a dedicated YouTube playlist with more episodes and conversa
 **YouTube playlist**
 <br>
 https://youtube.com/playlist?list=PLUKo5k_oSrfN1I7KBogJ430hdFCwND6hq
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUKo5k_oSrfN1I7KBogJ430hdFCwND6hq" title="A Day in the Life of a CISO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
