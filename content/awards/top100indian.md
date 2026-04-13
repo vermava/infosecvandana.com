@@ -5,7 +5,7 @@ draft: false
 featureimage: /images/dynamicIndianwomen.png
 ---
 
-SC Media, Women in IT Security Advocates Award
+**CQ100: Meet The Dynamic Women Changing The Face Of Indian Cyberspace**
 
 ![SC media](/images/dynamicIndianwomen.png)
 
