@@ -2,6 +2,7 @@
 title: "Featured in TimesofIndia"
 date: 2020-11-25
 draft: false
+featureimage: /images/TOI.jpg
 ---
 
 Times webinar on cybersecurity and women hackers
