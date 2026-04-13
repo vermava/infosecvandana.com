@@ -239,6 +239,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/paneldiscussion/isaca_hyperconnected_cyber_defense_2026/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/paneldiscussion/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/judge/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -279,11 +289,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/paneldiscussion/</loc>
-    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://infosecvandana.com/blogs/ai_bill_of_material_appsec/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -311,6 +316,11 @@
   </url><url>
     <loc>https://infosecvandana.com/blogs/owasp_top_10_release_candidate/</loc>
     <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/judge/cf100_2025_jury_panel/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -361,6 +371,11 @@
   </url><url>
     <loc>https://infosecvandana.com/paneldiscussion/bsideskerala2025_resilient_software/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/talks/ai_security_summit_secure_ai_2025/</loc>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -614,11 +629,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/judge/sc_award_2024/</loc>
-    <lastmod>2024-08-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://infosecvandana.com/blogs/aspm_appsec_program/</loc>
     <lastmod>2024-08-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -641,6 +651,11 @@
   </url><url>
     <loc>https://infosecvandana.com/talks/futuretechsummit_2022/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/judge/sc_award_2024/</loc>
+    <lastmod>2024-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
