@@ -62,6 +62,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/awards/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/awards/women_in_tech_global_awards_2026/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/blogs/axios_npm_package_compromised/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -79,6 +89,11 @@
   </url><url>
     <loc>https://infosecvandana.com/trainings/</loc>
     <lastmod>2026-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/awards/top_50_women_cybersecurity_2026/</loc>
+    <lastmod>2026-03-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -477,11 +492,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://infosecvandana.com/awards/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://infosecvandana.com/awards/cf100/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -792,6 +802,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/awards/ifsec_global_2022/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/talks/rsa2022/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -824,6 +839,11 @@
   </url><url>
     <loc>https://infosecvandana.com/talks/wearedevelopers_supply_chain_2022/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/awards/peoplechoice_2022/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -888,6 +908,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://infosecvandana.com/featured/della_leaders_club/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/awards/redgate_100_2022/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -959,6 +984,11 @@
   </url><url>
     <loc>https://infosecvandana.com/ciso/vimal_mani/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/awards/ewf/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1074,6 +1104,11 @@
   </url><url>
     <loc>https://infosecvandana.com/ciso/aisling/</loc>
     <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/awards/ifsec_global_2021/</loc>
+    <lastmod>2021-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1462,6 +1497,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/awards/cxo_junction_most_recognized_women/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/webinars/owaspny/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1672,6 +1712,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/awards/technology_magazine_top100_women_2020/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/paneldiscussion/csauk/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1762,6 +1807,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/awards/cyber_defense_top100_women_2020/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/breakingintoinfosec/getting_into_cyber/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1829,6 +1879,11 @@
   </url><url>
     <loc>https://infosecvandana.com/webinars/cybershikhsa_dsci/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/awards/top10_influential_indian_women_cybersecurity/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1972,6 +2027,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://infosecvandana.com/awards/cybersecurity_ventures_247_women/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://infosecvandana.com/featured/etciso_security_summit_virtual/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1989,6 +2049,11 @@
   </url><url>
     <loc>https://infosecvandana.com/talks/security_guild_2019/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/awards/top_women_cybersecurity_india_instasafe/</loc>
+    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -2034,6 +2099,11 @@
   </url><url>
     <loc>https://infosecvandana.com/talks/devseccon/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/awards/ifsec_global_2019/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -2134,6 +2204,11 @@
   </url><url>
     <loc>https://infosecvandana.com/paneldiscussion/swati/</loc>
     <lastmod>2017-07-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://infosecvandana.com/awards/winja_ctf_nullcon_2015/</loc>
+    <lastmod>2015-02-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
