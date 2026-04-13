@@ -2,6 +2,7 @@
 title: "Winner - Cyber Security Woman Supporter of the Year Award 2019 - Woman CyberJutsu"
 date: 2019-09-08
 draft: false
+featureimage: /images/cyberjutsu_winner.JPG
 ---
 
 Cyber Security Woman Supporter of the Year Award 2019 - Woman CyberJutsu, 2019 in "Secure Coder" Category

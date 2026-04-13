@@ -2,6 +2,7 @@
 title: "CQ 100: Meet The Dynamic Women Changing The Face Of Indian Cyberspace"
 date: 2021-03-08
 draft: false
+featureimage: /images/dynamicIndianwomen.png
 ---
 
 SC Media, Women in IT Security Advocates Award

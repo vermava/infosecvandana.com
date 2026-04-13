@@ -2,6 +2,7 @@
 title: "7th Annual DynamicCISO Excellence Award Resilient CISO"
 date: 2021-03-26
 draft: false
+featureimage: /images/resilientciso.jpeg
 ---
 
 The goal was to choose a set of CISOs and InfoSec leaders who have demonstrated an extraordinary leadership and resilience during the challenging times

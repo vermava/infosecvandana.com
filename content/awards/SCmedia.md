@@ -2,6 +2,7 @@
 title: "SC Media - Women in IT Security - Advocates Award - 2020"
 date: 2020-10-26
 draft: false
+featureimage: /images/SC media.png
 ---
 
 SC Media, Women in IT Security Advocates Award

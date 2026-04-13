@@ -2,6 +2,7 @@
 title: "16 Women Paving the Way in AppSec"
 date: 2020-03-08
 draft: false
+featureimage: /images/16woman.png
 ---
 
 ![16woman](/images/16woman.png)

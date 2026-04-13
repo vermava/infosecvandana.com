@@ -2,6 +2,7 @@
 title: "AppSec Influencer of 2020 Award"
 date: 2021-01-01
 draft: false
+featureimage: /images/appsecinfluencer.png
 ---
 
 ![appsecinfluencer](/images/appsecinfluencer.png)
