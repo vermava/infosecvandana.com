@@ -2,6 +2,7 @@
 title: "Initiative Star Contributor - Academy of Technology"
 draft: false
 source_name: IBM
+featureimage: /images/AoT-Initiative-Star-Contributor.png
 summary: "IBM recognition credential listed on Vandana Verma's LinkedIn certifications profile."
 issued: "December 2020"
 weight: 35
