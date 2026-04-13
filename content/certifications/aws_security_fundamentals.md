@@ -4,7 +4,7 @@ draft: false
 featureimage: /images/AWS_GCP.png
 source_name: Amazon Web Services (AWS)
 summary: "AWS security learning credential listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 115
 ---
 

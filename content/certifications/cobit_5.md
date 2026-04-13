@@ -3,7 +3,7 @@ title: "COBIT 5"
 draft: false
 source_name: APMG International
 summary: "Governance certification listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 120
 ---
 

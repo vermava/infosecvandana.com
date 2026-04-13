@@ -4,7 +4,7 @@ draft: false
 featureimage: /images/eccouncil_advisory.png
 source_name: EC-Council
 summary: "EC-Council certification listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 165
 ---
 

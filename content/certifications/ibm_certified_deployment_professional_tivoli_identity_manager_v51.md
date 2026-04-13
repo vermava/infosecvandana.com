@@ -3,7 +3,7 @@ title: "IBM Certified Deployment Professional - Tivoli Identity Manager V5.1"
 draft: false
 source_name: IBM
 summary: "IBM identity management certification listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 180
 ---
 

@@ -3,7 +3,7 @@ title: "IBM Recognized Speaker/ Presenter"
 draft: false
 source_name: IBM
 summary: "IBM speaker recognition listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 40
 ---
 

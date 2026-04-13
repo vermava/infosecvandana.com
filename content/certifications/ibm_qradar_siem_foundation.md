@@ -3,7 +3,7 @@ title: "IBM QRadar SIEM Foundation"
 draft: false
 source_name: IBM
 summary: "IBM QRadar credential listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 60
 ---
 

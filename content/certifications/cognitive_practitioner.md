@@ -3,7 +3,7 @@ title: "Cognitive Practitioner"
 draft: false
 source_name: IBM
 summary: "IBM cognitive learning credential listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 105
 ---
 

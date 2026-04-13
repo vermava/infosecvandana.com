@@ -3,7 +3,7 @@ title: "ITIL v3 Foundation"
 draft: false
 source_name: EXIN
 summary: "IT service management certification listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 150
 ---
 

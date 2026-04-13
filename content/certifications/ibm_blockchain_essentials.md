@@ -3,7 +3,7 @@ title: "IBM Blockchain Essentials"
 draft: false
 source_name: IBM
 summary: "IBM learning credential listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 80
 ---
 

@@ -3,7 +3,7 @@ title: "IBM Security Essentials for Architects"
 draft: false
 source_name: IBM
 summary: "IBM architecture credential listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 95
 ---
 

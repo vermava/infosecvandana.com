@@ -3,7 +3,7 @@ title: "Checkmarx Advanced Certification"
 draft: false
 source_name: Checkmarx
 summary: "Checkmarx certification listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 185
 ---
 

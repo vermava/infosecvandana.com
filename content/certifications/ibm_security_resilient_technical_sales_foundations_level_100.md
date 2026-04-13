@@ -3,7 +3,7 @@ title: "IBM Security Resilient Technical Sales Foundations - Level 100"
 draft: false
 source_name: IBM
 summary: "IBM Resilient technical sales credential listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 90
 ---
 

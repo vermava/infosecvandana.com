@@ -3,7 +3,7 @@ title: "IBM Agile Explorer"
 draft: false
 source_name: IBM
 summary: "IBM agile learning credential listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 85
 ---
 

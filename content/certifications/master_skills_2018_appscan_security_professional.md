@@ -3,7 +3,7 @@ title: "Master Skills 2018 - AppScan Security Professional"
 draft: false
 source_name: IBM
 summary: "IBM AppScan professional credential listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 75
 ---
 

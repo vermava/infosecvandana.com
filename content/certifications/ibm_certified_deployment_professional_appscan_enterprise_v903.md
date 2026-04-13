@@ -3,7 +3,7 @@ title: "IBM Certified Deployment Professional - Security AppScan Enterprise Edit
 draft: false
 source_name: IBM
 summary: "IBM AppScan certification listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 125
 ---
 

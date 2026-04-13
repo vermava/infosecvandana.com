@@ -3,7 +3,6 @@ title: "Security and Privacy by Design Foundations"
 draft: false
 source_name: IBM
 summary: "IBM security foundations credential listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
 weight: 50
 ---
 

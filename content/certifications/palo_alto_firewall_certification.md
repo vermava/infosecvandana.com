@@ -3,7 +3,7 @@ title: "Palo Alto Firewall Certification"
 draft: false
 source_name: Palo Alto Networks
 summary: "Palo Alto Networks certification listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 190
 ---
 

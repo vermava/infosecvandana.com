@@ -3,7 +3,7 @@ title: "IBM Security QRadar Technical Sales Foundations - Level 200"
 draft: false
 source_name: IBM
 summary: "IBM QRadar technical sales credential listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 70
 ---
 

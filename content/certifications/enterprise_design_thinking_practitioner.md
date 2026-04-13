@@ -3,7 +3,7 @@ title: "Enterprise Design Thinking Practitioner"
 draft: false
 source_name: IBM
 summary: "IBM design thinking credential listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 100
 ---
 

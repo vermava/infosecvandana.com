@@ -3,7 +3,7 @@ title: "MaaS360 Architect"
 draft: false
 source_name: IBM
 summary: "IBM mobility and security credential listed on Vandana Verma's LinkedIn certifications profile."
-issued: "Date not listed on LinkedIn snapshot"
+issued: "Date not listed"
 weight: 55
 ---
 
