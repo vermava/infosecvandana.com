@@ -52,11 +52,25 @@
       <description>A Software Engineering Radio episode discussing the OWASP Top 10.</description>
     </item>
     <item>
+      <title>Cyber Security &amp; Cloud Podcast — Baby Stepping in Cyber - Cyberkids (S03E03)</title>
+      <link>https://infosecvandana.com/podcasts/cscp_cyberkids/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/podcasts/cscp_cyberkids/</guid>
+      <description>&lt;p&gt;Return guest on the Cyber Security &amp;amp; Cloud Podcast (CSCP) with Francesco Cipollone, discussing why security teams need to be more empathetic, the OWASP Spotlight Project, InfosecKids, the importance of security champions, and the future of security.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://phoenix.security/podcast/cscp-s03e03-vandana-verma-baby-stepping-in-cyber-cyberkids/&#34;&gt;https://phoenix.security/podcast/cscp-s03e03-vandana-verma-baby-stepping-in-cyber-cyberkids/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Application Security Weekly #236</title>
       <link>https://infosecvandana.com/podcasts/asw_236/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/podcasts/asw_236/</guid>
       <description>An Application Security Weekly episode with audio, video, and show notes.</description>
+    </item>
+    <item>
+      <title>Focus Hive Podcast — Learn from the Leaders: Vandana Verma, OWASP Board</title>
+      <link>https://infosecvandana.com/podcasts/focus_hive_owasp/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/podcasts/focus_hive_owasp/</guid>
+      <description>&lt;p&gt;Guest on Ravi&amp;rsquo;s Focus Hive podcast discussing security advocacy, the role of OWASP, diversity in cybersecurity, and lessons from a career in information security.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://play.acast.com/s/ravis-focushive/learn-from-the-leaders-security-advocate-and-member-of-board&#34;&gt;https://play.acast.com/s/ravis-focushive/learn-from-the-leaders-security-advocate-and-member-of-board&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Secure Developer Ep.55 - Diversity In DevSec And Cloud Security</title>
@@ -78,6 +92,13 @@
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/podcasts/alldaydevops/</guid>
       <description>&lt;p&gt;Speaker at All Day DevOps, the world&amp;rsquo;s largest DevOps online conference, presenting on application security practices using OWASP frameworks and open source tools.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cyber Security &amp; Cloud Podcast — AppSec &amp; Diversity Talk (S01E08)</title>
+      <link>https://infosecvandana.com/podcasts/cscp_appsec_diversity/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/podcasts/cscp_appsec_diversity/</guid>
+      <description>&lt;p&gt;Guest on the Cyber Security &amp;amp; Cloud Podcast (CSCP) with Francesco Cipollone, discussing the best way to communicate the importance of security without using scare tactics, and the challenges of working with clients around the world.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://podtail.com/en/podcast/cyber-security-cloud-podcast/cscp-s01e08-vandana-verma-part-1-appsec-diversity-/&#34;&gt;https://podtail.com/en/podcast/cyber-security-cloud-podcast/cscp-s01e08-vandana-verma-part-1-appsec-diversity-/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to be an InfoSec Speaker - Vandana Verma</title>
@@ -106,6 +127,13 @@
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/podcasts/cloudsecuritymyths/</guid>
       <description>&lt;p&gt;There are still lots of misconceptions and myths about Cloud Security. In this episode , Vandana Verma Global Board of Directors at OWASP and InfosecGirls shares her thoughts on cloud security. Discover some myth-busting truths about security and the cloud and how to avoid some common perceptions around cloud security. Listen up!&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/lDu1oejkkxs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>TestGuild Security Podcast — Cloud Security Myths with Vandana Verma</title>
+      <link>https://infosecvandana.com/podcasts/testguild_cloud_security_myths/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/podcasts/testguild_cloud_security_myths/</guid>
+      <description>&lt;p&gt;Guest on the TestGuild Security Testing Podcast discussing cloud security myths, busting common misconceptions about security in the cloud, and sharing practical advice on securing cloud environments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://testguild.com/podcast/security/s21-vandana/&#34;&gt;https://testguild.com/podcast/security/s21-vandana/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cloud Security Podcast - Cloud Security and Infosec Girls</title>

@@ -87,6 +87,13 @@
       <description>TechStrong Secure Software Summit session by Vandana Verma on dependency security and modern software supply chain risk.</description>
     </item>
     <item>
+      <title>Apidays 2022 — API Security</title>
+      <link>https://infosecvandana.com/talks/apidays_2022/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/talks/apidays_2022/</guid>
+      <description>&lt;p&gt;Speaker at Apidays conference, presenting on API security topics and best practices for securing APIs in modern application architectures.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.apidays.global/speaker/vandana-verma/&#34;&gt;https://www.apidays.global/speaker/vandana-verma/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>React Summit 2022 - New Way of Envisioning Security in the Dependencies</title>
       <link>https://infosecvandana.com/talks/react_summit_2022_dependencies/</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
