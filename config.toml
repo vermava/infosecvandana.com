@@ -88,6 +88,13 @@ copyright="© Vandana Verma"
   weight = -70
 
 [[menu.main]]
+  identifier = "reports"
+  name = "Reports Created"
+  title = "Reports Created"
+  url = "/reports/"
+  weight = -65
+
+[[menu.main]]
   identifier = "Awards"
   name = "Awards"
   title = "Awards"
