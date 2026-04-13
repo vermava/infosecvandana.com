@@ -3,6 +3,7 @@ title: "Black Hat Review Board — Asia & Europe"
 date: 2021-04-15
 draft: false
 featureimage: /images/bhasia_rb.png
+summary: "Review board role supporting Black Hat Asia and Black Hat Europe through conference submission review and technical program shaping."
 ---
 
 Member of the Black Hat Asia Review Board (since 2020) and Black Hat Europe Review Board, evaluating submissions and shaping the technical content of two of the world's premier cybersecurity conferences.

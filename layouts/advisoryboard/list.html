@@ -5,23 +5,23 @@
 
   <div class="post-list">
     {{ range .Pages.ByPublishDate.Reverse }}
-   
-    <div class="post-container" style="height: 180px;  padding: 8px; margin: 10px;">
-   
-        <a href="{{.RelPermalink}}">
+    <div class="post-container" style="width: 100%; max-width: 760px; padding: 18px; margin: 16px 0; border: 1px solid #e6e6e6; border-radius: 10px; text-align: left;">
+      <a href="{{ .RelPermalink }}" style="text-decoration: none; color: inherit;">
       {{ if .Params.featureimage }}
-      <img src="{{ .Params.featureimage }}" style="max-width: 250px;max-height: 250px;margin: 0px;box-shadow: 4px 4px #e0e0e0;border-radius: 4px;"> </img>  
+      <img src="{{ .Params.featureimage }}" style="max-width: 220px; max-height: 140px; border-radius: 8px; display: block; margin: 0 0 12px 0;"> </img>
       {{ end }}
-      <h4   style="margin: 0px">
+      <h4 style="margin: 0 0 8px 0;">
           {{ .Title }}
-        </h4>
+      </h4>
       </a>
-      </div>
+      <p style="margin: 0 0 10px 0; color: #666;">{{ .Date.Format "January 2, 2006" }}</p>
+      {{ if .Params.summary }}
+      <p style="margin: 0; line-height: 1.6;">{{ .Params.summary }}</p>
+      {{ else if .Plain }}
+      <p style="margin: 0; line-height: 1.6;">{{ .Plain | truncate 220 }}</p>
+      {{ end }}
+    </div>
     {{ end }}
   </div>
-
-  <div style="Clear: both;">
-
-&nbsp;
 
 {{ partial "footer" .}}
