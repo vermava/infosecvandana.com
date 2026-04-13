@@ -94,6 +94,13 @@
       <description>&lt;p&gt;&lt;strong&gt;Proactive Defense: Advanced Threat Modeling for Robust Cybersecurity&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;br&gt;&#xA;Aug. 1, 2023 | 01:00 PM ET | 10:00 AM PT&#xA;&lt;p&gt;Vandana Verma Sehgal led this RSAC webcast on proactive defense and advanced threat modeling.&lt;/p&gt;&#xA;&lt;p&gt;As cyberthreats become increasingly sophisticated and widespread, organizations must proactively safeguard their assets. This requires advanced threat modeling techniques beyond traditional approaches to identify and mitigate vulnerabilities. This webcast will outline a framework for proactive defense using advanced threat modeling, which involves identifying, analyzing, and prioritizing potential threats to an organization&amp;rsquo;s systems and data. The framework leverages machine learning algorithms, threat intelligence feeds, and expert knowledge to anticipate and mitigate emerging threats before they can be exploited. Attendees will learn how this approach can be integrated into an organization&amp;rsquo;s overall cybersecurity strategy to create a more robust and resilient defense posture. By adopting a proactive defense approach to advanced threat modeling, organizations can stay ahead of the ever-evolving threat landscape and protect their critical assets from compromise.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Stress-Free AWS Security for Devs and Ops - Snyk&#39;s Top 10 Vulnerabilities that Developers Need to Know</title>
+      <link>https://infosecvandana.com/webinars/stress_free_aws_top10_vulnerabilities_2023/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/stress_free_aws_top10_vulnerabilities_2023/</guid>
+      <description>A Snyk session on the most impactful open source vulnerabilities developers should prioritize.</description>
+    </item>
+    <item>
       <title>The Most In-Demand Entry-Level Cybersecurity Skills for 2023 and Beyond</title>
       <link>https://infosecvandana.com/webinars/ec_council_2023/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
@@ -108,6 +115,13 @@
       <description>&lt;p&gt;According to a recent report, 69% of CISOs say the volume of alerts make it difficult to prioritize vulnerabilities. That’s one of the reasons why picking open-source packages to use in your application is a strenuous process. Package ecosystems such as NPM have over a million packages in them, and when you are dealing with numbers that high, there is bound to be a lack of maintenance or other issues that will cause holes in your security.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>The Female Quotient at RSA Conference 2022 - Hacking for Good</title>
+      <link>https://infosecvandana.com/webinars/female_quotient_rsa_2022_hacking_for_good/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/female_quotient_rsa_2022_hacking_for_good/</guid>
+      <description>Equality Lounge conversation at RSA Conference on hacking for good and the importance of women in cybersecurity.</description>
+    </item>
+    <item>
       <title>AISA Webinar: Shifting left in application security </title>
       <link>https://infosecvandana.com/webinars/aisa2021/</link>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
@@ -120,6 +134,13 @@
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://infosecvandana.com/webinars/ec_council_2021/</guid>
       <description>EC-Council cyber talk featuring Vandana Verma on practical zero trust strategy and implementation.</description>
+    </item>
+    <item>
+      <title>Breaking The Barriers: Women in Infosec - Episode 6</title>
+      <link>https://infosecvandana.com/webinars/breaking_the_barriers_women_infosec_episode_6/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://infosecvandana.com/webinars/breaking_the_barriers_women_infosec_episode_6/</guid>
+      <description>LinkedIn Live Episode 6 focused on women in infosec, barriers in the industry, and the importance of visible cybersecurity leadership.</description>
     </item>
     <item>
       <title>Bridge the gap between AI/ML and Cyber Security</title>

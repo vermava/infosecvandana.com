@@ -91,11 +91,14 @@ header
   background-size: cover
   background-position: top center
   position: fixed
+  overflow-y: auto
+  overflow-x: hidden
   color: $grey-100
 
   h2
     font-size: $font-size_h2
     font-weight: $font-weight_h2
+    margin-top: 0
 
   .menu
     text-align: left
@@ -135,8 +138,9 @@ header
 
   .intro
     padding: $padding-content
-    position: absolute
-    bottom: 140px
+    padding-top: nth($padding-content, 1) + 28px
+    padding-bottom: 180px
+    position: relative
 
   .rounded-logo
     +rounded
@@ -148,7 +152,7 @@ header
     width: $sidebar-width-tablet
 
     .intro
-      bottom: 150px
+      padding-top: nth($padding-content, 1) + 24px
 
     .socials
       max-width: $sidebar-width-tablet
@@ -172,9 +176,10 @@ header
       margin: 0 auto
 
     .intro
-      bottom: inherit
       display: block
       position: relative
+      padding: $padding-content_mobile
+      padding-top: 18px
 
 #content, .breadcrumb
   max-width: $max-width-content
@@ -206,6 +211,7 @@ a:hover, a:focus, a:active
 
 .content-wrapper
   padding: $padding-content
+  padding-top: nth($padding-content, 1) + 24px
   position: static
   width: $content-width
   margin-left: $sidebar-width
@@ -217,6 +223,7 @@ a:hover, a:focus, a:active
   +tablet
     width: $content-width-tablet
     margin-left: $sidebar-width-tablet
+    padding-top: nth($padding-content, 1) + 20px
 
   +smartphone
     position: relative
@@ -251,4 +258,3 @@ footer
 img.gopher
   margin: 0 auto $margin-blocks !important
   max-width: 200px
-

@@ -1,0 +1,19 @@
+---
+title: "IBM Security Resilient Technical Sales Foundations - Level 100"
+draft: false
+source_name: IBM
+summary: "IBM Resilient technical sales credential listed on Vandana Verma's LinkedIn certifications profile."
+issued: "Date not listed on LinkedIn snapshot"
+weight: 90
+---
+
+Vandana Verma holds the **IBM Security Resilient Technical Sales Foundations - Level 100** credential issued by **IBM**.
+
+**Credential details**
+
+- Issuer: IBM
+- Issued: Date not listed on LinkedIn snapshot
+
+**Reference**
+<br>
+https://www.linkedin.com/in/vandana-verma/details/certifications/

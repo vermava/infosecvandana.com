@@ -95,6 +95,13 @@ copyright="© Vandana Verma"
   weight = -65
 
 [[menu.main]]
+  identifier = "certifications"
+  name = "Certifications"
+  title = "Certifications"
+  url = "/certifications/"
+  weight = -64
+
+[[menu.main]]
   identifier = "Awards"
   name = "Awards"
   title = "Awards"

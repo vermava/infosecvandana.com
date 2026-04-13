@@ -1,0 +1,33 @@
+{{ partial "header" .}}
+
+  <h1 id="title"> {{ .Title }}</h1>
+  {{ .Content }}
+
+  <div class="post-list certification-list">
+    {{ range .Pages.ByWeight }}
+    <div class="post-container" style="width: 100%; max-width: 760px; padding: 18px; margin: 16px 0; border: 1px solid #e6e6e6; border-radius: 10px; text-align: left;">
+      <a href="{{ .RelPermalink }}" style="text-decoration: none; color: inherit;">
+        {{ if .Params.featureimage }}
+        <img src="{{ .Params.featureimage }}" style="max-width: 220px; max-height: 140px; border-radius: 8px; display: block; margin: 0 0 12px 0;"> </img>
+        {{ end }}
+        <h4 style="margin: 0 0 8px 0">
+          {{ .Title }}
+        </h4>
+      </a>
+      {{ if and .Params.issued (in .Params.issued "Date not listed") }}
+      <p style="margin: 0 0 10px 0; color: #666;">Date not listed on LinkedIn snapshot</p>
+      {{ else if .Params.issued }}
+      <p style="margin: 0 0 10px 0; color: #666;">Issued {{ .Params.issued }}</p>
+      {{ else if not .Date.IsZero }}
+      <p style="margin: 0 0 10px 0; color: #666;">{{ .Date.Format "January 2, 2006" }}</p>
+      {{ end }}
+      {{ if .Params.summary }}
+      <p style="margin: 0; line-height: 1.6;">{{ .Params.summary }}</p>
+      {{ else if .Plain }}
+      <p style="margin: 0; line-height: 1.6;">{{ .Plain | truncate 220 }}</p>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+
+{{ partial "footer" .}}
