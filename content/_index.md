@@ -1,7 +1,8 @@
 ---
 image: /images/vandana_headshot.jpeg
 title: 'Vandana Verma'
-description: 'About Me'
+description: 'Official website of Vandana Verma: global cybersecurity speaker, AI and application security leader, trainer, advisor, author, and community builder.'
+seo_title: 'Vandana Verma | Global Cybersecurity Speaker, AI/AppSec Leader, Educator, Advisor'
 ---
 
 Vandana Verma Sehgal is a security leader, speaker, author, and community builder whose work spans application security, DevSecOps, software supply chain security, cloud security, and AI security. Her recent public work increasingly focuses on secure AI-native development, LLM security, MCP security, and helping teams build practical security programs that developers can actually adopt.

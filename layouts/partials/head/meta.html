@@ -1,0 +1,16 @@
+{{ $description := .Params.description | default .Summary | plainify | truncate 160 }}
+{{ if and .IsHome .Site.Params.homeMetaDescription }}
+  {{ $description = .Site.Params.homeMetaDescription }}
+{{ else if not $description }}
+  {{ $description = .Site.Params.defaultDescription }}
+{{ end }}
+<meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1' />
+<meta name='description' content='{{ $description }}' />
+<meta name='theme-color' content='{{- .Site.Params.accentColor | default "black" -}}' />
+{{ if .Site.Params.assets.favicon }}
+  <link rel="shortcut icon" href="{{ .Site.Params.assets.favicon }}" type="image/x-icon" />
+  <link rel="icon" href="{{ .Site.Params.assets.favicon }}" type="image/x-icon" />
+{{ end }}
+
+{{ hugo.Generator }}

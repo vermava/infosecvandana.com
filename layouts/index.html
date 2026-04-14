@@ -1,15 +1,132 @@
 {{ partial "header" .}}
-<style>
-    .headshot{
-        width: auto !important;
-    }
-</style>
-<center>
-<img src="/images/newheadshot.jpg" alt="Girl in a jacket" class="headshot">
 
+<section class="hero-home">
+  <div class="hero-copy">
+    <p class="section-kicker">Global Cybersecurity Profile</p>
+    <h1>Global Cybersecurity Speaker, AI/AppSec Leader, Educator, Advisor, and Community Builder</h1>
+    <p class="hero-summary">
+      Vandana Verma helps security teams, engineering leaders, and global communities navigate application security, AI security, secure development, and modern cyber leadership.
+    </p>
+    <div class="hero-actions">
+      <a class="button-link" href="/contact/">Invite Vandana to Speak</a>
+      <a class="button-link button-link-secondary" href="/resources/">Explore Resources</a>
+    </div>
+  </div>
+  <div class="hero-visual">
+    <img src="/images/newheadshot.jpg" alt="Portrait of Vandana Verma" class="headshot">
+  </div>
+</section>
 
-<h1>{{ .Title | markdownify }}</h1>
-</center>
-{{ .Content }}
+<section class="trust-strip">
+  <span>Black Hat</span>
+  <span>RSA Conference</span>
+  <span>OWASP</span>
+  <span>AppSec Village</span>
+  <span>Women in Tech</span>
+  <span>Global AppSec</span>
+</section>
+
+<section class="executive-overview">
+  <div>
+    <p class="section-kicker">Executive Overview</p>
+    <h2>Security leadership grounded in real-world delivery and community impact.</h2>
+  </div>
+  <div class="lead-copy">
+    {{ .Content }}
+  </div>
+</section>
+
+<section class="home-grid home-grid-four">
+  <article class="feature-card">
+    <p class="feature-label">Focus Area</p>
+    <h3>AI Security</h3>
+    <p>Practical leadership on secure AI-native development, LLM risk, MCP security, and governance that teams can actually apply.</p>
+  </article>
+  <article class="feature-card">
+    <p class="feature-label">Focus Area</p>
+    <h3>Application Security</h3>
+    <p>Deep work across AppSec programs, secure SDLC, software supply chain security, and resilient engineering practices.</p>
+  </article>
+  <article class="feature-card">
+    <p class="feature-label">Focus Area</p>
+    <h3>Education</h3>
+    <p>Training, writing, talks, and mentoring designed to make modern security clearer and more actionable.</p>
+  </article>
+  <article class="feature-card">
+    <p class="feature-label">Focus Area</p>
+    <h3>Community</h3>
+    <p>Long-running contributions to OWASP, InfosecGirls, and initiatives that widen access to security knowledge and leadership.</p>
+  </article>
+</section>
+
+<section class="section-block">
+  <div class="section-header">
+    <div>
+      <p class="section-kicker">Explore the Site</p>
+      <h2>Five clear pathways, built for depth without clutter.</h2>
+    </div>
+  </div>
+  <div class="hub-grid">
+    <article class="hub-card">
+      <p class="hub-card-label">Speaking & Visibility</p>
+      <h3><a href="/speaking/">Speaking & Appearances</a></h3>
+      <p>Keynotes, conference talks, webinars, panels, and podcasts.</p>
+      <div class="tag-row"><span>Keynotes</span><span>Talks</span><span>Webinars</span></div>
+    </article>
+    <article class="hub-card">
+      <p class="hub-card-label">Education</p>
+      <h3><a href="/resources/">Learning & Resources</a></h3>
+      <p>Blogs, trainings, reports, career resources, and OWASP educational series.</p>
+      <div class="tag-row"><span>Blogs</span><span>Trainings</span><span>Reports</span></div>
+    </article>
+    <article class="hub-card">
+      <p class="hub-card-label">Leadership</p>
+      <h3><a href="/leadership/">Leadership & Impact</a></h3>
+      <p>Advisory roles, community leadership, and industry stewardship.</p>
+      <div class="tag-row"><span>Boards</span><span>Community</span><span>Judge & Jury</span></div>
+    </article>
+    <article class="hub-card">
+      <p class="hub-card-label">Editorial Presence</p>
+      <h3><a href="/media/">Media & Stories</a></h3>
+      <p>Featured profiles, interviews, and story-led leadership perspectives.</p>
+      <div class="tag-row"><span>Featured</span><span>Entrepreneur</span><span>CISO</span></div>
+    </article>
+    <article class="hub-card">
+      <p class="hub-card-label">Proof & Recognition</p>
+      <h3><a href="/credentials/">Achievements & Credentials</a></h3>
+      <p>Awards, certifications, and books that reinforce long-term depth and trust.</p>
+      <div class="tag-row"><span>Awards</span><span>Certifications</span><span>Books</span></div>
+    </article>
+  </div>
+</section>
+
+<section class="section-block">
+  <div class="section-header">
+    <div>
+      <p class="section-kicker">Latest Writing</p>
+      <h2>Recent thinking on AppSec, AI security, governance, and secure engineering.</h2>
+    </div>
+    <a href="/blogs/">View all blog posts</a>
+  </div>
+  <div class="mini-link-grid">
+    {{ range first 3 (where .Site.RegularPages "Section" "blogs").ByDate.Reverse }}
+      <a class="mini-link-card" href="{{ .RelPermalink }}">
+        <strong>{{ .Title }}</strong>
+        <span>{{ .Params.summary | default (.Plain | truncate 120) }}</span>
+      </a>
+    {{ end }}
+  </div>
+</section>
+
+<section class="cta-band">
+  <div>
+    <p class="section-kicker">Opportunities</p>
+    <h2>Looking for a speaker, trainer, advisor, or media guest?</h2>
+    <p>Use the contact page to start a conversation around events, workshops, strategic advisory, and editorial opportunities.</p>
+  </div>
+  <div class="cta-band-actions">
+    <a class="button-link" href="/contact/">Work With Vandana</a>
+  </div>
+</section>
 
 {{ partial "footer" .}}

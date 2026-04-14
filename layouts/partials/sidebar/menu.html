@@ -1,0 +1,23 @@
+{{ $section := lower .Section }}
+{{ $path := .RelPermalink }}
+{{ $navGroup := "" }}
+
+{{ if or (eq $path "/speaking/") (in (slice "keynotes" "talks" "webinars" "paneldiscussion" "podcasts") $section) }}
+  {{ $navGroup = "speaking" }}
+{{ else if or (eq $path "/resources/") (in (slice "blogs" "trainings" "reports" "breakingintoinfosec" "owaspspotlightseries") $section) }}
+  {{ $navGroup = "resources" }}
+{{ else if or (eq $path "/leadership/") (in (slice "advisoryboard" "communityleadership" "judge") $section) }}
+  {{ $navGroup = "leadership" }}
+{{ else if or (eq $path "/media/") (in (slice "featured" "leaderspeak" "ciso") $section) }}
+  {{ $navGroup = "media" }}
+{{ else if or (eq $path "/credentials/") (in (slice "awards" "certifications" "books") $section) }}
+  {{ $navGroup = "credentials" }}
+{{ end }}
+
+{{ range .Site.Menus.main }}
+  <p>
+    <a href="{{ .URL }}" class="{{ if eq .Identifier $navGroup }}active{{ end }}">
+      {{ .Name }}
+    </a>
+  </p>
+{{ end }}

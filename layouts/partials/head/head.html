@@ -1,0 +1,14 @@
+<head>
+  {{ $title := "" }}
+  {{ if .IsHome }}
+    {{ $title = .Site.Params.homeSeoTitle | default $.Site.Title }}
+  {{ else }}
+    {{ $title = .Params.seo_title | default (printf "%s | %s" .Title $.Site.Title) }}
+  {{ end }}
+  <title>{{ $title }}</title>
+  <link rel='canonical' href='{{ .Permalink }}' />
+  {{ partial "head/meta" .}}
+  {{ partial "head/style" .}}
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/schema.html" . }}
+</head>

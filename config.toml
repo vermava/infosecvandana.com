@@ -9,7 +9,8 @@ copyright="© Vandana Verma"
 
 [params.intro]
   main = "Vandana Verma"
-  sub = "Security Leader"
+  sub = "Global Cybersecurity Speaker, AI/AppSec Leader"
+  tagline = "Educator, advisor, and community builder"
 
 [params.main]
   latestPublishHeader = "My Project"
@@ -17,6 +18,9 @@ copyright="© Vandana Verma"
 [params]
   breadcrumb = false
   accentColor = "#FD3519"
+  homeSeoTitle = "Vandana Verma | Global Cybersecurity Speaker, AI/AppSec Leader, Educator, Advisor"
+  homeMetaDescription = "Official website of Vandana Verma: global cybersecurity speaker, AI and application security leader, trainer, advisor, author, and community builder."
+  defaultDescription = "Explore Vandana Verma's work across cybersecurity speaking, AI and application security leadership, training, advisory, media, and community impact."
   mainSections = ['post'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
 [params.notFound]
@@ -36,7 +40,7 @@ copyright="© Vandana Verma"
   #logo = "/images/vandana_headshot.jpeg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
-  customCSS = ""
+  customCSS = "/css/site-overrides.css"
 
 [params.social]
   github = "https://github.com/vermava"
@@ -49,141 +53,46 @@ copyright="© Vandana Verma"
   email = ""
   text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
 
+[params.footer]
+  tagline = "Cybersecurity leader focused on AI security, AppSec, secure development, and community impact."
+
 
 [menu]
 
 [[menu.main]]
-  identifier = "keynotes"
-  name = "Keynotes & Locknotes"
-  title = "Keynotes & Locknotes"
-  url = "/keynotes/"
-  weight = -110
+  identifier = "speaking"
+  name = "Speaking & Appearances"
+  title = "Speaking & Appearances"
+  url = "/speaking/"
+  weight = 10
 
 [[menu.main]]
-  identifier = "talks"
-  name = "Conference Talks"
-  title = "Blog section"
-  url = "/talks/"
-  weight = -100
+  identifier = "resources"
+  name = "Learning & Resources"
+  title = "Learning & Resources"
+  url = "/resources/"
+  weight = 20
 
 [[menu.main]]
-  identifier = "blog"
-  name = "Blogs"
-  title = "Blog section"
-  url = "/blogs/"
-  weight = -90
+  identifier = "leadership"
+  name = "Leadership & Impact"
+  title = "Leadership & Impact"
+  url = "/leadership/"
+  weight = 30
 
 [[menu.main]]
-  identifier = "trainings"
-  name = "Trainings"
-  title = "Trainings section"
-  url = "/trainings/"
-  weight = -80
+  identifier = "media"
+  name = "Media & Stories"
+  title = "Media & Stories"
+  url = "/media/"
+  weight = 40
 
 [[menu.main]]
-  identifier = "featured"
-  name = "Featured"
-  title = "featured section"
-  url = "/featured/"
-  weight = -70
-
-[[menu.main]]
-  identifier = "reports"
-  name = "Reports Created"
-  title = "Reports Created"
-  url = "/reports/"
-  weight = -65
-
-[[menu.main]]
-  identifier = "certifications"
-  name = "Certifications"
-  title = "Certifications"
-  url = "/certifications/"
-  weight = -64
-
-[[menu.main]]
-  identifier = "Awards"
-  name = "Awards"
-  title = "Awards"
-  url = "/awards/"
-  weight = -40
-
-[[menu.main]]
-  identifier = "webinars"
-  name = "Webinars"
-  title = "webinars"
-  url = "/webinars/"
-  weight = -60
-
-[[menu.main]]
-  identifier = "paneldiscussion"
-  name = "Panel Discussion"
-  title = "Panel Discussion"
-  url = "/paneldiscussion/"
-  weight = -50
-
-[[menu.main]]
-  identifier = "advisoryboard"
-  name = "Advisory Board"
-  title = "Advisory Board"
-  url = "/advisoryboard/"
-  weight = -40
-
-[[menu.main]]
-  identifier = "Podcasts"
-  name = "Podcasts"
-  title = "Podcasts"
-  url = "/Podcasts/"
-  weight = -50
-
-[[menu.main]]
-  identifier = "leaderspeak"
-  name = "A Day in the life of an Entrepreneur"
-  title = "Leader Speak - A Day in the life of an Entrepreneur"
-  url = "/leaderspeak/"
-  weight = -30
-
-[[menu.main]]
-  identifier = "ciso"
-  name = "A Day in the life of a CISO"
-  title = "Leader Speak - A Day in the life of a CISO"
-  url = "/ciso/"
-  weight = -20
-
-[[menu.main]]
-  identifier = "breakingintoinfosec"
-  name = "Breaking Into InfoSec"
-  title = "Breaking Into InfoSec"
-  url = "/breakingintoinfosec/"
-  weight = -20
-
-[[menu.main]]
-  identifier = "communityleadership"
-  name = "Community Leadership"
-  title = "Community Leadership"
-  url = "/communityleadership/"
-  weight = -20
-
-[[menu.main]]
-  identifier = "owaspspotlightseries"
-  name = "OWASP Projects Spotlight Series"
-  title = "OWASP Projects Spotlight Series"
-  url = "/owaspspotlightseries/"
-  weight = -20
-  
-[[menu.main]]
-  identifier = "books"
-  name = "Books Authored or Contributed"
-  title = "Books Authored or Contributed"
-  url = "/books/"
-  weight = -10
-
-[[menu.main]]
-  identifier = "judge"
-  name = "Awards Judge or Jury"
-  title = "Awards Judge or Jury"
-  url = "/judge/"
-  weight = -10
+  identifier = "credentials"
+  name = "Achievements & Credentials"
+  title = "Achievements & Credentials"
+  url = "/credentials/"
+  weight = 50
 
 [sitemap]
   changefreq = "monthly"

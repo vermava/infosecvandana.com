@@ -1,0 +1,53 @@
+{{ partial "header" . }}
+
+<section class="page-hero">
+  <p class="section-kicker">{{ .Params.kicker | default "Explore" }}</p>
+  <h1 id="title">{{ .Title }}</h1>
+  <div class="lead-copy">
+    {{ .Content }}
+  </div>
+</section>
+
+{{ with .Params.hub_sections }}
+  <section class="hub-grid">
+    {{ range . }}
+      {{ $isExternal := hasPrefix .url "http" }}
+      <article class="hub-card">
+        <p class="hub-card-label">{{ .label }}</p>
+        <h2><a href="{{ .url }}"{{ if $isExternal }} target="_blank" rel="external noopener"{{ end }}>{{ .title }}</a></h2>
+        <p>{{ .description }}</p>
+      </article>
+    {{ end }}
+  </section>
+{{ end }}
+
+{{ with .Params.related_links }}
+  <section class="link-cluster">
+    <p class="section-kicker">Explore More</p>
+    <div class="mini-link-grid">
+      {{ range . }}
+        {{ $isExternal := hasPrefix .url "http" }}
+        <a class="mini-link-card" href="{{ .url }}"{{ if $isExternal }} target="_blank" rel="external noopener"{{ end }}>
+          <strong>{{ .title }}</strong>
+          <span>{{ .description }}</span>
+        </a>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}
+
+{{ with .Params.cta }}
+  {{ $isExternal := hasPrefix .url "http" }}
+  <section class="cta-band">
+    <div>
+      <p class="section-kicker">{{ .kicker }}</p>
+      <h2>{{ .title }}</h2>
+      <p>{{ .description }}</p>
+    </div>
+    <div class="cta-band-actions">
+      <a class="button-link" href="{{ .url }}"{{ if $isExternal }} target="_blank" rel="external noopener"{{ end }}>{{ .label }}</a>
+    </div>
+  </section>
+{{ end }}
+
+{{ partial "footer" . }}

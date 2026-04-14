@@ -1,0 +1,24 @@
+<header style="{{ partial "sidebar/style" . | safeCSS }}">
+  <div class="intro">
+    <p class="site-eyebrow">Official Site</p>
+    <h2 class="site-title">
+      <a href="/">{{ .Site.Params.intro.main }}</a>
+    </h2>
+    <p class="site-position">{{ .Site.Params.intro.sub }}</p>
+    {{ with .Site.Params.intro.tagline }}
+      <p class="site-tagline">{{ . }}</p>
+    {{ end }}
+
+    <nav class="menu site-nav" aria-label="Primary">
+      {{ partial "sidebar/menu" . }}
+    </nav>
+
+    <div class="sidebar-cta">
+      <a class="button-link" href="/contact/">Work With Vandana</a>
+    </div>
+  </div>
+
+  <div class="socials">
+    {{ partial "sidebar/social" .}}
+  </div>
+</header>
