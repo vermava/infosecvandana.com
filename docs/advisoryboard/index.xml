@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advisory Board on Vandana Verma</title>
-    <link>https://infosecvandana.com/advisoryboard/</link>
+    <link>http://localhost:59284/advisoryboard/</link>
     <description>Recent content in Advisory Board on Vandana Verma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://infosecvandana.com/advisoryboard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59284/advisoryboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OWASP Project Leadership and Community Roles</title>
-      <link>https://infosecvandana.com/advisoryboard/owasp_projects_2025/</link>
+      <link>http://localhost:59284/advisoryboard/owasp_projects_2025/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/advisoryboard/owasp_projects_2025/</guid>
+      <guid>http://localhost:59284/advisoryboard/owasp_projects_2025/</guid>
       <description>Public OWASP leadership references spanning project, podcast, and community work.</description>
     </item>
     <item>
       <title>Chairperson - OWASP Global Board of Directors</title>
-      <link>https://infosecvandana.com/advisoryboard/owasp/</link>
+      <link>http://localhost:59284/advisoryboard/owasp/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/advisoryboard/owasp/</guid>
+      <guid>http://localhost:59284/advisoryboard/owasp/</guid>
       <description>OWASP board and governance leadership, including service as Chair and Compliance Officer.</description>
     </item>
     <item>
       <title>Kubecon India 2024 - Program Committee: SOSS Community Day India 2024</title>
-      <link>https://infosecvandana.com/advisoryboard/sossday_2024/</link>
+      <link>http://localhost:59284/advisoryboard/sossday_2024/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/advisoryboard/sossday_2024/</guid>
+      <guid>http://localhost:59284/advisoryboard/sossday_2024/</guid>
       <description>Program committee role for SOSS Community Day India 2024 at KubeCon India, supporting open source security programming.</description>
     </item>
     <item>
       <title>Black Hat Review Board — Asia &amp; Europe</title>
-      <link>https://infosecvandana.com/advisoryboard/blackhat/</link>
+      <link>http://localhost:59284/advisoryboard/blackhat/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/advisoryboard/blackhat/</guid>
+      <guid>http://localhost:59284/advisoryboard/blackhat/</guid>
       <description>Review board role supporting Black Hat Asia and Black Hat Europe through conference submission review and technical program shaping.</description>
     </item>
     <item>
       <title>Beyond Borders Advisory Board Member - SiberX</title>
-      <link>https://infosecvandana.com/advisoryboard/siberx/</link>
+      <link>http://localhost:59284/advisoryboard/siberx/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/advisoryboard/siberx/</guid>
+      <guid>http://localhost:59284/advisoryboard/siberx/</guid>
       <description>Advisory board role for SiberX Beyond Borders, supporting women in cybersecurity and global community-building.</description>
     </item>
     <item>
       <title>EC-Council Advisory Board for CND</title>
-      <link>https://infosecvandana.com/advisoryboard/eccouncil/</link>
+      <link>http://localhost:59284/advisoryboard/eccouncil/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/advisoryboard/eccouncil/</guid>
+      <guid>http://localhost:59284/advisoryboard/eccouncil/</guid>
       <description>Advisory board role contributing practitioner perspective to the EC-Council Certified Network Defender ecosystem.</description>
     </item>
   </channel>

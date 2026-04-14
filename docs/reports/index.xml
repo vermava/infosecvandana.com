@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reports Created on Vandana Verma</title>
-    <link>https://infosecvandana.com/reports/</link>
+    <link>http://localhost:59284/reports/</link>
     <description>Recent content in Reports Created on Vandana Verma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://infosecvandana.com/reports/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59284/reports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research with Snyk and Redhunt Labs: Scanning the top 1000 orgs on GitHub</title>
-      <link>https://infosecvandana.com/reports/scanning_top_1000_orgs_github_2023/</link>
+      <link>http://localhost:59284/reports/scanning_top_1000_orgs_github_2023/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/reports/scanning_top_1000_orgs_github_2023/</guid>
+      <guid>http://localhost:59284/reports/scanning_top_1000_orgs_github_2023/</guid>
       <description>Research report co-authored by Vandana Verma Sehgal on insecure dependencies across the top 1000 GitHub organizations.</description>
     </item>
     <item>
       <title>White Paper - Ransomware State of Mind: How to Better Protect Your Business</title>
-      <link>https://infosecvandana.com/reports/ransomware_state_of_mind_2023/</link>
+      <link>http://localhost:59284/reports/ransomware_state_of_mind_2023/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/reports/ransomware_state_of_mind_2023/</guid>
+      <guid>http://localhost:59284/reports/ransomware_state_of_mind_2023/</guid>
       <description>White paper co-authored by Vandana Verma with GitLab, Sysdig, and Snyk on building a practical ransomware defense mindset.</description>
     </item>
   </channel>

@@ -1,38 +1,6 @@
     </main>
   </div>
   <footer>
-    <div class="footer-wrapper footer-grid">
-      <div>
-        <p class="footer-heading">Explore</p>
-        {{ range .Site.Menus.main }}
-          <p><a href="{{ .URL }}">{{ .Name }}</a></p>
-        {{ end }}
-      </div>
-
-      <div>
-        <p class="footer-heading">Opportunities</p>
-        <p><a href="/contact/">Invite Vandana to Speak</a></p>
-        <p><a href="/contact/">Book a Training</a></p>
-        <p><a href="/contact/">Advisory or Board Inquiry</a></p>
-        <p><a href="/contact/">Media or Podcast Inquiry</a></p>
-      </div>
-
-      <div>
-        <p class="footer-heading">Featured Links</p>
-        <p><a href="/talks/">Selected Talks</a></p>
-        <p><a href="/blogs/">Latest Writing</a></p>
-        <p><a href="/communityleadership/">Community Leadership</a></p>
-        <p><a href="/awards/">Awards & Recognition</a></p>
-      </div>
-
-      <div>
-        <p class="footer-heading">Connect</p>
-        <p><a href="{{ .Site.Params.social.linkedin }}" rel="external noopener" target="_blank">LinkedIn</a></p>
-        <p><a href="{{ .Site.Params.social.youtube }}" rel="external noopener" target="_blank">YouTube</a></p>
-        <p><a href="{{ .Site.Params.social.twitter }}" rel="external noopener" target="_blank">X / Twitter</a></p>
-        <p><a href="{{ .Site.Params.social.instagram }}" rel="external noopener" target="_blank">Instagram</a></p>
-      </div>
-    </div>
     <div class="footer-wrapper footer-meta">
       {{ with .Site.Params.footer.tagline }}
         <p>{{ . }}</p>

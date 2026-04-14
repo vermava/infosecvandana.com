@@ -2,7 +2,6 @@
 title: "Leadership & Impact"
 description: "See Vandana Verma’s advisory roles, community leadership, and industry contributions across cybersecurity and OWASP initiatives."
 seo_title: "Leadership & Impact | Vandana Verma"
-url: "/leadership/"
 layout: "hub"
 kicker: "Leadership Beyond the Stage"
 hub_sections:

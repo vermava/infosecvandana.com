@@ -2,361 +2,361 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Featured on Vandana Verma</title>
-    <link>https://infosecvandana.com/featured/</link>
+    <link>http://localhost:59284/featured/</link>
     <description>Recent content in Featured on Vandana Verma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://infosecvandana.com/featured/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59284/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LinkedIn Post - AI Governance Frameworks: EU AI Act, ISO 42001, NIST AI RMF</title>
-      <link>https://infosecvandana.com/featured/linkedin_ai_governance_frameworks/</link>
+      <link>http://localhost:59284/featured/linkedin_ai_governance_frameworks/</link>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/linkedin_ai_governance_frameworks/</guid>
+      <guid>http://localhost:59284/featured/linkedin_ai_governance_frameworks/</guid>
       <description>Public LinkedIn post by Vandana Verma comparing the EU AI Act, ISO 42001, and NIST AI RMF as complementary AI governance frameworks.</description>
     </item>
     <item>
       <title>LinkedIn Post - OWASP Top 10 for LLM04: Data and Model Poisoning</title>
-      <link>https://infosecvandana.com/featured/linkedin_owasp_llm04_data_model_poisoning/</link>
+      <link>http://localhost:59284/featured/linkedin_owasp_llm04_data_model_poisoning/</link>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/linkedin_owasp_llm04_data_model_poisoning/</guid>
+      <guid>http://localhost:59284/featured/linkedin_owasp_llm04_data_model_poisoning/</guid>
       <description>Public LinkedIn post by Vandana Verma explaining OWASP Top 10 for LLM04 and why data and model poisoning matter in AI systems.</description>
     </item>
     <item>
       <title>LinkedIn profile</title>
-      <link>https://infosecvandana.com/featured/linkedin_profile/</link>
+      <link>http://localhost:59284/featured/linkedin_profile/</link>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/linkedin_profile/</guid>
+      <guid>http://localhost:59284/featured/linkedin_profile/</guid>
       <description>Public LinkedIn profile for Vandana Verma with experience summary, follower count, activity, and article inventory.</description>
     </item>
     <item>
       <title>Sessionize speaker profile</title>
-      <link>https://infosecvandana.com/featured/sessionize_speaker_profile/</link>
+      <link>http://localhost:59284/featured/sessionize_speaker_profile/</link>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/sessionize_speaker_profile/</guid>
+      <guid>http://localhost:59284/featured/sessionize_speaker_profile/</guid>
       <description>&lt;p&gt;The Sessionize speaker profile is a strong public anchor for Vandana Verma because it brings together bio, speaker profile details, and a broader talk inventory in one place.&lt;/p&gt;&#xA;&lt;p&gt;It is also one of the easier public pages to use when cross-checking talk titles and conference appearances.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://sessionize.com/vandana-verma/&#34;&gt;https://sessionize.com/vandana-verma/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>RSAC expert profile</title>
-      <link>https://infosecvandana.com/featured/rsac_expert_profile/</link>
+      <link>http://localhost:59284/featured/rsac_expert_profile/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/rsac_expert_profile/</guid>
+      <guid>http://localhost:59284/featured/rsac_expert_profile/</guid>
       <description>Official RSAC expert page aggregating Vandana Verma Sehgal&amp;rsquo;s talks, webcast appearances, and panel video.</description>
     </item>
     <item>
       <title>Snyk Blog - My Journey at Black Hat Asia 2025</title>
-      <link>https://infosecvandana.com/featured/snyk_bhasia2025/</link>
+      <link>http://localhost:59284/featured/snyk_bhasia2025/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/snyk_bhasia2025/</guid>
+      <guid>http://localhost:59284/featured/snyk_bhasia2025/</guid>
       <description>&lt;p&gt;Featured on the Snyk blog sharing the journey as a reviewer, speaker, panelist, speaker coach, and learner at Black Hat Asia 2025. Reflects on the multiple roles and contributions to the cybersecurity community at one of Asia&amp;rsquo;s premier security events.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Times of India - It’s crucial for youngsters to be cyber aware: Experts</title>
-      <link>https://infosecvandana.com/featured/timesofindia_cyber_aware_experts_2025/</link>
+      <link>http://localhost:59284/featured/timesofindia_cyber_aware_experts_2025/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/timesofindia_cyber_aware_experts_2025/</guid>
+      <guid>http://localhost:59284/featured/timesofindia_cyber_aware_experts_2025/</guid>
       <description>Times of India expert piece on cyber awareness for young people, including guidance and quotes from Vandana Verma.</description>
     </item>
     <item>
       <title>Snyk contributor profile</title>
-      <link>https://infosecvandana.com/featured/snyk_contributor_profile/</link>
+      <link>http://localhost:59284/featured/snyk_contributor_profile/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/snyk_contributor_profile/</guid>
+      <guid>http://localhost:59284/featured/snyk_contributor_profile/</guid>
       <description>&lt;p&gt;This page is a strong profile anchor because it combines current role wording, article history, and a public headshot in one place.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://snyk.io/contributors/vandana-verma-sehgal/&#34;&gt;https://snyk.io/contributors/vandana-verma-sehgal/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GovInfoSecurity - Artificial Intelligence Looms Large at Black Hat Europe 2024</title>
-      <link>https://infosecvandana.com/featured/govinfosecurity_bheu2024/</link>
+      <link>http://localhost:59284/featured/govinfosecurity_bheu2024/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/govinfosecurity_bheu2024/</guid>
+      <guid>http://localhost:59284/featured/govinfosecurity_bheu2024/</guid>
       <description>Quoted in GovInfoSecurity coverage of the Black Hat Europe 2024 Locknote panel discussion on AI, reality vs hype.</description>
     </item>
     <item>
       <title>Cyber Leaders on the Move - Cyber Leadership Institute Feature</title>
-      <link>https://infosecvandana.com/featured/cyberleadershipinstitute/</link>
+      <link>http://localhost:59284/featured/cyberleadershipinstitute/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/cyberleadershipinstitute/</guid>
+      <guid>http://localhost:59284/featured/cyberleadershipinstitute/</guid>
       <description>Featured in the Cyber Leadership Institute &amp;lsquo;Cyber Leaders on the Move&amp;rsquo; series as Global Chair of OWASP and Security Relations Leader APJ/ANZ at Snyk.</description>
     </item>
     <item>
       <title>Let&#39;s Chat Open Source Security</title>
-      <link>https://infosecvandana.com/featured/openssf/</link>
+      <link>http://localhost:59284/featured/openssf/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/openssf/</guid>
-      <description>&lt;p&gt;Let&amp;rsquo;s Chat Open Source Security With Vandana Verma!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/D_0TOIW4Eu0?si=-sDBjdGlINaWik0f&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/openssf.jpg&#34; alt=&#34;OpenSSF&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:59284/featured/openssf/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s Chat Open Source Security With Vandana Verma!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/D_0TOIW4Eu0?si=-sDBjdGlINaWik0f&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:59284/images/openssf.jpg&#34; alt=&#34;OpenSSF&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>BBC World - Women in cybersecurity</title>
-      <link>https://infosecvandana.com/featured/bbc2023/</link>
+      <link>http://localhost:59284/featured/bbc2023/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/bbc2023/</guid>
+      <guid>http://localhost:59284/featured/bbc2023/</guid>
       <description>&lt;p&gt;Kim Chakanetsa meets two cybersecurity experts who help women stay safe online.&lt;/p&gt;&#xA;&lt;p&gt;Vandana Verma Sehgal is a Security Solutions leader at Snyk and the Chair of the Board of Directors for OWASP, the Open Web Application Security Project Foundation. She is also the founder of InfosecKids and InfosecGirls.&lt;/p&gt;&#xA;&lt;p&gt;Sophina Kio-Lawson is an information security engineer from Nigeria and the co-founder for SheSecures, an initiative that promotes cyber literacy and inspires and empowers young African women who aspire to work in the tech industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SC Media - Contributor Profile</title>
-      <link>https://infosecvandana.com/featured/sc_media_contributor/</link>
+      <link>http://localhost:59284/featured/sc_media_contributor/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/sc_media_contributor/</guid>
+      <guid>http://localhost:59284/featured/sc_media_contributor/</guid>
       <description>&lt;p&gt;Contributor to SC Media (SCWorld), writing on cybersecurity topics including application security, DevSecOps, and diversity in the security industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview: Women in Cyber and Open Source Security — Cyber Protection Magazine</title>
-      <link>https://infosecvandana.com/featured/cyber_protection_magazine/</link>
+      <link>http://localhost:59284/featured/cyber_protection_magazine/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/cyber_protection_magazine/</guid>
+      <guid>http://localhost:59284/featured/cyber_protection_magazine/</guid>
       <description>&lt;p&gt;Featured interview with Cyber Protection Magazine discussing the InfosecGirls initiative, the significance of open source security, and Vandana&amp;rsquo;s work at Snyk helping to ensure open source security. The conversation covered the impact of the pandemic on InfosecGirls, progress on gender balance in cybersecurity, and career opportunities for women in the field.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://cyberprotection-magazine.com/interview-women-in-cyber-and-open-source-security&#34;&gt;https://cyberprotection-magazine.com/interview-women-in-cyber-and-open-source-security&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Redgate 100 - Most Influential in the Database Community 2022</title>
-      <link>https://infosecvandana.com/featured/redgate100/</link>
+      <link>http://localhost:59284/featured/redgate100/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/redgate100/</guid>
+      <guid>http://localhost:59284/featured/redgate100/</guid>
       <description>&lt;p&gt;Recognized as part of the Redgate 100 list, highlighting the most influential people in the database community for 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with ESG-global by Techtarget</title>
-      <link>https://infosecvandana.com/featured/esg2022/</link>
+      <link>http://localhost:59284/featured/esg2022/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/esg2022/</guid>
+      <guid>http://localhost:59284/featured/esg2022/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ctsPEIqXJnc?si=JNoGgJN6tUM29wAf&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;Link - &lt;a href=&#34;https://www.techtarget.com/esg-global/video/women-in-cybersecurity-vandana-verma/&#34;&gt;https://www.techtarget.com/esg-global/video/women-in-cybersecurity-vandana-verma/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Women in Cybersecurity</title>
-      <link>https://infosecvandana.com/featured/techtarget/</link>
+      <link>http://localhost:59284/featured/techtarget/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/techtarget/</guid>
+      <guid>http://localhost:59284/featured/techtarget/</guid>
       <description>&lt;p&gt;Women in Cybersecurity&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.techtarget.com/esg-global/video/women-in-cybersecurity-vandana-verma/&#34;&gt;https://www.techtarget.com/esg-global/video/women-in-cybersecurity-vandana-verma/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ctsPEIqXJnc?si=yrBfHb2cH8x-LKD1&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Business Standard - MIT Centre for Future Skills Excellence celebrates International Women’s Day</title>
-      <link>https://infosecvandana.com/featured/businessstandard_mit_future_skills_2022/</link>
+      <link>http://localhost:59284/featured/businessstandard_mit_future_skills_2022/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/businessstandard_mit_future_skills_2022/</guid>
+      <guid>http://localhost:59284/featured/businessstandard_mit_future_skills_2022/</guid>
       <description>Business Standard event coverage mentioning Vandana Verma among global women leaders speaking on emerging technologies.</description>
     </item>
     <item>
       <title>Cyber Leadership Institute - Cyber Leaders on the Move: Vandana Verma</title>
-      <link>https://infosecvandana.com/featured/cyber_leadership_institute_2022/</link>
+      <link>http://localhost:59284/featured/cyber_leadership_institute_2022/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/cyber_leadership_institute_2022/</guid>
+      <guid>http://localhost:59284/featured/cyber_leadership_institute_2022/</guid>
       <description>Feature interview covering Vandana Verma&amp;rsquo;s cybersecurity journey, OWASP leadership, community work, and role at Snyk.</description>
     </item>
     <item>
       <title>Della Leaders Club — Member, Pune Chapter</title>
-      <link>https://infosecvandana.com/featured/della_leaders_club/</link>
+      <link>http://localhost:59284/featured/della_leaders_club/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/della_leaders_club/</guid>
+      <guid>http://localhost:59284/featured/della_leaders_club/</guid>
       <description>&lt;p&gt;Member of the Della Leaders Club, Pune Chapter — a global community of leaders across industries, recognising contributions to cybersecurity, community building, and diversity initiatives.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.dellaleaders.com/profile/vandana-verma/&#34;&gt;https://www.dellaleaders.com/profile/vandana-verma/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Security Challenges in FinTech — Wallarm Researcher Corner</title>
-      <link>https://infosecvandana.com/featured/wallarm_fintech_security/</link>
+      <link>http://localhost:59284/featured/wallarm_fintech_security/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/wallarm_fintech_security/</guid>
+      <guid>http://localhost:59284/featured/wallarm_fintech_security/</guid>
       <description>&lt;p&gt;Featured discussion with Wallarm&amp;rsquo;s Researcher Corner on security challenges in the FinTech space. The conversation covered OWASP Top 10 and related projects, modern FinTech cyber threats, the importance of designing secure architecture from the start, and the resources OWASP offers for securing financial applications.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://lab.wallarm.com/security-challenges-in-fintech-discussion-with-vandana-verma-owasp/&#34;&gt;https://lab.wallarm.com/security-challenges-in-fintech-discussion-with-vandana-verma-owasp/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ISRM — Vandana Verma Re-Elected for OWASP Foundation Global Board</title>
-      <link>https://infosecvandana.com/featured/isrm_owasp_reelected/</link>
+      <link>http://localhost:59284/featured/isrm_owasp_reelected/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/isrm_owasp_reelected/</guid>
+      <guid>http://localhost:59284/featured/isrm_owasp_reelected/</guid>
       <description>&lt;p&gt;Featured on ISRM (Information Security Reading Room) for being re-elected to the OWASP Foundation Global Board with the highest number of votes. Director term began January 1, 2022.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.theisrm.org/vandana-verma-has-been-re-elected-for-owasp-foundation-global-board/&#34;&gt;https://www.theisrm.org/vandana-verma-has-been-re-elected-for-owasp-foundation-global-board/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I Had My Own Share Of Struggles But Learnt How To Survive And Stand Strong — Eat My News</title>
-      <link>https://infosecvandana.com/featured/eatmynews_interview/</link>
+      <link>http://localhost:59284/featured/eatmynews_interview/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/eatmynews_interview/</guid>
+      <guid>http://localhost:59284/featured/eatmynews_interview/</guid>
       <description>&lt;p&gt;Featured interview with Eat My News, discussing the journey from struggles to becoming a recognized advocate in cybersecurity in India. The conversation covers career challenges, community building, and standing strong through adversity.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.eatmy.news/2021/09/vandana-verma-sehgal-i-had-my-own-share.html&#34;&gt;https://www.eatmy.news/2021/09/vandana-verma-sehgal-i-had-my-own-share.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ISRM — Vandana Verma Named as Risky Woman to Watch</title>
-      <link>https://infosecvandana.com/featured/isrm_risky_woman_to_watch/</link>
+      <link>http://localhost:59284/featured/isrm_risky_woman_to_watch/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/isrm_risky_woman_to_watch/</guid>
+      <guid>http://localhost:59284/featured/isrm_risky_woman_to_watch/</guid>
       <description>&lt;p&gt;Featured on ISRM for being named a Risky Woman to Watch, recognising positive impact on the cybersecurity industry through leadership on the OWASP Global Board, diversity initiatives including InfosecGirls, WoSec, and InfosecKids, and training over 10,000 diverse candidates in cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.theisrm.org/vandana-verma-named-as-risky-woman-to-watch/&#34;&gt;https://www.theisrm.org/vandana-verma-named-as-risky-woman-to-watch/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with CISO MAG</title>
-      <link>https://infosecvandana.com/featured/cisomag_2021/</link>
+      <link>http://localhost:59284/featured/cisomag_2021/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/cisomag_2021/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Celebrating Women in Cyber Security&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;To gain an insight into the lack of women representation, CISO MAG gauged a few women security influencers to understand the cause of this alarming trend. This article is part of a series of interviews from women cybersecurity experts who shed light representation of women in cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cisomag_1.png&#34; alt=&#34;cisomag&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cisomag_2.png&#34; alt=&#34;cisomag&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;a href=&#34;https://cisomag.eccouncil.org/wp-content/uploads/2021/03/CISO-MAG_Mar_2021_Preview.pdf&#34;&gt;https://cisomag.eccouncil.org/wp-content/uploads/2021/03/CISO-MAG_Mar_2021_Preview.pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:59284/featured/cisomag_2021/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Celebrating Women in Cyber Security&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;To gain an insight into the lack of women representation, CISO MAG gauged a few women security influencers to understand the cause of this alarming trend. This article is part of a series of interviews from women cybersecurity experts who shed light representation of women in cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:59284/images/cisomag_1.png&#34; alt=&#34;cisomag&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:59284/images/cisomag_2.png&#34; alt=&#34;cisomag&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;a href=&#34;https://cisomag.eccouncil.org/wp-content/uploads/2021/03/CISO-MAG_Mar_2021_Preview.pdf&#34;&gt;https://cisomag.eccouncil.org/wp-content/uploads/2021/03/CISO-MAG_Mar_2021_Preview.pdf&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>INSPIRE 20 Leadership Podcast</title>
-      <link>https://infosecvandana.com/featured/techbeacon/</link>
+      <link>http://localhost:59284/featured/techbeacon/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/techbeacon/</guid>
-      <description>&lt;p&gt;INSPIRE 20 Podcast: Vandana Verma Sehgal, Infosec Girls&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://techbeacon.com/enterprise-it/inspire-20-podcast-vandana-verma-sehgal-infosec-girls?utm_source=richisoc&#34;&gt;https://techbeacon.com/enterprise-it/inspire-20-podcast-vandana-verma-sehgal-infosec-girls?utm_source=richisoc&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/techbeacon.png&#34; alt=&#34;Tech Beacon&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:59284/featured/techbeacon/</guid>
+      <description>&lt;p&gt;INSPIRE 20 Podcast: Vandana Verma Sehgal, Infosec Girls&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://techbeacon.com/enterprise-it/inspire-20-podcast-vandana-verma-sehgal-infosec-girls?utm_source=richisoc&#34;&gt;https://techbeacon.com/enterprise-it/inspire-20-podcast-vandana-verma-sehgal-infosec-girls?utm_source=richisoc&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:59284/images/techbeacon.png&#34; alt=&#34;Tech Beacon&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cyber Security 2021 Prediction</title>
-      <link>https://infosecvandana.com/featured/csw/</link>
+      <link>http://localhost:59284/featured/csw/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/csw/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/csw.jpeg&#34; alt=&#34;CSW&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cybersecurityworks.com/cyber-security-predictions-2021/vandana-verma.html&#34;&gt;https://cybersecurityworks.com/cyber-security-predictions-2021/vandana-verma.html&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:59284/featured/csw/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:59284/images/csw.jpeg&#34; alt=&#34;CSW&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cybersecurityworks.com/cyber-security-predictions-2021/vandana-verma.html&#34;&gt;https://cybersecurityworks.com/cyber-security-predictions-2021/vandana-verma.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Broadening the diversity aperture</title>
-      <link>https://infosecvandana.com/featured/scmagazine/</link>
+      <link>http://localhost:59284/featured/scmagazine/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/scmagazine/</guid>
+      <guid>http://localhost:59284/featured/scmagazine/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Reference:-&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;scmagazine.com/women-in-it-security/women-advocates/vandana-verma-broadening-the-diversity-aperture/&lt;/p&gt;</description>
     </item>
     <item>
       <title>Featured in TimesofIndia</title>
-      <link>https://infosecvandana.com/featured/timesofindia_techies/</link>
+      <link>http://localhost:59284/featured/timesofindia_techies/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/timesofindia_techies/</guid>
-      <description>&lt;p&gt;Times webinar on cybersecurity and women hackers&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/TOI.jpg&#34; alt=&#34;TimesofIndia&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:59284/featured/timesofindia_techies/</guid>
+      <description>&lt;p&gt;Times webinar on cybersecurity and women hackers&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:59284/images/TOI.jpg&#34; alt=&#34;TimesofIndia&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Human Factor Security Interview with Vandana Verma</title>
-      <link>https://infosecvandana.com/featured/humanfactor/</link>
+      <link>http://localhost:59284/featured/humanfactor/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/humanfactor/</guid>
+      <guid>http://localhost:59284/featured/humanfactor/</guid>
       <description>&lt;p&gt;In this interview Jenny talks to the multi award winning women&amp;rsquo;s advocate and member of OWASP global board of directors, Vandana Verma.  They discuss her career in cyber, her promotion of women through groups like InfosecGirls, and how the pandemic has impacted cybersecurity in India and beyond.  Thank you for an amazing interview, Vandana.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ZuQJ3z-467M&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Inspiring Leaders at IBM India</title>
-      <link>https://infosecvandana.com/featured/ibm/</link>
+      <link>http://localhost:59284/featured/ibm/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/ibm/</guid>
+      <guid>http://localhost:59284/featured/ibm/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Inspiring Leaders at IBM India Interview&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;It is my second stint with IBM, and I would call it fate, as I was not looking for a change and suddenly got a call from IBM for a profile which I felt, was relevant for me. I gave the interview and once again became an IBMer in 2017. IBM has given me a playground to experiment with the technology, and being with India Software labs makes me enjoy the technology even more.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Epic Women in Cyber — Vandana Verma</title>
-      <link>https://infosecvandana.com/featured/epicwoman/</link>
+      <link>http://localhost:59284/featured/epicwoman/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/epicwoman/</guid>
+      <guid>http://localhost:59284/featured/epicwoman/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/epic-women-in-cyber/epic-women-in-cyber-vandana-verma-173c0775c3fe&#34;&gt;https://medium.com/epic-women-in-cyber/epic-women-in-cyber-vandana-verma-173c0775c3fe&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Cybersecurity Magazine</title>
-      <link>https://infosecvandana.com/featured/cybersecuritymagazine/</link>
+      <link>http://localhost:59284/featured/cybersecuritymagazine/</link>
       <pubDate>Fri, 25 Sep 2020 18:23:04 +0530</pubDate>
-      <guid>https://infosecvandana.com/featured/cybersecuritymagazine/</guid>
+      <guid>http://localhost:59284/featured/cybersecuritymagazine/</guid>
       <description>&lt;p&gt;Interview with Cybersecurity Magazine&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;a href=&#34;https://cybersecurity-magazine.com/interview-with-vandana-verma-from-infosec-girls/&#34;&gt;https://cybersecurity-magazine.com/interview-with-vandana-verma-from-infosec-girls/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Dark Reading</title>
-      <link>https://infosecvandana.com/featured/darkreading/</link>
+      <link>http://localhost:59284/featured/darkreading/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/darkreading/</guid>
+      <guid>http://localhost:59284/featured/darkreading/</guid>
       <description>&lt;p&gt;Developing Community for Woman Infosec Pros in India&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - Dark Reading&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.darkreading.com/theedge/developing-community-for-woman-infosec-pros-in-india/b/d-id/1338555&#34;&gt;https://www.darkreading.com/theedge/developing-community-for-woman-infosec-pros-in-india/b/d-id/1338555&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Passionate guide for the web application security journey</title>
-      <link>https://infosecvandana.com/featured/synopsis/</link>
+      <link>http://localhost:59284/featured/synopsis/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/synopsis/</guid>
+      <guid>http://localhost:59284/featured/synopsis/</guid>
       <description>&lt;p&gt;How to get closer to web application security&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; - &lt;a href=&#34;https://www.synopsys.com/blogs/software-security/vandana-verma-web-application-security/&#34;&gt;https://www.synopsys.com/blogs/software-security/vandana-verma-web-application-security/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with PortSwigger</title>
-      <link>https://infosecvandana.com/featured/portswigger/</link>
+      <link>http://localhost:59284/featured/portswigger/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/portswigger/</guid>
+      <guid>http://localhost:59284/featured/portswigger/</guid>
       <description>&lt;p&gt;Interview on improving diversity and helping to grow the Indian security community&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://portswigger.net/daily-swig/infosec-pro-vandana-verma-on-improving-diversity-and-helping-to-grow-the-indian-security-community&#34;&gt;https://portswigger.net/daily-swig/infosec-pro-vandana-verma-on-improving-diversity-and-helping-to-grow-the-indian-security-community&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Times of India - Bug report: The female hackers keeping your WFH systems safe</title>
-      <link>https://infosecvandana.com/featured/timesofindia_india_bug_report/</link>
+      <link>http://localhost:59284/featured/timesofindia_india_bug_report/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/timesofindia_india_bug_report/</guid>
+      <guid>http://localhost:59284/featured/timesofindia_india_bug_report/</guid>
       <description>India edition of the Times of India story on women cybersecurity professionals securing work-from-home systems, featuring Vandana Verma.</description>
     </item>
     <item>
       <title>Times of India - Bug report: The female hackers keeping your work from home systems safe</title>
-      <link>https://infosecvandana.com/featured/timesofindia/</link>
+      <link>http://localhost:59284/featured/timesofindia/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/timesofindia/</guid>
+      <guid>http://localhost:59284/featured/timesofindia/</guid>
       <description>Times of India feature on women hackers and remote-work security, highlighting Vandana Verma&amp;rsquo;s cybersecurity work.</description>
     </item>
     <item>
       <title>Republic World — Expert Quote: Significant Increase in Cybercrime Against Women During Lockdown</title>
-      <link>https://infosecvandana.com/featured/republicworld_cybercrime_lockdown/</link>
+      <link>http://localhost:59284/featured/republicworld_cybercrime_lockdown/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/republicworld_cybercrime_lockdown/</guid>
+      <guid>http://localhost:59284/featured/republicworld_cybercrime_lockdown/</guid>
       <description>&lt;p&gt;Quoted as a cybersecurity expert in Republic World&amp;rsquo;s coverage of the significant increase in cybercrime against women during the COVID-19 lockdown. Discussed how cybercriminals became more innovative with phishing emails, fake profiles, cyber bullying, and online stalking, and emphasised the importance of education on technology to prevent such crimes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.republicworld.com/india-news/general-news/significant-increase-in-cybercrime-against-women-during-lockdown-experts.html&#34;&gt;https://www.republicworld.com/india-news/general-news/significant-increase-in-cybercrime-against-women-during-lockdown-experts.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hindustan Times - Significant increase in cybercrime against women during lockdown: Experts</title>
-      <link>https://infosecvandana.com/featured/hindustantimes_cybercrime_women_lockdown_2020/</link>
+      <link>http://localhost:59284/featured/hindustantimes_cybercrime_women_lockdown_2020/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/hindustantimes_cybercrime_women_lockdown_2020/</guid>
+      <guid>http://localhost:59284/featured/hindustantimes_cybercrime_women_lockdown_2020/</guid>
       <description>Hindustan Times report on rising cybercrime against women during lockdown, featuring direct quotes from Vandana Verma.</description>
     </item>
     <item>
       <title>Business Standard - Significant increase in cybercrime against women during lockdown: Experts</title>
-      <link>https://infosecvandana.com/featured/businessstandard_cybercrime_women_lockdown_2020/</link>
+      <link>http://localhost:59284/featured/businessstandard_cybercrime_women_lockdown_2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/businessstandard_cybercrime_women_lockdown_2020/</guid>
+      <guid>http://localhost:59284/featured/businessstandard_cybercrime_women_lockdown_2020/</guid>
       <description>Business Standard coverage of cybercrime against women during lockdown, carrying direct quotes from Vandana Verma.</description>
     </item>
     <item>
       <title>ETCISO - Significant increase in cybercrime against women during lockdown: Experts</title>
-      <link>https://infosecvandana.com/featured/etciso_cybercrime_women_lockdown_2020/</link>
+      <link>http://localhost:59284/featured/etciso_cybercrime_women_lockdown_2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/etciso_cybercrime_women_lockdown_2020/</guid>
+      <guid>http://localhost:59284/featured/etciso_cybercrime_women_lockdown_2020/</guid>
       <description>ETCISO / Economic Times coverage of cybercrime against women during lockdown, including direct quotes from Vandana Verma as founder of InfoSec Girls.</description>
     </item>
     <item>
       <title>NDTV - Significant increase in cyber crimes against women during lockdown: Experts</title>
-      <link>https://infosecvandana.com/featured/ndtv_cybercrime_women_lockdown_2020/</link>
+      <link>http://localhost:59284/featured/ndtv_cybercrime_women_lockdown_2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/ndtv_cybercrime_women_lockdown_2020/</guid>
+      <guid>http://localhost:59284/featured/ndtv_cybercrime_women_lockdown_2020/</guid>
       <description>NDTV coverage of rising cybercrime against women during lockdown, including direct quotes from Vandana Verma as founder of InfoSec Girls.</description>
     </item>
     <item>
       <title>Interview with CISO MAG</title>
-      <link>https://infosecvandana.com/featured/cisomag/</link>
+      <link>http://localhost:59284/featured/cisomag/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/cisomag/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Closing the Skill Gap With More Women in Cybersecurity&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;To gain an insight into the lack of women representation, CISO MAG gauged a few women security influencers to understand the cause of this alarming trend. This article is part of a series of interviews from women cybersecurity experts who shed light representation of women in cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/cisomag.jpg&#34; alt=&#34;cisomag&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;a href=&#34;https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in-cybersecurity/3/&#34;&gt;https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in-cybersecurity/3/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:59284/featured/cisomag/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Closing the Skill Gap With More Women in Cybersecurity&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;To gain an insight into the lack of women representation, CISO MAG gauged a few women security influencers to understand the cause of this alarming trend. This article is part of a series of interviews from women cybersecurity experts who shed light representation of women in cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:59284/images/cisomag.jpg&#34; alt=&#34;cisomag&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;a href=&#34;https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in-cybersecurity/3/&#34;&gt;https://cisomag.eccouncil.org/closing-the-skill-gap-with-more-women-in-cybersecurity/3/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A colloquy with Vandana Verma by Sr.Reflectionist Bishakha Jain</title>
-      <link>https://infosecvandana.com/featured/scit/</link>
+      <link>http://localhost:59284/featured/scit/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/scit/</guid>
+      <guid>http://localhost:59284/featured/scit/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://reflections.scit.edu/?p=4852&#34;&gt;https://reflections.scit.edu/?p=4852&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Colloquy with Vandana Verma — Reflections Magazine (SCIT)</title>
-      <link>https://infosecvandana.com/featured/reflections_scit_interview/</link>
+      <link>http://localhost:59284/featured/reflections_scit_interview/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/reflections_scit_interview/</guid>
+      <guid>http://localhost:59284/featured/reflections_scit_interview/</guid>
       <description>&lt;p&gt;Featured interview in Reflections Magazine (Symbiosis Centre for Information Technology) discussing the journey from SCIT alumnus to a global cybersecurity leader, work at IBM Software Labs, diversity initiatives through InfosecGirls, and community building in cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://reflections.scit.edu/a-colloquy-with-vandana-verma-by-sr-reflectionist-bishakha-jain/&#34;&gt;https://reflections.scit.edu/a-colloquy-with-vandana-verma-by-sr-reflectionist-bishakha-jain/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ETCISO - Security Summit Virtual</title>
-      <link>https://infosecvandana.com/featured/etciso_security_summit_virtual/</link>
+      <link>http://localhost:59284/featured/etciso_security_summit_virtual/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/etciso_security_summit_virtual/</guid>
+      <guid>http://localhost:59284/featured/etciso_security_summit_virtual/</guid>
       <description>ETCISO Security Summit Virtual speaker listing referencing Vandana Verma as part of the event program.</description>
     </item>
     <item>
       <title>Interview with ITSP Magazine</title>
-      <link>https://infosecvandana.com/featured/itsp/</link>
+      <link>http://localhost:59284/featured/itsp/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/itsp/</guid>
-      <description>&lt;p&gt;An InfoSec Life | A Conversation With Vandana Verma By Marco Ciappelli&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.itspmagazine.com/itsp-chronicles/an-infosec-life-a-conversation-with-vandana-verma&#34;&gt;https://www.itspmagazine.com/itsp-chronicles/an-infosec-life-a-conversation-with-vandana-verma&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://infosecvandana.com/images/itsp.jpg&#34; alt=&#34;ITSP&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:59284/featured/itsp/</guid>
+      <description>&lt;p&gt;An InfoSec Life | A Conversation With Vandana Verma By Marco Ciappelli&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.itspmagazine.com/itsp-chronicles/an-infosec-life-a-conversation-with-vandana-verma&#34;&gt;https://www.itspmagazine.com/itsp-chronicles/an-infosec-life-a-conversation-with-vandana-verma&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:59284/images/itsp.jpg&#34; alt=&#34;ITSP&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bug Bounty World Interviews Vandana Verma</title>
-      <link>https://infosecvandana.com/featured/bugbountyworld/</link>
+      <link>http://localhost:59284/featured/bugbountyworld/</link>
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/bugbountyworld/</guid>
+      <guid>http://localhost:59284/featured/bugbountyworld/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/LIS_NCk1pMQ&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>HackInterview with Vandana</title>
-      <link>https://infosecvandana.com/featured/hackinterview/</link>
+      <link>http://localhost:59284/featured/hackinterview/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://infosecvandana.com/featured/hackinterview/</guid>
+      <guid>http://localhost:59284/featured/hackinterview/</guid>
       <description>&lt;p&gt;HackInterview with Vandana — document your learning in the form of blogs&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://medium.com/bugbountywriteup/hackinterview-with-vandana-document-your-learning-in-the-form-of-blogs-3b265ec03be1&#34;&gt;https://medium.com/bugbountywriteup/hackinterview-with-vandana-document-your-learning-in-the-form-of-blogs-3b265ec03be1&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

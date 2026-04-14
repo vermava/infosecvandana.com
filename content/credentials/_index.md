@@ -2,7 +2,6 @@
 title: "Achievements & Credentials"
 description: "Explore awards, certifications, and books authored or contributed to by Vandana Verma across cybersecurity and technology leadership."
 seo_title: "Achievements & Credentials | Vandana Verma"
-url: "/credentials/"
 layout: "hub"
 kicker: "Recognition and Depth"
 hub_sections:

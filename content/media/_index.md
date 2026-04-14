@@ -2,7 +2,6 @@
 title: "Media & Stories"
 description: "Read featured interviews, press coverage, and story-led content including leadership journeys and career perspectives from Vandana Verma."
 seo_title: "Media & Stories | Vandana Verma"
-url: "/media/"
 layout: "hub"
 kicker: "Visibility and Perspective"
 hub_sections:

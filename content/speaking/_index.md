@@ -2,7 +2,6 @@
 title: "Speaking & Appearances"
 description: "Explore keynotes, conference talks, webinars, panel discussions, and podcast appearances by Vandana Verma across global cybersecurity events."
 seo_title: "Speaking & Appearances | Vandana Verma"
-url: "/speaking/"
 layout: "hub"
 kicker: "Authority in Public"
 hub_sections:

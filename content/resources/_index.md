@@ -2,7 +2,6 @@
 title: "Learning & Resources"
 description: "Browse cybersecurity blogs, trainings, reports, career resources, and OWASP educational series by Vandana Verma."
 seo_title: "Learning & Resources | Vandana Verma"
-url: "/resources/"
 layout: "hub"
 kicker: "Education and Enablement"
 hub_sections:

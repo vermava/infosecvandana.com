@@ -2,7 +2,6 @@
 title: "Work With Vandana"
 description: "Invite Vandana Verma to speak, deliver training, support advisory initiatives, or participate in media and podcast opportunities."
 seo_title: "Work With Vandana | Speaking, Training, Advisory, Media"
-url: "/contact/"
 layout: "hub"
 kicker: "Opportunities"
 hub_sections:
