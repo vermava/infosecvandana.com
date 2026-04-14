@@ -2,214 +2,214 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Breaking Into InfoSec on Vandana Verma</title>
-    <link>http://localhost:59284/breakingintoinfosec/</link>
+    <link>https://infosecvandana.com/breakingintoinfosec/</link>
     <description>Recent content in Breaking Into InfoSec on Vandana Verma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vandana Verma</copyright>
     <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:59284/breakingintoinfosec/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://infosecvandana.com/breakingintoinfosec/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breaking into InfoSec with Vandana Verma</title>
-      <link>http://localhost:59284/breakingintoinfosec/breaking_into_infosec_with_vandana/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/breaking_into_infosec_with_vandana/</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/breaking_into_infosec_with_vandana/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/breaking_into_infosec_with_vandana/</guid>
       <description>An overview of the Breaking Into InfoSec series and the broader goal of helping newcomers find practical entry points into security.</description>
     </item>
     <item>
       <title>Security Career Advice with Guy Podjarny</title>
-      <link>http://localhost:59284/breakingintoinfosec/security_career_advice/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/security_career_advice/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/security_career_advice/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/security_career_advice/</guid>
       <description>Career advice for people breaking into security, with perspective from Snyk founder Guy Podjarny.</description>
     </item>
     <item>
       <title>Pivoting from Different Field to Infosec - Hindi - Prabh Nair</title>
-      <link>http://localhost:59284/breakingintoinfosec/pivoting_to_infosec_prabh/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/pivoting_to_infosec_prabh/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/pivoting_to_infosec_prabh/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/pivoting_to_infosec_prabh/</guid>
       <description></description>
     </item>
     <item>
       <title>Bugbounty vs CTF in Hindi with Prabh Nair</title>
-      <link>http://localhost:59284/breakingintoinfosec/bugbounty_vs_ctf_prabh/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/bugbounty_vs_ctf_prabh/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/bugbounty_vs_ctf_prabh/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/bugbounty_vs_ctf_prabh/</guid>
       <description></description>
     </item>
     <item>
       <title>How to Get Into Infosec - Hindi - Prabh Nair</title>
-      <link>http://localhost:59284/breakingintoinfosec/how_to_get_into_infosec_prabh/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/how_to_get_into_infosec_prabh/</link>
       <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/how_to_get_into_infosec_prabh/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/how_to_get_into_infosec_prabh/</guid>
       <description></description>
     </item>
     <item>
       <title>How to Teach Information Security to 10 Year Old - Prabh Nair</title>
-      <link>http://localhost:59284/breakingintoinfosec/teach_infosec_10yo/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/teach_infosec_10yo/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/teach_infosec_10yo/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/teach_infosec_10yo/</guid>
       <description></description>
     </item>
     <item>
       <title>A Day In The Life Of a SOC Manager - Avinash Shet</title>
-      <link>http://localhost:59284/breakingintoinfosec/soc_manager_avinash/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/soc_manager_avinash/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/soc_manager_avinash/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/soc_manager_avinash/</guid>
       <description></description>
     </item>
     <item>
       <title>What It Takes To Be a SOC Analyst - Avinash Shet</title>
-      <link>http://localhost:59284/breakingintoinfosec/soc_analyst_avinash/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/soc_analyst_avinash/</link>
       <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/soc_analyst_avinash/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/soc_analyst_avinash/</guid>
       <description></description>
     </item>
     <item>
       <title>Defining KPIs in SOC</title>
-      <link>http://localhost:59284/breakingintoinfosec/defining_kpis_soc/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/defining_kpis_soc/</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/defining_kpis_soc/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/defining_kpis_soc/</guid>
       <description></description>
     </item>
     <item>
       <title>Getting into Cloud Security with Lalit</title>
-      <link>http://localhost:59284/breakingintoinfosec/cloud_security_lalit/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/cloud_security_lalit/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/cloud_security_lalit/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/cloud_security_lalit/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking Into InfoSec - A Day in the Life of a Security Consultant</title>
-      <link>http://localhost:59284/breakingintoinfosec/security_consultant/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/security_consultant/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/security_consultant/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/security_consultant/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking into Web App Pen-testing - Gabrielle</title>
-      <link>http://localhost:59284/breakingintoinfosec/webapp_pentesting_gabrielle/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/webapp_pentesting_gabrielle/</link>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/webapp_pentesting_gabrielle/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/webapp_pentesting_gabrielle/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking into Offensive Security - Phillip Wiley</title>
-      <link>http://localhost:59284/breakingintoinfosec/offensive_security_phillip/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/offensive_security_phillip/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/offensive_security_phillip/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/offensive_security_phillip/</guid>
       <description></description>
     </item>
     <item>
       <title>Pivoting Career in Cybersecurity - Vickie Li</title>
-      <link>http://localhost:59284/breakingintoinfosec/pivoting_career_vickie/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/pivoting_career_vickie/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/pivoting_career_vickie/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/pivoting_career_vickie/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking into Web App Hacking - Farah Hawa</title>
-      <link>http://localhost:59284/breakingintoinfosec/webapp_hacking_farah/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/webapp_hacking_farah/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/webapp_hacking_farah/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/webapp_hacking_farah/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyber Talk with Jay Hira</title>
-      <link>http://localhost:59284/breakingintoinfosec/cybertalk_jay_hira/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/cybertalk_jay_hira/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/cybertalk_jay_hira/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/cybertalk_jay_hira/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking into DevSecOps with Clint Gibler</title>
-      <link>http://localhost:59284/breakingintoinfosec/devsecops_clint/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/devsecops_clint/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/devsecops_clint/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/devsecops_clint/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking Into Vulnerability Assessment - Chintan Gurjar</title>
-      <link>http://localhost:59284/breakingintoinfosec/vuln_assessment_chintan/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/vuln_assessment_chintan/</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/vuln_assessment_chintan/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/vuln_assessment_chintan/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking into Threat Modeling with Adam Shostack</title>
-      <link>http://localhost:59284/breakingintoinfosec/threat_modeling_adam/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/threat_modeling_adam/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/threat_modeling_adam/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/threat_modeling_adam/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking into Cloud Security with Ashish Rajan</title>
-      <link>http://localhost:59284/breakingintoinfosec/cloud_security_ashish/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/cloud_security_ashish/</link>
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/cloud_security_ashish/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/cloud_security_ashish/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking into Red Teaming with Abhijith BR</title>
-      <link>http://localhost:59284/breakingintoinfosec/redteaming_abhijith/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/redteaming_abhijith/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/redteaming_abhijith/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/redteaming_abhijith/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking into Bug Bounty Hunting with Nikhil Srivastava</title>
-      <link>http://localhost:59284/breakingintoinfosec/bugbounty_nikhil/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/bugbounty_nikhil/</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/bugbounty_nikhil/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/bugbounty_nikhil/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking into Security/Developer Relations - Developersteve</title>
-      <link>http://localhost:59284/breakingintoinfosec/devrel_developersteve/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/devrel_developersteve/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/devrel_developersteve/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/devrel_developersteve/</guid>
       <description></description>
     </item>
     <item>
       <title>Burnout In BugBounty in Hindi - Prabh Nair</title>
-      <link>http://localhost:59284/breakingintoinfosec/burnout_bugbounty/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/burnout_bugbounty/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/burnout_bugbounty/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/burnout_bugbounty/</guid>
       <description></description>
     </item>
     <item>
       <title>Recruiting Trends with Jaskaran Kohli</title>
-      <link>http://localhost:59284/breakingintoinfosec/recruiting_trends/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/recruiting_trends/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/recruiting_trends/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/recruiting_trends/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking into Application Security with Rob Cuddy</title>
-      <link>http://localhost:59284/breakingintoinfosec/appsec_rob_cuddy/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/appsec_rob_cuddy/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/appsec_rob_cuddy/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/appsec_rob_cuddy/</guid>
       <description></description>
     </item>
     <item>
       <title>How to be an InfoSec Speaker</title>
-      <link>http://localhost:59284/breakingintoinfosec/how_to_be_an_infosec_speaker/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/how_to_be_an_infosec_speaker/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/how_to_be_an_infosec_speaker/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/how_to_be_an_infosec_speaker/</guid>
       <description>Advice for aspiring speakers on sharing work publicly, submitting talks, and becoming more active in the security community.</description>
     </item>
     <item>
       <title>Getting into Cyber</title>
-      <link>http://localhost:59284/breakingintoinfosec/getting_into_cyber/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/getting_into_cyber/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/getting_into_cyber/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/getting_into_cyber/</guid>
       <description>A practical conversation about how to get started in cybersecurity and build an early path into the field.</description>
     </item>
     <item>
       <title>Cyber Security Basics</title>
-      <link>http://localhost:59284/breakingintoinfosec/cybersecurity_basics/</link>
+      <link>https://infosecvandana.com/breakingintoinfosec/cybersecurity_basics/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59284/breakingintoinfosec/cybersecurity_basics/</guid>
+      <guid>https://infosecvandana.com/breakingintoinfosec/cybersecurity_basics/</guid>
       <description></description>
     </item>
   </channel>
