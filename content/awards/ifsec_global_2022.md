@@ -8,7 +8,7 @@ summary: "Recognized in IFSEC Global's 2022 Influencers in Security list."
 
 Vandana Verma was listed in IFSEC Global's 2022 Influencers in Security rankings, with the profile highlighting her leadership at Snyk, OWASP, and community initiatives including InfosecGirls.
 
-![Vandana Verma](featureimage: /images/ifsec_2022.png)
+![Vandana Verma](/images/ifsec_2022.png)
 
 **Reference**
 
